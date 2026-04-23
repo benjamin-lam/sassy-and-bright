@@ -1,0 +1,120 @@
+{
+  "title": "Retro-Futurism / Synthwave: Neon Sunset",
+  "slug": "retro-futurism-synthwave-neon-sunset",
+  "vibe": "Digital Nostalgia / Arcade",
+  "summary": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Die Variante Neon Sunset verschiebt den Cluster in eine arcadeartige, nostalgische Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Retro-Futurism / Synthwave",
+    "cluster_slug": "retro-futurism-synthwave",
+    "variant": "Neon Sunset"
+  },
+  "keywords": [
+    "Synthwave Farbpalette",
+    "Retro-Futurism / Synthwave",
+    "Neon Sunset",
+    "Popkultur & Subkultur",
+    "80s Culture",
+    "Arcade"
+  ],
+  "seo": {
+    "meta_title": "Retro-Futurism / Synthwave: Neon Sunset | Synthwave Farbpalette",
+    "meta_description": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Neon Sunset bringt eine arcadeartige, nostalgische Ausprägung für 80s Culture, Arcade und verwandte Projekte.",
+    "focus_keyword": "Synthwave Farbpalette",
+    "questions": [
+      "Welche Farben tragen Synthwave und Retro-Futurism?",
+      "Wann passt Neon Sunset im Cluster Retro-Futurism / Synthwave?",
+      "Wie wirkt Neon-Nostalgie lesbar statt nur Effekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#ff4fa3",
+    "secondary": "#24183f",
+    "accent": "#32d8ff",
+    "bg": "#120d22",
+    "text": "#f7f1ff",
+    "card": "#1b1430"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkler Raum, 30 Prozent farbige Supportebenen für Raster und Module, 10 Prozent Neonlicht für Fokus, CTA und Pop. Neon Sunset wirkt dabei arcadeartige, nostalgische."
+  },
+  "accessibility": {
+    "text_on_primary": 2.75,
+    "text_on_secondary": 14.86,
+    "text_on_bg": 17.16,
+    "text_on_card": 15.96
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "80s Culture",
+    "Arcade",
+    "Synth-Pop"
+  ],
+  "audiences": [
+    "Retro-affine Communities",
+    "Event- und Bar-Konzepte",
+    "Marken mit Nostalgie-Faktor"
+  ],
+  "brand_traits": [
+    "nostalgisch",
+    "leuchtend",
+    "dramatisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Neon Sunset Primary",
+      "psychology": "Die Primarfläche liefert Retro-Futurism und sofortige Popkultur-Codierung. In der Variante Neon Sunset wirkt sie arcadeartige, nostalgische.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Retro-Futurism / Synthwave",
+      "risk": "Wenn Neon Sunset zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Retro-Futurism / Synthwave."
+    },
+    "secondary": {
+      "name": "Neon Sunset Surface",
+      "psychology": "Die dunkle Zweitfarbe ist die Bühne für Glows, Raster und Typografie. So bleibt Neon Sunset auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Neon Sunset Accent",
+      "psychology": "Der Accent bringt Laser- oder Rastermoment und steuert Aktivpunkte des Interfaces. Gerade in Neon Sunset sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Arcade- und Eventmarken",
+      "Retro-Futurism-Editorials",
+      "Synth-Pop und Vaporwave-nahe Auftritte"
+    ],
+    "avoid_for": [
+      "Nüchterne öffentliche Services",
+      "Vertrauenslastige Health-Kommunikation",
+      "Zurückhaltende Heritage-Luxury-Seiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Neon Sunset den Cluster Retro-Futurism / Synthwave glaubwürdig trägt",
+        "reason": "Neon Sunset bleibt im Kern Retro-Futurism / Synthwave, verschiebt die Tonlage aber in eine arcadeartige, nostalgische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Synthwave und Retro-Futurism?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Retro-Futurism / Synthwave zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Neon Sunset im Cluster Retro-Futurism / Synthwave?",
+        "answer": "Neon Sunset eignet sich besonders, wenn digitale Nostalgie bewusst die visuelle Hauptattraktion der Marke ist."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Neon Sunset<\/span><h3>Retro-Futurism / Synthwave<\/h3><p>Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

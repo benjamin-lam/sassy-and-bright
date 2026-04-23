@@ -1,0 +1,121 @@
+{
+  "title": "Sweet Confectionery: Vanilla Ribbon",
+  "slug": "sweet-confectionery-vanilla-ribbon",
+  "vibe": "Tender Delight / Vanilla",
+  "summary": "Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Die Variante Vanilla Ribbon verschiebt den Cluster in eine vanillige, softe Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sweet Confectionery",
+    "cluster_slug": "sweet-confectionery",
+    "variant": "Vanilla Ribbon"
+  },
+  "keywords": [
+    "Farbpalette Konditorei",
+    "Sweet Confectionery",
+    "Vanilla Ribbon",
+    "Lifestyle & Konsum",
+    "Baeckereien",
+    "Konditoreien"
+  ],
+  "seo": {
+    "meta_title": "Sweet Confectionery: Vanilla Ribbon | Farbpalette Konditorei",
+    "meta_description": "Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Vanilla Ribbon bringt eine vanillige, softe Auspraegung fuer Baeckereien, Konditoreien und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Konditorei",
+    "questions": [
+      "Welche Farben machen Genussmarken nahbar?",
+      "Wann passt Vanilla Ribbon im Cluster Sweet Confectionery?",
+      "Wie wirken suesse Farben einladend statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#f3ddc9",
+    "secondary": "#fdf9f5",
+    "accent": "#db8f64",
+    "bg": "#ffffff",
+    "text": "#3a2b2a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warme Grundflaechen schaffen Leichtigkeit, 30 Prozent softe Produktflaechen tragen Sortimente, 10 Prozent Accent markieren Genussmomente und CTA. Vanilla Ribbon wirkt dabei vanillige, softe."
+  },
+  "accessibility": {
+    "text_on_primary": 10.26,
+    "text_on_secondary": 12.86,
+    "text_on_bg": 13.47,
+    "text_on_card": 13.47
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Baeckereien",
+    "Konditoreien",
+    "Geschenk-Shops"
+  ],
+  "audiences": [
+    "Spontane Kaeuferinnen und Kaeufer",
+    "Familiennahe Zielgruppen",
+    "Produktmarken mit Genussfokus"
+  ],
+  "brand_traits": [
+    "nahbar",
+    "freundlich",
+    "einladend",
+    "soft"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Vanilla Ribbon Primary",
+      "psychology": "Die Primarfarbe wirkt wie Zuckerguss oder Creme und aktiviert ohne aggressiv zu werden. In der Variante Vanilla Ribbon wirkt sie vanillige, softe.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Sweet Confectionery",
+      "risk": "Wenn Vanilla Ribbon zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Sweet Confectionery."
+    },
+    "secondary": {
+      "name": "Vanilla Ribbon Surface",
+      "psychology": "Die Zweitfarbe hält das Interface weich und produktfreundlich. So bleibt Vanilla Ribbon auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Vanilla Ribbon Accent",
+      "psychology": "Der Accent liefert kleine, appetitliche Highlights fuer Angebote und Aktionen. Gerade in Vanilla Ribbon sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Onlineshops fuer Backwaren und Geschenke",
+      "Saisonale Landingpages fuer Genussprodukte",
+      "Marken mit starker Nahbarkeitsinszenierung"
+    ],
+    "avoid_for": [
+      "CISO-Dashboards und Security-Produkte",
+      "Corporate-Finance Kommunikation",
+      "Brutalistisches Anti-Design"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Vanilla Ribbon den Cluster Sweet Confectionery glaubwuerdig traegt",
+        "reason": "Vanilla Ribbon bleibt im Kern Sweet Confectionery, verschiebt die Tonlage aber in eine vanillige, softe Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben machen Genussmarken nahbar?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Sweet Confectionery zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Vanilla Ribbon im Cluster Sweet Confectionery?",
+        "answer": "Vanilla Ribbon eignet sich besonders, wenn Wohlgefuehl, Genuss und leichte Aktivierung wichtiger sind als Sachlichkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Vanilla Ribbon</span><h3>Sweet Confectionery</h3><p>Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

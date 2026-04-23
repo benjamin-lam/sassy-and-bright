@@ -1,0 +1,120 @@
+{
+  "title": "Cyber Security: Black Cipher",
+  "slug": "cyber-security-black-cipher",
+  "vibe": "Protected Signal / Cipher",
+  "summary": "Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Die Variante Black Cipher verschiebt den Cluster in eine striktere, cipherartige Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Cyber Security",
+    "cluster_slug": "cyber-security",
+    "variant": "Black Cipher"
+  },
+  "keywords": [
+    "Farbpalette Cyber Security",
+    "Cyber Security",
+    "Black Cipher",
+    "Tech & Future",
+    "IT-Sicherheit",
+    "Datenschutz"
+  ],
+  "seo": {
+    "meta_title": "Cyber Security: Black Cipher | Farbpalette Cyber Security",
+    "meta_description": "Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Black Cipher bringt eine striktere, cipherartige Ausprägung für IT-Sicherheit, Datenschutz und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Cyber Security",
+    "questions": [
+      "Welche Farben passen zu Cyber Security und Datenschutz?",
+      "Wann passt Black Cipher im Cluster Cyber Security?",
+      "Wie setzt man Alarmfarben ein, ohne die Seite permanent schreien zu lassen?"
+    ]
+  },
+  "colors": {
+    "primary": "#1c2125",
+    "secondary": "#2f353b",
+    "accent": "#dc2f5a",
+    "bg": "#0b0e14",
+    "text": "#eef4ff",
+    "card": "#171d28"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Sicherheitsbasis, 30 Prozent Supportebenen für Logs und Module, 10 Prozent Signalaccent für Risiko, Aktivität und Handlungsbedarf. Black Cipher wirkt dabei striktere, cipherartige."
+  },
+  "accessibility": {
+    "text_on_primary": 14.7,
+    "text_on_secondary": 11.23,
+    "text_on_bg": 17.5,
+    "text_on_card": 15.3
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "IT-Sicherheit",
+    "Datenschutz",
+    "Security SaaS"
+  ],
+  "audiences": [
+    "CISOs",
+    "IT-Abteilungen",
+    "Compliance-orientierte Einkaufsteams"
+  ],
+  "brand_traits": [
+    "schützend",
+    "wachsam",
+    "kontrolliert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Black Cipher Primary",
+      "psychology": "Die Primarfarbe wirkt wie Schutzschicht und verschiebt den Auftritt von IT hin zu Sicherheitsarchitektur. In der Variante Black Cipher wirkt sie striktere, cipherartige.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Cyber Security",
+      "risk": "Wenn Black Cipher zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Cyber Security."
+    },
+    "secondary": {
+      "name": "Black Cipher Surface",
+      "psychology": "Die dunkle Zweitebene ordnet Dashboards, Warnungen und Zustandssysteme. So bleibt Black Cipher auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Black Cipher Accent",
+      "psychology": "Der Accent darf nur dort auftauchen, wo Schutz, Gefahr oder aktive Handlung markiert werden müssen. Gerade in Black Cipher sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Security-Landingpages mit Vertrauensfokus",
+      "Datenschutz- und Compliance-SaaS",
+      "Bedrohungs- und Monitoringsysteme"
+    ],
+    "avoid_for": [
+      "Genuss- und Sweet-Branding",
+      "Soft-Wellness und Mindfulness",
+      "Zartes Romantasy-Branding"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Black Cipher den Cluster Cyber Security glaubwürdig trägt",
+        "reason": "Black Cipher bleibt im Kern Cyber Security, verschiebt die Tonlage aber in eine striktere, cipherartige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Cyber Security und Datenschutz?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Cyber Security zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Black Cipher im Cluster Cyber Security?",
+        "answer": "Black Cipher eignet sich besonders, wenn Schutz, Signalwirkung und kontrollierte Aufmerksamkeit die Kernwahrnehmung bestimmen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Black Cipher<\/span><h3>Cyber Security<\/h3><p>Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

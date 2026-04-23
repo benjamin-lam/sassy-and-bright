@@ -1,0 +1,121 @@
+{
+  "title": "Underground & Rebellion: Tape Grey",
+  "slug": "underground-rebellion-tape-grey",
+  "vibe": "Visual Noise / Basement",
+  "summary": "Eine störfreudige Subkulturpalette für Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie. Die Variante Tape Grey verschiebt den Cluster in eine kellernähere, eigenwillige Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Underground & Rebellion",
+    "cluster_slug": "underground-rebellion",
+    "variant": "Tape Grey"
+  },
+  "keywords": [
+    "Farbpalette Punk",
+    "Underground & Rebellion",
+    "Tape Grey",
+    "Popkultur & Subkultur",
+    "Punk",
+    "Skater"
+  ],
+  "seo": {
+    "meta_title": "Underground & Rebellion: Tape Grey | Farbpalette Punk",
+    "meta_description": "Eine störfreudige Subkulturpalette für Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie. Tape Grey bringt eine kellernähere, eigenwillige Ausprägung für Punk, Skater und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Punk",
+    "questions": [
+      "Welche Farben tragen Punk und DIY im Web?",
+      "Wann passt Tape Grey im Cluster Underground & Rebellion?",
+      "Wie wirkt visuelle Störung absichtlich statt kaputt?"
+    ]
+  },
+  "colors": {
+    "primary": "#c8b5b0",
+    "secondary": "#e9dfdb",
+    "accent": "#df2c4d",
+    "bg": "#f5f3ef",
+    "text": "#191715",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent raue Grundfläche, 30 Prozent Kopierer- und Tape-Zwischenebenen, 10 Prozent Signalaccent für Reibung und Energie. Tape Grey wirkt dabei kellernähere, eigenwillige."
+  },
+  "accessibility": {
+    "text_on_primary": 9.1,
+    "text_on_secondary": 13.66,
+    "text_on_bg": 16.13,
+    "text_on_card": 17.88
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Punk",
+    "Skater",
+    "DIY Labels"
+  ],
+  "audiences": [
+    "Szenenahe Communities",
+    "Independent Brands",
+    "Subkulturell geprägte Kundschaft"
+  ],
+  "brand_traits": [
+    "rebellisch",
+    "ungepoliert",
+    "laut",
+    "eigenwillig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Tape Grey Primary",
+      "psychology": "Die Primarfarbe erinnert an Papier, Putz und reale Oberfläche statt an glatte UI-Schichten. In der Variante Tape Grey wirkt sie kellernähere, eigenwillige.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Underground & Rebellion",
+      "risk": "Wenn Tape Grey zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Underground & Rebellion."
+    },
+    "secondary": {
+      "name": "Tape Grey Surface",
+      "psychology": "Die Sekundärebene trägt die DIY-Ästhetik durch Listen, Tickets, Tapes und Produktmodule. So bleibt Tape Grey auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Tape Grey Accent",
+      "psychology": "Der Accent ist Protest, Richtung und visuelle Störung zugleich. Gerade in Tape Grey sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Skateshops und DIY-Brands",
+      "Punk- und Underground-Kulturseiten",
+      "Subkulturelle Projekte mit bewusster Störung"
+    ],
+    "avoid_for": [
+      "Behorden",
+      "Kliniken",
+      "Weiche Mindfulness-Angebote"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Tape Grey den Cluster Underground & Rebellion glaubwürdig trägt",
+        "reason": "Tape Grey bleibt im Kern Underground & Rebellion, verschiebt die Tonlage aber in eine kellernähere, eigenwillige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Punk und DIY im Web?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Underground & Rebellion zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Tape Grey im Cluster Underground & Rebellion?",
+        "answer": "Tape Grey eignet sich besonders, wenn Reibung, Anti-Polish und direkte Haltung explizit Teil der Marke sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Tape Grey<\/span><h3>Underground & Rebellion<\/h3><p>Eine störfreudige Subkulturpalette für Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Underground & Rebellion: Alley Asphalt",
+  "slug": "underground-rebellion-alley-asphalt",
+  "vibe": "Visual Noise / Xerox",
+  "summary": "Eine stoerfreudige Subkulturpalette fuer Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie. Die Variante Alley Asphalt verschiebt den Cluster in eine xeroxartige, ungepolierte Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Underground & Rebellion",
+    "cluster_slug": "underground-rebellion",
+    "variant": "Alley Asphalt"
+  },
+  "keywords": [
+    "Farbpalette Punk",
+    "Underground & Rebellion",
+    "Alley Asphalt",
+    "Popkultur & Subkultur",
+    "Punk",
+    "Skater"
+  ],
+  "seo": {
+    "meta_title": "Underground & Rebellion: Alley Asphalt | Farbpalette Punk",
+    "meta_description": "Eine stoerfreudige Subkulturpalette fuer Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie. Alley Asphalt bringt eine xeroxartige, ungepolierte Auspraegung fuer Punk, Skater und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Punk",
+    "questions": [
+      "Welche Farben tragen Punk und DIY im Web?",
+      "Wann passt Alley Asphalt im Cluster Underground & Rebellion?",
+      "Wie wirkt visuelle Stoerung absichtlich statt kaputt?"
+    ]
+  },
+  "colors": {
+    "primary": "#b2b2b2",
+    "secondary": "#dad8d6",
+    "accent": "#dd4b23",
+    "bg": "#f0eeea",
+    "text": "#191715",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent raue Grundflaeche, 30 Prozent Kopierer- und Tape-Zwischenebenen, 10 Prozent Signalaccent fuer Reibung und Energie. Alley Asphalt wirkt dabei xeroxartige, ungepolierte."
+  },
+  "accessibility": {
+    "text_on_primary": 8.43,
+    "text_on_secondary": 12.58,
+    "text_on_bg": 15.43,
+    "text_on_card": 17.88
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Punk",
+    "Skater",
+    "DIY Labels"
+  ],
+  "audiences": [
+    "Szenenahe Communities",
+    "Independent Brands",
+    "Subkulturell gepraegte Kundschaft"
+  ],
+  "brand_traits": [
+    "rebellisch",
+    "ungepoliert",
+    "laut"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Alley Asphalt Primary",
+      "psychology": "Die Primarfarbe erinnert an Papier, Putz und reale Oberflaeche statt an glatte UI-Schichten. In der Variante Alley Asphalt wirkt sie xeroxartige, ungepolierte.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Underground & Rebellion",
+      "risk": "Wenn Alley Asphalt zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Underground & Rebellion."
+    },
+    "secondary": {
+      "name": "Alley Asphalt Surface",
+      "psychology": "Die Sekundaerebene traegt die DIY-Aesthetik durch Listen, Tickets, Tapes und Produktmodule. So bleibt Alley Asphalt auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Alley Asphalt Accent",
+      "psychology": "Der Accent ist Protest, Richtung und visuelle Stoerung zugleich. Gerade in Alley Asphalt sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Skateshops und DIY-Brands",
+      "Punk- und Underground-Kulturseiten",
+      "Subkulturelle Projekte mit bewusster Stoerung"
+    ],
+    "avoid_for": [
+      "Behorden",
+      "Kliniken",
+      "Weiche Mindfulness-Angebote"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Alley Asphalt den Cluster Underground & Rebellion glaubwuerdig traegt",
+        "reason": "Alley Asphalt bleibt im Kern Underground & Rebellion, verschiebt die Tonlage aber in eine xeroxartige, ungepolierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Punk und DIY im Web?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Underground & Rebellion zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Alley Asphalt im Cluster Underground & Rebellion?",
+        "answer": "Alley Asphalt eignet sich besonders, wenn Reibung, Anti-Polish und direkte Haltung explizit Teil der Marke sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Alley Asphalt</span><h3>Underground & Rebellion</h3><p>Eine stoerfreudige Subkulturpalette fuer Punk, Skateshops und DIY-Kollektive mit Asphalt, Fotokopierer-Effekt und bewusst schmutziger Energie.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

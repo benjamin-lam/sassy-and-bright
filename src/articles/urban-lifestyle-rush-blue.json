@@ -1,0 +1,121 @@
+{
+  "title": "Urban Lifestyle: Rush Blue",
+  "slug": "urban-lifestyle-rush-blue",
+  "vibe": "Moving Modernity / Velocity",
+  "summary": "Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet. Die Variante Rush Blue verschiebt den Cluster in eine dynamischere, schnellere Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Urban Lifestyle",
+    "cluster_slug": "urban-lifestyle",
+    "variant": "Rush Blue"
+  },
+  "keywords": [
+    "Farbpalette Coworking",
+    "Urban Lifestyle",
+    "Rush Blue",
+    "Lifestyle & Konsum",
+    "Coworking",
+    "Mobility"
+  ],
+  "seo": {
+    "meta_title": "Urban Lifestyle: Rush Blue | Farbpalette Coworking",
+    "meta_description": "Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet. Rush Blue bringt eine dynamischere, schnellere Auspraegung fuer Coworking, Mobility und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Coworking",
+    "questions": [
+      "Welche Farben passen zu urbanen Marken und Mobility?",
+      "Wann passt Rush Blue im Cluster Urban Lifestyle?",
+      "Wie wirkt City-Design modern statt kalt?"
+    ]
+  },
+  "colors": {
+    "primary": "#cfb9b6",
+    "secondary": "#ebddda",
+    "accent": "#ce681e",
+    "bg": "#f8f4f0",
+    "text": "#272424",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Grundflaechen lassen Produkte und Orte atmen, 30 Prozent strukturierende Supportflaechen halten Navigation zusammen, 10 Prozent Accent geben Richtung und Tempo. Rush Blue wirkt dabei dynamischere, schnellere."
+  },
+  "accessibility": {
+    "text_on_primary": 8.26,
+    "text_on_secondary": 11.65,
+    "text_on_bg": 14.07,
+    "text_on_card": 15.39
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Coworking",
+    "Mobility",
+    "Coffee Brands"
+  ],
+  "audiences": [
+    "Urbane Professionals",
+    "Gruenderinnen und Gruender",
+    "Community-orientierte Marken"
+  ],
+  "brand_traits": [
+    "modern",
+    "offen",
+    "beweglich",
+    "schnell"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Rush Blue Primary",
+      "psychology": "Die materialnahe Primarfarbe wirkt wie Stadtoberflaeche statt wie reine Dekoration. In der Variante Rush Blue wirkt sie dynamischere, schnellere.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Urban Lifestyle",
+      "risk": "Wenn Rush Blue zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Urban Lifestyle."
+    },
+    "secondary": {
+      "name": "Rush Blue Surface",
+      "psychology": "Die Sekundaerflaechen halten Interface und Bilder freundlich, ohne beliebig zu werden. So bleibt Rush Blue auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Rush Blue Accent",
+      "psychology": "Der Accent bringt Bewegung in Navigation, Booking und primare Aktionen. Gerade in Rush Blue sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Coworking-Auftritte mit Membership-Logik",
+      "Mobilitaetsprodukte mit klaren States",
+      "Urban Brands mit erwachsener Tonalitaet"
+    ],
+    "avoid_for": [
+      "Klinische Health-Produkte",
+      "True-Crime und Horror-Atmosphaeren",
+      "klassische Corporate-Finance Portale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Rush Blue den Cluster Urban Lifestyle glaubwuerdig traegt",
+        "reason": "Rush Blue bleibt im Kern Urban Lifestyle, verschiebt die Tonlage aber in eine dynamischere, schnellere Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu urbanen Marken und Mobility?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Urban Lifestyle zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Rush Blue im Cluster Urban Lifestyle?",
+        "answer": "Rush Blue eignet sich besonders, wenn Bewegung, moderne Erwachsenen-Tonalitaet und alltagstaugliche Energie gefragt sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Rush Blue</span><h3>Urban Lifestyle</h3><p>Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

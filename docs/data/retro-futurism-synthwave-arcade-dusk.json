@@ -1,0 +1,121 @@
+{
+  "title": "Retro-Futurism / Synthwave: Arcade Dusk",
+  "slug": "retro-futurism-synthwave-arcade-dusk",
+  "vibe": "Digital Nostalgia / Sunset",
+  "summary": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Die Variante Arcade Dusk verschiebt den Cluster in eine sonnenuntergangige, popkulturelle Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Retro-Futurism / Synthwave",
+    "cluster_slug": "retro-futurism-synthwave",
+    "variant": "Arcade Dusk"
+  },
+  "keywords": [
+    "Synthwave Farbpalette",
+    "Retro-Futurism / Synthwave",
+    "Arcade Dusk",
+    "Popkultur & Subkultur",
+    "80s Culture",
+    "Arcade"
+  ],
+  "seo": {
+    "meta_title": "Retro-Futurism / Synthwave: Arcade Dusk | Synthwave Farbpalette",
+    "meta_description": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Arcade Dusk bringt eine sonnenuntergangige, popkulturelle Ausprägung für 80s Culture, Arcade und verwandte Projekte.",
+    "focus_keyword": "Synthwave Farbpalette",
+    "questions": [
+      "Welche Farben tragen Synthwave und Retro-Futurism?",
+      "Wann passt Arcade Dusk im Cluster Retro-Futurism / Synthwave?",
+      "Wie wirkt Neon-Nostalgie lesbar statt nur Effekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#ff4f5d",
+    "secondary": "#38164b",
+    "accent": "#2872ff",
+    "bg": "#140e26",
+    "text": "#f7f1ff",
+    "card": "#1d1634"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkler Raum, 30 Prozent farbige Supportebenen für Raster und Module, 10 Prozent Neonlicht für Fokus, CTA und Pop. Arcade Dusk wirkt dabei sonnenuntergangige, popkulturelle."
+  },
+  "accessibility": {
+    "text_on_primary": 2.91,
+    "text_on_secondary": 13.71,
+    "text_on_bg": 16.94,
+    "text_on_card": 15.6
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "80s Culture",
+    "Arcade",
+    "Synth-Pop"
+  ],
+  "audiences": [
+    "Retro-affine Communities",
+    "Event- und Bar-Konzepte",
+    "Marken mit Nostalgie-Faktor"
+  ],
+  "brand_traits": [
+    "nostalgisch",
+    "leuchtend",
+    "dramatisch",
+    "popkulturell"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Arcade Dusk Primary",
+      "psychology": "Die Primarfläche liefert Retro-Futurism und sofortige Popkultur-Codierung. In der Variante Arcade Dusk wirkt sie sonnenuntergangige, popkulturelle.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Retro-Futurism / Synthwave",
+      "risk": "Wenn Arcade Dusk zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Retro-Futurism / Synthwave."
+    },
+    "secondary": {
+      "name": "Arcade Dusk Surface",
+      "psychology": "Die dunkle Zweitfarbe ist die Bühne für Glows, Raster und Typografie. So bleibt Arcade Dusk auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Arcade Dusk Accent",
+      "psychology": "Der Accent bringt Laser- oder Rastermoment und steuert Aktivpunkte des Interfaces. Gerade in Arcade Dusk sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Arcade- und Eventmarken",
+      "Retro-Futurism-Editorials",
+      "Synth-Pop und Vaporwave-nahe Auftritte"
+    ],
+    "avoid_for": [
+      "Nüchterne öffentliche Services",
+      "Vertrauenslastige Health-Kommunikation",
+      "Zurückhaltende Heritage-Luxury-Seiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Arcade Dusk den Cluster Retro-Futurism / Synthwave glaubwürdig trägt",
+        "reason": "Arcade Dusk bleibt im Kern Retro-Futurism / Synthwave, verschiebt die Tonlage aber in eine sonnenuntergangige, popkulturelle Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Synthwave und Retro-Futurism?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Retro-Futurism / Synthwave zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Arcade Dusk im Cluster Retro-Futurism / Synthwave?",
+        "answer": "Arcade Dusk eignet sich besonders, wenn digitale Nostalgie bewusst die visuelle Hauptattraktion der Marke ist."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Arcade Dusk<\/span><h3>Retro-Futurism / Synthwave<\/h3><p>Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

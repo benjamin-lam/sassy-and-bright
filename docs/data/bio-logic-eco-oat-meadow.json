@@ -1,0 +1,121 @@
+{
+  "title": "Bio-Logic & Eco: Oat Meadow",
+  "slug": "bio-logic-eco-oat-meadow",
+  "vibe": "Grounded Warmth / Oat",
+  "summary": "Eine nachhaltige Erdton-Palette für Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwürdige Erdigkeit. Die Variante Oat Meadow verschiebt den Cluster in eine haferige, sanfte Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Bio-Logic & Eco",
+    "cluster_slug": "bio-logic-eco",
+    "variant": "Oat Meadow"
+  },
+  "keywords": [
+    "Nachhaltige Farbpalette",
+    "Bio-Logic & Eco",
+    "Oat Meadow",
+    "Lifestyle & Konsum",
+    "Bio-Food",
+    "Slow Fashion"
+  ],
+  "seo": {
+    "meta_title": "Bio-Logic & Eco: Oat Meadow | Nachhaltige Farbpalette",
+    "meta_description": "Eine nachhaltige Erdton-Palette für Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwürdige Erdigkeit. Oat Meadow bringt eine haferige, sanfte Ausprägung für Bio-Food, Slow Fashion und verwandte Projekte.",
+    "focus_keyword": "Nachhaltige Farbpalette",
+    "questions": [
+      "Welche Farben passen zu nachhaltigen Marken?",
+      "Wann passt Oat Meadow im Cluster Bio-Logic & Eco?",
+      "Wie wirken Erdtöne modern statt altbacken?"
+    ]
+  },
+  "colors": {
+    "primary": "#b9c7b2",
+    "secondary": "#eaf0e7",
+    "accent": "#6e8c64",
+    "bg": "#fafaf8",
+    "text": "#2f372d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Naturflächen, 30 Prozent erdige Markenträger, 10 Prozent Accent für Herkunft, CTAs und Orientierung. Oat Meadow wirkt dabei haferige, sanfte."
+  },
+  "accessibility": {
+    "text_on_primary": 6.96,
+    "text_on_secondary": 10.62,
+    "text_on_bg": 11.78,
+    "text_on_card": 12.32
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Bio-Food",
+    "Slow Fashion",
+    "Nachhaltige Marken"
+  ],
+  "audiences": [
+    "Bewusste Konsumentinnen und Konsumenten",
+    "Impact-orientierte Marken",
+    "Teams mit Ethik- und Herkunftsfokus"
+  ],
+  "brand_traits": [
+    "erdig",
+    "authentisch",
+    "ethisch",
+    "sanft"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Oat Meadow Primary",
+      "psychology": "Die Primarfarbe bringt Naturbezug, ohne in Kitsch oder naive Öko-Codes zu kippen. In der Variante Oat Meadow wirkt sie haferige, sanfte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Bio-Logic & Eco",
+      "risk": "Wenn Oat Meadow zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Bio-Logic & Eco."
+    },
+    "secondary": {
+      "name": "Oat Meadow Surface",
+      "psychology": "Die Sekundärflächen lassen Produkte, Texte und Zertifikate ruhig atmen. So bleibt Oat Meadow auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Oat Meadow Accent",
+      "psychology": "Der Accent liefert klare Orientierung und bleibt als glaubwürdiges Signal sparsam. Gerade in Oat Meadow sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bio-Shops mit Transparenzanspruch",
+      "Nachhaltige Produktmarken",
+      "Slow-Fashion Labels mit Herkunftserzählung"
+    ],
+    "avoid_for": [
+      "Trading- und Echtzeitprodukte",
+      "Sterile Kliniksysteme",
+      "Lautes Entertainment"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Oat Meadow den Cluster Bio-Logic & Eco glaubwürdig trägt",
+        "reason": "Oat Meadow bleibt im Kern Bio-Logic & Eco, verschiebt die Tonlage aber in eine haferige, sanfte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu nachhaltigen Marken?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Bio-Logic & Eco zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Oat Meadow im Cluster Bio-Logic & Eco?",
+        "answer": "Oat Meadow eignet sich besonders, wenn Herkunft, Ethik und ruhiges Vertrauen wichtiger sind als schrille Aktivierung."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Oat Meadow<\/span><h3>Bio-Logic & Eco<\/h3><p>Eine nachhaltige Erdton-Palette für Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwürdige Erdigkeit.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

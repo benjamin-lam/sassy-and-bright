@@ -1,0 +1,120 @@
+{
+  "title": "Industrial Strength: Signal Concrete",
+  "slug": "industrial-strength-signal-concrete",
+  "vibe": "Material Force / Concrete",
+  "summary": "Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Die Variante Signal Concrete verschiebt den Cluster in eine kühlere, betonartige Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Industrial Strength",
+    "cluster_slug": "industrial-strength",
+    "variant": "Signal Concrete"
+  },
+  "keywords": [
+    "Industrie Farbpalette",
+    "Industrial Strength",
+    "Signal Concrete",
+    "Business & Institutionen",
+    "Handwerk",
+    "Logistik"
+  ],
+  "seo": {
+    "meta_title": "Industrial Strength: Signal Concrete | Industrie Farbpalette",
+    "meta_description": "Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Signal Concrete bringt eine kühlere, betonartige Ausprägung für Handwerk, Logistik und verwandte Projekte.",
+    "focus_keyword": "Industrie Farbpalette",
+    "questions": [
+      "Welche Farben tragen Handwerk und Bauwesen glaubwürdig?",
+      "Wann passt Signal Concrete im Cluster Industrial Strength?",
+      "Wie lassen sich Sicherheitsfarben digital einsetzen, ohne Alarmrauschen zu erzeugen?"
+    ]
+  },
+  "colors": {
+    "primary": "#bebdbc",
+    "secondary": "#e9e5e1",
+    "accent": "#c5601d",
+    "bg": "#f6f4f0",
+    "text": "#2d2a28",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent neutrale Flächen schaffen Materialruhe, 30 Prozent Zweitflächen ordnen technische Inhalte, 10 Prozent Safety-Accent markieren Priorität und Richtung. Signal Concrete wirkt dabei kühlere, betonartige."
+  },
+  "accessibility": {
+    "text_on_primary": 7.6,
+    "text_on_secondary": 11.37,
+    "text_on_bg": 12.97,
+    "text_on_card": 14.25
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Handwerk",
+    "Logistik",
+    "Bauwesen"
+  ],
+  "audiences": [
+    "Operative Teams",
+    "Einkaufsabteilungen",
+    "Sicherheitsrelevante Entscheider"
+  ],
+  "brand_traits": [
+    "robust",
+    "direkt",
+    "sicher"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Signal Concrete Primary",
+      "psychology": "Das Primarsystem wirkt wie Material statt Dekor und verankert die Marke in physischer Leistung. In der Variante Signal Concrete wirkt sie kühlere, betonartige.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Industrial Strength",
+      "risk": "Wenn Signal Concrete zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Industrial Strength."
+    },
+    "secondary": {
+      "name": "Signal Concrete Surface",
+      "psychology": "Die Zweitfarbe gibt Formularen, Tabellen und Leistungsmodulen eine belastbare Unterstruktur. So bleibt Signal Concrete auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Signal Concrete Accent",
+      "psychology": "Der Accent übernimmt Sicherheits- und Signalrollen und sollte im Interface klar priorisiert bleiben. Gerade in Signal Concrete sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bau- und Logistik-Websites mit Leistungsfokus",
+      "Handwerksportale mit Angebotsstrecke",
+      "Industrieseiten mit Produkt- und Sicherheitsinformationen"
+    ],
+    "avoid_for": [
+      "Wellness- und Achtsamkeitsmarken",
+      "Luxury-Inszenierungen mit stiller Exklusivität",
+      "Kinderprodukte mit spielerischer Tonalität"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Signal Concrete den Cluster Industrial Strength glaubwürdig trägt",
+        "reason": "Signal Concrete bleibt im Kern Industrial Strength, verschiebt die Tonlage aber in eine kühlere, betonartige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Handwerk und Bauwesen glaubwürdig?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Industrial Strength zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Signal Concrete im Cluster Industrial Strength?",
+        "answer": "Signal Concrete eignet sich besonders, wenn Leistung, Sicherheit und Materialehrlichkeit im Vordergrund stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Signal Concrete<\/span><h3>Industrial Strength<\/h3><p>Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

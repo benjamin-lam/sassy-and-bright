@@ -31,6 +31,52 @@ PALETTE_ALIAS_MAP = {
     "text": "t",
     "card": "c",
 }
+SECTOR_ORDER = {
+    "business-institutionen": 1,
+    "lifestyle-konsum": 2,
+    "tech-future": 3,
+    "kreativ-bildung": 4,
+    "popkultur-subkultur": 5,
+    "mensch-gesellschaft": 6,
+}
+SECTOR_META = {
+    "business-institutionen": {"label": "Business & Institutionen", "emoji": "🏛️"},
+    "lifestyle-konsum": {"label": "Lifestyle & Konsum", "emoji": "🎀"},
+    "tech-future": {"label": "Tech & Future", "emoji": "🚀"},
+    "kreativ-bildung": {"label": "Kreativität & Bildung", "emoji": "🎨"},
+    "popkultur-subkultur": {"label": "Popkultur & Subkultur", "emoji": "🎸"},
+    "mensch-gesellschaft": {"label": "Mensch & Gesellschaft", "emoji": "🌍"},
+}
+CLUSTER_ORDER = {
+    "corporate-trust": 1,
+    "civic-public": 2,
+    "industrial-strength": 3,
+    "legal-consulting": 4,
+    "health-clinical": 5,
+    "sassy-bright": 6,
+    "bio-logic-eco": 7,
+    "luxury-heritage": 8,
+    "urban-lifestyle": 9,
+    "sweet-confectionery": 10,
+    "high-octane-tech": 11,
+    "crypto-fintech-2-0": 12,
+    "cyber-security": 13,
+    "space-aerospace": 14,
+    "open-source-dev-tools": 15,
+    "creative-retro": 16,
+    "playful-education": 17,
+    "brutalist-digital": 18,
+    "art-gallery": 19,
+    "architecture-design": 20,
+    "underground-rebellion": 21,
+    "dark-narrative": 22,
+    "new-adult-romantasy": 23,
+    "retro-futurism-synthwave": 24,
+    "anime-gaming-culture": 25,
+    "non-profit-activism": 26,
+    "mindfulness-spiritual": 27,
+    "diversity-community": 28,
+}
 
 
 def ensure_trailing_slash(value: str) -> str:
@@ -43,6 +89,13 @@ UMLAUT_PROTECTIONS = {
     "Blue-Chip": "__P0__",
     "True Crime": "__P1__",
     "Aerospace": "__P2__",
+    "True-Crime": "__P3__",
+    "Blue": "__P4__",
+    "blue": "__P5__",
+}
+DISPLAY_REPLACEMENTS = {
+    "kuhl": "kühl",
+    "Kuhl": "Kühl",
 }
 
 
@@ -121,6 +174,8 @@ def with_umlauts(value: str) -> str:
 
     for original, placeholder in UMLAUT_PROTECTIONS.items():
         value = value.replace(placeholder, original)
+    for source, target in DISPLAY_REPLACEMENTS.items():
+        value = re.sub(rf"\b{re.escape(source)}\b", target, value)
     return value
 
 
@@ -129,6 +184,9 @@ def humanize_palette(palette: dict) -> dict:
     display["title"] = with_umlauts(display["title"])
     display["vibe"] = with_umlauts(display["vibe"])
     display["summary"] = with_umlauts(display["summary"])
+    display["taxonomy"]["sector"] = with_umlauts(display["taxonomy"]["sector"])
+    display["taxonomy"]["cluster"] = with_umlauts(display["taxonomy"]["cluster"])
+    display["taxonomy"]["variant"] = with_umlauts(display["taxonomy"]["variant"])
     display["keywords"] = [with_umlauts(item) for item in display["keywords"]]
     display["seo"]["meta_title"] = with_umlauts(display["seo"]["meta_title"])
     display["seo"]["meta_description"] = with_umlauts(display["seo"]["meta_description"])
@@ -287,6 +345,16 @@ def validate_faq(items: object, errors: list[str]) -> list[dict[str, str]]:
     return normalized
 
 
+def validate_taxonomy(data: dict, errors: list[str]) -> dict[str, str]:
+    return {
+        "sector": require_string(data, "sector", "taxonomy", errors),
+        "sector_slug": require_string(data, "sector_slug", "taxonomy", errors),
+        "cluster": require_string(data, "cluster", "taxonomy", errors),
+        "cluster_slug": require_string(data, "cluster_slug", "taxonomy", errors),
+        "variant": require_string(data, "variant", "taxonomy", errors),
+    }
+
+
 def validate_palette(raw: dict, source_path: Path) -> dict:
     if not isinstance(raw, dict):
         raise ValueError(f"{source_path.name} must contain a JSON object at the root")
@@ -304,6 +372,7 @@ def validate_palette(raw: dict, source_path: Path) -> dict:
     accessibility = require_object(raw, "accessibility", "root", errors)
     color_psychology = require_object(raw, "color_psychology", "root", errors)
     decision_support = require_object(raw, "decision_support", "root", errors)
+    taxonomy = require_object(raw, "taxonomy", "root", errors)
 
     if slug and not SLUG_PATTERN.match(slug):
         errors.append("root.slug must use kebab-case")
@@ -313,6 +382,7 @@ def validate_palette(raw: dict, source_path: Path) -> dict:
         "slug": slug,
         "vibe": vibe,
         "summary": summary,
+        "taxonomy": validate_taxonomy(taxonomy, errors),
         "keywords": keywords,
         "seo": {
             "meta_title": require_string(seo, "meta_title", "seo", errors),
@@ -344,6 +414,20 @@ def validate_palette(raw: dict, source_path: Path) -> dict:
 
     if normalized["cognitive_load"] < 1 or normalized["cognitive_load"] > 5:
         errors.append("root.cognitive_load must be between 1 and 5")
+    for key in ("sector_slug", "cluster_slug"):
+        value = normalized["taxonomy"][key]
+        if value and not SLUG_PATTERN.match(value):
+            errors.append(f"taxonomy.{key} must use kebab-case")
+    if (
+        normalized["taxonomy"]["sector_slug"]
+        and normalized["taxonomy"]["sector_slug"] not in SECTOR_ORDER
+    ):
+        errors.append("taxonomy.sector_slug must be one of the known sectors")
+    if (
+        normalized["taxonomy"]["cluster_slug"]
+        and normalized["taxonomy"]["cluster_slug"] not in CLUSTER_ORDER
+    ):
+        errors.append("taxonomy.cluster_slug must be one of the known clusters")
 
     color_keys = set(normalized["colors"])
     for key in ("dominant", "supporting", "accent"):
@@ -395,9 +479,7 @@ def theme_var_lines(colors: dict[str, str]) -> list[str]:
     lines = [f"  --color-{key}: {value};" for key, value in colors.items()]
     for key, alias in PALETTE_ALIAS_MAP.items():
         lines.append(f"  --{alias}: {colors[key]};")
-    lines.append(
-        f"  --mockup-cta-fg: {best_foreground(colors['primary'], colors['text'], colors['bg'])};"
-    )
+    lines.append(f"  --cta-fg: {best_foreground(colors['primary'], colors['text'], colors['bg'])};")
     return lines
 
 
@@ -548,6 +630,9 @@ def wcag_status(accessibility: dict[str, float]) -> str:
 def meta_keywords(palette: dict) -> str:
     terms = dedupe_strings(
         [
+            palette["taxonomy"]["sector"],
+            palette["taxonomy"]["cluster"],
+            palette["taxonomy"]["variant"],
             palette["seo"]["focus_keyword"],
             *palette["keywords"],
             *palette["industry_match"],
@@ -561,6 +646,9 @@ def meta_keywords(palette: dict) -> str:
 def article_tag_meta(palette: dict) -> str:
     tags = dedupe_strings(
         [
+            palette["taxonomy"]["sector"],
+            palette["taxonomy"]["cluster"],
+            palette["taxonomy"]["variant"],
             palette["seo"]["focus_keyword"],
             *palette["keywords"][:6],
             *palette["industry_match"][:3],
@@ -568,6 +656,130 @@ def article_tag_meta(palette: dict) -> str:
     )
     return "\n".join(
         f'<meta property="article:tag" content="{html_text(tag)}">' for tag in tags
+    )
+
+
+def style_guide_transfer_items(palette: dict) -> str:
+    items = [
+        f"Primärfarbe {palette['colors']['primary']} als Marken- und CTA-Signal definieren.",
+        (
+            f"Sekundärfarbe {palette['colors']['secondary']} für Flächen, Karten und Navigationsstufen "
+            "als zweite Ebene des Style-Guides festhalten."
+        ),
+        (
+            f"Accent {palette['colors']['accent']} als Interaktions-, Status- und Highlight-Farbe "
+            "nur für priorisierte Elemente verwenden."
+        ),
+        (
+            f"Text {palette['colors']['text']} auf Background {palette['colors']['bg']} und Card "
+            f"{palette['colors']['card']} als Standard-Lesepaar dokumentieren."
+        ),
+        (
+            f"Das 60-30-10-Verhältnis mit {palette['usage_ratio']['dominant']}, "
+            f"{palette['usage_ratio']['supporting']} und {palette['usage_ratio']['accent']} "
+            "in den Style-Guide übernehmen."
+        ),
+    ]
+    return list_items(items)
+
+
+def palette_sort_key(palette: dict) -> tuple[int, int, str]:
+    taxonomy = palette["taxonomy"]
+    return (
+        SECTOR_ORDER.get(taxonomy["sector_slug"], 99),
+        CLUSTER_ORDER.get(taxonomy["cluster_slug"], 99),
+        taxonomy["variant"].lower(),
+    )
+
+
+def taxonomy_meta_text(palette: dict) -> str:
+    taxonomy = palette["taxonomy"]
+    return " / ".join(
+        [
+            taxonomy["sector"],
+            taxonomy["cluster"],
+            taxonomy["variant"],
+        ]
+    )
+
+
+def sector_overview_cards(palettes: list[dict]) -> str:
+    grouped: dict[str, list[dict]] = {}
+    for palette in palettes:
+        sector_slug = palette["taxonomy"]["sector_slug"]
+        grouped.setdefault(sector_slug, []).append(palette)
+
+    cards: list[str] = []
+    for sector_slug, meta in sorted(SECTOR_META.items(), key=lambda item: SECTOR_ORDER[item[0]]):
+        items = grouped.get(sector_slug, [])
+        cluster_names = dedupe_strings(item["taxonomy"]["cluster"] for item in items)
+        cards.append(
+            "\n".join(
+                [
+                    '<article class="sector-card reveal">',
+                    f'  <p class="eyebrow">{html_text(meta["emoji"] + " " + meta["label"])}</p>',
+                    f"  <h2>{html_text(meta['label'])}</h2>",
+                    (
+                        f"  <p>{len(items)} Paletten in {len(cluster_names)} Clustern. "
+                        "Von Branchenlogik bis Farbsprache aufbereitet.</p>"
+                    ),
+                    '  <ul class="tag-list">',
+                    f"{tag_list(cluster_names[:5], 'tag-soft')}",
+                    "  </ul>",
+                    (
+                        f'  <a class="text-link" href="search/?sector={html_text(sector_slug)}">'
+                        "Im Sucharchiv öffnen</a>"
+                    ),
+                    "</article>",
+                ]
+            )
+        )
+    return "\n".join(cards)
+
+
+def featured_palette_cards(palettes: list[dict], limit: int = 12) -> str:
+    featured: list[dict] = []
+    seen_clusters: set[str] = set()
+    for palette in palettes:
+        cluster_slug = palette["taxonomy"]["cluster_slug"]
+        if cluster_slug in seen_clusters:
+            continue
+        featured.append(palette)
+        seen_clusters.add(cluster_slug)
+        if len(featured) == limit:
+            break
+    return "\n".join(palette_card(palette) for palette in featured)
+
+
+def cluster_variant_cards(current_palette: dict, palettes: list[dict], limit: int = 4) -> str:
+    variants = [
+        palette
+        for palette in palettes
+        if palette["taxonomy"]["cluster_slug"] == current_palette["taxonomy"]["cluster_slug"]
+        and palette["slug"] != current_palette["slug"]
+    ]
+    variants = sorted(variants, key=palette_sort_key)[:limit]
+    if not variants:
+        return ""
+    return "\n".join(palette_card(palette, asset_prefix="../") for palette in variants)
+
+
+def cluster_variant_section(current_palette: dict, palettes: list[dict]) -> str:
+    cards = cluster_variant_cards(current_palette, palettes)
+    if not cards:
+        return ""
+    return "\n".join(
+        [
+            '<section class="reveal">',
+            '  <div class="section-head">',
+            '    <p class="eyebrow">Varianten</p>',
+            '    <h2>Weitere Paletten aus diesem Cluster</h2>',
+            '  </div>',
+            '  <div class="card-grid">',
+            cards,
+            "  </div>",
+            "</section>",
+        ]
     )
 
 
@@ -582,13 +794,7 @@ def palette_card(palette: dict, asset_prefix: str = "", show_link: bool = True) 
         f'<span class="mini-swatch" style="background:{html_text(palette["colors"][key])}"></span>'
         for key in ("primary", "secondary", "accent", "bg")
     )
-    meta = " / ".join(
-        [
-            html_text(palette["vibe"]),
-            html_text(palette["seo"]["focus_keyword"]),
-            html_text(", ".join(palette["industry_match"][:2])),
-        ]
-    )
+    meta = taxonomy_meta_text(palette)
     return "\n".join(
         [
             '<article class="palette-card reveal">',
@@ -599,7 +805,7 @@ def palette_card(palette: dict, asset_prefix: str = "", show_link: bool = True) 
             "  </div>",
             f'  <div class="mini-swatches" aria-label="Farben">{swatches}</div>',
             '  <ul class="tag-list">',
-            f"{tag_list(palette['brand_traits'][:3])}",
+            f"{tag_list([palette['vibe'], *palette['brand_traits'][:2]], 'tag-soft')}",
             "  </ul>",
             f"  {link_markup}",
             "</article>",
@@ -609,6 +815,9 @@ def palette_card(palette: dict, asset_prefix: str = "", show_link: bool = True) 
 
 def palette_search_card(palette: dict) -> str:
     search_terms = [
+        palette["taxonomy"]["sector"],
+        palette["taxonomy"]["cluster"],
+        palette["taxonomy"]["variant"],
         palette["title"],
         palette["vibe"],
         palette["summary"],
@@ -621,21 +830,25 @@ def palette_search_card(palette: dict) -> str:
     ]
     payload = " ".join(term.lower() for term in search_terms)
     industries = ",".join(palette["industry_match"])
+    sector_slug = palette["taxonomy"]["sector_slug"]
+    cluster_slug = palette["taxonomy"]["cluster_slug"]
     return "\n".join(
         [
             (
                 f'<article class="palette-card search-card reveal" '
                 f'data-search="{html_text(payload)}" '
+                f'data-sector="{html_text(sector_slug)}" '
+                f'data-cluster="{html_text(cluster_slug)}" '
                 f'data-vibe="{html_text(palette["vibe"].lower())}" '
                 f'data-industries="{html_text(industries.lower())}">'
             ),
             '  <div class="palette-card-top">',
-            f"    <p class=\"eyebrow\">{html_text(palette['seo']['focus_keyword'])}</p>",
+            f"    <p class=\"eyebrow\">{html_text(taxonomy_meta_text(palette))}</p>",
             f"    <h2>{html_text(palette['title'])}</h2>",
             f"    <p>{html_text(palette['summary'])}</p>",
             "  </div>",
             '  <ul class="tag-list">',
-            f"{tag_list(palette['industry_match'][:3], 'tag-soft')}",
+            f"{tag_list([palette['seo']['focus_keyword'], *palette['industry_match'][:2]], 'tag-soft')}",
             "  </ul>",
             f'  <a class="text-link" href="../{html_text(palette["slug"])}/">Zur Palette</a>',
             "</article>",
@@ -674,8 +887,13 @@ def article_json_ld(palette: dict, canonical_url: str) -> str:
                 "headline": palette["title"],
                 "description": palette["summary"],
                 "keywords": palette["keywords"],
-                "articleSection": palette["industry_match"],
+                "articleSection": [
+                    palette["taxonomy"]["sector"],
+                    palette["taxonomy"]["cluster"],
+                    *palette["industry_match"],
+                ],
                 "about": [
+                    palette["taxonomy"]["variant"],
                     palette["seo"]["focus_keyword"],
                     "Farbpsychologie",
                     "Design-System",
@@ -741,6 +959,7 @@ def geo_context_payload(palette: dict, canonical_url: str) -> dict:
         "url": canonical_url,
         "title": palette["title"],
         "slug": palette["slug"],
+        "taxonomy": palette["taxonomy"],
         "summary": palette["summary"],
         "focus_keyword": palette["seo"]["focus_keyword"],
         "keywords": dedupe_strings([palette["seo"]["focus_keyword"], *palette["keywords"]]),
@@ -768,13 +987,11 @@ def copy_assets() -> None:
     shutil.copytree(ASSETS_DIR, DOCS_DIR / "assets", dirs_exist_ok=True)
 
 
-def build_article_page(palette: dict) -> None:
+def build_article_page(palette: dict, palettes: list[dict]) -> None:
     slug = palette["slug"]
     canonical_url = to_absolute_url(f"{slug}/")
     css_href = f"../assets/css/palettes/{slug}.css"
     json_href = f"../data/{slug}.json"
-    reading_href = "./"
-    mockup_href = "mockup/"
     content = render_template(
         "article.html",
         {
@@ -794,14 +1011,25 @@ def build_article_page(palette: dict) -> None:
             "slug": html_text(slug),
             "vibe": html_text(palette["vibe"]),
             "summary": html_text(palette["summary"]),
+            "sector_label": html_text(palette["taxonomy"]["sector"]),
+            "cluster_label": html_text(palette["taxonomy"]["cluster"]),
+            "variant_label": html_text(palette["taxonomy"]["variant"]),
             "focus_keyword": html_text(palette["seo"]["focus_keyword"]),
             "color_vars": html_text(color_var_block(palette["colors"])),
             "article_data_script": json_data_script_tag("article-data", palette),
             "usage_note": html_text(palette["usage_ratio"]["note"]),
             "palette_swatches": palette_swatches(palette["colors"], palette["usage_ratio"]),
             "accessibility_rows": accessibility_rows(palette["accessibility"]),
+            "wcag_status": html_text(wcag_status(palette["accessibility"])),
             "cognitive_load": str(palette["cognitive_load"]),
             "cognitive_label": html_text(cognitive_label(palette["cognitive_load"])),
+            "taxonomy_tags": tag_list(
+                [
+                    palette["taxonomy"]["sector"],
+                    palette["taxonomy"]["cluster"],
+                    palette["taxonomy"]["variant"],
+                ]
+            ),
             "industry_tags": tag_list(palette["industry_match"]),
             "audience_tags": tag_list(palette["audiences"], "tag-soft"),
             "brand_tags": tag_list(palette["brand_traits"], "tag-soft"),
@@ -809,13 +1037,14 @@ def build_article_page(palette: dict) -> None:
             "best_for_list": list_items(palette["decision_support"]["best_for"]),
             "avoid_for_list": list_items(palette["decision_support"]["avoid_for"]),
             "argument_cards": argument_cards(palette["decision_support"]["argumentation"]),
+            "style_guide_items": style_guide_transfer_items(palette),
             "faq_items": faq_items(palette["decision_support"]["faq"]),
+            "cluster_variant_section": cluster_variant_section(palette, palettes),
             "css_download_href": html_text(css_href),
             "json_download_href": html_text(json_href),
-            "reading_href": reading_href,
-            "mockup_href": mockup_href,
             "home_href": "../",
             "search_href": "../search/",
+            "impressum_href": "../impressum/",
             "year": BUILD_DATE[:4],
         },
     )
@@ -824,44 +1053,49 @@ def build_article_page(palette: dict) -> None:
     write_file(DOCS_DIR / "data" / f"{slug}.json", script_json(palette) + "\n")
 
 
-def build_mockup_page(palette: dict) -> None:
-    slug = palette["slug"]
-    canonical_url = to_absolute_url(f"{slug}/")
+def build_impressum_page() -> None:
+    title = "Impressum | VibeVault"
+    description = "Anbieterkennzeichnung und Kontaktinformationen für VibeVault."
     content = render_template(
-        "mockup.html",
+        "impressum.html",
         {
-            "meta_title": html_text(f"{palette['title']} UI-Mockup | {SITE_NAME}"),
-            "meta_description": html_text(
-                f"{palette['summary']} Als eigenständiges UI-Mockup mit denselben CSS-Variablen."
+            "meta_title": html_text(title),
+            "meta_description": html_text(description),
+            "canonical_url": html_text(to_absolute_url("impressum/")),
+            "theme_color": html_text("#2b2230"),
+            "canonical_link": canonical_link_tag(to_absolute_url("impressum/")),
+            "json_ld_script": json_ld_script_tag(
+                script_json(
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "WebPage",
+                        "url": to_absolute_url("impressum/"),
+                        "name": title,
+                        "description": description,
+                        "inLanguage": "de",
+                    }
+                )
             ),
-            "canonical_url": html_text(canonical_url),
-            "theme_color": html_text(palette["colors"]["primary"]),
-            "canonical_link": canonical_link_tag(canonical_url),
-            "palette_stylesheet_link": stylesheet_link_tag(
-                f"../../assets/css/palettes/{slug}.css"
-            ),
-            "title": html_text(palette["title"]),
-            "vibe": html_text(palette["vibe"]),
-            "wcag_status": html_text(wcag_status(palette["accessibility"])),
-            "css_download_href": html_text(f"../../assets/css/palettes/{slug}.css"),
-            "json_download_href": html_text(f"../../data/{slug}.json"),
-            "reading_href": "../",
-            "mockup_href": "./",
-            "home_href": "../../",
-            "search_href": "../../search/",
-            "article_data_script": json_data_script_tag("article-data", palette),
+            "home_href": "../",
+            "search_href": "../search/",
+            "email_href": "mailto:benjamin-lam@outlook.de",
+            "imprint_name": "Benjamin Lam",
+            "imprint_address": "Schwachhauser Heerstraße 100<br>28209 Bremen",
+            "imprint_email": "benjamin-lam@outlook.de",
             "year": BUILD_DATE[:4],
         },
     )
-    write_file(DOCS_DIR / slug / "mockup" / "index.html", content)
+    write_file(DOCS_DIR / "impressum" / "index.html", content)
 
 
 def build_index_page(palettes: list[dict]) -> None:
     title = "Farbpaletten für Webprojekte mit Farbpsychologie und SEO-Fokus"
     description = (
-        "VibeVault zeigt Farbpaletten als Set-Cards mit Farbpsychologie, Zielgruppenfit, "
-        "Accessibility und argumentierbaren Empfehlungen für Webprojekte."
+        "VibeVault zeigt ein breites Portfolio aus Farbpaletten, Clustern und Branchenlogiken, "
+        "damit aus Farbwahl ein übertragbarer Style Guide für Webprojekte wird."
     )
+    cluster_count = len({palette["taxonomy"]["cluster_slug"] for palette in palettes})
+    sector_count = len({palette["taxonomy"]["sector_slug"] for palette in palettes})
     content = render_template(
         "index.html",
         {
@@ -872,7 +1106,10 @@ def build_index_page(palettes: list[dict]) -> None:
             "canonical_link": canonical_link_tag(SITE_URL),
             "json_ld_script": json_ld_script_tag(collection_json_ld(title, description, SITE_URL, palettes)),
             "palette_count": str(len(palettes)),
-            "palette_cards": "\n".join(palette_card(palette) for palette in palettes),
+            "cluster_count": str(cluster_count),
+            "sector_count": str(sector_count),
+            "sector_cards": sector_overview_cards(palettes),
+            "featured_palette_cards": featured_palette_cards(palettes),
             "featured_questions": question_cards(
                 [
                     "Welche Farben passen zu welcher Branche?",
@@ -881,6 +1118,7 @@ def build_index_page(palettes: list[dict]) -> None:
                 ]
             ),
             "search_href": "search/",
+            "impressum_href": "impressum/",
             "year": BUILD_DATE[:4],
         },
     )
@@ -897,6 +1135,7 @@ def build_search_page(palettes: list[dict]) -> None:
         {
             "title": palette["title"],
             "slug": palette["slug"],
+            "taxonomy": palette["taxonomy"],
             "vibe": palette["vibe"],
             "summary": palette["summary"],
             "keywords": palette["keywords"],
@@ -912,12 +1151,25 @@ def build_search_page(palettes: list[dict]) -> None:
 
     vibes = sorted({palette["vibe"] for palette in palettes})
     industries = sorted({item for palette in palettes for item in palette["industry_match"]})
+    sectors = sorted(SECTOR_META, key=lambda item: SECTOR_ORDER[item])
+    clusters = sorted({palette["taxonomy"]["cluster_slug"] for palette in palettes}, key=lambda item: CLUSTER_ORDER[item])
     vibe_options = "\n".join(
         f'<option value="{html_text(vibe.lower())}">{html_text(vibe)}</option>' for vibe in vibes
     )
     industry_options = "\n".join(
         f'<option value="{html_text(industry.lower())}">{html_text(industry)}</option>'
         for industry in industries
+    )
+    sector_options = "\n".join(
+        f'<option value="{html_text(sector_slug)}">{html_text(SECTOR_META[sector_slug]["label"])}</option>'
+        for sector_slug in sectors
+    )
+    cluster_lookup = {
+        palette["taxonomy"]["cluster_slug"]: palette["taxonomy"]["cluster"] for palette in palettes
+    }
+    cluster_options = "\n".join(
+        f'<option value="{html_text(cluster_slug)}">{html_text(cluster_lookup[cluster_slug])}</option>'
+        for cluster_slug in clusters
     )
 
     content = render_template(
@@ -933,9 +1185,13 @@ def build_search_page(palettes: list[dict]) -> None:
             ),
             "search_cards": "\n".join(palette_search_card(palette) for palette in palettes),
             "search_data_script": json_data_script_tag("search-data", palette_index),
+            "palette_count": str(len(palettes)),
+            "sector_options": sector_options,
+            "cluster_options": cluster_options,
             "vibe_options": vibe_options,
             "industry_options": industry_options,
             "home_href": "../",
+            "impressum_href": "../impressum/",
             "year": BUILD_DATE[:4],
         },
     )
@@ -944,7 +1200,12 @@ def build_search_page(palettes: list[dict]) -> None:
 
 
 def build_support_files(palettes: list[dict]) -> None:
-    urls = [SITE_URL, to_absolute_url("search/"), *(to_absolute_url(f"{item['slug']}/") for item in palettes)]
+    urls = [
+        SITE_URL,
+        to_absolute_url("search/"),
+        to_absolute_url("impressum/"),
+        *(to_absolute_url(f"{item['slug']}/") for item in palettes),
+    ]
     sitemap_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -985,13 +1246,14 @@ def main() -> None:
         raise SystemExit("No JSON files found in src/articles/")
 
     palettes = [humanize_palette(validate_palette(load_json(path), path)) for path in article_paths]
+    palettes.sort(key=palette_sort_key)
     reset_docs_dir()
     copy_assets()
     for palette in palettes:
-        build_article_page(palette)
-        build_mockup_page(palette)
+        build_article_page(palette, palettes)
     build_index_page(palettes)
     build_search_page(palettes)
+    build_impressum_page()
     build_support_files(palettes)
     print(f"Built {len(palettes)} palette page(s) into {DOCS_DIR}")
 

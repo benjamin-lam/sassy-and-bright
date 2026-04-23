@@ -1,0 +1,120 @@
+{
+  "title": "Mindfulness & Spiritual: Lilac Drift",
+  "slug": "mindfulness-spiritual-lilac-drift",
+  "vibe": "Quiet Intuition / Lilac",
+  "summary": "Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Die Variante Lilac Drift verschiebt den Cluster in eine lilafarbene, weiche Richtung.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Mindfulness & Spiritual",
+    "cluster_slug": "mindfulness-spiritual",
+    "variant": "Lilac Drift"
+  },
+  "keywords": [
+    "Farbpalette Meditation",
+    "Mindfulness & Spiritual",
+    "Lilac Drift",
+    "Mensch & Gesellschaft",
+    "Meditation",
+    "Coaching"
+  ],
+  "seo": {
+    "meta_title": "Mindfulness & Spiritual: Lilac Drift | Farbpalette Meditation",
+    "meta_description": "Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Lilac Drift bringt eine lilafarbene, weiche Auspraegung fuer Meditation, Coaching und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Meditation",
+    "questions": [
+      "Welche Farben passen zu Meditation und Mindfulness?",
+      "Wann passt Lilac Drift im Cluster Mindfulness & Spiritual?",
+      "Wie wirkt Spiritualitaet ruhig statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#b8b8e3",
+    "secondary": "#f2f1fb",
+    "accent": "#5665b4",
+    "bg": "#ffffff",
+    "text": "#29243a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent atmende Hintergrundflaechen, 30 Prozent weiche Supportzonen fuer Inhalte und Sessions, 10 Prozent tiefer Accent fuer Fokus und Orientierung. Lilac Drift wirkt dabei lilafarbene, weiche."
+  },
+  "accessibility": {
+    "text_on_primary": 7.82,
+    "text_on_secondary": 13.32,
+    "text_on_bg": 14.92,
+    "text_on_card": 14.92
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Meditation",
+    "Coaching",
+    "Spirituelle Angebote"
+  ],
+  "audiences": [
+    "Achtsamkeitsorientierte Zielgruppen",
+    "Coachs und Guides",
+    "Menschen mit Ruhebedarf"
+  ],
+  "brand_traits": [
+    "achtsam",
+    "weich",
+    "ruhig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Lilac Drift Primary",
+      "psychology": "Die Primarfarbe bringt Sanftheit und leichte Transzendenz in den Auftritt. In der Variante Lilac Drift wirkt sie lilafarbene, weiche.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Mindfulness & Spiritual",
+      "risk": "Wenn Lilac Drift zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Mindfulness & Spiritual."
+    },
+    "secondary": {
+      "name": "Lilac Drift Surface",
+      "psychology": "Die Sekundaerflaechen halten das Erlebnis weich und entlastend. So bleibt Lilac Drift auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Lilac Drift Accent",
+      "psychology": "Der Accent setzt tiefe Orientierungspunkte in einem ansonsten ruhigen System. Gerade in Lilac Drift sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Meditationsseiten",
+      "Coaching-Angebote mit ruhiger Tonalitaet",
+      "Spirituelle Projekte mit achtsamer Navigation"
+    ],
+    "avoid_for": [
+      "Alarmierende Security-Produkte",
+      "Harte Industriekommunikation",
+      "Laute Popkultur-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Lilac Drift den Cluster Mindfulness & Spiritual glaubwuerdig traegt",
+        "reason": "Lilac Drift bleibt im Kern Mindfulness & Spiritual, verschiebt die Tonlage aber in eine lilafarbene, weiche Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Meditation und Mindfulness?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Mindfulness & Spiritual zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Lilac Drift im Cluster Mindfulness & Spiritual?",
+        "answer": "Lilac Drift eignet sich besonders, wenn Entschleunigung, Sanftheit und innere Ruhe die User Experience tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Lilac Drift</span><h3>Mindfulness & Spiritual</h3><p>Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

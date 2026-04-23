@@ -1,0 +1,121 @@
+{
+  "title": "Dark Narrative: Archive Dusk",
+  "slug": "dark-narrative-archive-dusk",
+  "vibe": "Controlled Suspense / Archive",
+  "summary": "Eine dichte Story-Palette fuer Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense. Die Variante Archive Dusk verschiebt den Cluster in eine archivhafte, mystische Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Dark Narrative",
+    "cluster_slug": "dark-narrative",
+    "variant": "Archive Dusk"
+  },
+  "keywords": [
+    "Farbpalette Mystery",
+    "Dark Narrative",
+    "Archive Dusk",
+    "Popkultur & Subkultur",
+    "True Crime",
+    "Horror"
+  ],
+  "seo": {
+    "meta_title": "Dark Narrative: Archive Dusk | Farbpalette Mystery",
+    "meta_description": "Eine dichte Story-Palette fuer Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense. Archive Dusk bringt eine archivhafte, mystische Auspraegung fuer True Crime, Horror und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Mystery",
+    "questions": [
+      "Welche Farben passen zu Mystery und True-Crime?",
+      "Wann passt Archive Dusk im Cluster Dark Narrative?",
+      "Wie baut Farbe Suspense, ohne nur dunkel zu werden?"
+    ]
+  },
+  "colors": {
+    "primary": "#623732",
+    "secondary": "#d5d3ca",
+    "accent": "#5c5c5c",
+    "bg": "#f2f0e9",
+    "text": "#211d1e",
+    "card": "#fcfaf5"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent Pergament und Nebel, 30 Prozent dunkle Erzaehlebene, 10 Prozent Accent fuer Hinweise, Kapitel und Spannungsspitzen. Archive Dusk wirkt dabei archivhafte, mystische."
+  },
+  "accessibility": {
+    "text_on_primary": 1.68,
+    "text_on_secondary": 11.12,
+    "text_on_bg": 14.63,
+    "text_on_card": 15.99
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "True Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "audiences": [
+    "Story-getriebene Communities",
+    "Podcast- und Streaming-Publikum",
+    "Atmosphaere suchende Leserinnen und Leser"
+  ],
+  "brand_traits": [
+    "spannend",
+    "dicht",
+    "kontrolliert",
+    "mystisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Archive Dusk Primary",
+      "psychology": "Die Primarfarbe bringt Schwere und Suspense, ohne in Horror-Klischee zu kippen. In der Variante Archive Dusk wirkt sie archivhafte, mystische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Dark Narrative",
+      "risk": "Wenn Archive Dusk zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Dark Narrative."
+    },
+    "secondary": {
+      "name": "Archive Dusk Surface",
+      "psychology": "Die Zweitfarbe erdet die Geschichte in Papier, Akte oder Archivstimmung. So bleibt Archive Dusk auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Archive Dusk Accent",
+      "psychology": "Der Accent dient der Foreshadowing-Logik und sollte Spannung eher andeuten als ausrufen. Gerade in Archive Dusk sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Mystery- und True-Crime-Portale",
+      "Story-basierte Podcast- und Buchseiten",
+      "Serielle Erzaehlformate mit Atmosphaere"
+    ],
+    "avoid_for": [
+      "Kinder-Learning-Produkte",
+      "Bright-D2C-Shops",
+      "Öffentliche Serviceportale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Archive Dusk den Cluster Dark Narrative glaubwuerdig traegt",
+        "reason": "Archive Dusk bleibt im Kern Dark Narrative, verschiebt die Tonlage aber in eine archivhafte, mystische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Mystery und True-Crime?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Dark Narrative zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Archive Dusk im Cluster Dark Narrative?",
+        "answer": "Archive Dusk eignet sich besonders, wenn Atmosphaere und dramaturgische Spannung wichtiger sind als neutrale Sachlichkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Archive Dusk</span><h3>Dark Narrative</h3><p>Eine dichte Story-Palette fuer Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

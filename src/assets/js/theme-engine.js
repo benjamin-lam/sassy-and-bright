@@ -1,4 +1,5 @@
 (function () {
+  var STORAGE_KEY = "vibevault-mode";
   var aliasMap = {
     primary: "p",
     secondary: "s",
@@ -17,33 +18,6 @@
       .replace(/'/g, "&#39;");
   }
 
-  function injectTheme(colors) {
-    if (!colors) {
-      return;
-    }
-
-    Object.keys(colors).forEach(function (key) {
-      var value = colors[key];
-      document.documentElement.style.setProperty("--color-" + key, value);
-
-      if (aliasMap[key]) {
-        document.documentElement.style.setProperty("--" + aliasMap[key], value);
-      }
-    });
-
-    document.documentElement.style.setProperty(
-      "--mockup-cta-fg",
-      contrastRatio(colors.primary, colors.bg) >= contrastRatio(colors.primary, colors.text)
-        ? colors.bg
-        : colors.text
-    );
-
-    var themeMeta = document.querySelector('meta[name="theme-color"]');
-    if (themeMeta && colors.primary) {
-      themeMeta.setAttribute("content", colors.primary);
-    }
-  }
-
   function hexToRgb(hex) {
     var normalized = hex.replace("#", "");
     return {
@@ -56,7 +30,7 @@
   function channelLuminance(channel) {
     return channel <= 0.03928
       ? channel / 12.92
-      : Math.pow((channel + 0.055) / 1.055, 2.4);
+      : Math.pow((channel + 0.055) / (1.055), 2.4);
   }
 
   function luminance(hex) {
@@ -76,6 +50,34 @@
     return (lighter + 0.05) / (darker + 0.05);
   }
 
+  function preferredForeground(colors) {
+    return contrastRatio(colors.primary, colors.bg) >= contrastRatio(colors.primary, colors.text)
+      ? colors.bg
+      : colors.text;
+  }
+
+  function injectTheme(colors) {
+    if (!colors) {
+      return;
+    }
+
+    Object.keys(colors).forEach(function (key) {
+      var value = colors[key];
+      document.documentElement.style.setProperty("--color-" + key, value);
+
+      if (aliasMap[key]) {
+        document.documentElement.style.setProperty("--" + aliasMap[key], value);
+      }
+    });
+
+    document.documentElement.style.setProperty("--cta-fg", preferredForeground(colors));
+
+    var themeMeta = document.querySelector('meta[name="theme-color"]');
+    if (themeMeta && colors.primary) {
+      themeMeta.setAttribute("content", colors.primary);
+    }
+  }
+
   function cssBlock(colors) {
     var lines = [":root {"];
 
@@ -87,14 +89,7 @@
       lines.push("  --" + aliasMap[key] + ": " + colors[key] + ";");
     });
 
-    lines.push(
-      "  --mockup-cta-fg: " +
-        (contrastRatio(colors.primary, colors.bg) >= contrastRatio(colors.primary, colors.text)
-          ? colors.bg
-          : colors.text) +
-        ";"
-    );
-
+    lines.push("  --cta-fg: " + preferredForeground(colors) + ";");
     lines.push("}");
     return lines.join("\n");
   }
@@ -167,17 +162,57 @@
     });
   }
 
-  function bindModeToggle(toggle) {
+  function readEmbeddedJSON(node) {
+    if (!node) {
+      return null;
+    }
+
+    try {
+      return JSON.parse(node.textContent || "{}");
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function readStoredMode() {
+    try {
+      return window.localStorage.getItem(STORAGE_KEY) || "reading";
+    } catch (error) {
+      return "reading";
+    }
+  }
+
+  function storeMode(mode) {
+    try {
+      window.localStorage.setItem(STORAGE_KEY, mode);
+    } catch (error) {
+      return;
+    }
+  }
+
+  function setMode(mode, toggle, description) {
+    document.body.setAttribute("data-mode", mode);
+
+    if (toggle) {
+      toggle.checked = mode === "lab";
+    }
+
+    if (description) {
+      description.textContent =
+        mode === "lab" ? description.dataset.labCopy : description.dataset.readingCopy;
+    }
+
+    storeMode(mode);
+  }
+
+  function bindModeToggle(toggle, description) {
     if (!toggle) {
       return;
     }
 
-    toggle.checked = document.body.getAttribute("data-mode") === "mockup";
+    setMode(readStoredMode(), toggle, description);
     toggle.addEventListener("change", function () {
-      var target = toggle.checked ? toggle.dataset.mockupHref : toggle.dataset.readingHref;
-      if (target) {
-        window.location.href = target;
-      }
+      setMode(toggle.checked ? "lab" : "reading", toggle, description);
     });
   }
 
@@ -191,18 +226,6 @@
     updateContrastHint(json.colors);
   }
 
-  function readEmbeddedJSON(node) {
-    if (!node) {
-      return null;
-    }
-
-    try {
-      return JSON.parse(node.textContent || "{}");
-    } catch (error) {
-      return null;
-    }
-  }
-
   var dataNode = document.getElementById("article-data");
   var data = readEmbeddedJSON(dataNode);
 
@@ -213,11 +236,12 @@
   }
 
   var modeToggle = document.getElementById("mode-toggle");
+  var modeDescription = document.getElementById("mode-description");
   var copyButton = document.querySelector("[data-copy-css]");
   var copyStatus = document.getElementById("copy-status");
 
   applyPaletteFromJSON(data);
-  bindModeToggle(modeToggle);
+  bindModeToggle(modeToggle, modeDescription);
 
   if (copyButton) {
     copyButton.addEventListener("click", function () {

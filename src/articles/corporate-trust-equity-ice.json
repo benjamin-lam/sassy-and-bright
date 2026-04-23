@@ -1,0 +1,121 @@
+{
+  "title": "Corporate Trust: Equity Ice",
+  "slug": "corporate-trust-equity-ice",
+  "vibe": "Measured Confidence / Airy",
+  "summary": "Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muss. Die Variante Equity Ice verschiebt den Cluster in eine lichtere, offenere Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Corporate Trust",
+    "cluster_slug": "corporate-trust",
+    "variant": "Equity Ice"
+  },
+  "keywords": [
+    "Farbpalette Banken",
+    "Corporate Trust",
+    "Equity Ice",
+    "Business & Institutionen",
+    "Banken",
+    "Versicherungen"
+  ],
+  "seo": {
+    "meta_title": "Corporate Trust: Equity Ice | Farbpalette Banken",
+    "meta_description": "Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muss. Equity Ice bringt eine lichtere, offenere Auspraegung fuer Banken, Versicherungen und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Banken",
+    "questions": [
+      "Welche Farben wirken bei Banken und Versicherungen serioes?",
+      "Wann passt Equity Ice im Cluster Corporate Trust?",
+      "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
+    ]
+  },
+  "colors": {
+    "primary": "#cbdaed",
+    "secondary": "#eef3f8",
+    "accent": "#5381c1",
+    "bg": "#feffff",
+    "text": "#1e2b36",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisse Flaechen sichern Ruhe, 30 Prozent Soft Blue bilden Vertrauensflaechen, 10 Prozent Stahlblau markieren Navigation und Interaktion. Equity Ice wirkt dabei lichtere, offenere."
+  },
+  "accessibility": {
+    "text_on_primary": 10.17,
+    "text_on_secondary": 12.94,
+    "text_on_bg": 14.42,
+    "text_on_card": 14.44
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Banken",
+    "Versicherungen",
+    "Blue-Chip"
+  ],
+  "audiences": [
+    "Investor Relations Teams",
+    "Corporate Kommunikationsabteilungen",
+    "Risikobewusste Kundschaft"
+  ],
+  "brand_traits": [
+    "serioes",
+    "stabil",
+    "klar",
+    "offen"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Equity Ice Primary",
+      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlaesslichkeit und kontrollierte Kompetenz. In der Variante Equity Ice wirkt sie lichtere, offenere.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Corporate Trust",
+      "risk": "Wenn Equity Ice zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Corporate Trust."
+    },
+    "secondary": {
+      "name": "Equity Ice Surface",
+      "psychology": "Die helle Zweitfarbe erinnert an Dokumente, Tabellen und nachvollziehbare Prozesse. So bleibt Equity Ice auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Equity Ice Accent",
+      "psychology": "Der Accent setzt praezise Signale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen. Gerade in Equity Ice sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Corporate Homepages mit hohem Vertrauensbedarf",
+      "Versicherungsportale mit langer Formularstrecke",
+      "Investor-Relations Seiten mit vielen Kennzahlen"
+    ],
+    "avoid_for": [
+      "Jugendmarken mit popkultureller Energie",
+      "Event-Landingpages mit starker Promo-Dramaturgie",
+      "Luxury-Brands mit Fokus auf Exklusivitaet"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Equity Ice den Cluster Corporate Trust glaubwuerdig traegt",
+        "reason": "Equity Ice bleibt im Kern Corporate Trust, verschiebt die Tonlage aber in eine lichtere, offenere Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken bei Banken und Versicherungen serioes?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Corporate Trust zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Equity Ice im Cluster Corporate Trust?",
+        "answer": "Equity Ice eignet sich besonders, wenn Vertrauen, Regulierung und sachliche Fuehrung wichtiger sind als visuelle Lautstaerke."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Equity Ice</span><h3>Corporate Trust</h3><p>Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muss.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

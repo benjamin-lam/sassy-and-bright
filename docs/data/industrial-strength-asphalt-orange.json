@@ -1,0 +1,120 @@
+{
+  "title": "Industrial Strength: Asphalt Orange",
+  "slug": "industrial-strength-asphalt-orange",
+  "vibe": "Material Force / Robust",
+  "summary": "Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Die Variante Asphalt Orange verschiebt den Cluster in eine robuste, robuste Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Industrial Strength",
+    "cluster_slug": "industrial-strength",
+    "variant": "Asphalt Orange"
+  },
+  "keywords": [
+    "Industrie Farbpalette",
+    "Industrial Strength",
+    "Asphalt Orange",
+    "Business & Institutionen",
+    "Handwerk",
+    "Logistik"
+  ],
+  "seo": {
+    "meta_title": "Industrial Strength: Asphalt Orange | Industrie Farbpalette",
+    "meta_description": "Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Asphalt Orange bringt eine robuste, robuste Ausprägung für Handwerk, Logistik und verwandte Projekte.",
+    "focus_keyword": "Industrie Farbpalette",
+    "questions": [
+      "Welche Farben tragen Handwerk und Bauwesen glaubwürdig?",
+      "Wann passt Asphalt Orange im Cluster Industrial Strength?",
+      "Wie lassen sich Sicherheitsfarben digital einsetzen, ohne Alarmrauschen zu erzeugen?"
+    ]
+  },
+  "colors": {
+    "primary": "#c9c4bb",
+    "secondary": "#ece7de",
+    "accent": "#d97a28",
+    "bg": "#f7f4ef",
+    "text": "#2d2a28",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent neutrale Flächen schaffen Materialruhe, 30 Prozent Zweitflächen ordnen technische Inhalte, 10 Prozent Safety-Accent markieren Priorität und Richtung. Asphalt Orange wirkt dabei robuste, robuste."
+  },
+  "accessibility": {
+    "text_on_primary": 8.21,
+    "text_on_secondary": 11.57,
+    "text_on_bg": 12.99,
+    "text_on_card": 14.25
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Handwerk",
+    "Logistik",
+    "Bauwesen"
+  ],
+  "audiences": [
+    "Operative Teams",
+    "Einkaufsabteilungen",
+    "Sicherheitsrelevante Entscheider"
+  ],
+  "brand_traits": [
+    "robust",
+    "direkt",
+    "sicher"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Asphalt Orange Primary",
+      "psychology": "Das Primarsystem wirkt wie Material statt Dekor und verankert die Marke in physischer Leistung. In der Variante Asphalt Orange wirkt sie robuste, robuste.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Industrial Strength",
+      "risk": "Wenn Asphalt Orange zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Industrial Strength."
+    },
+    "secondary": {
+      "name": "Asphalt Orange Surface",
+      "psychology": "Die Zweitfarbe gibt Formularen, Tabellen und Leistungsmodulen eine belastbare Unterstruktur. So bleibt Asphalt Orange auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Asphalt Orange Accent",
+      "psychology": "Der Accent übernimmt Sicherheits- und Signalrollen und sollte im Interface klar priorisiert bleiben. Gerade in Asphalt Orange sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bau- und Logistik-Websites mit Leistungsfokus",
+      "Handwerksportale mit Angebotsstrecke",
+      "Industrieseiten mit Produkt- und Sicherheitsinformationen"
+    ],
+    "avoid_for": [
+      "Wellness- und Achtsamkeitsmarken",
+      "Luxury-Inszenierungen mit stiller Exklusivität",
+      "Kinderprodukte mit spielerischer Tonalität"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Asphalt Orange den Cluster Industrial Strength glaubwürdig trägt",
+        "reason": "Asphalt Orange bleibt im Kern Industrial Strength, verschiebt die Tonlage aber in eine robuste, robuste Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Handwerk und Bauwesen glaubwürdig?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Industrial Strength zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Asphalt Orange im Cluster Industrial Strength?",
+        "answer": "Asphalt Orange eignet sich besonders, wenn Leistung, Sicherheit und Materialehrlichkeit im Vordergrund stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Asphalt Orange<\/span><h3>Industrial Strength<\/h3><p>Eine robuste Industriepalette für Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Architecture & Design: Steel Timber",
+  "slug": "architecture-design-steel-timber",
+  "vibe": "Material Calm / Glass",
+  "summary": "Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie. Die Variante Steel Timber verschiebt den Cluster in eine glasigere, ruhige Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Architecture & Design",
+    "cluster_slug": "architecture-design",
+    "variant": "Steel Timber"
+  },
+  "keywords": [
+    "Farbpalette Architekturburo",
+    "Architecture & Design",
+    "Steel Timber",
+    "Kreativitaet & Bildung",
+    "Architektur",
+    "Interior Design"
+  ],
+  "seo": {
+    "meta_title": "Architecture & Design: Steel Timber | Farbpalette Architekturburo",
+    "meta_description": "Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie. Steel Timber bringt eine glasigere, ruhige Auspraegung fuer Architektur, Interior Design und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Architekturburo",
+    "questions": [
+      "Welche Farben passen zu Architektur und Interior Design?",
+      "Wann passt Steel Timber im Cluster Architecture & Design?",
+      "Wie wirkt Material-Aesthetik digital statt matt?"
+    ]
+  },
+  "colors": {
+    "primary": "#d6d5d1",
+    "secondary": "#f3f2ef",
+    "accent": "#7d7763",
+    "bg": "#fdfcfb",
+    "text": "#282524",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Grundflaechen, 30 Prozent Supportflaechen fuer Grundrisse und Case Studies, 10 Prozent Accent fuer Material- oder Interaktionspunkte. Steel Timber wirkt dabei glasigere, ruhige."
+  },
+  "accessibility": {
+    "text_on_primary": 10.36,
+    "text_on_secondary": 13.59,
+    "text_on_bg": 14.85,
+    "text_on_card": 15.21
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Architektur",
+    "Interior Design",
+    "Material Brands"
+  ],
+  "audiences": [
+    "Bauherrschaften",
+    "Designaffine Kundschaft",
+    "Projektleitende Teams"
+  ],
+  "brand_traits": [
+    "reduziert",
+    "materialnah",
+    "ruhig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Steel Timber Primary",
+      "psychology": "Die Primarfarbe wirkt wie Materialprobe und bringt Oberflaechenbewusstsein in den digitalen Raum. In der Variante Steel Timber wirkt sie glasigere, ruhige.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Architecture & Design",
+      "risk": "Wenn Steel Timber zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Architecture & Design."
+    },
+    "secondary": {
+      "name": "Steel Timber Surface",
+      "psychology": "Die Zweitfarbe haelt Bild, Plan und Text in einer ruhigen, editorischen Ordnung. So bleibt Steel Timber auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Steel Timber Accent",
+      "psychology": "Der Accent ist zurückhaltend und eignet sich fuer Markierungen, CTA oder projektrelevante Schwerpunkte. Gerade in Steel Timber sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Architekturbueros mit Projektstorys",
+      "Interior- und Produktdesign-Portfolios",
+      "Materialmarken mit ruhiger Visualitaet"
+    ],
+    "avoid_for": [
+      "Hyperaktive Jugendmarken",
+      "Lautes Entertainment",
+      "Security-Interfaces mit Alarmcodes"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Steel Timber den Cluster Architecture & Design glaubwuerdig traegt",
+        "reason": "Steel Timber bleibt im Kern Architecture & Design, verschiebt die Tonlage aber in eine glasigere, ruhige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Architektur und Interior Design?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Architecture & Design zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Steel Timber im Cluster Architecture & Design?",
+        "answer": "Steel Timber eignet sich besonders, wenn Materialcharakter, Ruhe und praezise Projektinszenierung zusammenkommen muessen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Steel Timber</span><h3>Architecture & Design</h3><p>Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

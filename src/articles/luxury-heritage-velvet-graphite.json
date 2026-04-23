@@ -1,0 +1,120 @@
+{
+  "title": "Luxury Heritage: Velvet Graphite",
+  "slug": "luxury-heritage-velvet-graphite",
+  "vibe": "Quiet Prestige / Estate",
+  "summary": "Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit. Die Variante Velvet Graphite verschiebt den Cluster in eine tiefere, estateartige Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Luxury Heritage",
+    "cluster_slug": "luxury-heritage",
+    "variant": "Velvet Graphite"
+  },
+  "keywords": [
+    "Farbpalette Luxusmarke",
+    "Luxury Heritage",
+    "Velvet Graphite",
+    "Lifestyle & Konsum",
+    "Luxusimmobilien",
+    "Uhren"
+  ],
+  "seo": {
+    "meta_title": "Luxury Heritage: Velvet Graphite | Farbpalette Luxusmarke",
+    "meta_description": "Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit. Velvet Graphite bringt eine tiefere, estateartige Auspraegung fuer Luxusimmobilien, Uhren und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Luxusmarke",
+    "questions": [
+      "Welche Farben tragen Luxus und Heritage im Web?",
+      "Wann passt Velvet Graphite im Cluster Luxury Heritage?",
+      "Wie wirkt eine Luxuspalette exklusiv statt prahlerisch?"
+    ]
+  },
+  "colors": {
+    "primary": "#21392c",
+    "secondary": "#ebe1cd",
+    "accent": "#909138",
+    "bg": "#f4efe3",
+    "text": "#1d1a1a",
+    "card": "#fffbf4"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Flaechen lassen Material und Bildsprache wirken, 30 Prozent tiefe Primarflaechen stiften Marke, 10 Prozent Accent markieren Luxusmomente und Interaktion. Velvet Graphite wirkt dabei tiefere, estateartige."
+  },
+  "accessibility": {
+    "text_on_primary": 1.39,
+    "text_on_secondary": 13.32,
+    "text_on_bg": 15.06,
+    "text_on_card": 16.76
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Luxusimmobilien",
+    "Uhren",
+    "Private Wealth"
+  ],
+  "audiences": [
+    "Vermoegende Privatkundschaft",
+    "Designaffine Kaeuferschaft",
+    "Concierge-orientierte Vertriebsteams"
+  ],
+  "brand_traits": [
+    "exklusiv",
+    "diskret",
+    "wertig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Velvet Graphite Primary",
+      "psychology": "Das Primarsystem wirkt nicht laut teuer, sondern kontrolliert hochwertig. In der Variante Velvet Graphite wirkt sie tiefere, estateartige.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Luxury Heritage",
+      "risk": "Wenn Velvet Graphite zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Luxury Heritage."
+    },
+    "secondary": {
+      "name": "Velvet Graphite Surface",
+      "psychology": "Die helle Zweitfarbe gibt Bildern, Text und Flaechen eine galerieartige Ruhe. So bleibt Velvet Graphite auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Velvet Graphite Accent",
+      "psychology": "Der Accent erinnert an Metall, Schmuck oder Signature-Details und darf bewusst dosiert bleiben. Gerade in Velvet Graphite sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Luxury-Property Auftritte",
+      "Boutique-Hotels mit Heritage",
+      "Wertige Verkaufsseiten mit wenig aber starkem UI"
+    ],
+    "avoid_for": [
+      "Kinder- und Education-Produkte",
+      "Behoerdenportale",
+      "Aktivistische Kampagnenseiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Velvet Graphite den Cluster Luxury Heritage glaubwuerdig traegt",
+        "reason": "Velvet Graphite bleibt im Kern Luxury Heritage, verschiebt die Tonlage aber in eine tiefere, estateartige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Luxus und Heritage im Web?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Luxury Heritage zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Velvet Graphite im Cluster Luxury Heritage?",
+        "answer": "Velvet Graphite eignet sich besonders, wenn Stille Exklusivitaet, Materialwert und kontrollierte Sattheit die Hauptrolle spielen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Velvet Graphite</span><h3>Luxury Heritage</h3><p>Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

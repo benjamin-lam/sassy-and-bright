@@ -1,0 +1,120 @@
+{
+  "title": "Sweet Confectionery: Cotton Bloom",
+  "slug": "sweet-confectionery-cotton-bloom",
+  "vibe": "Tender Delight / Creamy",
+  "summary": "Eine einladende Genuss-Palette für Bäckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Die Variante Cotton Bloom verschiebt den Cluster in eine cremige, einladende Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sweet Confectionery",
+    "cluster_slug": "sweet-confectionery",
+    "variant": "Cotton Bloom"
+  },
+  "keywords": [
+    "Farbpalette Konditorei",
+    "Sweet Confectionery",
+    "Cotton Bloom",
+    "Lifestyle & Konsum",
+    "Bäckereien",
+    "Konditoreien"
+  ],
+  "seo": {
+    "meta_title": "Sweet Confectionery: Cotton Bloom | Farbpalette Konditorei",
+    "meta_description": "Eine einladende Genuss-Palette für Bäckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Cotton Bloom bringt eine cremige, einladende Ausprägung für Bäckereien, Konditoreien und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Konditorei",
+    "questions": [
+      "Welche Farben machen Genussmarken nahbar?",
+      "Wann passt Cotton Bloom im Cluster Sweet Confectionery?",
+      "Wie wirken süsse Farben einladend statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#f2c0b6",
+    "secondary": "#fae1da",
+    "accent": "#d88972",
+    "bg": "#fff8f6",
+    "text": "#3a2b2a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warme Grundflächen schaffen Leichtigkeit, 30 Prozent softe Produktflächen tragen Sortimente, 10 Prozent Accent markieren Genussmomente und CTA. Cotton Bloom wirkt dabei cremige, einladende."
+  },
+  "accessibility": {
+    "text_on_primary": 8.33,
+    "text_on_secondary": 10.81,
+    "text_on_bg": 12.84,
+    "text_on_card": 13.47
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Bäckereien",
+    "Konditoreien",
+    "Geschenk-Shops"
+  ],
+  "audiences": [
+    "Spontane Käuferinnen und Käufer",
+    "Familiennahe Zielgruppen",
+    "Produktmarken mit Genussfokus"
+  ],
+  "brand_traits": [
+    "nahbar",
+    "freundlich",
+    "einladend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Cotton Bloom Primary",
+      "psychology": "Die Primarfarbe wirkt wie Zuckerguss oder Creme und aktiviert ohne aggressiv zu werden. In der Variante Cotton Bloom wirkt sie cremige, einladende.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Sweet Confectionery",
+      "risk": "Wenn Cotton Bloom zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Sweet Confectionery."
+    },
+    "secondary": {
+      "name": "Cotton Bloom Surface",
+      "psychology": "Die Zweitfarbe hält das Interface weich und produktfreundlich. So bleibt Cotton Bloom auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Cotton Bloom Accent",
+      "psychology": "Der Accent liefert kleine, appetitliche Highlights für Angebote und Aktionen. Gerade in Cotton Bloom sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Onlineshops für Backwaren und Geschenke",
+      "Saisonale Landingpages für Genussprodukte",
+      "Marken mit starker Nahbarkeitsinszenierung"
+    ],
+    "avoid_for": [
+      "CISO-Dashboards und Security-Produkte",
+      "Corporate-Finance Kommunikation",
+      "Brutalistisches Anti-Design"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Cotton Bloom den Cluster Sweet Confectionery glaubwürdig trägt",
+        "reason": "Cotton Bloom bleibt im Kern Sweet Confectionery, verschiebt die Tonlage aber in eine cremige, einladende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben machen Genussmarken nahbar?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Sweet Confectionery zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Cotton Bloom im Cluster Sweet Confectionery?",
+        "answer": "Cotton Bloom eignet sich besonders, wenn Wohlgefühl, Genuss und leichte Aktivierung wichtiger sind als Sachlichkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Cotton Bloom<\/span><h3>Sweet Confectionery<\/h3><p>Eine einladende Genuss-Palette für Bäckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

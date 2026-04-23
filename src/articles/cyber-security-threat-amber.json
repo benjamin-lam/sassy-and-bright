@@ -1,0 +1,120 @@
+{
+  "title": "Cyber Security: Threat Amber",
+  "slug": "cyber-security-threat-amber",
+  "vibe": "Protected Signal / Terminal",
+  "summary": "Eine scharf kontrastierende Security-Palette fuer Datenschutz, IT-Sicherheit und Verschluesselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Die Variante Threat Amber verschiebt den Cluster in eine terminalnaehere, schuetzende Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Cyber Security",
+    "cluster_slug": "cyber-security",
+    "variant": "Threat Amber"
+  },
+  "keywords": [
+    "Farbpalette Cyber Security",
+    "Cyber Security",
+    "Threat Amber",
+    "Tech & Future",
+    "IT-Sicherheit",
+    "Datenschutz"
+  ],
+  "seo": {
+    "meta_title": "Cyber Security: Threat Amber | Farbpalette Cyber Security",
+    "meta_description": "Eine scharf kontrastierende Security-Palette fuer Datenschutz, IT-Sicherheit und Verschluesselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Threat Amber bringt eine terminalnaehere, schuetzende Auspraegung fuer IT-Sicherheit, Datenschutz und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Cyber Security",
+    "questions": [
+      "Welche Farben passen zu Cyber Security und Datenschutz?",
+      "Wann passt Threat Amber im Cluster Cyber Security?",
+      "Wie setzt man Alarmfarben ein, ohne die Seite permanent schreien zu lassen?"
+    ]
+  },
+  "colors": {
+    "primary": "#182329",
+    "secondary": "#2a3740",
+    "accent": "#df2c6b",
+    "bg": "#0f131b",
+    "text": "#eef4ff",
+    "card": "#191f2b"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Sicherheitsbasis, 30 Prozent Supportebenen fuer Logs und Module, 10 Prozent Signalaccent fuer Risiko, Aktivitaet und Handlungsbedarf. Threat Amber wirkt dabei terminalnaehere, schuetzende."
+  },
+  "accessibility": {
+    "text_on_primary": 14.5,
+    "text_on_secondary": 11.06,
+    "text_on_bg": 16.84,
+    "text_on_card": 14.95
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "IT-Sicherheit",
+    "Datenschutz",
+    "Security SaaS"
+  ],
+  "audiences": [
+    "CISOs",
+    "IT-Abteilungen",
+    "Compliance-orientierte Einkaufsteams"
+  ],
+  "brand_traits": [
+    "schuetzend",
+    "wachsam",
+    "kontrolliert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Threat Amber Primary",
+      "psychology": "Die Primarfarbe wirkt wie Schutzschicht und verschiebt den Auftritt von IT hin zu Sicherheitsarchitektur. In der Variante Threat Amber wirkt sie terminalnaehere, schuetzende.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Cyber Security",
+      "risk": "Wenn Threat Amber zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Cyber Security."
+    },
+    "secondary": {
+      "name": "Threat Amber Surface",
+      "psychology": "Die dunkle Zweitebene ordnet Dashboards, Warnungen und Zustandssysteme. So bleibt Threat Amber auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Threat Amber Accent",
+      "psychology": "Der Accent darf nur dort auftauchen, wo Schutz, Gefahr oder aktive Handlung markiert werden muessen. Gerade in Threat Amber sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Security-Landingpages mit Vertrauensfokus",
+      "Datenschutz- und Compliance-SaaS",
+      "Bedrohungs- und Monitoringsysteme"
+    ],
+    "avoid_for": [
+      "Genuss- und Sweet-Branding",
+      "Soft-Wellness und Mindfulness",
+      "Zartes Romantasy-Branding"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Threat Amber den Cluster Cyber Security glaubwuerdig traegt",
+        "reason": "Threat Amber bleibt im Kern Cyber Security, verschiebt die Tonlage aber in eine terminalnaehere, schuetzende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Cyber Security und Datenschutz?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Cyber Security zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Threat Amber im Cluster Cyber Security?",
+        "answer": "Threat Amber eignet sich besonders, wenn Schutz, Signalwirkung und kontrollierte Aufmerksamkeit die Kernwahrnehmung bestimmen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Threat Amber</span><h3>Cyber Security</h3><p>Eine scharf kontrastierende Security-Palette fuer Datenschutz, IT-Sicherheit und Verschluesselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

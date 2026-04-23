@@ -1,0 +1,120 @@
+{
+  "title": "Urban Lifestyle: Sidewalk Sand",
+  "slug": "urban-lifestyle-sidewalk-sand",
+  "vibe": "Moving Modernity / Sand",
+  "summary": "Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet. Die Variante Sidewalk Sand verschiebt den Cluster in eine sandigere, modernere Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Urban Lifestyle",
+    "cluster_slug": "urban-lifestyle",
+    "variant": "Sidewalk Sand"
+  },
+  "keywords": [
+    "Farbpalette Coworking",
+    "Urban Lifestyle",
+    "Sidewalk Sand",
+    "Lifestyle & Konsum",
+    "Coworking",
+    "Mobility"
+  ],
+  "seo": {
+    "meta_title": "Urban Lifestyle: Sidewalk Sand | Farbpalette Coworking",
+    "meta_description": "Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet. Sidewalk Sand bringt eine sandigere, modernere Auspraegung fuer Coworking, Mobility und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Coworking",
+    "questions": [
+      "Welche Farben passen zu urbanen Marken und Mobility?",
+      "Wann passt Sidewalk Sand im Cluster Urban Lifestyle?",
+      "Wie wirkt City-Design modern statt kalt?"
+    ]
+  },
+  "colors": {
+    "primary": "#d6d3ce",
+    "secondary": "#f5f4ef",
+    "accent": "#cebb1e",
+    "bg": "#fdfcfb",
+    "text": "#272424",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Grundflaechen lassen Produkte und Orte atmen, 30 Prozent strukturierende Supportflaechen halten Navigation zusammen, 10 Prozent Accent geben Richtung und Tempo. Sidewalk Sand wirkt dabei sandigere, modernere."
+  },
+  "accessibility": {
+    "text_on_primary": 10.31,
+    "text_on_secondary": 13.98,
+    "text_on_bg": 15.02,
+    "text_on_card": 15.39
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Coworking",
+    "Mobility",
+    "Coffee Brands"
+  ],
+  "audiences": [
+    "Urbane Professionals",
+    "Gruenderinnen und Gruender",
+    "Community-orientierte Marken"
+  ],
+  "brand_traits": [
+    "modern",
+    "offen",
+    "beweglich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Sidewalk Sand Primary",
+      "psychology": "Die materialnahe Primarfarbe wirkt wie Stadtoberflaeche statt wie reine Dekoration. In der Variante Sidewalk Sand wirkt sie sandigere, modernere.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Urban Lifestyle",
+      "risk": "Wenn Sidewalk Sand zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Urban Lifestyle."
+    },
+    "secondary": {
+      "name": "Sidewalk Sand Surface",
+      "psychology": "Die Sekundaerflaechen halten Interface und Bilder freundlich, ohne beliebig zu werden. So bleibt Sidewalk Sand auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Sidewalk Sand Accent",
+      "psychology": "Der Accent bringt Bewegung in Navigation, Booking und primare Aktionen. Gerade in Sidewalk Sand sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Coworking-Auftritte mit Membership-Logik",
+      "Mobilitaetsprodukte mit klaren States",
+      "Urban Brands mit erwachsener Tonalitaet"
+    ],
+    "avoid_for": [
+      "Klinische Health-Produkte",
+      "True-Crime und Horror-Atmosphaeren",
+      "klassische Corporate-Finance Portale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Sidewalk Sand den Cluster Urban Lifestyle glaubwuerdig traegt",
+        "reason": "Sidewalk Sand bleibt im Kern Urban Lifestyle, verschiebt die Tonlage aber in eine sandigere, modernere Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu urbanen Marken und Mobility?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Urban Lifestyle zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Sidewalk Sand im Cluster Urban Lifestyle?",
+        "answer": "Sidewalk Sand eignet sich besonders, wenn Bewegung, moderne Erwachsenen-Tonalitaet und alltagstaugliche Energie gefragt sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Sidewalk Sand</span><h3>Urban Lifestyle</h3><p>Eine urbane Utility-Palette fuer Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernitaet.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

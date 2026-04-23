@@ -1,0 +1,121 @@
+{
+  "title": "Open Source & Dev-Tools: Repo Sand",
+  "slug": "open-source-dev-tools-repo-sand",
+  "vibe": "Productive Clarity / Repo",
+  "summary": "Eine funktionale Dev-Tools-Palette fuer Dokumentationen, GitHub-Pages und IDE-nahe Produkte mit Fokus auf Scannbarkeit, Ruhe und produktiver Klarheit. Die Variante Repo Sand verschiebt den Cluster in eine papiernaehere, dauerhafte Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Open Source & Dev-Tools",
+    "cluster_slug": "open-source-dev-tools",
+    "variant": "Repo Sand"
+  },
+  "keywords": [
+    "Farbpalette Dokumentation",
+    "Open Source & Dev-Tools",
+    "Repo Sand",
+    "Tech & Future",
+    "Open Source",
+    "Dev Tools"
+  ],
+  "seo": {
+    "meta_title": "Open Source & Dev-Tools: Repo Sand | Farbpalette Dokumentation",
+    "meta_description": "Eine funktionale Dev-Tools-Palette fuer Dokumentationen, GitHub-Pages und IDE-nahe Produkte mit Fokus auf Scannbarkeit, Ruhe und produktiver Klarheit. Repo Sand bringt eine papiernaehere, dauerhafte Auspraegung fuer Open Source, Dev Tools und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Dokumentation",
+    "questions": [
+      "Welche Farben passen zu Dokumentationen und Dev-Tools?",
+      "Wann passt Repo Sand im Cluster Open Source & Dev-Tools?",
+      "Wie bleibt eine Doku funktional, ohne klinisch auszusehen?"
+    ]
+  },
+  "colors": {
+    "primary": "#d3d4d7",
+    "secondary": "#f4f4f5",
+    "accent": "#436d78",
+    "bg": "#fefefe",
+    "text": "#1f2427",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent neutrale Leseflaechen, 30 Prozent strukturierende Supportebenen fuer Code, Navigation und Hinweise, 10 Prozent Accent fuer Links, Zustände und Syntax-Highlights. Repo Sand wirkt dabei papiernaehere, dauerhafte."
+  },
+  "accessibility": {
+    "text_on_primary": 10.57,
+    "text_on_secondary": 14.26,
+    "text_on_bg": 15.54,
+    "text_on_card": 15.67
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Open Source",
+    "Dev Tools",
+    "Dokumentation"
+  ],
+  "audiences": [
+    "Entwicklerinnen und Entwickler",
+    "Technische Redaktionen",
+    "Produktteams mit Doku-Fokus"
+  ],
+  "brand_traits": [
+    "funktional",
+    "nuechtern",
+    "hilfreich",
+    "dauerhaft"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Repo Sand Primary",
+      "psychology": "Die Primarflaeche wirkt wie neutrales Werkzeug statt wie Marketingkulisse. In der Variante Repo Sand wirkt sie papiernaehere, dauerhafte.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Open Source & Dev-Tools",
+      "risk": "Wenn Repo Sand zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Open Source & Dev-Tools."
+    },
+    "secondary": {
+      "name": "Repo Sand Surface",
+      "psychology": "Die Zweitfarbe verbessert Scanbarkeit und trennt Navigation von Content. So bleibt Repo Sand auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Repo Sand Accent",
+      "psychology": "Der Accent soll Orientierung und aktiven Code-Kontext liefern, nicht Brand-Show. Gerade in Repo Sand sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "API-Dokumentation",
+      "Open-Source-Portale mit langer Lesestrecke",
+      "Dev-Tools mit produktiver Oberflaeche"
+    ],
+    "avoid_for": [
+      "Luxusmarken mit stiller Opulenz",
+      "Beauty-D2C mit hoher Emotionalitaet",
+      "Kinder-EdTech mit spielerischem Farbdruck"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Repo Sand den Cluster Open Source & Dev-Tools glaubwuerdig traegt",
+        "reason": "Repo Sand bleibt im Kern Open Source & Dev-Tools, verschiebt die Tonlage aber in eine papiernaehere, dauerhafte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Dokumentationen und Dev-Tools?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Open Source & Dev-Tools zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Repo Sand im Cluster Open Source & Dev-Tools?",
+        "answer": "Repo Sand eignet sich besonders, wenn Scanbarkeit, Funktionalitaet und produktive Ruhe ueber Markeninszenierung stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Repo Sand</span><h3>Open Source & Dev-Tools</h3><p>Eine funktionale Dev-Tools-Palette fuer Dokumentationen, GitHub-Pages und IDE-nahe Produkte mit Fokus auf Scannbarkeit, Ruhe und produktiver Klarheit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

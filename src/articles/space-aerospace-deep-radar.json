@@ -1,0 +1,120 @@
+{
+  "title": "Space & Aerospace: Deep Radar",
+  "slug": "space-aerospace-deep-radar",
+  "vibe": "Cosmic Precision / Radar",
+  "summary": "Eine weite, technische Space-Palette fuer Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautoenen, Silber und klaren Weissraeumen. Die Variante Deep Radar verschiebt den Cluster in eine radarhafte, technische Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Space & Aerospace",
+    "cluster_slug": "space-aerospace",
+    "variant": "Deep Radar"
+  },
+  "keywords": [
+    "Farbpalette Luftfahrt",
+    "Space & Aerospace",
+    "Deep Radar",
+    "Tech & Future",
+    "Luftfahrt",
+    "Astronomie"
+  ],
+  "seo": {
+    "meta_title": "Space & Aerospace: Deep Radar | Farbpalette Luftfahrt",
+    "meta_description": "Eine weite, technische Space-Palette fuer Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautoenen, Silber und klaren Weissraeumen. Deep Radar bringt eine radarhafte, technische Auspraegung fuer Luftfahrt, Astronomie und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Luftfahrt",
+    "questions": [
+      "Welche Farben passen zu Luftfahrt und Aerospace?",
+      "Wann passt Deep Radar im Cluster Space & Aerospace?",
+      "Wie wirkt Space-Design weit statt nur dunkel?"
+    ]
+  },
+  "colors": {
+    "primary": "#2e6697",
+    "secondary": "#162432",
+    "accent": "#b6d7e8",
+    "bg": "#0e151f",
+    "text": "#eef4ff",
+    "card": "#182131"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent tiefer Raumhintergrund, 30 Prozent Supportebenen fuer Module und Telemetrie, 10 Prozent helle Signale fuer Navigation, CTA und Status. Deep Radar wirkt dabei radarhafte, technische."
+  },
+  "accessibility": {
+    "text_on_primary": 5.49,
+    "text_on_secondary": 14.27,
+    "text_on_bg": 16.6,
+    "text_on_card": 14.62
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Luftfahrt",
+    "Astronomie",
+    "Deep Tech"
+  ],
+  "audiences": [
+    "Forschungsnahe Teams",
+    "Ingenieurinnen und Ingenieure",
+    "Technologie-affine Investorinnen und Investoren"
+  ],
+  "brand_traits": [
+    "praezise",
+    "weit",
+    "technisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Deep Radar Primary",
+      "psychology": "Das Primarsystem gibt Tiefe und technische Orientierung ohne Sci-Fi-Kitsch. In der Variante Deep Radar wirkt sie radarhafte, technische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Space & Aerospace",
+      "risk": "Wenn Deep Radar zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Space & Aerospace."
+    },
+    "secondary": {
+      "name": "Deep Radar Surface",
+      "psychology": "Die zweite Ebene organisiert komplexe Information ruhig und praezise. So bleibt Deep Radar auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Deep Radar Accent",
+      "psychology": "Der helle Accent wirkt wie Instrumentenlicht oder orbitales Signal und bleibt bewusst reduziert. Gerade in Deep Radar sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Aerospace-Websites mit Deep-Tech Claim",
+      "Astronomie- und Mission-Interfaces",
+      "Luftfahrt-nahe Innovationsseiten"
+    ],
+    "avoid_for": [
+      "Warmherzige Community-Projekte",
+      "Pastellige Genusswelten",
+      "Verspielte Confectionery-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Deep Radar den Cluster Space & Aerospace glaubwuerdig traegt",
+        "reason": "Deep Radar bleibt im Kern Space & Aerospace, verschiebt die Tonlage aber in eine radarhafte, technische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Luftfahrt und Aerospace?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Space & Aerospace zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Deep Radar im Cluster Space & Aerospace?",
+        "answer": "Deep Radar eignet sich besonders, wenn Praezision, Weite und High-Tech-Kommunikation gemeinsam getragen werden muessen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Deep Radar</span><h3>Space & Aerospace</h3><p>Eine weite, technische Space-Palette fuer Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautoenen, Silber und klaren Weissraeumen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

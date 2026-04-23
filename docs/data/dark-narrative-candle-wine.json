@@ -1,0 +1,120 @@
+{
+  "title": "Dark Narrative: Candle Wine",
+  "slug": "dark-narrative-candle-wine",
+  "vibe": "Controlled Suspense / Wine",
+  "summary": "Eine dichte Story-Palette für Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense. Die Variante Candle Wine verschiebt den Cluster in eine weinrotere, kontrollierte Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Dark Narrative",
+    "cluster_slug": "dark-narrative",
+    "variant": "Candle Wine"
+  },
+  "keywords": [
+    "Farbpalette Mystery",
+    "Dark Narrative",
+    "Candle Wine",
+    "Popkultur & Subkultur",
+    "True Crime",
+    "Horror"
+  ],
+  "seo": {
+    "meta_title": "Dark Narrative: Candle Wine | Farbpalette Mystery",
+    "meta_description": "Eine dichte Story-Palette für Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense. Candle Wine bringt eine weinrotere, kontrollierte Ausprägung für True Crime, Horror und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Mystery",
+    "questions": [
+      "Welche Farben passen zu Mystery und True-Crime?",
+      "Wann passt Candle Wine im Cluster Dark Narrative?",
+      "Wie baut Farbe Suspense, ohne nur dunkel zu werden?"
+    ]
+  },
+  "colors": {
+    "primary": "#6c282c",
+    "secondary": "#d7cfbe",
+    "accent": "#685d50",
+    "bg": "#f1ede5",
+    "text": "#211d1e",
+    "card": "#fcf9f5"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent Pergament und Nebel, 30 Prozent dunkle Erzählebene, 10 Prozent Accent für Hinweise, Kapitel und Spannungsspitzen. Candle Wine wirkt dabei weinrotere, kontrollierte."
+  },
+  "accessibility": {
+    "text_on_primary": 1.57,
+    "text_on_secondary": 10.77,
+    "text_on_bg": 14.28,
+    "text_on_card": 15.89
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "True Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "audiences": [
+    "Story-getriebene Communities",
+    "Podcast- und Streaming-Publikum",
+    "Atmosphäre suchende Leserinnen und Leser"
+  ],
+  "brand_traits": [
+    "spannend",
+    "dicht",
+    "kontrolliert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Candle Wine Primary",
+      "psychology": "Die Primarfarbe bringt Schwere und Suspense, ohne in Horror-Klischee zu kippen. In der Variante Candle Wine wirkt sie weinrotere, kontrollierte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Dark Narrative",
+      "risk": "Wenn Candle Wine zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Dark Narrative."
+    },
+    "secondary": {
+      "name": "Candle Wine Surface",
+      "psychology": "Die Zweitfarbe erdet die Geschichte in Papier, Akte oder Archivstimmung. So bleibt Candle Wine auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Candle Wine Accent",
+      "psychology": "Der Accent dient der Foreshadowing-Logik und sollte Spannung eher andeuten als ausrufen. Gerade in Candle Wine sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Mystery- und True-Crime-Portale",
+      "Story-basierte Podcast- und Buchseiten",
+      "Serielle Erzählformate mit Atmosphäre"
+    ],
+    "avoid_for": [
+      "Kinder-Learning-Produkte",
+      "Bright-D2C-Shops",
+      "Öffentliche Serviceportale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Candle Wine den Cluster Dark Narrative glaubwürdig trägt",
+        "reason": "Candle Wine bleibt im Kern Dark Narrative, verschiebt die Tonlage aber in eine weinrotere, kontrollierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Mystery und True-Crime?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Dark Narrative zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Candle Wine im Cluster Dark Narrative?",
+        "answer": "Candle Wine eignet sich besonders, wenn Atmosphäre und dramaturgische Spannung wichtiger sind als neutrale Sachlichkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Candle Wine<\/span><h3>Dark Narrative<\/h3><p>Eine dichte Story-Palette für Horror, True-Crime und Mystery-Formate mit Weinrot, Pergament und kontrollierter Suspense.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

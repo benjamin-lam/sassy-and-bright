@@ -1,0 +1,121 @@
+{
+  "title": "Playful Education: Badge Lime",
+  "slug": "playful-education-badge-lime",
+  "vibe": "Structured Fun / Badge",
+  "summary": "Eine motivierende Lernpalette für EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur. Die Variante Badge Lime verschiebt den Cluster in eine badgeartige, aktivierende Richtung.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Playful Education",
+    "cluster_slug": "playful-education",
+    "variant": "Badge Lime"
+  },
+  "keywords": [
+    "Farbpalette EdTech",
+    "Playful Education",
+    "Badge Lime",
+    "Kreativität & Bildung",
+    "EdTech",
+    "E-Learning"
+  ],
+  "seo": {
+    "meta_title": "Playful Education: Badge Lime | Farbpalette EdTech",
+    "meta_description": "Eine motivierende Lernpalette für EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur. Badge Lime bringt eine badgeartige, aktivierende Ausprägung für EdTech, E-Learning und verwandte Projekte.",
+    "focus_keyword": "Farbpalette EdTech",
+    "questions": [
+      "Welche Farben motivieren in Education-Produkten?",
+      "Wann passt Badge Lime im Cluster Playful Education?",
+      "Wie wird ein bunter Lernauftritt strukturiert statt chaotisch?"
+    ]
+  },
+  "colors": {
+    "primary": "#ff8554",
+    "secondary": "#ffe4ca",
+    "accent": "#29e3ed",
+    "bg": "#ffffff",
+    "text": "#2c2c26",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helle Lernflächen entlasten, 30 Prozent Supportfarben strukturieren Missionen und Module, 10 Prozent Accent geben klares Feedback. Badge Lime wirkt dabei badgeartige, aktivierende."
+  },
+  "accessibility": {
+    "text_on_primary": 5.84,
+    "text_on_secondary": 11.5,
+    "text_on_bg": 14.04,
+    "text_on_card": 14.04
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "EdTech",
+    "E-Learning",
+    "Kinder-Apps"
+  ],
+  "audiences": [
+    "Lernende Kinder",
+    "Eltern und Lehrkräfte",
+    "Produktteams für Education"
+  ],
+  "brand_traits": [
+    "motivierend",
+    "spielerisch",
+    "klar",
+    "aktivierend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Badge Lime Primary",
+      "psychology": "Die Primarfarbe wirkt wie positive Aktivierung und zieht Aufmerksamkeit ohne Druck an. In der Variante Badge Lime wirkt sie badgeartige, aktivierende.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Playful Education",
+      "risk": "Wenn Badge Lime zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Playful Education."
+    },
+    "secondary": {
+      "name": "Badge Lime Surface",
+      "psychology": "Die Zweitfarbe schafft sichere Flächen für Inhalte, Aufgaben und Progression. So bleibt Badge Lime auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Badge Lime Accent",
+      "psychology": "Der Accent eignet sich für Badge-Logik, Fortschritt und motivierende Interaktion. Gerade in Badge Lime sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Kinder-Apps mit Missionsstruktur",
+      "EdTech-Onboarding",
+      "Lernplattformen mit spielerischer Führung"
+    ],
+    "avoid_for": [
+      "Diskrete Premium-Kanzleiseiten",
+      "Brutalistisches Anti-Design",
+      "True-Crime und Dark Narrative"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Badge Lime den Cluster Playful Education glaubwürdig trägt",
+        "reason": "Badge Lime bleibt im Kern Playful Education, verschiebt die Tonlage aber in eine badgeartige, aktivierende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben motivieren in Education-Produkten?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Playful Education zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Badge Lime im Cluster Playful Education?",
+        "answer": "Badge Lime eignet sich besonders, wenn Motivation und Unterscheidbarkeit Lernfortschritt sichtbar unterstützen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Badge Lime<\/span><h3>Playful Education<\/h3><p>Eine motivierende Lernpalette für EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

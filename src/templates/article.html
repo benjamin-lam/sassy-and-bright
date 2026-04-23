@@ -27,6 +27,7 @@
     <nav class="site-nav" aria-label="Hauptnavigation">
       <a href="{{home_href}}">Übersicht</a>
       <a href="{{search_href}}">Suche</a>
+      <a href="{{impressum_href}}">Impressum</a>
     </nav>
   </header>
 
@@ -37,8 +38,9 @@
         <h1 class="display-title">{{title}}</h1>
         <p class="lead">{{summary}}</p>
         <ul class="meta-strip" aria-label="Kurzprofil">
-          <li><strong>Vibe:</strong> {{vibe}}</li>
-          <li><strong>Slug:</strong> {{slug}}</li>
+          <li><strong>Sektor:</strong> {{sector_label}}</li>
+          <li><strong>Cluster:</strong> {{cluster_label}}</li>
+          <li><strong>Variante:</strong> {{variant_label}}</li>
           <li><strong>Cognitive Load:</strong> {{cognitive_load}} / 5 ({{cognitive_label}})</li>
         </ul>
       </div>
@@ -46,23 +48,20 @@
         <div class="toggle-row">
           <div>
             <p class="eyebrow">Mode</p>
-            <p>Reading für Analyse, Lab für UI-Demo.</p>
+            <p
+              id="mode-description"
+              data-reading-copy="Reading priorisiert Analyse, Argumentation und Vergleich."
+              data-lab-copy="Lab nutzt dieselbe Trägerseite als aktive Testfläche für Flächen, Buttons, Tags und Hierarchie."
+            >Reading priorisiert Analyse, Argumentation und Vergleich.</p>
           </div>
           <label class="switch">
-            <input
-              id="mode-toggle"
-              type="checkbox"
-              aria-label="Lab Mode aktivieren"
-              data-reading-href="{{reading_href}}"
-              data-mockup-href="{{mockup_href}}"
-            >
+            <input id="mode-toggle" type="checkbox" aria-label="Lab Mode aktivieren">
             <span class="slider"></span>
           </label>
         </div>
         <div class="button-row">
           <button class="btn" type="button" data-copy-css>Copy CSS</button>
           <a class="btn btn-ghost" href="{{css_download_href}}" download>CSS Download</a>
-          <a class="btn btn-ghost" href="{{mockup_href}}">Lab öffnen</a>
           <a class="text-link" href="{{json_download_href}}">JSON Referenz</a>
         </div>
         <p id="copy-status" class="micro-copy" aria-live="polite"></p>
@@ -72,7 +71,7 @@
     <section class="set-card bg-30 reveal">
       <div class="section-head">
         <p class="eyebrow">Set-Card</p>
-        <h2>Palette, Wirkung und Entscheidungsgrundlage auf einer Seite</h2>
+        <h2>Palette, Wirkung und Trägerseite in einem System</h2>
       </div>
       <div class="grid-two">
         <article class="panel">
@@ -83,14 +82,13 @@
           </div>
         </article>
         <article class="panel">
-          <h3>Direkte Anwendung</h3>
-          <p>Die Palette wird über ihr generiertes Stylesheet direkt geladen und sofort auf die Seite angewendet.</p>
+          <h3>Direkte Anwendung auf der Trägerseite</h3>
+          <p>Diese Seite ist selbst die Testfläche. Reading zeigt die Analyse, Lab zeigt dieselben Tokens mit stärkerer UI-Gewichtung auf derselben Oberfläche.</p>
           <ul class="bullet-list">
-            <li>Reading Mode für Analyse, Argumentation und Kontrastprüfung.</li>
-            <li>Separate Mockup-Seite mit denselben Variablen für Hierarchie-Tests.</li>
+            <li>Die generierte CSS-Datei wird direkt auf diese Seite geladen.</li>
+            <li>Buttons, Tags, Panels und Flächen dienen als unmittelbare Träger für die Palette.</li>
             <li>CSS und JSON bleiben als Download und KI-Referenz verfügbar.</li>
           </ul>
-          <a class="btn btn-ghost inline-action" href="{{mockup_href}}">Zum UI-Mockup</a>
         </article>
       </div>
     </section>
@@ -119,9 +117,13 @@
       </article>
       <article class="panel">
         <div class="section-head compact">
-          <p class="eyebrow">Fit</p>
-          <h2>Branche, Zielgruppe und Markencharakter</h2>
+          <p class="eyebrow">Portfolio Fit</p>
+          <h2>Taxonomie, Zielgruppe und Markencharakter</h2>
         </div>
+        <p class="metric-copy"><strong>Portfolio</strong></p>
+        <ul class="tag-list">{{taxonomy_tags}}</ul>
+        <p class="metric-copy"><strong>WCAG Status</strong></p>
+        <p class="metric-copy">{{wcag_status}}</p>
         <p class="metric-copy"><strong>Industry Match</strong></p>
         <ul class="tag-list">{{industry_tags}}</ul>
         <p class="metric-copy"><strong>Audiences</strong></p>
@@ -178,11 +180,10 @@
       </article>
       <article class="panel">
         <div class="section-head compact">
-          <p class="eyebrow">Lab</p>
-          <h2>UI-Mockup auf eigener Seite</h2>
+          <p class="eyebrow">Style Guide</p>
+          <h2>So wird die Set-Card zum Style Guide</h2>
         </div>
-        <p>Das Mockup nutzt dieselben CSS-Variablen wie die Analyse-Seite und trennt UI-Test und Dokumentation sauber voneinander.</p>
-        <a class="btn" href="{{mockup_href}}">Lab öffnen</a>
+        {{style_guide_items}}
       </article>
     </section>
 
@@ -195,10 +196,15 @@
         {{faq_items}}
       </div>
     </section>
+
+    {{cluster_variant_section}}
   </main>
 
   <footer class="site-footer shell">
     <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <nav class="site-nav" aria-label="Footer">
+      <a href="{{impressum_href}}">Impressum</a>
+    </nav>
   </footer>
 
   {{article_data_script}}

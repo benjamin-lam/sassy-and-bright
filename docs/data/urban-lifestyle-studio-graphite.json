@@ -1,0 +1,120 @@
+{
+  "title": "Urban Lifestyle: Studio Graphite",
+  "slug": "urban-lifestyle-studio-graphite",
+  "vibe": "Moving Modernity / Transit",
+  "summary": "Eine urbane Utility-Palette für Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernität. Die Variante Studio Graphite verschiebt den Cluster in eine transitorische, offene Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Urban Lifestyle",
+    "cluster_slug": "urban-lifestyle",
+    "variant": "Studio Graphite"
+  },
+  "keywords": [
+    "Farbpalette Coworking",
+    "Urban Lifestyle",
+    "Studio Graphite",
+    "Lifestyle & Konsum",
+    "Coworking",
+    "Mobility"
+  ],
+  "seo": {
+    "meta_title": "Urban Lifestyle: Studio Graphite | Farbpalette Coworking",
+    "meta_description": "Eine urbane Utility-Palette für Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernität. Studio Graphite bringt eine transitorische, offene Ausprägung für Coworking, Mobility und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Coworking",
+    "questions": [
+      "Welche Farben passen zu urbanen Marken und Mobility?",
+      "Wann passt Studio Graphite im Cluster Urban Lifestyle?",
+      "Wie wirkt City-Design modern statt kalt?"
+    ]
+  },
+  "colors": {
+    "primary": "#d2c2bd",
+    "secondary": "#efe5e1",
+    "accent": "#d6da1d",
+    "bg": "#faf7f4",
+    "text": "#272424",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Grundflächen lassen Produkte und Orte atmen, 30 Prozent strukturierende Supportflächen halten Navigation zusammen, 10 Prozent Accent geben Richtung und Tempo. Studio Graphite wirkt dabei transitorische, offene."
+  },
+  "accessibility": {
+    "text_on_primary": 8.94,
+    "text_on_secondary": 12.44,
+    "text_on_bg": 14.42,
+    "text_on_card": 15.39
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Coworking",
+    "Mobility",
+    "Coffee Brands"
+  ],
+  "audiences": [
+    "Urbane Professionals",
+    "Gründerinnen und Gründer",
+    "Community-orientierte Marken"
+  ],
+  "brand_traits": [
+    "modern",
+    "offen",
+    "beweglich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Studio Graphite Primary",
+      "psychology": "Die materialnahe Primarfarbe wirkt wie Stadtoberfläche statt wie reine Dekoration. In der Variante Studio Graphite wirkt sie transitorische, offene.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Urban Lifestyle",
+      "risk": "Wenn Studio Graphite zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Urban Lifestyle."
+    },
+    "secondary": {
+      "name": "Studio Graphite Surface",
+      "psychology": "Die Sekundärflächen halten Interface und Bilder freundlich, ohne beliebig zu werden. So bleibt Studio Graphite auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Studio Graphite Accent",
+      "psychology": "Der Accent bringt Bewegung in Navigation, Booking und primare Aktionen. Gerade in Studio Graphite sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Coworking-Auftritte mit Membership-Logik",
+      "Mobilitätsprodukte mit klaren States",
+      "Urban Brands mit erwachsener Tonalität"
+    ],
+    "avoid_for": [
+      "Klinische Health-Produkte",
+      "True-Crime und Horror-Atmosphären",
+      "klassische Corporate-Finance Portale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Studio Graphite den Cluster Urban Lifestyle glaubwürdig trägt",
+        "reason": "Studio Graphite bleibt im Kern Urban Lifestyle, verschiebt die Tonlage aber in eine transitorische, offene Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu urbanen Marken und Mobility?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Urban Lifestyle zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Studio Graphite im Cluster Urban Lifestyle?",
+        "answer": "Studio Graphite eignet sich besonders, wenn Bewegung, moderne Erwachsenen-Tonalität und alltagstaugliche Energie gefragt sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Studio Graphite<\/span><h3>Urban Lifestyle<\/h3><p>Eine urbane Utility-Palette für Coffee-Shops, Coworking und Mobility-Produkte mit Fokus auf Bewegung, Stadtmaterial und erwachsene Modernität.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Brutalist Digital: Raw Monochrome",
+  "slug": "brutalist-digital-raw-monochrome",
+  "vibe": "Raw Contrast / System",
+  "summary": "Eine rohe Anti-Design-Palette für Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. Die Variante Raw Monochrome verschiebt den Cluster in eine systemhaftere, direkte Richtung.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Brutalist Digital",
+    "cluster_slug": "brutalist-digital",
+    "variant": "Raw Monochrome"
+  },
+  "keywords": [
+    "Brutalist Webdesign Farben",
+    "Brutalist Digital",
+    "Raw Monochrome",
+    "Kreativität & Bildung",
+    "Underground Web",
+    "Web3 Art"
+  ],
+  "seo": {
+    "meta_title": "Brutalist Digital: Raw Monochrome | Brutalist Webdesign Farben",
+    "meta_description": "Eine rohe Anti-Design-Palette für Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. Raw Monochrome bringt eine systemhaftere, direkte Ausprägung für Underground Web, Web3 Art und verwandte Projekte.",
+    "focus_keyword": "Brutalist Webdesign Farben",
+    "questions": [
+      "Welche Farben passen zu brutalistischem Webdesign?",
+      "Wann passt Raw Monochrome im Cluster Brutalist Digital?",
+      "Wie wirkt Anti-Design absichtlich roh statt defekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#d0d0d0",
+    "secondary": "#ebebeb",
+    "accent": "#fff23d",
+    "bg": "#f7f7f7",
+    "text": "#111111",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent rohe Grundflächen, 30 Prozent graue Funktionsebene und 10 Prozent störender Accent für Fokus und Anti-Perfektion. Raw Monochrome wirkt dabei systemhaftere, direkte."
+  },
+  "accessibility": {
+    "text_on_primary": 12.24,
+    "text_on_secondary": 15.84,
+    "text_on_bg": 17.63,
+    "text_on_card": 18.88
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Underground Web",
+    "Web3 Art",
+    "Experimentelle Portale"
+  ],
+  "audiences": [
+    "Digital Artists",
+    "Szene-affine Communities",
+    "Nutzerinnen und Nutzer mit Gestaltungsbewusstsein"
+  ],
+  "brand_traits": [
+    "roh",
+    "direkt",
+    "störend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Raw Monochrome Primary",
+      "psychology": "Die Primarfarbe markiert Distanz zum Hochglanz-Web und stellt System über Dekor. In der Variante Raw Monochrome wirkt sie systemhaftere, direkte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Brutalist Digital",
+      "risk": "Wenn Raw Monochrome zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Brutalist Digital."
+    },
+    "secondary": {
+      "name": "Raw Monochrome Surface",
+      "psychology": "Die Zweitfarbe baut rohes Raster, Browser-Nähe und bewusste Sprödigkeit. So bleibt Raw Monochrome auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Raw Monochrome Accent",
+      "psychology": "Der Accent zerschneidet Neutralität und macht die anti-dekorative Haltung sofort sichtbar. Gerade in Raw Monochrome sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Experimentelle Portfolios",
+      "Anti-Design-Projekte",
+      "Kulturseiten mit bewusstem Regelbruch"
+    ],
+    "avoid_for": [
+      "Public-Sector Services",
+      "vertrauenslastige Fintech-Angebote",
+      "Wellness- und Mindfulness-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Raw Monochrome den Cluster Brutalist Digital glaubwürdig trägt",
+        "reason": "Raw Monochrome bleibt im Kern Brutalist Digital, verschiebt die Tonlage aber in eine systemhaftere, direkte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu brutalistischem Webdesign?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Brutalist Digital zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Raw Monochrome im Cluster Brutalist Digital?",
+        "answer": "Raw Monochrome eignet sich besonders, wenn Reibung, Systemcharakter und radikale Positionierung explizit gewünscht sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Raw Monochrome<\/span><h3>Brutalist Digital<\/h3><p>Eine rohe Anti-Design-Palette für Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

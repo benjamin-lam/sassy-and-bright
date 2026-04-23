@@ -1,0 +1,121 @@
+{
+  "title": "Crypto & Fintech 2.0: Vault Blue",
+  "slug": "crypto-fintech-2-0-vault-blue",
+  "vibe": "Cold Market Precision / Matrix",
+  "summary": "Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung. Die Variante Vault Blue verschiebt den Cluster in eine matrixartige, analytische Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Crypto & Fintech 2.0",
+    "cluster_slug": "crypto-fintech-2-0",
+    "variant": "Vault Blue"
+  },
+  "keywords": [
+    "Farbpalette Fintech",
+    "Crypto & Fintech 2.0",
+    "Vault Blue",
+    "Tech & Future",
+    "Web3",
+    "Trading"
+  ],
+  "seo": {
+    "meta_title": "Crypto & Fintech 2.0: Vault Blue | Farbpalette Fintech",
+    "meta_description": "Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung. Vault Blue bringt eine matrixartige, analytische Auspraegung fuer Web3, Trading und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Fintech",
+    "questions": [
+      "Welche Farben passen zu Fintech und Web3?",
+      "Wann passt Vault Blue im Cluster Crypto & Fintech 2.0?",
+      "Wie wirkt eine Trading-Palette technisch-kuehl statt abweisend?"
+    ]
+  },
+  "colors": {
+    "primary": "#25e3aa",
+    "secondary": "#182b34",
+    "accent": "#37b9fe",
+    "bg": "#10151f",
+    "text": "#eef3ff",
+    "card": "#1a2233"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Flaechen halten Markt- und Tradingdaten fokussiert, 30 Prozent Supportebenen ordnen Widgets, 10 Prozent Accent markieren wichtige Entscheidungen. Vault Blue wirkt dabei matrixartige, analytische."
+  },
+  "accessibility": {
+    "text_on_primary": 1.49,
+    "text_on_secondary": 13.18,
+    "text_on_bg": 16.45,
+    "text_on_card": 14.31
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Web3",
+    "Trading",
+    "Fintech"
+  ],
+  "audiences": [
+    "Power User",
+    "Quant-orientierte Teams",
+    "Risikobewusste Traderinnen und Trader"
+  ],
+  "brand_traits": [
+    "kuehl",
+    "dominant",
+    "technisch",
+    "analytisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Vault Blue Primary",
+      "psychology": "Die Primarfarbe liefert kuehle technische Dominanz und starken digitalen Wiedererkennungswert. In der Variante Vault Blue wirkt sie matrixartige, analytische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Crypto & Fintech 2.0",
+      "risk": "Wenn Vault Blue zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Crypto & Fintech 2.0."
+    },
+    "secondary": {
+      "name": "Vault Blue Surface",
+      "psychology": "Die Zweitebene organisiert Daten und Interaktionsraeume ohne Showeffekte. So bleibt Vault Blue auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Vault Blue Accent",
+      "psychology": "Der Accent dient Handelssignalen, aktiven Zuständen und fokussierten CTAs. Gerade in Vault Blue sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Trading-Apps mit hoher Dichte",
+      "Fintech-Startseiten mit Produktclaim",
+      "Web3-Produkte mit kuehler Dominanz"
+    ],
+    "avoid_for": [
+      "Kinderprodukte",
+      "Achtsamkeitsangebote",
+      "Klassische Behördenkommunikation"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Vault Blue den Cluster Crypto & Fintech 2.0 glaubwuerdig traegt",
+        "reason": "Vault Blue bleibt im Kern Crypto & Fintech 2.0, verschiebt die Tonlage aber in eine matrixartige, analytische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Fintech und Web3?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Crypto & Fintech 2.0 zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Vault Blue im Cluster Crypto & Fintech 2.0?",
+        "answer": "Vault Blue eignet sich besonders, wenn Datenklarheit, Kontrolle und moderne Dominanz die Wahrnehmung tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Vault Blue</span><h3>Crypto & Fintech 2.0</h3><p>Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

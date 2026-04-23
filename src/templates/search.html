@@ -22,6 +22,7 @@
     <a class="brand-mark" href="{{home_href}}">VibeVault</a>
     <nav class="site-nav" aria-label="Hauptnavigation">
       <a href="{{home_href}}">Übersicht</a>
+      <a href="{{impressum_href}}">Impressum</a>
     </nav>
   </header>
 
@@ -29,21 +30,35 @@
     <section class="hero-panel bg-60 reveal">
       <div class="hero-copy">
         <p class="eyebrow">Suche</p>
-        <h1 class="display-title">Passende Farbpalette nach Projektlogik filtern</h1>
-        <p class="lead">Suche nicht nach Hübschigkeit, sondern nach Wirkung, Branche, Zielgruppe und Begründbarkeit.</p>
+        <h1 class="display-title">Passende Farbpalette nach Portfolio-Logik filtern</h1>
+        <p class="lead">Filtere nach Sektor, Cluster, Vibe, Branche und Freitext. So werden aus {{palette_count}} Varianten schnell belastbare Kandidaten für ein Projekt.</p>
       </div>
       <div class="control-card bg-30">
         <p class="eyebrow">Ergebnis</p>
         <h2><span id="result-count">0</span> von <span id="total-count">0</span> Paletten sichtbar</h2>
-        <p>Die Filter arbeiten nur clientseitig und bleiben damit schnell und ohne externe Abhängigkeiten.</p>
+        <p>Alle Filter arbeiten clientseitig und bleiben ohne externe Abhängigkeiten schnell.</p>
       </div>
     </section>
 
     <section class="panel reveal">
-      <div class="search-controls">
+      <div class="search-controls search-controls-wide">
         <label class="field">
           <span>Freitext</span>
-          <input id="search-input" type="search" placeholder="z. B. E-Commerce, Vertrauen, Grau, D2C">
+          <input id="search-input" type="search" placeholder="z. B. Banken, Synthwave, Gen-Z, WCAG AAA">
+        </label>
+        <label class="field">
+          <span>Sektor</span>
+          <select id="sector-filter">
+            <option value="">Alle</option>
+            {{sector_options}}
+          </select>
+        </label>
+        <label class="field">
+          <span>Cluster</span>
+          <select id="cluster-filter">
+            <option value="">Alle</option>
+            {{cluster_options}}
+          </select>
         </label>
         <label class="field">
           <span>Vibe</span>
@@ -69,13 +84,17 @@
       </div>
       <div id="empty-state" class="panel empty-state" hidden>
         <h2>Keine Palette passt auf diese Kombination.</h2>
-        <p>Versuche breitere Suchbegriffe oder setze Vibe und Branche zurück.</p>
+        <p>Versuche breitere Suchbegriffe oder setze Sektor, Cluster und Branche zurück.</p>
       </div>
     </section>
   </main>
 
   <footer class="site-footer shell">
     <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <nav class="site-nav" aria-label="Footer">
+      <a href="{{home_href}}">Übersicht</a>
+      <a href="{{impressum_href}}">Impressum</a>
+    </nav>
   </footer>
 
   {{search_data_script}}

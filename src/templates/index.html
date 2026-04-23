@@ -21,26 +21,27 @@
     <a class="brand-mark" href="./">VibeVault</a>
     <nav class="site-nav" aria-label="Hauptnavigation">
       <a href="{{search_href}}">Suche</a>
+      <a href="{{impressum_href}}">Impressum</a>
     </nav>
   </header>
 
   <main id="content" class="shell stack-xl">
     <section class="hero-panel bg-60 reveal">
       <div class="hero-copy">
-        <p class="eyebrow">Farbpaletten, Farbpsychologie, SEO</p>
-        <h1 class="display-title">Ein Archiv für argumentierbare Farbentscheidungen im Web</h1>
-        <p class="lead">Jede Palette wird als Set-Card mit Wirkung, Zielgruppenfit, Accessibility und Download der CSS Variablen dargestellt. So wird aus Geschmack eine belastbare Entscheidung.</p>
+        <p class="eyebrow">Farbpaletten, Farbpsychologie, Style Guide</p>
+        <h1 class="display-title">Ein Archiv für belastbare Farbentscheidungen im Web</h1>
+        <p class="lead">VibeVault verbindet Farbsprache, Branchenlogik und Argumentation. Jede Set-Card zeigt, wie eine Palette wirkt und wie sie in einen Style Guide für reale Webprojekte überführt werden kann.</p>
         <ul class="meta-strip">
-          <li><strong>{{palette_count}}</strong> Palette(n) im Archiv</li>
-          <li><strong>Mobile first</strong> für schnelle Referenz</li>
-          <li><strong>SEO-Fokus</strong> auf Fragen rund um Farbpalette und Farbpsychologie</li>
+          <li><strong>{{palette_count}}</strong> Paletten im Archiv</li>
+          <li><strong>{{cluster_count}}</strong> Cluster</li>
+          <li><strong>{{sector_count}}</strong> Sektoren</li>
         </ul>
       </div>
       <div class="control-card bg-30">
-        <p class="eyebrow">Suchseite</p>
-        <h2>Filtere nach Branche, Vibe und Argumentation</h2>
-        <p>Die Suche ist absichtlich separat, damit Startseite und Detailseiten fokussiert bleiben.</p>
-        <a class="btn" href="{{search_href}}">Zur Suchseite</a>
+        <p class="eyebrow">Archivzugang</p>
+        <h2>Suche nach Sektor, Cluster, Vibe und Projektlogik</h2>
+        <p>Das Sucharchiv bündelt das vollständige Portfolio. Die Startseite zeigt Struktur, Leitfragen und die Übertragung in einen Style Guide.</p>
+        <a class="btn" href="{{search_href}}">Zum Sucharchiv</a>
       </div>
     </section>
 
@@ -56,31 +57,45 @@
       </article>
       <article class="panel">
         <div class="section-head compact">
-          <p class="eyebrow">Nutzen</p>
-          <h2>Was eine gute Set-Card leisten muss</h2>
+          <p class="eyebrow">Style Guide Transfer</p>
+          <h2>Wie VibeVault in ein Design-System übergeht</h2>
         </div>
         <ul class="bullet-list">
-          <li>Farben fachlich begründen statt nur subjektiv zu bewerten.</li>
-          <li>Palette, Zielgruppe, Branche und Risiken auf einen Blick lesen.</li>
-          <li>CSS Variablen direkt übernehmen oder an eine KI weiterreichen.</li>
-          <li>SEO-Fragen und FAQ mit den Daten der Palette verbinden.</li>
+          <li>Primär-, Sekundär- und Accentfarbe werden als Marken-, Flächen- und Interaktionstoken übernommen.</li>
+          <li>Background, Card und Text liefern die Lesepaare für Grundlayout, Module und Content-Flächen.</li>
+          <li>Das 60-30-10-Verhältnis aus der Set-Card wird zur Richtlinie für Oberflächenhierarchie.</li>
+          <li>Kontrastmatrix, Branchenfit und Risiken liefern Begründungen für Style-Guide-Entscheidungen.</li>
         </ul>
       </article>
     </section>
 
     <section class="reveal">
       <div class="section-head">
-        <p class="eyebrow">Archiv</p>
-        <h2>Aktuelle Set-Cards</h2>
+        <p class="eyebrow">Sektoren</p>
+        <h2>Das Portfolio im Überblick</h2>
+      </div>
+      <div class="sector-grid">
+        {{sector_cards}}
+      </div>
+    </section>
+
+    <section class="reveal">
+      <div class="section-head">
+        <p class="eyebrow">Auswahl</p>
+        <h2>Beispielhafte Set-Cards aus dem Archiv</h2>
       </div>
       <div class="card-grid">
-        {{palette_cards}}
+        {{featured_palette_cards}}
       </div>
     </section>
   </main>
 
   <footer class="site-footer shell">
     <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <nav class="site-nav" aria-label="Footer">
+      <a href="{{search_href}}">Suche</a>
+      <a href="{{impressum_href}}">Impressum</a>
+    </nav>
   </footer>
 </body>
 </html>

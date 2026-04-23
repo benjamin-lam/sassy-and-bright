@@ -1,0 +1,120 @@
+{
+  "title": "Retro-Futurism / Synthwave: Laser Palm",
+  "slug": "retro-futurism-synthwave-laser-palm",
+  "vibe": "Digital Nostalgia / Palm",
+  "summary": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Die Variante Laser Palm verschiebt den Cluster in eine palmige, dramatische Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Retro-Futurism / Synthwave",
+    "cluster_slug": "retro-futurism-synthwave",
+    "variant": "Laser Palm"
+  },
+  "keywords": [
+    "Synthwave Farbpalette",
+    "Retro-Futurism / Synthwave",
+    "Laser Palm",
+    "Popkultur & Subkultur",
+    "80s Culture",
+    "Arcade"
+  ],
+  "seo": {
+    "meta_title": "Retro-Futurism / Synthwave: Laser Palm | Synthwave Farbpalette",
+    "meta_description": "Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Laser Palm bringt eine palmige, dramatische Ausprägung für 80s Culture, Arcade und verwandte Projekte.",
+    "focus_keyword": "Synthwave Farbpalette",
+    "questions": [
+      "Welche Farben tragen Synthwave und Retro-Futurism?",
+      "Wann passt Laser Palm im Cluster Retro-Futurism / Synthwave?",
+      "Wie wirkt Neon-Nostalgie lesbar statt nur Effekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#ff4572",
+    "secondary": "#2a1542",
+    "accent": "#2895ff",
+    "bg": "#120d22",
+    "text": "#f7f1ff",
+    "card": "#1d1634"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkler Raum, 30 Prozent farbige Supportebenen für Raster und Module, 10 Prozent Neonlicht für Fokus, CTA und Pop. Laser Palm wirkt dabei palmige, dramatische."
+  },
+  "accessibility": {
+    "text_on_primary": 2.99,
+    "text_on_secondary": 14.78,
+    "text_on_bg": 17.16,
+    "text_on_card": 15.6
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "80s Culture",
+    "Arcade",
+    "Synth-Pop"
+  ],
+  "audiences": [
+    "Retro-affine Communities",
+    "Event- und Bar-Konzepte",
+    "Marken mit Nostalgie-Faktor"
+  ],
+  "brand_traits": [
+    "nostalgisch",
+    "leuchtend",
+    "dramatisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Laser Palm Primary",
+      "psychology": "Die Primarfläche liefert Retro-Futurism und sofortige Popkultur-Codierung. In der Variante Laser Palm wirkt sie palmige, dramatische.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Retro-Futurism / Synthwave",
+      "risk": "Wenn Laser Palm zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Retro-Futurism / Synthwave."
+    },
+    "secondary": {
+      "name": "Laser Palm Surface",
+      "psychology": "Die dunkle Zweitfarbe ist die Bühne für Glows, Raster und Typografie. So bleibt Laser Palm auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Laser Palm Accent",
+      "psychology": "Der Accent bringt Laser- oder Rastermoment und steuert Aktivpunkte des Interfaces. Gerade in Laser Palm sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Arcade- und Eventmarken",
+      "Retro-Futurism-Editorials",
+      "Synth-Pop und Vaporwave-nahe Auftritte"
+    ],
+    "avoid_for": [
+      "Nüchterne öffentliche Services",
+      "Vertrauenslastige Health-Kommunikation",
+      "Zurückhaltende Heritage-Luxury-Seiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Laser Palm den Cluster Retro-Futurism / Synthwave glaubwürdig trägt",
+        "reason": "Laser Palm bleibt im Kern Retro-Futurism / Synthwave, verschiebt die Tonlage aber in eine palmige, dramatische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Synthwave und Retro-Futurism?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Retro-Futurism / Synthwave zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Laser Palm im Cluster Retro-Futurism / Synthwave?",
+        "answer": "Laser Palm eignet sich besonders, wenn digitale Nostalgie bewusst die visuelle Hauptattraktion der Marke ist."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Laser Palm<\/span><h3>Retro-Futurism / Synthwave<\/h3><p>Eine Synthwave-Palette für 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

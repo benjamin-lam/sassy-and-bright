@@ -1,0 +1,120 @@
+{
+  "title": "Brutalist Digital: Terminal Concrete",
+  "slug": "brutalist-digital-terminal-concrete",
+  "vibe": "Raw Contrast / Terminal",
+  "summary": "Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. Die Variante Terminal Concrete verschiebt den Cluster in eine terminalnaehere, stoerende Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Brutalist Digital",
+    "cluster_slug": "brutalist-digital",
+    "variant": "Terminal Concrete"
+  },
+  "keywords": [
+    "Brutalist Webdesign Farben",
+    "Brutalist Digital",
+    "Terminal Concrete",
+    "Kreativitaet & Bildung",
+    "Underground Web",
+    "Web3 Art"
+  ],
+  "seo": {
+    "meta_title": "Brutalist Digital: Terminal Concrete | Brutalist Webdesign Farben",
+    "meta_description": "Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. Terminal Concrete bringt eine terminalnaehere, stoerende Auspraegung fuer Underground Web, Web3 Art und verwandte Projekte.",
+    "focus_keyword": "Brutalist Webdesign Farben",
+    "questions": [
+      "Welche Farben passen zu brutalistischem Webdesign?",
+      "Wann passt Terminal Concrete im Cluster Brutalist Digital?",
+      "Wie wirkt Anti-Design absichtlich roh statt defekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#d0d0d0",
+    "secondary": "#ebebeb",
+    "accent": "#ffd633",
+    "bg": "#f5f5f5",
+    "text": "#111111",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent rohe Grundflaechen, 30 Prozent graue Funktionsebene und 10 Prozent stoerender Accent fuer Fokus und Anti-Perfektion. Terminal Concrete wirkt dabei terminalnaehere, stoerende."
+  },
+  "accessibility": {
+    "text_on_primary": 12.24,
+    "text_on_secondary": 15.84,
+    "text_on_bg": 17.32,
+    "text_on_card": 18.88
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Underground Web",
+    "Web3 Art",
+    "Experimentelle Portale"
+  ],
+  "audiences": [
+    "Digital Artists",
+    "Szene-affine Communities",
+    "Nutzerinnen und Nutzer mit Gestaltungsbewusstsein"
+  ],
+  "brand_traits": [
+    "roh",
+    "direkt",
+    "stoerend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Terminal Concrete Primary",
+      "psychology": "Die Primarfarbe markiert Distanz zum Hochglanz-Web und stellt System ueber Dekor. In der Variante Terminal Concrete wirkt sie terminalnaehere, stoerende.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Brutalist Digital",
+      "risk": "Wenn Terminal Concrete zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Brutalist Digital."
+    },
+    "secondary": {
+      "name": "Terminal Concrete Surface",
+      "psychology": "Die Zweitfarbe baut rohes Raster, Browser-Naehe und bewusste Sprödigkeit. So bleibt Terminal Concrete auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Terminal Concrete Accent",
+      "psychology": "Der Accent zerschneidet Neutralitaet und macht die anti-dekorative Haltung sofort sichtbar. Gerade in Terminal Concrete sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Experimentelle Portfolios",
+      "Anti-Design-Projekte",
+      "Kulturseiten mit bewusstem Regelbruch"
+    ],
+    "avoid_for": [
+      "Public-Sector Services",
+      "vertrauenslastige Fintech-Angebote",
+      "Wellness- und Mindfulness-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Terminal Concrete den Cluster Brutalist Digital glaubwuerdig traegt",
+        "reason": "Terminal Concrete bleibt im Kern Brutalist Digital, verschiebt die Tonlage aber in eine terminalnaehere, stoerende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu brutalistischem Webdesign?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Brutalist Digital zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Terminal Concrete im Cluster Brutalist Digital?",
+        "answer": "Terminal Concrete eignet sich besonders, wenn Reibung, Systemcharakter und radikale Positionierung explizit gewuenscht sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Terminal Concrete</span><h3>Brutalist Digital</h3><p>Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

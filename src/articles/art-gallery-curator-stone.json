@@ -1,0 +1,121 @@
+{
+  "title": "Art & Gallery: Curator Stone",
+  "slug": "art-gallery-curator-stone",
+  "vibe": "Curated Silence / Museum",
+  "summary": "Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren. Die Variante Curator Stone verschiebt den Cluster in eine museumshafte, zurueckhaltende Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Art & Gallery",
+    "cluster_slug": "art-gallery",
+    "variant": "Curator Stone"
+  },
+  "keywords": [
+    "Farbpalette Museum",
+    "Art & Gallery",
+    "Curator Stone",
+    "Kreativitaet & Bildung",
+    "Museen",
+    "Kunstgalerien"
+  ],
+  "seo": {
+    "meta_title": "Art & Gallery: Curator Stone | Farbpalette Museum",
+    "meta_description": "Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren. Curator Stone bringt eine museumshafte, zurueckhaltende Auspraegung fuer Museen, Kunstgalerien und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Museum",
+    "questions": [
+      "Welche Farben lassen Kunst im Web atmen?",
+      "Wann passt Curator Stone im Cluster Art & Gallery?",
+      "Wie bleibt eine Galeriepalette neutral statt leer?"
+    ]
+  },
+  "colors": {
+    "primary": "#e0e0e0",
+    "secondary": "#f2f2f2",
+    "accent": "#525252",
+    "bg": "#ffffff",
+    "text": "#1a1a1a",
+    "card": "#fbfbf8"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent nahezu weisse Buehne, 30 Prozent ruhige Unterebenen fuer Metadaten und Karten, 10 Prozent Accent fuer Orientierung und kuratorische Hinweise. Curator Stone wirkt dabei museumshafte, zurueckhaltende."
+  },
+  "accessibility": {
+    "text_on_primary": 13.18,
+    "text_on_secondary": 15.55,
+    "text_on_bg": 17.4,
+    "text_on_card": 16.79
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Museen",
+    "Kunstgalerien",
+    "Ausstellungen"
+  ],
+  "audiences": [
+    "Kuratorische Teams",
+    "Kunstinteressierte Besucherinnen und Besucher",
+    "Institutionen mit Werkfokus"
+  ],
+  "brand_traits": [
+    "neutral",
+    "still",
+    "praezise",
+    "zurueckhaltend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Curator Stone Primary",
+      "psychology": "Die Primarfarbe nimmt sich zurück und schafft Platz fuer Werk, Bild und Typografie. In der Variante Curator Stone wirkt sie museumshafte, zurueckhaltende.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Art & Gallery",
+      "risk": "Wenn Curator Stone zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Art & Gallery."
+    },
+    "secondary": {
+      "name": "Curator Stone Surface",
+      "psychology": "Die Zweitfarbe gibt Orientierung ohne die Buehne zu okkupieren. So bleibt Curator Stone auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Curator Stone Accent",
+      "psychology": "Der Accent dient nur der Struktur und sollte niemals dem Werk die Schau stehlen. Gerade in Curator Stone sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Museums- und Galerie-Websites",
+      "Digitale Ausstellungen",
+      "Kuratorische Archive mit Bildfokus"
+    ],
+    "avoid_for": [
+      "Trendgetriebene D2C-Launches",
+      "Tech-Produkte mit hoher Aktivierungsenergie",
+      "Gaming- und Synthwave-Kultur"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Curator Stone den Cluster Art & Gallery glaubwuerdig traegt",
+        "reason": "Curator Stone bleibt im Kern Art & Gallery, verschiebt die Tonlage aber in eine museumshafte, zurueckhaltende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben lassen Kunst im Web atmen?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Art & Gallery zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Curator Stone im Cluster Art & Gallery?",
+        "answer": "Curator Stone eignet sich besonders, wenn Werk und kuratorische Orientierung ueber der Eigenlautstaerke des UI stehen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Curator Stone</span><h3>Art & Gallery</h3><p>Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

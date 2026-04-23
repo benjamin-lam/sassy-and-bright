@@ -1,0 +1,121 @@
+{
+  "title": "High-Octane Tech: Plasma Ops",
+  "slug": "high-octane-tech-plasma-ops",
+  "vibe": "High Energy Systems / Plasma",
+  "summary": "Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben. Die Variante Plasma Ops verschiebt den Cluster in eine plasmaartige, dominante Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "High-Octane Tech",
+    "cluster_slug": "high-octane-tech",
+    "variant": "Plasma Ops"
+  },
+  "keywords": [
+    "Farbpalette KI Startup",
+    "High-Octane Tech",
+    "Plasma Ops",
+    "Tech & Future",
+    "KI-Startups",
+    "Big Data"
+  ],
+  "seo": {
+    "meta_title": "High-Octane Tech: Plasma Ops | Farbpalette KI Startup",
+    "meta_description": "Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben. Plasma Ops bringt eine plasmaartige, dominante Auspraegung fuer KI-Startups, Big Data und verwandte Projekte.",
+    "focus_keyword": "Farbpalette KI Startup",
+    "questions": [
+      "Welche Farben passen zu KI-Startups und High-Tech Produkten?",
+      "Wann passt Plasma Ops im Cluster High-Octane Tech?",
+      "Wie wirkt Dark-Mode innovativ statt beliebig?"
+    ]
+  },
+  "colors": {
+    "primary": "#42c9fe",
+    "secondary": "#1c2f3e",
+    "accent": "#ffe432",
+    "bg": "#111623",
+    "text": "#eef2ff",
+    "card": "#1c2334"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent Dark-Mode-Basis erzeugt Fokus, 30 Prozent Supportflaechen strukturieren Daten und Module, 10 Prozent Neon-Accent aktivieren Kernelemente. Plasma Ops wirkt dabei plasmaartige, dominante."
+  },
+  "accessibility": {
+    "text_on_primary": 1.7,
+    "text_on_secondary": 12.31,
+    "text_on_bg": 16.15,
+    "text_on_card": 14.02
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "KI-Startups",
+    "Big Data",
+    "B2B SaaS"
+  ],
+  "audiences": [
+    "Produktteams",
+    "Technische Entscheider",
+    "Innovationsorientierte Investorinnen und Investoren"
+  ],
+  "brand_traits": [
+    "innovativ",
+    "klar",
+    "zukunftsorientiert",
+    "dominant"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Plasma Ops Primary",
+      "psychology": "Die Primarfarbe bringt technisches Momentum und wirkt wie Produktkern statt dekorative Spielerei. In der Variante Plasma Ops wirkt sie plasmaartige, dominante.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster High-Octane Tech",
+      "risk": "Wenn Plasma Ops zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters High-Octane Tech."
+    },
+    "secondary": {
+      "name": "Plasma Ops Surface",
+      "psychology": "Die dunkle Zweitflaeche organisiert Dashboards, Eingaben und Datenkarten mit hoher Ruhe. So bleibt Plasma Ops auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Plasma Ops Accent",
+      "psychology": "Der Accent uebernimmt Energie, Interaktion und Prioritaet in einem kontrollierten Rahmen. Gerade in Plasma Ops sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "KI-Startups mit Produktfokus",
+      "SaaS-Landingpages fuer neue Technologien",
+      "Cloud-Interfaces mit hoher Datenkonzentration"
+    ],
+    "avoid_for": [
+      "Behordenportale",
+      "Klassische Luxury-Auftritte",
+      "Handmade- und Slow-Food-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Plasma Ops den Cluster High-Octane Tech glaubwuerdig traegt",
+        "reason": "Plasma Ops bleibt im Kern High-Octane Tech, verschiebt die Tonlage aber in eine plasmaartige, dominante Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu KI-Startups und High-Tech Produkten?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. High-Octane Tech zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Plasma Ops im Cluster High-Octane Tech?",
+        "answer": "Plasma Ops eignet sich besonders, wenn Produktenergie, Zukunftssignal und technische Klarheit im Vordergrund stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Plasma Ops</span><h3>High-Octane Tech</h3><p>Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

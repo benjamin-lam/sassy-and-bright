@@ -1,0 +1,121 @@
+{
+  "title": "Space & Aerospace: Horizon White",
+  "slug": "space-aerospace-horizon-white",
+  "vibe": "Cosmic Precision / Horizon",
+  "summary": "Eine weite, technische Space-Palette für Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautönen, Silber und klaren Weissräumen. Die Variante Horizon White verschiebt den Cluster in eine horizonthafte, klare Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Space & Aerospace",
+    "cluster_slug": "space-aerospace",
+    "variant": "Horizon White"
+  },
+  "keywords": [
+    "Farbpalette Luftfahrt",
+    "Space & Aerospace",
+    "Horizon White",
+    "Tech & Future",
+    "Luftfahrt",
+    "Astronomie"
+  ],
+  "seo": {
+    "meta_title": "Space & Aerospace: Horizon White | Farbpalette Luftfahrt",
+    "meta_description": "Eine weite, technische Space-Palette für Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautönen, Silber und klaren Weissräumen. Horizon White bringt eine horizonthafte, klare Ausprägung für Luftfahrt, Astronomie und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Luftfahrt",
+    "questions": [
+      "Welche Farben passen zu Luftfahrt und Aerospace?",
+      "Wann passt Horizon White im Cluster Space & Aerospace?",
+      "Wie wirkt Space-Design weit statt nur dunkel?"
+    ]
+  },
+  "colors": {
+    "primary": "#32399d",
+    "secondary": "#1d213f",
+    "accent": "#b7bde7",
+    "bg": "#121925",
+    "text": "#eef4ff",
+    "card": "#1a2334"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent tiefer Raumhintergrund, 30 Prozent Supportebenen für Module und Telemetrie, 10 Prozent helle Signale für Navigation, CTA und Status. Horizon White wirkt dabei horizonthafte, klare."
+  },
+  "accessibility": {
+    "text_on_primary": 8.62,
+    "text_on_secondary": 14.18,
+    "text_on_bg": 15.96,
+    "text_on_card": 14.26
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Luftfahrt",
+    "Astronomie",
+    "Deep Tech"
+  ],
+  "audiences": [
+    "Forschungsnahe Teams",
+    "Ingenieurinnen und Ingenieure",
+    "Technologie-affine Investorinnen und Investoren"
+  ],
+  "brand_traits": [
+    "präzise",
+    "weit",
+    "technisch",
+    "klar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Horizon White Primary",
+      "psychology": "Das Primarsystem gibt Tiefe und technische Orientierung ohne Sci-Fi-Kitsch. In der Variante Horizon White wirkt sie horizonthafte, klare.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Space & Aerospace",
+      "risk": "Wenn Horizon White zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Space & Aerospace."
+    },
+    "secondary": {
+      "name": "Horizon White Surface",
+      "psychology": "Die zweite Ebene organisiert komplexe Information ruhig und präzise. So bleibt Horizon White auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Horizon White Accent",
+      "psychology": "Der helle Accent wirkt wie Instrumentenlicht oder orbitales Signal und bleibt bewusst reduziert. Gerade in Horizon White sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Aerospace-Websites mit Deep-Tech Claim",
+      "Astronomie- und Mission-Interfaces",
+      "Luftfahrt-nahe Innovationsseiten"
+    ],
+    "avoid_for": [
+      "Warmherzige Community-Projekte",
+      "Pastellige Genusswelten",
+      "Verspielte Confectionery-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Horizon White den Cluster Space & Aerospace glaubwürdig trägt",
+        "reason": "Horizon White bleibt im Kern Space & Aerospace, verschiebt die Tonlage aber in eine horizonthafte, klare Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Luftfahrt und Aerospace?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Space & Aerospace zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Horizon White im Cluster Space & Aerospace?",
+        "answer": "Horizon White eignet sich besonders, wenn Präzision, Weite und High-Tech-Kommunikation gemeinsam getragen werden müssen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Horizon White<\/span><h3>Space & Aerospace<\/h3><p>Eine weite, technische Space-Palette für Luftfahrt, Astronomie und Deep-Tech-Kommunikation mit dunklen Blautönen, Silber und klaren Weissräumen.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

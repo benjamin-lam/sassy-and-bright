@@ -107,6 +107,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: var(--space-md);
   padding: 1rem 0;
 }
@@ -149,6 +150,7 @@ textarea {
 .hero-panel,
 .panel,
 .palette-card,
+.sector-card,
 .set-card,
 .insight-card,
 .argument-card {
@@ -262,7 +264,8 @@ textarea {
 .panel h3,
 .argument-card h3,
 .insight-card h3,
-.palette-card h2 {
+.palette-card h2,
+.sector-card h2 {
   margin: 0;
   line-height: 1.15;
 }
@@ -274,6 +277,7 @@ textarea {
 .grid-two,
 .grid-three,
 .metrics-grid,
+.sector-grid,
 .card-grid,
 .swatch-grid {
   display: grid;
@@ -286,12 +290,14 @@ textarea {
 
 .panel,
 .palette-card,
+.sector-card,
 .insight-card,
 .argument-card {
   padding: var(--space-md);
 }
 
 .palette-card,
+.sector-card,
 .insight-card,
 .argument-card {
   height: 100%;
@@ -554,19 +560,12 @@ td {
   border: 1px solid rgba(43, 34, 48, 0.08);
 }
 
-.preview-demo,
-.lab-shell,
-.dashboard-card,
-.contact-card,
-.hero-card {
+.preview-demo {
   display: grid;
   gap: 0.85rem;
 }
 
-.preview-demo,
-.hero-card,
-.dashboard-card,
-.contact-card {
+.preview-demo {
   padding: 1rem;
   border-radius: var(--radius-lg);
   background: var(--color-card);
@@ -607,199 +606,60 @@ td {
   background: color-mix(in srgb, var(--color-accent) 34%, white);
 }
 
-.lab-stage[hidden] {
-  display: none;
-}
-
-.mockup-container {
-  overflow: hidden;
-  border-radius: var(--radius-lg);
-  border: 1px solid rgba(43, 34, 48, 0.1);
-  background: var(--c);
-  box-shadow: 0 1.25rem 2.5rem -1.5rem var(--color-shadow);
-}
-
-.mockup-nav,
-.mockup-hero,
-.mockup-content,
-.mockup-footer {
-  padding-inline: 1rem;
-}
-
-.mockup-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  padding-block: 0.85rem;
-  background: var(--c);
-  border-bottom: 2px solid var(--s);
-}
-
-.mockup-brand {
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  color: var(--p);
-}
-
-.mockup-avatar {
-  width: 1.5rem;
-  height: 1.5rem;
-  border-radius: 50%;
-  background: var(--s);
-}
-
-.mockup-hero {
-  display: grid;
-  justify-items: center;
-  gap: 0.8rem;
-  padding-block: 1.8rem;
-  text-align: center;
-  background: var(--s);
-}
-
-.mockup-hero h2,
-.mockup-hero p,
-.mockup-footer {
-  margin: 0;
-}
-
-.mockup-hero h2 {
-  color: var(--t);
-  font-size: clamp(1.5rem, 4vw, 2rem);
-}
-
-.mockup-hero p {
-  max-width: 30rem;
-  color: color-mix(in srgb, var(--t) 78%, transparent);
-  font-size: 0.95rem;
-}
-
-.mockup-cta {
-  min-height: 2.9rem;
-  padding: 0.7rem 1.15rem;
-  border: 0;
-  border-radius: 999px;
-  background: var(--p);
-  color: var(--mockup-cta-fg, var(--t));
-  font-weight: 700;
-  cursor: pointer;
-  box-shadow: 0 0.8rem 1.8rem -1rem rgba(43, 34, 48, 0.28);
-}
-
-.mockup-content {
-  display: grid;
-  gap: 1rem;
-  padding-block: 1rem;
-  background: var(--bg);
-}
-
-.mockup-card {
-  padding: 1rem;
-  border-radius: 0.9rem;
-  background: var(--c);
-}
-
-.mockup-card-feature {
-  border: 1px solid var(--s);
-  box-shadow: 0.3rem 0.3rem 0 var(--s);
-}
-
-.mockup-accent-block {
-  width: 2rem;
-  height: 2rem;
-  margin-bottom: 0.75rem;
-  border-radius: 0.55rem;
-  background: var(--a);
-}
-
-.mockup-line {
-  height: 0.65rem;
-  border-radius: 999px;
-  background: var(--t);
-}
-
-.mockup-line-strong {
-  width: 80%;
-  opacity: 0.2;
-}
-
-.mockup-line-soft {
-  width: 50%;
-  margin-top: 0.45rem;
-  opacity: 0.1;
-}
-
-.mockup-card-active {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 0.6rem;
-  border: 2px solid var(--a);
-  text-align: center;
-}
-
-.mockup-card-active span {
-  color: var(--a);
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-}
-
-.mockup-progress {
-  width: 100%;
-  height: 0.25rem;
-  border-radius: 999px;
-  background: var(--a);
-}
-
-.mockup-footer {
-  padding-block: 0.8rem;
-  background: var(--t);
-  color: var(--bg);
-  font-size: 0.75rem;
-  text-align: center;
-}
-
-.mockup-footer span {
-  color: var(--a);
-  font-weight: 700;
-}
-
-.lab-shell {
-  gap: var(--space-md);
-}
-
-.hero-card {
+body[data-mode="lab"] {
   background:
-    linear-gradient(145deg, color-mix(in srgb, var(--color-primary) 20%, white), rgba(255, 255, 255, 0.9)),
+    radial-gradient(circle at top left, color-mix(in srgb, var(--color-primary) 26%, transparent), transparent 34%),
+    radial-gradient(circle at right 12% top 25%, color-mix(in srgb, var(--color-accent) 20%, transparent), transparent 24%),
+    linear-gradient(180deg, color-mix(in srgb, var(--color-bg) 86%, white) 0%, var(--color-bg) 100%);
+}
+
+body[data-mode="lab"] .hero-panel,
+body[data-mode="lab"] .panel,
+body[data-mode="lab"] .set-card,
+body[data-mode="lab"] .palette-card,
+body[data-mode="lab"] .sector-card,
+body[data-mode="lab"] .insight-card,
+body[data-mode="lab"] .argument-card {
+  border-color: color-mix(in srgb, var(--color-primary) 18%, rgba(43, 34, 48, 0.08));
+  background: color-mix(in srgb, var(--color-card) 90%, var(--color-secondary));
+  box-shadow: 0 1.5rem 3rem -1.65rem color-mix(in srgb, var(--color-primary) 24%, var(--color-shadow));
+}
+
+body[data-mode="lab"] .hero-panel {
+  background:
+    linear-gradient(
+      145deg,
+      color-mix(in srgb, var(--color-secondary) 78%, white),
+      color-mix(in srgb, var(--color-bg) 72%, white)
+    ),
     var(--color-card);
 }
 
-.hero-card p,
-.dashboard-card p,
-.contact-card p {
-  margin: 0;
+body[data-mode="lab"] .control-card {
+  background:
+    linear-gradient(140deg, color-mix(in srgb, var(--color-secondary) 66%, white), rgba(255, 255, 255, 0.82));
+  border-color: color-mix(in srgb, var(--color-primary) 22%, rgba(43, 34, 48, 0.08));
 }
 
-.dashboard-metrics {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.75rem;
+body[data-mode="lab"] .btn {
+  background: linear-gradient(135deg, var(--color-primary), color-mix(in srgb, var(--color-accent) 14%, var(--color-primary)));
+  color: var(--cta-fg, var(--color-text));
 }
 
-.dashboard-metrics span {
-  display: grid;
-  gap: 0.2rem;
-  padding: 0.85rem;
-  border-radius: var(--radius-sm);
-  background: rgba(249, 217, 230, 0.32);
+body[data-mode="lab"] .btn-ghost,
+body[data-mode="lab"] .tag,
+body[data-mode="lab"] .meta-strip li {
+  background: color-mix(in srgb, var(--color-secondary) 42%, white);
 }
 
-.contact-card form {
-  display: grid;
-  gap: 0.75rem;
+body[data-mode="lab"] .swatch-card,
+body[data-mode="lab"] .faq-item {
+  background: color-mix(in srgb, var(--color-card) 90%, var(--color-secondary));
+}
+
+.sector-card p,
+.sector-card h2 {
+  margin-top: 0;
 }
 
 .field span {
@@ -847,6 +707,10 @@ td {
 .search-controls {
   display: grid;
   gap: var(--space-md);
+}
+
+.search-controls-wide {
+  align-items: end;
 }
 
 .empty-state {
@@ -900,6 +764,7 @@ td {
   }
 
   .grid-three,
+  .sector-grid,
   .card-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -913,20 +778,12 @@ td {
     align-items: end;
   }
 
+  .search-controls-wide {
+    grid-template-columns: 2fr repeat(4, minmax(0, 1fr)) auto;
+  }
+
   .button-row {
     grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
     align-items: center;
-  }
-
-  .mockup-content {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .lab-shell {
-    grid-template-columns: 1.1fr 0.9fr;
-  }
-
-  .contact-card {
-    align-self: start;
   }
 }

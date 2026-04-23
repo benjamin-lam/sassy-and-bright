@@ -1,0 +1,120 @@
+{
+  "title": "Mindfulness & Spiritual: Indigo Breath",
+  "slug": "mindfulness-spiritual-indigo-breath",
+  "vibe": "Quiet Intuition / Calm",
+  "summary": "Eine ruhige Mindfulness-Palette für Meditation, Coaching und spiritülle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Die Variante Indigo Breath verschiebt den Cluster in eine achtsame, ruhige Richtung.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Mindfulness & Spiritual",
+    "cluster_slug": "mindfulness-spiritual",
+    "variant": "Indigo Breath"
+  },
+  "keywords": [
+    "Farbpalette Meditation",
+    "Mindfulness & Spiritual",
+    "Indigo Breath",
+    "Mensch & Gesellschaft",
+    "Meditation",
+    "Coaching"
+  ],
+  "seo": {
+    "meta_title": "Mindfulness & Spiritual: Indigo Breath | Farbpalette Meditation",
+    "meta_description": "Eine ruhige Mindfulness-Palette für Meditation, Coaching und spiritülle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Indigo Breath bringt eine achtsame, ruhige Ausprägung für Meditation, Coaching und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Meditation",
+    "questions": [
+      "Welche Farben passen zu Meditation und Mindfulness?",
+      "Wann passt Indigo Breath im Cluster Mindfulness & Spiritual?",
+      "Wie wirkt Spiritualität ruhig statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#b9aed8",
+    "secondary": "#e8e3f5",
+    "accent": "#6c62a8",
+    "bg": "#faf8ff",
+    "text": "#29243a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent atmende Hintergrundflächen, 30 Prozent weiche Supportzonen für Inhalte und Sessions, 10 Prozent tiefer Accent für Fokus und Orientierung. Indigo Breath wirkt dabei achtsame, ruhige."
+  },
+  "accessibility": {
+    "text_on_primary": 7.18,
+    "text_on_secondary": 11.89,
+    "text_on_bg": 14.16,
+    "text_on_card": 14.92
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Meditation",
+    "Coaching",
+    "Spiritülle Angebote"
+  ],
+  "audiences": [
+    "Achtsamkeitsorientierte Zielgruppen",
+    "Coachs und Guides",
+    "Menschen mit Ruhebedarf"
+  ],
+  "brand_traits": [
+    "achtsam",
+    "weich",
+    "ruhig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Indigo Breath Primary",
+      "psychology": "Die Primarfarbe bringt Sanftheit und leichte Transzendenz in den Auftritt. In der Variante Indigo Breath wirkt sie achtsame, ruhige.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Mindfulness & Spiritual",
+      "risk": "Wenn Indigo Breath zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Mindfulness & Spiritual."
+    },
+    "secondary": {
+      "name": "Indigo Breath Surface",
+      "psychology": "Die Sekundärflächen halten das Erlebnis weich und entlastend. So bleibt Indigo Breath auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Indigo Breath Accent",
+      "psychology": "Der Accent setzt tiefe Orientierungspunkte in einem ansonsten ruhigen System. Gerade in Indigo Breath sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Meditationsseiten",
+      "Coaching-Angebote mit ruhiger Tonalität",
+      "Spiritülle Projekte mit achtsamer Navigation"
+    ],
+    "avoid_for": [
+      "Alarmierende Security-Produkte",
+      "Harte Industriekommunikation",
+      "Laute Popkultur-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Indigo Breath den Cluster Mindfulness & Spiritual glaubwürdig trägt",
+        "reason": "Indigo Breath bleibt im Kern Mindfulness & Spiritual, verschiebt die Tonlage aber in eine achtsame, ruhige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Meditation und Mindfulness?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Mindfulness & Spiritual zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Indigo Breath im Cluster Mindfulness & Spiritual?",
+        "answer": "Indigo Breath eignet sich besonders, wenn Entschleunigung, Sanftheit und innere Ruhe die User Experience tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Indigo Breath<\/span><h3>Mindfulness & Spiritual<\/h3><p>Eine ruhige Mindfulness-Palette für Meditation, Coaching und spiritülle Angebote mit Flieder, Indigo und schimmernder Gelassenheit.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

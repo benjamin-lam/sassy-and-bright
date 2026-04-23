@@ -1,0 +1,121 @@
+{
+  "title": "Architecture & Design: Walnut Glass",
+  "slug": "architecture-design-walnut-glass",
+  "vibe": "Material Calm / Concrete",
+  "summary": "Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie. Die Variante Walnut Glass verschiebt den Cluster in eine betonigere, praezise Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Architecture & Design",
+    "cluster_slug": "architecture-design",
+    "variant": "Walnut Glass"
+  },
+  "keywords": [
+    "Farbpalette Architekturburo",
+    "Architecture & Design",
+    "Walnut Glass",
+    "Kreativitaet & Bildung",
+    "Architektur",
+    "Interior Design"
+  ],
+  "seo": {
+    "meta_title": "Architecture & Design: Walnut Glass | Farbpalette Architekturburo",
+    "meta_description": "Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie. Walnut Glass bringt eine betonigere, praezise Auspraegung fuer Architektur, Interior Design und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Architekturburo",
+    "questions": [
+      "Welche Farben passen zu Architektur und Interior Design?",
+      "Wann passt Walnut Glass im Cluster Architecture & Design?",
+      "Wie wirkt Material-Aesthetik digital statt matt?"
+    ]
+  },
+  "colors": {
+    "primary": "#c6c4c2",
+    "secondary": "#e5e2df",
+    "accent": "#756961",
+    "bg": "#f6f3ee",
+    "text": "#282524",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Grundflaechen, 30 Prozent Supportflaechen fuer Grundrisse und Case Studies, 10 Prozent Accent fuer Material- oder Interaktionspunkte. Walnut Glass wirkt dabei betonigere, praezise."
+  },
+  "accessibility": {
+    "text_on_primary": 8.75,
+    "text_on_secondary": 11.79,
+    "text_on_bg": 13.75,
+    "text_on_card": 15.21
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Architektur",
+    "Interior Design",
+    "Material Brands"
+  ],
+  "audiences": [
+    "Bauherrschaften",
+    "Designaffine Kundschaft",
+    "Projektleitende Teams"
+  ],
+  "brand_traits": [
+    "reduziert",
+    "materialnah",
+    "ruhig",
+    "praezise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Walnut Glass Primary",
+      "psychology": "Die Primarfarbe wirkt wie Materialprobe und bringt Oberflaechenbewusstsein in den digitalen Raum. In der Variante Walnut Glass wirkt sie betonigere, praezise.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Architecture & Design",
+      "risk": "Wenn Walnut Glass zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Architecture & Design."
+    },
+    "secondary": {
+      "name": "Walnut Glass Surface",
+      "psychology": "Die Zweitfarbe haelt Bild, Plan und Text in einer ruhigen, editorischen Ordnung. So bleibt Walnut Glass auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Walnut Glass Accent",
+      "psychology": "Der Accent ist zurückhaltend und eignet sich fuer Markierungen, CTA oder projektrelevante Schwerpunkte. Gerade in Walnut Glass sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Architekturbueros mit Projektstorys",
+      "Interior- und Produktdesign-Portfolios",
+      "Materialmarken mit ruhiger Visualitaet"
+    ],
+    "avoid_for": [
+      "Hyperaktive Jugendmarken",
+      "Lautes Entertainment",
+      "Security-Interfaces mit Alarmcodes"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Walnut Glass den Cluster Architecture & Design glaubwuerdig traegt",
+        "reason": "Walnut Glass bleibt im Kern Architecture & Design, verschiebt die Tonlage aber in eine betonigere, praezise Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Architektur und Interior Design?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Architecture & Design zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Walnut Glass im Cluster Architecture & Design?",
+        "answer": "Walnut Glass eignet sich besonders, wenn Materialcharakter, Ruhe und praezise Projektinszenierung zusammenkommen muessen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Walnut Glass</span><h3>Architecture & Design</h3><p>Eine materialnahe Design-Palette fuer Architektur, Produktdesign und Interior-Visuals mit monochromer Ruhe und praeziser Oberflaechenhierarchie.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Bio-Logic & Eco: Olive Grain",
+  "slug": "bio-logic-eco-olive-grain",
+  "vibe": "Grounded Warmth / Olive",
+  "summary": "Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit. Die Variante Olive Grain verschiebt den Cluster in eine olivigere, ethische Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Bio-Logic & Eco",
+    "cluster_slug": "bio-logic-eco",
+    "variant": "Olive Grain"
+  },
+  "keywords": [
+    "Nachhaltige Farbpalette",
+    "Bio-Logic & Eco",
+    "Olive Grain",
+    "Lifestyle & Konsum",
+    "Bio-Food",
+    "Slow Fashion"
+  ],
+  "seo": {
+    "meta_title": "Bio-Logic & Eco: Olive Grain | Nachhaltige Farbpalette",
+    "meta_description": "Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit. Olive Grain bringt eine olivigere, ethische Auspraegung fuer Bio-Food, Slow Fashion und verwandte Projekte.",
+    "focus_keyword": "Nachhaltige Farbpalette",
+    "questions": [
+      "Welche Farben passen zu nachhaltigen Marken?",
+      "Wann passt Olive Grain im Cluster Bio-Logic & Eco?",
+      "Wie wirken Erdtoene modern statt altbacken?"
+    ]
+  },
+  "colors": {
+    "primary": "#c2c595",
+    "secondary": "#e9ebd8",
+    "accent": "#768853",
+    "bg": "#f8f9f4",
+    "text": "#2f372d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Naturflaechen, 30 Prozent erdige Markentraeger, 10 Prozent Accent fuer Herkunft, CTAs und Orientierung. Olive Grain wirkt dabei olivigere, ethische."
+  },
+  "accessibility": {
+    "text_on_primary": 6.87,
+    "text_on_secondary": 10.17,
+    "text_on_bg": 11.64,
+    "text_on_card": 12.32
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Bio-Food",
+    "Slow Fashion",
+    "Nachhaltige Marken"
+  ],
+  "audiences": [
+    "Bewusste Konsumentinnen und Konsumenten",
+    "Impact-orientierte Marken",
+    "Teams mit Ethik- und Herkunftsfokus"
+  ],
+  "brand_traits": [
+    "erdig",
+    "authentisch",
+    "ethisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Olive Grain Primary",
+      "psychology": "Die Primarfarbe bringt Naturbezug, ohne in Kitsch oder naive Oeko-Codes zu kippen. In der Variante Olive Grain wirkt sie olivigere, ethische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Bio-Logic & Eco",
+      "risk": "Wenn Olive Grain zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Bio-Logic & Eco."
+    },
+    "secondary": {
+      "name": "Olive Grain Surface",
+      "psychology": "Die Sekundaerflaechen lassen Produkte, Texte und Zertifikate ruhig atmen. So bleibt Olive Grain auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Olive Grain Accent",
+      "psychology": "Der Accent liefert klare Orientierung und bleibt als glaubwuerdiges Signal sparsam. Gerade in Olive Grain sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bio-Shops mit Transparenzanspruch",
+      "Nachhaltige Produktmarken",
+      "Slow-Fashion Labels mit Herkunftserzaehlung"
+    ],
+    "avoid_for": [
+      "Trading- und Echtzeitprodukte",
+      "Sterile Kliniksysteme",
+      "Lautes Entertainment"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Olive Grain den Cluster Bio-Logic & Eco glaubwuerdig traegt",
+        "reason": "Olive Grain bleibt im Kern Bio-Logic & Eco, verschiebt die Tonlage aber in eine olivigere, ethische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu nachhaltigen Marken?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Bio-Logic & Eco zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Olive Grain im Cluster Bio-Logic & Eco?",
+        "answer": "Olive Grain eignet sich besonders, wenn Herkunft, Ethik und ruhiges Vertrauen wichtiger sind als schrille Aktivierung."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Olive Grain</span><h3>Bio-Logic & Eco</h3><p>Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

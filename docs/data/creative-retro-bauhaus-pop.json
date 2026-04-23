@@ -1,0 +1,120 @@
+{
+  "title": "Creative & Retro: Bauhaus Pop",
+  "slug": "creative-retro-bauhaus-pop",
+  "vibe": "Graphic Experiment / Bauhaus",
+  "summary": "Eine expressive Studio-Palette für Agenturen, Portfolios und Design-Studios mit Bauhaus-Genen, Primarfarben und bewusstem Formmut. Die Variante Bauhaus Pop verschiebt den Cluster in eine bauhausige, mutige Richtung.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Creative & Retro",
+    "cluster_slug": "creative-retro",
+    "variant": "Bauhaus Pop"
+  },
+  "keywords": [
+    "Farbpalette Agentur",
+    "Creative & Retro",
+    "Bauhaus Pop",
+    "Kreativität & Bildung",
+    "Agenturen",
+    "Portfolios"
+  ],
+  "seo": {
+    "meta_title": "Creative & Retro: Bauhaus Pop | Farbpalette Agentur",
+    "meta_description": "Eine expressive Studio-Palette für Agenturen, Portfolios und Design-Studios mit Bauhaus-Genen, Primarfarben und bewusstem Formmut. Bauhaus Pop bringt eine bauhausige, mutige Ausprägung für Agenturen, Portfolios und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Agentur",
+    "questions": [
+      "Welche Farben tragen kreative Portfolios mit Retro-Anmutung?",
+      "Wann passt Bauhaus Pop im Cluster Creative & Retro?",
+      "Wie wirkt Bauhaus inspiriert statt nostalgisch-kostümiert?"
+    ]
+  },
+  "colors": {
+    "primary": "#d84b3f",
+    "secondary": "#f4e7cf",
+    "accent": "#1f7bdc",
+    "bg": "#fffbf3",
+    "text": "#22211e",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent helle Flächen halten das System lesbar, 30 Prozent Primarflächen bringen Studiocharakter, 10 Prozent Accent erzeugen Rhythmus und Gegenpol. Bauhaus Pop wirkt dabei bauhausige, mutige."
+  },
+  "accessibility": {
+    "text_on_primary": 3.83,
+    "text_on_secondary": 13.17,
+    "text_on_bg": 15.6,
+    "text_on_card": 16.1
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Agenturen",
+    "Portfolios",
+    "Design-Studios"
+  ],
+  "audiences": [
+    "Kreative Teams",
+    "Designaffine Auftraggeber",
+    "Kuratorisch arbeitende Freelancer"
+  ],
+  "brand_traits": [
+    "mutig",
+    "editorial",
+    "experimentell"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Bauhaus Pop Primary",
+      "psychology": "Die Primarfarbe trägt den Auftritt wie ein Plakatmotiv und erzeugt sofortige Signatur. In der Variante Bauhaus Pop wirkt sie bauhausige, mutige.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Creative & Retro",
+      "risk": "Wenn Bauhaus Pop zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Creative & Retro."
+    },
+    "secondary": {
+      "name": "Bauhaus Pop Surface",
+      "psychology": "Die Zweitfarbe erdet das System und gibt den starken Farben Raum. So bleibt Bauhaus Pop auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Bauhaus Pop Accent",
+      "psychology": "Der Accent ist die Gegenstimme für Highlights, Links und Fokusinseln. Gerade in Bauhaus Pop sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Studio-Websites mit starkem visuellen Standpunkt",
+      "Portfolios mit editorialer Dramaturgie",
+      "Agenturseiten, die Mut statt Corporate-Konvention zeigen"
+    ],
+    "avoid_for": [
+      "Konservative Finanzportale",
+      "Behorden und formale Services",
+      "Klinikseiten mit Hygienelogik"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Bauhaus Pop den Cluster Creative & Retro glaubwürdig trägt",
+        "reason": "Bauhaus Pop bleibt im Kern Creative & Retro, verschiebt die Tonlage aber in eine bauhausige, mutige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen kreative Portfolios mit Retro-Anmutung?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Creative & Retro zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Bauhaus Pop im Cluster Creative & Retro?",
+        "answer": "Bauhaus Pop eignet sich besonders, wenn starke Formhaltung und visuelle Signatur explizit Teil der Marke sein sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Bauhaus Pop<\/span><h3>Creative & Retro<\/h3><p>Eine expressive Studio-Palette für Agenturen, Portfolios und Design-Studios mit Bauhaus-Genen, Primarfarben und bewusstem Formmut.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

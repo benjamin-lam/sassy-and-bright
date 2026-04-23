@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{meta_title}}</title>
+  <meta name="description" content="{{meta_description}}">
+  <meta name="theme-color" content="{{theme_color}}">
+  {{canonical_link}}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{meta_title}}">
+  <meta property="og:description" content="{{meta_description}}">
+  <meta property="og:url" content="{{canonical_url}}">
+  <meta property="og:site_name" content="VibeVault">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  {{json_ld_script}}
+</head>
+<body class="theme-shell">
+  <a class="skip-link" href="#content">Zum Inhalt</a>
+  <header class="site-header shell">
+    <a class="brand-mark" href="{{home_href}}">VibeVault</a>
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <a href="{{home_href}}">Übersicht</a>
+      <a href="{{search_href}}">Suche</a>
+    </nav>
+  </header>
+
+  <main id="content" class="shell stack-xl">
+    <section class="hero-panel bg-60 reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Anbieterkennzeichnung</p>
+        <h1 class="display-title">Impressum</h1>
+        <p class="lead">Die folgenden Angaben gelten für das statische Farbarchiv VibeVault und die dazugehörigen Inhalte.</p>
+      </div>
+    </section>
+
+    <section class="grid-two reveal">
+      <article class="panel">
+        <div class="section-head compact">
+          <p class="eyebrow">Anbieter</p>
+          <h2>{{imprint_name}}</h2>
+        </div>
+        <p>{{imprint_address}}</p>
+      </article>
+      <article class="panel">
+        <div class="section-head compact">
+          <p class="eyebrow">Kontakt</p>
+          <h2>E-Mail</h2>
+        </div>
+        <p><a class="text-link" href="{{email_href}}">{{imprint_email}}</a></p>
+      </article>
+    </section>
+
+    <section class="panel reveal">
+      <div class="section-head compact">
+        <p class="eyebrow">Verantwortung</p>
+        <h2>Verantwortlich für den Inhalt</h2>
+      </div>
+      <p>{{imprint_name}}</p>
+      <p class="micro-copy">Stand: {{year}}</p>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <nav class="site-nav" aria-label="Footer">
+      <a href="{{home_href}}">Übersicht</a>
+      <a href="{{search_href}}">Suche</a>
+    </nav>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,121 @@
+{
+  "title": "Corporate Trust: Meridian Steel",
+  "slug": "corporate-trust-meridian-steel",
+  "vibe": "Measured Confidence / Clear",
+  "summary": "Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss. Die Variante Meridian Steel verschiebt den Cluster in eine klarere, digitale Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Corporate Trust",
+    "cluster_slug": "corporate-trust",
+    "variant": "Meridian Steel"
+  },
+  "keywords": [
+    "Farbpalette Banken",
+    "Corporate Trust",
+    "Meridian Steel",
+    "Business & Institutionen",
+    "Banken",
+    "Versicherungen"
+  ],
+  "seo": {
+    "meta_title": "Corporate Trust: Meridian Steel | Farbpalette Banken",
+    "meta_description": "Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss. Meridian Steel bringt eine klarere, digitale Ausprägung für Banken, Versicherungen und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Banken",
+    "questions": [
+      "Welche Farben wirken bei Banken und Versicherungen seriös?",
+      "Wann passt Meridian Steel im Cluster Corporate Trust?",
+      "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
+    ]
+  },
+  "colors": {
+    "primary": "#b4c6ea",
+    "secondary": "#e6ecf6",
+    "accent": "#3866c8",
+    "bg": "#fbfcfd",
+    "text": "#1e2b36",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisse Flächen sichern Ruhe, 30 Prozent Soft Blue bilden Vertrauensflächen, 10 Prozent Stahlblau markieren Navigation und Interaktion. Meridian Steel wirkt dabei klarere, digitale."
+  },
+  "accessibility": {
+    "text_on_primary": 8.39,
+    "text_on_secondary": 12.17,
+    "text_on_bg": 14.06,
+    "text_on_card": 14.44
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Banken",
+    "Versicherungen",
+    "Blue-Chip"
+  ],
+  "audiences": [
+    "Investor Relations Teams",
+    "Corporate Kommunikationsabteilungen",
+    "Risikobewusste Kundschaft"
+  ],
+  "brand_traits": [
+    "seriös",
+    "stabil",
+    "klar",
+    "präzise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Meridian Steel Primary",
+      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlässlichkeit und kontrollierte Kompetenz. In der Variante Meridian Steel wirkt sie klarere, digitale.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Corporate Trust",
+      "risk": "Wenn Meridian Steel zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Corporate Trust."
+    },
+    "secondary": {
+      "name": "Meridian Steel Surface",
+      "psychology": "Die helle Zweitfarbe erinnert an Dokumente, Tabellen und nachvollziehbare Prozesse. So bleibt Meridian Steel auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Meridian Steel Accent",
+      "psychology": "Der Accent setzt präzise Signale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen. Gerade in Meridian Steel sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Corporate Homepages mit hohem Vertrauensbedarf",
+      "Versicherungsportale mit langer Formularstrecke",
+      "Investor-Relations Seiten mit vielen Kennzahlen"
+    ],
+    "avoid_for": [
+      "Jugendmarken mit popkultureller Energie",
+      "Event-Landingpages mit starker Promo-Dramaturgie",
+      "Luxury-Brands mit Fokus auf Exklusivität"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Meridian Steel den Cluster Corporate Trust glaubwürdig trägt",
+        "reason": "Meridian Steel bleibt im Kern Corporate Trust, verschiebt die Tonlage aber in eine klarere, digitale Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken bei Banken und Versicherungen seriös?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Corporate Trust zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Meridian Steel im Cluster Corporate Trust?",
+        "answer": "Meridian Steel eignet sich besonders, wenn Vertrauen, Regulierung und sachliche Führung wichtiger sind als visuelle Lautstärke."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Meridian Steel<\/span><h3>Corporate Trust<\/h3><p>Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

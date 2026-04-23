@@ -1,0 +1,121 @@
+{
+  "title": "Sassy & Bright: Cherry Gloss",
+  "slug": "sassy-bright-cherry-gloss",
+  "vibe": "Optimistic Spark / Cherry",
+  "summary": "Eine aktivierende D2C-Palette fuer Beauty, Gen-Z Marketing und Creator-Marken, die Optimismus, Kaufimpulse und Wiedererkennung verbinden will. Die Variante Cherry Gloss verschiebt den Cluster in eine kirschigere, direkte Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sassy & Bright",
+    "cluster_slug": "sassy-bright",
+    "variant": "Cherry Gloss"
+  },
+  "keywords": [
+    "Farbpalette Beauty Brand",
+    "Sassy & Bright",
+    "Cherry Gloss",
+    "Lifestyle & Konsum",
+    "D2C",
+    "Beauty"
+  ],
+  "seo": {
+    "meta_title": "Sassy & Bright: Cherry Gloss | Farbpalette Beauty Brand",
+    "meta_description": "Eine aktivierende D2C-Palette fuer Beauty, Gen-Z Marketing und Creator-Marken, die Optimismus, Kaufimpulse und Wiedererkennung verbinden will. Cherry Gloss bringt eine kirschigere, direkte Auspraegung fuer D2C, Beauty und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Beauty Brand",
+    "questions": [
+      "Welche Farben funktionieren fuer Beauty und D2C zugleich?",
+      "Wann passt Cherry Gloss im Cluster Sassy & Bright?",
+      "Warum wirkt neutrales Grau fuer junge Lifestyle-Brands oft zu brav?"
+    ]
+  },
+  "colors": {
+    "primary": "#ea5f67",
+    "secondary": "#f9cfd9",
+    "accent": "#2378ac",
+    "bg": "#fff2f7",
+    "text": "#2b2230",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helle Flaechen halten die Seite lesbar, 30 Prozent Blush oder Supportflaechen tragen Produkte und Teaser, 10 Prozent Accent sichern Conversion und Richtung. Cherry Gloss wirkt dabei kirschigere, direkte."
+  },
+  "accessibility": {
+    "text_on_primary": 4.61,
+    "text_on_secondary": 10.88,
+    "text_on_bg": 14.04,
+    "text_on_card": 15.28
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "D2C",
+    "Beauty",
+    "Gen-Z Brands"
+  ],
+  "audiences": [
+    "Trendaffine Kaeuferinnen und Kaeufer",
+    "Creator-getriebene Marken",
+    "Launch-orientierte E-Commerce Teams"
+  ],
+  "brand_traits": [
+    "optimistisch",
+    "nahbar",
+    "verkaufsstark",
+    "direkt"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Cherry Gloss Primary",
+      "psychology": "Die Primarfarbe erzeugt emotionale Energie und macht die Marke sofort wiedererkennbar. In der Variante Cherry Gloss wirkt sie kirschigere, direkte.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Sassy & Bright",
+      "risk": "Wenn Cherry Gloss zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Sassy & Bright."
+    },
+    "secondary": {
+      "name": "Cherry Gloss Surface",
+      "psychology": "Die Zweitfarbe puffert die Lautstaerke ab und schafft Flaechen fuer Produkt, Social Proof und Launch-Momente. So bleibt Cherry Gloss auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Cherry Gloss Accent",
+      "psychology": "Der Accent bringt Frische in CTA, Badges und Micro-Interaktion. Gerade in Cherry Gloss sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Beauty- und D2C-Landingpages",
+      "Creator-Collabs mit Launch-Fokus",
+      "Lifestyle-Produkte mit hohem Wiedererkennungsbedarf"
+    ],
+    "avoid_for": [
+      "Institutionelle Portale",
+      "Regulierte Corporate-Strecken",
+      "Interfaces mit rein technischer Ernsthaftigkeit"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Cherry Gloss den Cluster Sassy & Bright glaubwuerdig traegt",
+        "reason": "Cherry Gloss bleibt im Kern Sassy & Bright, verschiebt die Tonlage aber in eine kirschigere, direkte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben funktionieren fuer Beauty und D2C zugleich?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Sassy & Bright zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Cherry Gloss im Cluster Sassy & Bright?",
+        "answer": "Cherry Gloss eignet sich besonders, wenn Optimismus, Aktivierung und emotionale Wiedererkennung Conversion tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Cherry Gloss</span><h3>Sassy & Bright</h3><p>Eine aktivierende D2C-Palette fuer Beauty, Gen-Z Marketing und Creator-Marken, die Optimismus, Kaufimpulse und Wiedererkennung verbinden will.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

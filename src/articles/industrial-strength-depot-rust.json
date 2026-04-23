@@ -1,0 +1,121 @@
+{
+  "title": "Industrial Strength: Depot Rust",
+  "slug": "industrial-strength-depot-rust",
+  "vibe": "Material Force / Depot",
+  "summary": "Eine robuste Industriepalette fuer Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Die Variante Depot Rust verschiebt den Cluster in eine erdigere, materialnahe Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Industrial Strength",
+    "cluster_slug": "industrial-strength",
+    "variant": "Depot Rust"
+  },
+  "keywords": [
+    "Industrie Farbpalette",
+    "Industrial Strength",
+    "Depot Rust",
+    "Business & Institutionen",
+    "Handwerk",
+    "Logistik"
+  ],
+  "seo": {
+    "meta_title": "Industrial Strength: Depot Rust | Industrie Farbpalette",
+    "meta_description": "Eine robuste Industriepalette fuer Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten. Depot Rust bringt eine erdigere, materialnahe Auspraegung fuer Handwerk, Logistik und verwandte Projekte.",
+    "focus_keyword": "Industrie Farbpalette",
+    "questions": [
+      "Welche Farben tragen Handwerk und Bauwesen glaubwuerdig?",
+      "Wann passt Depot Rust im Cluster Industrial Strength?",
+      "Wie lassen sich Sicherheitsfarben digital einsetzen, ohne Alarmrauschen zu erzeugen?"
+    ]
+  },
+  "colors": {
+    "primary": "#bfbfbb",
+    "secondary": "#eeede7",
+    "accent": "#c99419",
+    "bg": "#f7f5ef",
+    "text": "#2d2a28",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent neutrale Flaechen schaffen Materialruhe, 30 Prozent Zweitflaechen ordnen technische Inhalte, 10 Prozent Safety-Accent markieren Prioritaet und Richtung. Depot Rust wirkt dabei erdigere, materialnahe."
+  },
+  "accessibility": {
+    "text_on_primary": 7.73,
+    "text_on_secondary": 12.15,
+    "text_on_bg": 13.07,
+    "text_on_card": 14.25
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Handwerk",
+    "Logistik",
+    "Bauwesen"
+  ],
+  "audiences": [
+    "Operative Teams",
+    "Einkaufsabteilungen",
+    "Sicherheitsrelevante Entscheider"
+  ],
+  "brand_traits": [
+    "robust",
+    "direkt",
+    "sicher",
+    "erdig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Depot Rust Primary",
+      "psychology": "Das Primarsystem wirkt wie Material statt Dekor und verankert die Marke in physischer Leistung. In der Variante Depot Rust wirkt sie erdigere, materialnahe.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Industrial Strength",
+      "risk": "Wenn Depot Rust zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Industrial Strength."
+    },
+    "secondary": {
+      "name": "Depot Rust Surface",
+      "psychology": "Die Zweitfarbe gibt Formularen, Tabellen und Leistungsmodulen eine belastbare Unterstruktur. So bleibt Depot Rust auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Depot Rust Accent",
+      "psychology": "Der Accent uebernimmt Sicherheits- und Signalrollen und sollte im Interface klar priorisiert bleiben. Gerade in Depot Rust sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bau- und Logistik-Websites mit Leistungsfokus",
+      "Handwerksportale mit Angebotsstrecke",
+      "Industrieseiten mit Produkt- und Sicherheitsinformationen"
+    ],
+    "avoid_for": [
+      "Wellness- und Achtsamkeitsmarken",
+      "Luxury-Inszenierungen mit stiller Exklusivitaet",
+      "Kinderprodukte mit spielerischer Tonalitaet"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Depot Rust den Cluster Industrial Strength glaubwuerdig traegt",
+        "reason": "Depot Rust bleibt im Kern Industrial Strength, verschiebt die Tonlage aber in eine erdigere, materialnahe Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Handwerk und Bauwesen glaubwuerdig?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Industrial Strength zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Depot Rust im Cluster Industrial Strength?",
+        "answer": "Depot Rust eignet sich besonders, wenn Leistung, Sicherheit und Materialehrlichkeit im Vordergrund stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Depot Rust</span><h3>Industrial Strength</h3><p>Eine robuste Industriepalette fuer Handwerk, Logistik und Bauwesen mit hoher Materialanmutung, klaren Sicherheitscodes und harten Kontrasten.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

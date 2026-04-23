@@ -1,0 +1,120 @@
+{
+  "title": "Bio-Logic & Eco: Cedar Grove",
+  "slug": "bio-logic-eco-cedar-grove",
+  "vibe": "Grounded Warmth / Cedar",
+  "summary": "Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit. Die Variante Cedar Grove verschiebt den Cluster in eine holzartigere, authentische Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Bio-Logic & Eco",
+    "cluster_slug": "bio-logic-eco",
+    "variant": "Cedar Grove"
+  },
+  "keywords": [
+    "Nachhaltige Farbpalette",
+    "Bio-Logic & Eco",
+    "Cedar Grove",
+    "Lifestyle & Konsum",
+    "Bio-Food",
+    "Slow Fashion"
+  ],
+  "seo": {
+    "meta_title": "Bio-Logic & Eco: Cedar Grove | Nachhaltige Farbpalette",
+    "meta_description": "Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit. Cedar Grove bringt eine holzartigere, authentische Auspraegung fuer Bio-Food, Slow Fashion und verwandte Projekte.",
+    "focus_keyword": "Nachhaltige Farbpalette",
+    "questions": [
+      "Welche Farben passen zu nachhaltigen Marken?",
+      "Wann passt Cedar Grove im Cluster Bio-Logic & Eco?",
+      "Wie wirken Erdtoene modern statt altbacken?"
+    ]
+  },
+  "colors": {
+    "primary": "#9bc78a",
+    "secondary": "#d7eacf",
+    "accent": "#4c8a47",
+    "bg": "#f5f7f1",
+    "text": "#2f372d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Naturflaechen, 30 Prozent erdige Markentraeger, 10 Prozent Accent fuer Herkunft, CTAs und Orientierung. Cedar Grove wirkt dabei holzartigere, authentische."
+  },
+  "accessibility": {
+    "text_on_primary": 6.41,
+    "text_on_secondary": 9.71,
+    "text_on_bg": 11.41,
+    "text_on_card": 12.32
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Bio-Food",
+    "Slow Fashion",
+    "Nachhaltige Marken"
+  ],
+  "audiences": [
+    "Bewusste Konsumentinnen und Konsumenten",
+    "Impact-orientierte Marken",
+    "Teams mit Ethik- und Herkunftsfokus"
+  ],
+  "brand_traits": [
+    "erdig",
+    "authentisch",
+    "ethisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Cedar Grove Primary",
+      "psychology": "Die Primarfarbe bringt Naturbezug, ohne in Kitsch oder naive Oeko-Codes zu kippen. In der Variante Cedar Grove wirkt sie holzartigere, authentische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Bio-Logic & Eco",
+      "risk": "Wenn Cedar Grove zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Bio-Logic & Eco."
+    },
+    "secondary": {
+      "name": "Cedar Grove Surface",
+      "psychology": "Die Sekundaerflaechen lassen Produkte, Texte und Zertifikate ruhig atmen. So bleibt Cedar Grove auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Cedar Grove Accent",
+      "psychology": "Der Accent liefert klare Orientierung und bleibt als glaubwuerdiges Signal sparsam. Gerade in Cedar Grove sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bio-Shops mit Transparenzanspruch",
+      "Nachhaltige Produktmarken",
+      "Slow-Fashion Labels mit Herkunftserzaehlung"
+    ],
+    "avoid_for": [
+      "Trading- und Echtzeitprodukte",
+      "Sterile Kliniksysteme",
+      "Lautes Entertainment"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Cedar Grove den Cluster Bio-Logic & Eco glaubwuerdig traegt",
+        "reason": "Cedar Grove bleibt im Kern Bio-Logic & Eco, verschiebt die Tonlage aber in eine holzartigere, authentische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu nachhaltigen Marken?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Bio-Logic & Eco zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Cedar Grove im Cluster Bio-Logic & Eco?",
+        "answer": "Cedar Grove eignet sich besonders, wenn Herkunft, Ethik und ruhiges Vertrauen wichtiger sind als schrille Aktivierung."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Cedar Grove</span><h3>Bio-Logic & Eco</h3><p>Eine nachhaltige Erdton-Palette fuer Bio-Food, Slow Fashion und ethische Marken mit Fokus auf Ruhe, Herkunft und glaubwuerdige Erdigkeit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

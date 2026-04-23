@@ -1,0 +1,121 @@
+{
+  "title": "Luxury Heritage: Racing Green",
+  "slug": "luxury-heritage-racing-green",
+  "vibe": "Quiet Prestige / Classic",
+  "summary": "Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit. Die Variante Racing Green verschiebt den Cluster in eine klassische, prestigeorientierte Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Luxury Heritage",
+    "cluster_slug": "luxury-heritage",
+    "variant": "Racing Green"
+  },
+  "keywords": [
+    "Farbpalette Luxusmarke",
+    "Luxury Heritage",
+    "Racing Green",
+    "Lifestyle & Konsum",
+    "Luxusimmobilien",
+    "Uhren"
+  ],
+  "seo": {
+    "meta_title": "Luxury Heritage: Racing Green | Farbpalette Luxusmarke",
+    "meta_description": "Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit. Racing Green bringt eine klassische, prestigeorientierte Auspraegung fuer Luxusimmobilien, Uhren und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Luxusmarke",
+    "questions": [
+      "Welche Farben tragen Luxus und Heritage im Web?",
+      "Wann passt Racing Green im Cluster Luxury Heritage?",
+      "Wie wirkt eine Luxuspalette exklusiv statt prahlerisch?"
+    ]
+  },
+  "colors": {
+    "primary": "#2f4a3d",
+    "secondary": "#f0eadc",
+    "accent": "#a28750",
+    "bg": "#f7f3ea",
+    "text": "#1d1a1a",
+    "card": "#fffdf9"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent ruhige Flaechen lassen Material und Bildsprache wirken, 30 Prozent tiefe Primarflaechen stiften Marke, 10 Prozent Accent markieren Luxusmomente und Interaktion. Racing Green wirkt dabei klassische, prestigeorientierte."
+  },
+  "accessibility": {
+    "text_on_primary": 1.78,
+    "text_on_secondary": 14.41,
+    "text_on_bg": 15.61,
+    "text_on_card": 17.01
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Luxusimmobilien",
+    "Uhren",
+    "Private Wealth"
+  ],
+  "audiences": [
+    "Vermoegende Privatkundschaft",
+    "Designaffine Kaeuferschaft",
+    "Concierge-orientierte Vertriebsteams"
+  ],
+  "brand_traits": [
+    "exklusiv",
+    "diskret",
+    "wertig",
+    "prestigebewusst"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Racing Green Primary",
+      "psychology": "Das Primarsystem wirkt nicht laut teuer, sondern kontrolliert hochwertig. In der Variante Racing Green wirkt sie klassische, prestigeorientierte.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Luxury Heritage",
+      "risk": "Wenn Racing Green zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Luxury Heritage."
+    },
+    "secondary": {
+      "name": "Racing Green Surface",
+      "psychology": "Die helle Zweitfarbe gibt Bildern, Text und Flaechen eine galerieartige Ruhe. So bleibt Racing Green auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Racing Green Accent",
+      "psychology": "Der Accent erinnert an Metall, Schmuck oder Signature-Details und darf bewusst dosiert bleiben. Gerade in Racing Green sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Luxury-Property Auftritte",
+      "Boutique-Hotels mit Heritage",
+      "Wertige Verkaufsseiten mit wenig aber starkem UI"
+    ],
+    "avoid_for": [
+      "Kinder- und Education-Produkte",
+      "Behoerdenportale",
+      "Aktivistische Kampagnenseiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Racing Green den Cluster Luxury Heritage glaubwuerdig traegt",
+        "reason": "Racing Green bleibt im Kern Luxury Heritage, verschiebt die Tonlage aber in eine klassische, prestigeorientierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Luxus und Heritage im Web?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Luxury Heritage zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Racing Green im Cluster Luxury Heritage?",
+        "answer": "Racing Green eignet sich besonders, wenn Stille Exklusivitaet, Materialwert und kontrollierte Sattheit die Hauptrolle spielen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Racing Green</span><h3>Luxury Heritage</h3><p>Eine tiefe Heritage-Palette fuer Luxusgueter, Boutique-Hotels und High-End Immobilien mit Fokus auf Exklusivitaet, Materialwert und kontrollierte Sattheit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Health & Clinical: Clinical Aqua",
+  "slug": "health-clinical-clinical-aqua",
+  "vibe": "Clinical Precision / Clean",
+  "summary": "Eine klinisch-präzise Palette für Pharma, Kliniken, Laborsoftware und MedTech mit Fokus auf Hygiene, Sanftheit und klare Information. Die Variante Clinical Aqua verschiebt den Cluster in eine saubere, klinische Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Health & Clinical",
+    "cluster_slug": "health-clinical",
+    "variant": "Clinical Aqua"
+  },
+  "keywords": [
+    "Farbpalette Klinik",
+    "Health & Clinical",
+    "Clinical Aqua",
+    "Business & Institutionen",
+    "Kliniken",
+    "MedTech"
+  ],
+  "seo": {
+    "meta_title": "Health & Clinical: Clinical Aqua | Farbpalette Klinik",
+    "meta_description": "Eine klinisch-präzise Palette für Pharma, Kliniken, Laborsoftware und MedTech mit Fokus auf Hygiene, Sanftheit und klare Information. Clinical Aqua bringt eine saubere, klinische Ausprägung für Kliniken, MedTech und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Klinik",
+    "questions": [
+      "Welche Farben passen zu Kliniken und MedTech?",
+      "Wann passt Clinical Aqua im Cluster Health & Clinical?",
+      "Wie wirkt Health-Webdesign hygienisch, aber nicht kalt?"
+    ]
+  },
+  "colors": {
+    "primary": "#c7d8df",
+    "secondary": "#e5edf0",
+    "accent": "#4d8f8f",
+    "bg": "#f6f9fa",
+    "text": "#213136",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent Weissräume schaffen Hygiene, 30 Prozent sanfte Türkisflächen strukturieren Information, 10 Prozent Accent markieren Interaktion und Status. Clinical Aqua wirkt dabei saubere, klinische."
+  },
+  "accessibility": {
+    "text_on_primary": 9.19,
+    "text_on_secondary": 11.37,
+    "text_on_bg": 12.75,
+    "text_on_card": 13.49
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kliniken",
+    "MedTech",
+    "Pharma"
+  ],
+  "audiences": [
+    "Patientinnen und Patienten",
+    "Ärztliche Fachgruppen",
+    "Produkt- und Compliance Teams"
+  ],
+  "brand_traits": [
+    "hygienisch",
+    "präzise",
+    "vertrauensvoll"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Clinical Aqua Primary",
+      "psychology": "Die Primarfarbe verbindet Reinheit mit klinischer Ruhe und vermeidet die Kühle eines reinen Technikblaus. In der Variante Clinical Aqua wirkt sie saubere, klinische.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Health & Clinical",
+      "risk": "Wenn Clinical Aqua zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Health & Clinical."
+    },
+    "secondary": {
+      "name": "Clinical Aqua Surface",
+      "psychology": "Die Sekundärflächen halten grosse Informationsmengen freundlich und nachvollziehbar. So bleibt Clinical Aqua auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Clinical Aqua Accent",
+      "psychology": "Der Accent bringt Präzision in Status, Navigation und fokussierte Handlungen. Gerade in Clinical Aqua sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Klinikseiten mit Termin- und Aufklärungsstrecken",
+      "MedTech-Produkte mit Erklärungsbedarf",
+      "Pharma-Portale mit ruhiger Fachkommunikation"
+    ],
+    "avoid_for": [
+      "Marken mit bewusst lauter Reizdramaturgie",
+      "Luxury-Auftritte mit dunklem Prestige",
+      "Punk- und Subkultur-Websites"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Clinical Aqua den Cluster Health & Clinical glaubwürdig trägt",
+        "reason": "Clinical Aqua bleibt im Kern Health & Clinical, verschiebt die Tonlage aber in eine saubere, klinische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Kliniken und MedTech?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Health & Clinical zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Clinical Aqua im Cluster Health & Clinical?",
+        "answer": "Clinical Aqua eignet sich besonders, wenn Vertrauen, Ruhe und präzise Information sensibler sind als starke Markenlautstärke."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Clinical Aqua<\/span><h3>Health & Clinical<\/h3><p>Eine klinisch-präzise Palette für Pharma, Kliniken, Laborsoftware und MedTech mit Fokus auf Hygiene, Sanftheit und klare Information.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

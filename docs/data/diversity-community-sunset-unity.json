@@ -1,0 +1,121 @@
+{
+  "title": "Diversity & Community: Sunset Unity",
+  "slug": "diversity-community-sunset-unity",
+  "vibe": "Inclusive Warmth / Unity",
+  "summary": "Eine warme Community-Palette für Inklusion, LGBTQ+ und Nachbarschaftsprojekte mit modern interpretiertem Spektrum und verbindender Offenheit. Die Variante Sunset Unity verschiebt den Cluster in eine zugewandtere, verbindende Richtung.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Diversity & Community",
+    "cluster_slug": "diversity-community",
+    "variant": "Sunset Unity"
+  },
+  "keywords": [
+    "Farbpalette Inklusion",
+    "Diversity & Community",
+    "Sunset Unity",
+    "Mensch & Gesellschaft",
+    "Inklusion",
+    "LGBTQ+"
+  ],
+  "seo": {
+    "meta_title": "Diversity & Community: Sunset Unity | Farbpalette Inklusion",
+    "meta_description": "Eine warme Community-Palette für Inklusion, LGBTQ+ und Nachbarschaftsprojekte mit modern interpretiertem Spektrum und verbindender Offenheit. Sunset Unity bringt eine zugewandtere, verbindende Ausprägung für Inklusion, LGBTQ+ und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Inklusion",
+    "questions": [
+      "Welche Farben passen zu Inklusion und Community-Projekten?",
+      "Wann passt Sunset Unity im Cluster Diversity & Community?",
+      "Wie interpretiert man Spektrum und Vielfalt modern statt plakativ?"
+    ]
+  },
+  "colors": {
+    "primary": "#f2bdb9",
+    "secondary": "#fee4e7",
+    "accent": "#4aa9e1",
+    "bg": "#fffdfe",
+    "text": "#2a2330",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helle Grundflächen geben Offenheit, 30 Prozent warme Supportzonen strukturieren Community-Content, 10 Prozent Accent setzen klare Interaktionspunkte. Sunset Unity wirkt dabei zugewandtere, verbindende."
+  },
+  "accessibility": {
+    "text_on_primary": 9.23,
+    "text_on_secondary": 12.64,
+    "text_on_bg": 15.01,
+    "text_on_card": 15.2
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Inklusion",
+    "LGBTQ+",
+    "Community Projekte"
+  ],
+  "audiences": [
+    "Community-orientierte Gruppen",
+    "Nicht-kommerzielle Netzwerke",
+    "Teams mit Fokus auf Zugehörigkeit"
+  ],
+  "brand_traits": [
+    "integrativ",
+    "warm",
+    "offen",
+    "zugewandt"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Sunset Unity Primary",
+      "psychology": "Die Primarfarbe transportiert Zugewandtheit und emotionale Offenheit. In der Variante Sunset Unity wirkt sie zugewandtere, verbindende.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Diversity & Community",
+      "risk": "Wenn Sunset Unity zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Diversity & Community."
+    },
+    "secondary": {
+      "name": "Sunset Unity Surface",
+      "psychology": "Die Zweitebene hält Community-Inhalte, Orientierung und Moderation freundlich zusammen. So bleibt Sunset Unity auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Sunset Unity Accent",
+      "psychology": "Der Accent setzt Orientierung und aktive States ohne den warmen Grundton zu dominieren. Gerade in Sunset Unity sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Community-Portale mit Zugehörigkeitsfokus",
+      "LGBTQ+-Organisationen",
+      "Inklusionsprojekte mit beratender Struktur"
+    ],
+    "avoid_for": [
+      "Strenge Kanzlei-Kommunikation",
+      "Militärisch anmutende Sicherheitslogik",
+      "Brutalistisches Anti-Design"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Sunset Unity den Cluster Diversity & Community glaubwürdig trägt",
+        "reason": "Sunset Unity bleibt im Kern Diversity & Community, verschiebt die Tonlage aber in eine zugewandtere, verbindende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Inklusion und Community-Projekten?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Diversity & Community zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Sunset Unity im Cluster Diversity & Community?",
+        "answer": "Sunset Unity eignet sich besonders, wenn Wärme, Zugehörigkeit und Offenheit sichtbare Leitwerte des Projekts sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Sunset Unity<\/span><h3>Diversity & Community<\/h3><p>Eine warme Community-Palette für Inklusion, LGBTQ+ und Nachbarschaftsprojekte mit modern interpretiertem Spektrum und verbindender Offenheit.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Anime & Gaming Culture: Combo Burst",
+  "slug": "anime-gaming-culture-combo-burst",
+  "vibe": "Dynamic Fandom / Dynamic",
+  "summary": "Eine hochsättigte Gaming-Palette für Merch, Streaming und Fandoms mit dynamischen Komplementärfarben und klarer Community-Energie. Die Variante Combo Burst verschiebt den Cluster in eine dynamische, hochgesättigte Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Anime & Gaming Culture",
+    "cluster_slug": "anime-gaming-culture",
+    "variant": "Combo Burst"
+  },
+  "keywords": [
+    "Farbpalette Gaming",
+    "Anime & Gaming Culture",
+    "Combo Burst",
+    "Popkultur & Subkultur",
+    "Streaming",
+    "Gaming"
+  ],
+  "seo": {
+    "meta_title": "Anime & Gaming Culture: Combo Burst | Farbpalette Gaming",
+    "meta_description": "Eine hochsättigte Gaming-Palette für Merch, Streaming und Fandoms mit dynamischen Komplementärfarben und klarer Community-Energie. Combo Burst bringt eine dynamische, hochgesättigte Ausprägung für Streaming, Gaming und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Gaming",
+    "questions": [
+      "Welche Farben passen zu Gaming und Streaming?",
+      "Wann passt Combo Burst im Cluster Anime & Gaming Culture?",
+      "Wie bleibt ein lauter Fandom-Auftritt trotz hoher Sättigung nutzbar?"
+    ]
+  },
+  "colors": {
+    "primary": "#5d86d8",
+    "secondary": "#fde5ef",
+    "accent": "#ff4fa3",
+    "bg": "#fff8fb",
+    "text": "#251f2c",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helle Flächen halten den Auftritt lesbar, 30 Prozent farbige Supportflächen tragen Community-Module, 10 Prozent Accent liefern Energie für Streams, CTA und Status. Combo Burst wirkt dabei dynamische, hochgesättigte."
+  },
+  "accessibility": {
+    "text_on_primary": 4.48,
+    "text_on_secondary": 13.45,
+    "text_on_bg": 15.31,
+    "text_on_card": 16.02
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Streaming",
+    "Gaming",
+    "Fandom"
+  ],
+  "audiences": [
+    "Community-orientierte Nutzerinnen und Nutzer",
+    "Stream-affine Zielgruppen",
+    "Popkultur-Stan Communities"
+  ],
+  "brand_traits": [
+    "dynamisch",
+    "sozial",
+    "laut"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Combo Burst Primary",
+      "psychology": "Die Primarfarbe bringt Dynamik und digitales Tempo in den Auftritt. In der Variante Combo Burst wirkt sie dynamische, hochgesättigte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Anime & Gaming Culture",
+      "risk": "Wenn Combo Burst zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Anime & Gaming Culture."
+    },
+    "secondary": {
+      "name": "Combo Burst Surface",
+      "psychology": "Die Zweitfarbe hält die laute Energie lesbar und schafft Flächen für Social-Module. So bleibt Combo Burst auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Combo Burst Accent",
+      "psychology": "Der Accent gibt den Momenten von Raid, Highlight und Action ihren Druckpunkt. Gerade in Combo Burst sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Streaming-Overlays und Merch-Shops",
+      "Fandom-Portale mit Community-Fokus",
+      "Gaming-Marken mit sozialer Energie"
+    ],
+    "avoid_for": [
+      "Rechts- und Finanzkommunikation",
+      "Zurückhaltende Museumskontexte",
+      "Mindfulness- und Spiritual-Websites"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Combo Burst den Cluster Anime & Gaming Culture glaubwürdig trägt",
+        "reason": "Combo Burst bleibt im Kern Anime & Gaming Culture, verschiebt die Tonlage aber in eine dynamische, hochgesättigte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Gaming und Streaming?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Anime & Gaming Culture zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Combo Burst im Cluster Anime & Gaming Culture?",
+        "answer": "Combo Burst eignet sich besonders, wenn Community-Energie, Dynamik und hoher Wiedererkennungswert gleichzeitig gefragt sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Combo Burst<\/span><h3>Anime & Gaming Culture<\/h3><p>Eine hochsättigte Gaming-Palette für Merch, Streaming und Fandoms mit dynamischen Komplementärfarben und klarer Community-Energie.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

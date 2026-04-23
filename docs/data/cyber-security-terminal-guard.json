@@ -1,0 +1,121 @@
+{
+  "title": "Cyber Security: Terminal Guard",
+  "slug": "cyber-security-terminal-guard",
+  "vibe": "Protected Signal / Firewall",
+  "summary": "Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Die Variante Terminal Guard verschiebt den Cluster in eine alarmbereitere, kontrollierte Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Cyber Security",
+    "cluster_slug": "cyber-security",
+    "variant": "Terminal Guard"
+  },
+  "keywords": [
+    "Farbpalette Cyber Security",
+    "Cyber Security",
+    "Terminal Guard",
+    "Tech & Future",
+    "IT-Sicherheit",
+    "Datenschutz"
+  ],
+  "seo": {
+    "meta_title": "Cyber Security: Terminal Guard | Farbpalette Cyber Security",
+    "meta_description": "Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung. Terminal Guard bringt eine alarmbereitere, kontrollierte Ausprägung für IT-Sicherheit, Datenschutz und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Cyber Security",
+    "questions": [
+      "Welche Farben passen zu Cyber Security und Datenschutz?",
+      "Wann passt Terminal Guard im Cluster Cyber Security?",
+      "Wie setzt man Alarmfarben ein, ohne die Seite permanent schreien zu lassen?"
+    ]
+  },
+  "colors": {
+    "primary": "#191c29",
+    "secondary": "#2a2e40",
+    "accent": "#e06a21",
+    "bg": "#0d1118",
+    "text": "#eef4ff",
+    "card": "#191f2b"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Sicherheitsbasis, 30 Prozent Supportebenen für Logs und Module, 10 Prozent Signalaccent für Risiko, Aktivität und Handlungsbedarf. Terminal Guard wirkt dabei alarmbereitere, kontrollierte."
+  },
+  "accessibility": {
+    "text_on_primary": 15.35,
+    "text_on_secondary": 12.17,
+    "text_on_bg": 17.13,
+    "text_on_card": 14.95
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "IT-Sicherheit",
+    "Datenschutz",
+    "Security SaaS"
+  ],
+  "audiences": [
+    "CISOs",
+    "IT-Abteilungen",
+    "Compliance-orientierte Einkaufsteams"
+  ],
+  "brand_traits": [
+    "schützend",
+    "wachsam",
+    "kontrolliert",
+    "alarmbereit"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Terminal Guard Primary",
+      "psychology": "Die Primarfarbe wirkt wie Schutzschicht und verschiebt den Auftritt von IT hin zu Sicherheitsarchitektur. In der Variante Terminal Guard wirkt sie alarmbereitere, kontrollierte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Cyber Security",
+      "risk": "Wenn Terminal Guard zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Cyber Security."
+    },
+    "secondary": {
+      "name": "Terminal Guard Surface",
+      "psychology": "Die dunkle Zweitebene ordnet Dashboards, Warnungen und Zustandssysteme. So bleibt Terminal Guard auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Terminal Guard Accent",
+      "psychology": "Der Accent darf nur dort auftauchen, wo Schutz, Gefahr oder aktive Handlung markiert werden müssen. Gerade in Terminal Guard sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Security-Landingpages mit Vertrauensfokus",
+      "Datenschutz- und Compliance-SaaS",
+      "Bedrohungs- und Monitoringsysteme"
+    ],
+    "avoid_for": [
+      "Genuss- und Sweet-Branding",
+      "Soft-Wellness und Mindfulness",
+      "Zartes Romantasy-Branding"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Terminal Guard den Cluster Cyber Security glaubwürdig trägt",
+        "reason": "Terminal Guard bleibt im Kern Cyber Security, verschiebt die Tonlage aber in eine alarmbereitere, kontrollierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Cyber Security und Datenschutz?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Cyber Security zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Terminal Guard im Cluster Cyber Security?",
+        "answer": "Terminal Guard eignet sich besonders, wenn Schutz, Signalwirkung und kontrollierte Aufmerksamkeit die Kernwahrnehmung bestimmen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Terminal Guard<\/span><h3>Cyber Security<\/h3><p>Eine scharf kontrastierende Security-Palette für Datenschutz, IT-Sicherheit und Verschlüsselungsprodukte mit Fokus auf Schutz, Wachsamkeit und Signalwirkung.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

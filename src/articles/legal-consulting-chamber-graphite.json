@@ -1,0 +1,120 @@
+{
+  "title": "Legal & Consulting: Chamber Graphite",
+  "slug": "legal-consulting-chamber-graphite",
+  "vibe": "Discreet Authority / Graphite",
+  "summary": "Eine diskrete Beratungs- und Kanzleipalette fuer Anwaltskanzleien, Strategieberatung und Notariate mit Fokus auf Substanz, Prestige und kontrollierte Autoritaet. Die Variante Chamber Graphite verschiebt den Cluster in eine graphitnaehere, strengere Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Legal & Consulting",
+    "cluster_slug": "legal-consulting",
+    "variant": "Chamber Graphite"
+  },
+  "keywords": [
+    "Farbpalette Kanzlei",
+    "Legal & Consulting",
+    "Chamber Graphite",
+    "Business & Institutionen",
+    "Kanzleien",
+    "Notariate"
+  ],
+  "seo": {
+    "meta_title": "Legal & Consulting: Chamber Graphite | Farbpalette Kanzlei",
+    "meta_description": "Eine diskrete Beratungs- und Kanzleipalette fuer Anwaltskanzleien, Strategieberatung und Notariate mit Fokus auf Substanz, Prestige und kontrollierte Autoritaet. Chamber Graphite bringt eine graphitnaehere, strengere Auspraegung fuer Kanzleien, Notariate und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Kanzlei",
+    "questions": [
+      "Welche Farben passen zu Kanzleien und Strategieberatung?",
+      "Wann passt Chamber Graphite im Cluster Legal & Consulting?",
+      "Wie wirkt eine juristische Website substanziell statt steif?"
+    ]
+  },
+  "colors": {
+    "primary": "#2a323f",
+    "secondary": "#ebe5de",
+    "accent": "#622d3e",
+    "bg": "#f4f0e9",
+    "text": "#1f1c1c",
+    "card": "#fffbf4"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent helle Flaechen halten die Kommunikation ruhig, 30 Prozent dunkle Markentraeger setzen Autoritaet, 10 Prozent Wein-Accent markieren Prioritaet und Besprechungspunkte. Chamber Graphite wirkt dabei graphitnaehere, strengere."
+  },
+  "accessibility": {
+    "text_on_primary": 1.31,
+    "text_on_secondary": 13.53,
+    "text_on_bg": 14.9,
+    "text_on_card": 16.4
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kanzleien",
+    "Notariate",
+    "Strategieberatung"
+  ],
+  "audiences": [
+    "Vermoegende Privatkundschaft",
+    "Unternehmensmandate",
+    "Vertrauenssuchende Entscheidungstraeger"
+  ],
+  "brand_traits": [
+    "diskret",
+    "souveraen",
+    "geordnet"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Chamber Graphite Primary",
+      "psychology": "Das dunkle Primartraegersystem kommuniziert Kontrolle, Vertraulichkeit und Formstrenge. In der Variante Chamber Graphite wirkt sie graphitnaehere, strengere.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Legal & Consulting",
+      "risk": "Wenn Chamber Graphite zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Legal & Consulting."
+    },
+    "secondary": {
+      "name": "Chamber Graphite Surface",
+      "psychology": "Die helle Zweitfarbe schafft den Eindruck von Papier, Expose und juristischer Klarheit. So bleibt Chamber Graphite auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Chamber Graphite Accent",
+      "psychology": "Der Accent wirkt wie ein kontrollierter Hinweis auf Tiefe, Prestige oder aktive Beratungspunkte. Gerade in Chamber Graphite sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Kanzleiseiten mit diskretem Premium-Anspruch",
+      "Beratungsseiten mit Thought-Leadership Fokus",
+      "Notariate mit hoher Vertrauenslast"
+    ],
+    "avoid_for": [
+      "Trendgetriebene Lifestyle-Marken",
+      "Produkte fuer Kinder und Jugendliche",
+      "Extrem technische Echtzeit-Dashboards"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Chamber Graphite den Cluster Legal & Consulting glaubwuerdig traegt",
+        "reason": "Chamber Graphite bleibt im Kern Legal & Consulting, verschiebt die Tonlage aber in eine graphitnaehere, strengere Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Kanzleien und Strategieberatung?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Legal & Consulting zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Chamber Graphite im Cluster Legal & Consulting?",
+        "answer": "Chamber Graphite eignet sich besonders, wenn Diskretion, Autoritaet und inhaltliche Tiefe wichtiger sind als emotionale Aufladung."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Chamber Graphite</span><h3>Legal & Consulting</h3><p>Eine diskrete Beratungs- und Kanzleipalette fuer Anwaltskanzleien, Strategieberatung und Notariate mit Fokus auf Substanz, Prestige und kontrollierte Autoritaet.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

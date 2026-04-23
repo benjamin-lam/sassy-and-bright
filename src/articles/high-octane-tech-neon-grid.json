@@ -1,0 +1,120 @@
+{
+  "title": "High-Octane Tech: Neon Grid",
+  "slug": "high-octane-tech-neon-grid",
+  "vibe": "High Energy Systems / Runtime",
+  "summary": "Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben. Die Variante Neon Grid verschiebt den Cluster in eine energiegeladene, zukunftsorientierte Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "High-Octane Tech",
+    "cluster_slug": "high-octane-tech",
+    "variant": "Neon Grid"
+  },
+  "keywords": [
+    "Farbpalette KI Startup",
+    "High-Octane Tech",
+    "Neon Grid",
+    "Tech & Future",
+    "KI-Startups",
+    "Big Data"
+  ],
+  "seo": {
+    "meta_title": "High-Octane Tech: Neon Grid | Farbpalette KI Startup",
+    "meta_description": "Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben. Neon Grid bringt eine energiegeladene, zukunftsorientierte Auspraegung fuer KI-Startups, Big Data und verwandte Projekte.",
+    "focus_keyword": "Farbpalette KI Startup",
+    "questions": [
+      "Welche Farben passen zu KI-Startups und High-Tech Produkten?",
+      "Wann passt Neon Grid im Cluster High-Octane Tech?",
+      "Wie wirkt Dark-Mode innovativ statt beliebig?"
+    ]
+  },
+  "colors": {
+    "primary": "#4d7cf3",
+    "secondary": "#20263a",
+    "accent": "#b7ff3c",
+    "bg": "#111623",
+    "text": "#eef2ff",
+    "card": "#1a2131"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent Dark-Mode-Basis erzeugt Fokus, 30 Prozent Supportflaechen strukturieren Daten und Module, 10 Prozent Neon-Accent aktivieren Kernelemente. Neon Grid wirkt dabei energiegeladene, zukunftsorientierte."
+  },
+  "accessibility": {
+    "text_on_primary": 3.42,
+    "text_on_secondary": 13.42,
+    "text_on_bg": 16.15,
+    "text_on_card": 14.38
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "KI-Startups",
+    "Big Data",
+    "B2B SaaS"
+  ],
+  "audiences": [
+    "Produktteams",
+    "Technische Entscheider",
+    "Innovationsorientierte Investorinnen und Investoren"
+  ],
+  "brand_traits": [
+    "innovativ",
+    "klar",
+    "zukunftsorientiert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Neon Grid Primary",
+      "psychology": "Die Primarfarbe bringt technisches Momentum und wirkt wie Produktkern statt dekorative Spielerei. In der Variante Neon Grid wirkt sie energiegeladene, zukunftsorientierte.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster High-Octane Tech",
+      "risk": "Wenn Neon Grid zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters High-Octane Tech."
+    },
+    "secondary": {
+      "name": "Neon Grid Surface",
+      "psychology": "Die dunkle Zweitflaeche organisiert Dashboards, Eingaben und Datenkarten mit hoher Ruhe. So bleibt Neon Grid auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Neon Grid Accent",
+      "psychology": "Der Accent uebernimmt Energie, Interaktion und Prioritaet in einem kontrollierten Rahmen. Gerade in Neon Grid sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "KI-Startups mit Produktfokus",
+      "SaaS-Landingpages fuer neue Technologien",
+      "Cloud-Interfaces mit hoher Datenkonzentration"
+    ],
+    "avoid_for": [
+      "Behordenportale",
+      "Klassische Luxury-Auftritte",
+      "Handmade- und Slow-Food-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Neon Grid den Cluster High-Octane Tech glaubwuerdig traegt",
+        "reason": "Neon Grid bleibt im Kern High-Octane Tech, verschiebt die Tonlage aber in eine energiegeladene, zukunftsorientierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu KI-Startups und High-Tech Produkten?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. High-Octane Tech zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Neon Grid im Cluster High-Octane Tech?",
+        "answer": "Neon Grid eignet sich besonders, wenn Produktenergie, Zukunftssignal und technische Klarheit im Vordergrund stehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Neon Grid</span><h3>High-Octane Tech</h3><p>Eine energiegeladene Tech-Palette fuer KI-Startups, Big Data und Cloud-Produkte mit Dark-Mode-Basis und hochkonzentrierten Signalfarben.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

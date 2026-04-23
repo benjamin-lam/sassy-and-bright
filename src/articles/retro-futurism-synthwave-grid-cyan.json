@@ -1,0 +1,120 @@
+{
+  "title": "Retro-Futurism / Synthwave: Grid Cyan",
+  "slug": "retro-futurism-synthwave-grid-cyan",
+  "vibe": "Digital Nostalgia / Cyan",
+  "summary": "Eine Synthwave-Palette fuer 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Die Variante Grid Cyan verschiebt den Cluster in eine cyanlastigere, leuchtende Richtung.",
+  "taxonomy": {
+    "sector": "Popkultur & Subkultur",
+    "sector_slug": "popkultur-subkultur",
+    "cluster": "Retro-Futurism / Synthwave",
+    "cluster_slug": "retro-futurism-synthwave",
+    "variant": "Grid Cyan"
+  },
+  "keywords": [
+    "Synthwave Farbpalette",
+    "Retro-Futurism / Synthwave",
+    "Grid Cyan",
+    "Popkultur & Subkultur",
+    "80s Culture",
+    "Arcade"
+  ],
+  "seo": {
+    "meta_title": "Retro-Futurism / Synthwave: Grid Cyan | Synthwave Farbpalette",
+    "meta_description": "Eine Synthwave-Palette fuer 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie. Grid Cyan bringt eine cyanlastigere, leuchtende Auspraegung fuer 80s Culture, Arcade und verwandte Projekte.",
+    "focus_keyword": "Synthwave Farbpalette",
+    "questions": [
+      "Welche Farben tragen Synthwave und Retro-Futurism?",
+      "Wann passt Grid Cyan im Cluster Retro-Futurism / Synthwave?",
+      "Wie wirkt Neon-Nostalgie lesbar statt nur Effekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#ff4fd2",
+    "secondary": "#1c174a",
+    "accent": "#28ffe0",
+    "bg": "#120d22",
+    "text": "#f7f1ff",
+    "card": "#1d1634"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkler Raum, 30 Prozent farbige Supportebenen fuer Raster und Module, 10 Prozent Neonlicht fuer Fokus, CTA und Pop. Grid Cyan wirkt dabei cyanlastigere, leuchtende."
+  },
+  "accessibility": {
+    "text_on_primary": 2.6,
+    "text_on_secondary": 14.94,
+    "text_on_bg": 17.16,
+    "text_on_card": 15.6
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "80s Culture",
+    "Arcade",
+    "Synth-Pop"
+  ],
+  "audiences": [
+    "Retro-affine Communities",
+    "Event- und Bar-Konzepte",
+    "Marken mit Nostalgie-Faktor"
+  ],
+  "brand_traits": [
+    "nostalgisch",
+    "leuchtend",
+    "dramatisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Grid Cyan Primary",
+      "psychology": "Die Primarflaeche liefert Retro-Futurism und sofortige Popkultur-Codierung. In der Variante Grid Cyan wirkt sie cyanlastigere, leuchtende.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Retro-Futurism / Synthwave",
+      "risk": "Wenn Grid Cyan zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Retro-Futurism / Synthwave."
+    },
+    "secondary": {
+      "name": "Grid Cyan Surface",
+      "psychology": "Die dunkle Zweitfarbe ist die Buehne fuer Glows, Raster und Typografie. So bleibt Grid Cyan auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Grid Cyan Accent",
+      "psychology": "Der Accent bringt Laser- oder Rastermoment und steuert Aktivpunkte des Interfaces. Gerade in Grid Cyan sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Arcade- und Eventmarken",
+      "Retro-Futurism-Editorials",
+      "Synth-Pop und Vaporwave-nahe Auftritte"
+    ],
+    "avoid_for": [
+      "Nuechterne öffentliche Services",
+      "Vertrauenslastige Health-Kommunikation",
+      "Zurückhaltende Heritage-Luxury-Seiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Grid Cyan den Cluster Retro-Futurism / Synthwave glaubwuerdig traegt",
+        "reason": "Grid Cyan bleibt im Kern Retro-Futurism / Synthwave, verschiebt die Tonlage aber in eine cyanlastigere, leuchtende Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben tragen Synthwave und Retro-Futurism?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Retro-Futurism / Synthwave zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Grid Cyan im Cluster Retro-Futurism / Synthwave?",
+        "answer": "Grid Cyan eignet sich besonders, wenn digitale Nostalgie bewusst die visuelle Hauptattraktion der Marke ist."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Grid Cyan</span><h3>Retro-Futurism / Synthwave</h3><p>Eine Synthwave-Palette fuer 80er Nostalgie, Arcade-Bars und Retro-Futurism mit Cyan, Magenta und sonnenuntergangiger Digitalnostalgie.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

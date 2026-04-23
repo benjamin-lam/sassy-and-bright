@@ -1,0 +1,120 @@
+{
+  "title": "Brutalist Digital: System Acid",
+  "slug": "brutalist-digital-system-acid",
+  "vibe": "Raw Contrast / Raw",
+  "summary": "Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. Die Variante System Acid verschiebt den Cluster in eine rohere, brutalistische Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Brutalist Digital",
+    "cluster_slug": "brutalist-digital",
+    "variant": "System Acid"
+  },
+  "keywords": [
+    "Brutalist Webdesign Farben",
+    "Brutalist Digital",
+    "System Acid",
+    "Kreativitaet & Bildung",
+    "Underground Web",
+    "Web3 Art"
+  ],
+  "seo": {
+    "meta_title": "Brutalist Digital: System Acid | Brutalist Webdesign Farben",
+    "meta_description": "Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung. System Acid bringt eine rohere, brutalistische Auspraegung fuer Underground Web, Web3 Art und verwandte Projekte.",
+    "focus_keyword": "Brutalist Webdesign Farben",
+    "questions": [
+      "Welche Farben passen zu brutalistischem Webdesign?",
+      "Wann passt System Acid im Cluster Brutalist Digital?",
+      "Wie wirkt Anti-Design absichtlich roh statt defekt?"
+    ]
+  },
+  "colors": {
+    "primary": "#dadada",
+    "secondary": "#f0f0f0",
+    "accent": "#d4ff47",
+    "bg": "#fafafa",
+    "text": "#111111",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent rohe Grundflaechen, 30 Prozent graue Funktionsebene und 10 Prozent stoerender Accent fuer Fokus und Anti-Perfektion. System Acid wirkt dabei rohere, brutalistische."
+  },
+  "accessibility": {
+    "text_on_primary": 13.51,
+    "text_on_secondary": 16.57,
+    "text_on_bg": 18.09,
+    "text_on_card": 18.88
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Underground Web",
+    "Web3 Art",
+    "Experimentelle Portale"
+  ],
+  "audiences": [
+    "Digital Artists",
+    "Szene-affine Communities",
+    "Nutzerinnen und Nutzer mit Gestaltungsbewusstsein"
+  ],
+  "brand_traits": [
+    "roh",
+    "direkt",
+    "stoerend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "System Acid Primary",
+      "psychology": "Die Primarfarbe markiert Distanz zum Hochglanz-Web und stellt System ueber Dekor. In der Variante System Acid wirkt sie rohere, brutalistische.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Brutalist Digital",
+      "risk": "Wenn System Acid zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Brutalist Digital."
+    },
+    "secondary": {
+      "name": "System Acid Surface",
+      "psychology": "Die Zweitfarbe baut rohes Raster, Browser-Naehe und bewusste Sprödigkeit. So bleibt System Acid auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "System Acid Accent",
+      "psychology": "Der Accent zerschneidet Neutralitaet und macht die anti-dekorative Haltung sofort sichtbar. Gerade in System Acid sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Experimentelle Portfolios",
+      "Anti-Design-Projekte",
+      "Kulturseiten mit bewusstem Regelbruch"
+    ],
+    "avoid_for": [
+      "Public-Sector Services",
+      "vertrauenslastige Fintech-Angebote",
+      "Wellness- und Mindfulness-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum System Acid den Cluster Brutalist Digital glaubwuerdig traegt",
+        "reason": "System Acid bleibt im Kern Brutalist Digital, verschiebt die Tonlage aber in eine rohere, brutalistische Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu brutalistischem Webdesign?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Brutalist Digital zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt System Acid im Cluster Brutalist Digital?",
+        "answer": "System Acid eignet sich besonders, wenn Reibung, Systemcharakter und radikale Positionierung explizit gewuenscht sind."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>System Acid</span><h3>Brutalist Digital</h3><p>Eine rohe Anti-Design-Palette fuer Underground Culture, Web-Design-Museen und radikale Marken mit Systemfarben, Direktheit und absichtlicher Reibung.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

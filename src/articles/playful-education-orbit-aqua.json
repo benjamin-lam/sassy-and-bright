@@ -1,0 +1,120 @@
+{
+  "title": "Playful Education: Orbit Aqua",
+  "slug": "playful-education-orbit-aqua",
+  "vibe": "Structured Fun / Orbit",
+  "summary": "Eine motivierende Lernpalette fuer EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur. Die Variante Orbit Aqua verschiebt den Cluster in eine klarere, orbitartige Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Playful Education",
+    "cluster_slug": "playful-education",
+    "variant": "Orbit Aqua"
+  },
+  "keywords": [
+    "Farbpalette EdTech",
+    "Playful Education",
+    "Orbit Aqua",
+    "Kreativitaet & Bildung",
+    "EdTech",
+    "E-Learning"
+  ],
+  "seo": {
+    "meta_title": "Playful Education: Orbit Aqua | Farbpalette EdTech",
+    "meta_description": "Eine motivierende Lernpalette fuer EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur. Orbit Aqua bringt eine klarere, orbitartige Auspraegung fuer EdTech, E-Learning und verwandte Projekte.",
+    "focus_keyword": "Farbpalette EdTech",
+    "questions": [
+      "Welche Farben motivieren in Education-Produkten?",
+      "Wann passt Orbit Aqua im Cluster Playful Education?",
+      "Wie wird ein bunter Lernauftritt strukturiert statt chaotisch?"
+    ]
+  },
+  "colors": {
+    "primary": "#ffa24a",
+    "secondary": "#ffe6c0",
+    "accent": "#2ceada",
+    "bg": "#fffefb",
+    "text": "#2c2c26",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helle Lernflaechen entlasten, 30 Prozent Supportfarben strukturieren Missionen und Module, 10 Prozent Accent geben klares Feedback. Orbit Aqua wirkt dabei klarere, orbitartige."
+  },
+  "accessibility": {
+    "text_on_primary": 7.03,
+    "text_on_secondary": 11.59,
+    "text_on_bg": 13.92,
+    "text_on_card": 14.04
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "EdTech",
+    "E-Learning",
+    "Kinder-Apps"
+  ],
+  "audiences": [
+    "Lernende Kinder",
+    "Eltern und Lehrkraefte",
+    "Produktteams fuer Education"
+  ],
+  "brand_traits": [
+    "motivierend",
+    "spielerisch",
+    "klar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Orbit Aqua Primary",
+      "psychology": "Die Primarfarbe wirkt wie positive Aktivierung und zieht Aufmerksamkeit ohne Druck an. In der Variante Orbit Aqua wirkt sie klarere, orbitartige.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Playful Education",
+      "risk": "Wenn Orbit Aqua zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Playful Education."
+    },
+    "secondary": {
+      "name": "Orbit Aqua Surface",
+      "psychology": "Die Zweitfarbe schafft sichere Flaechen fuer Inhalte, Aufgaben und Progression. So bleibt Orbit Aqua auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Orbit Aqua Accent",
+      "psychology": "Der Accent eignet sich fuer Badge-Logik, Fortschritt und motivierende Interaktion. Gerade in Orbit Aqua sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Kinder-Apps mit Missionsstruktur",
+      "EdTech-Onboarding",
+      "Lernplattformen mit spielerischer Fuehrung"
+    ],
+    "avoid_for": [
+      "Diskrete Premium-Kanzleiseiten",
+      "Brutalistisches Anti-Design",
+      "True-Crime und Dark Narrative"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Orbit Aqua den Cluster Playful Education glaubwuerdig traegt",
+        "reason": "Orbit Aqua bleibt im Kern Playful Education, verschiebt die Tonlage aber in eine klarere, orbitartige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben motivieren in Education-Produkten?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Playful Education zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Orbit Aqua im Cluster Playful Education?",
+        "answer": "Orbit Aqua eignet sich besonders, wenn Motivation und Unterscheidbarkeit Lernfortschritt sichtbar unterstuetzen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Orbit Aqua</span><h3>Playful Education</h3><p>Eine motivierende Lernpalette fuer EdTech, Kinder-Apps und E-Learning mit klaren Unterschieden, positiven Signalen und spielerischer Struktur.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

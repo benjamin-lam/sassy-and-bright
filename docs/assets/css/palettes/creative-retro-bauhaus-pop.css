@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #d84b3f;
+  --color-secondary: #f4e7cf;
+  --color-accent: #1f7bdc;
+  --color-bg: #fffbf3;
+  --color-text: #22211e;
+  --color-card: #ffffff;
+  --p: #d84b3f;
+  --s: #f4e7cf;
+  --a: #1f7bdc;
+  --bg: #fffbf3;
+  --t: #22211e;
+  --c: #ffffff;
+  --cta-fg: #fffbf3;
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Corporate Trust: Treasury Mist",
+  "slug": "corporate-trust-treasury-mist",
+  "vibe": "Measured Confidence / Reserve",
+  "summary": "Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss. Die Variante Treasury Mist verschiebt den Cluster in eine tiefere, kontrollierte Richtung.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Corporate Trust",
+    "cluster_slug": "corporate-trust",
+    "variant": "Treasury Mist"
+  },
+  "keywords": [
+    "Farbpalette Banken",
+    "Corporate Trust",
+    "Treasury Mist",
+    "Business & Institutionen",
+    "Banken",
+    "Versicherungen"
+  ],
+  "seo": {
+    "meta_title": "Corporate Trust: Treasury Mist | Farbpalette Banken",
+    "meta_description": "Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss. Treasury Mist bringt eine tiefere, kontrollierte Ausprägung für Banken, Versicherungen und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Banken",
+    "questions": [
+      "Welche Farben wirken bei Banken und Versicherungen seriös?",
+      "Wann passt Treasury Mist im Cluster Corporate Trust?",
+      "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
+    ]
+  },
+  "colors": {
+    "primary": "#93c3e2",
+    "secondary": "#d3e5ef",
+    "accent": "#3182a6",
+    "bg": "#f0f5f9",
+    "text": "#1e2b36",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisse Flächen sichern Ruhe, 30 Prozent Soft Blue bilden Vertrauensflächen, 10 Prozent Stahlblau markieren Navigation und Interaktion. Treasury Mist wirkt dabei tiefere, kontrollierte."
+  },
+  "accessibility": {
+    "text_on_primary": 7.66,
+    "text_on_secondary": 11.16,
+    "text_on_bg": 13.16,
+    "text_on_card": 14.44
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Banken",
+    "Versicherungen",
+    "Blue-Chip"
+  ],
+  "audiences": [
+    "Investor Relations Teams",
+    "Corporate Kommunikationsabteilungen",
+    "Risikobewusste Kundschaft"
+  ],
+  "brand_traits": [
+    "seriös",
+    "stabil",
+    "klar",
+    "souverän"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Treasury Mist Primary",
+      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlässlichkeit und kontrollierte Kompetenz. In der Variante Treasury Mist wirkt sie tiefere, kontrollierte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Corporate Trust",
+      "risk": "Wenn Treasury Mist zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Corporate Trust."
+    },
+    "secondary": {
+      "name": "Treasury Mist Surface",
+      "psychology": "Die helle Zweitfarbe erinnert an Dokumente, Tabellen und nachvollziehbare Prozesse. So bleibt Treasury Mist auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Treasury Mist Accent",
+      "psychology": "Der Accent setzt präzise Signale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen. Gerade in Treasury Mist sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Corporate Homepages mit hohem Vertrauensbedarf",
+      "Versicherungsportale mit langer Formularstrecke",
+      "Investor-Relations Seiten mit vielen Kennzahlen"
+    ],
+    "avoid_for": [
+      "Jugendmarken mit popkultureller Energie",
+      "Event-Landingpages mit starker Promo-Dramaturgie",
+      "Luxury-Brands mit Fokus auf Exklusivität"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Treasury Mist den Cluster Corporate Trust glaubwürdig trägt",
+        "reason": "Treasury Mist bleibt im Kern Corporate Trust, verschiebt die Tonlage aber in eine tiefere, kontrollierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken bei Banken und Versicherungen seriös?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Corporate Trust zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Treasury Mist im Cluster Corporate Trust?",
+        "answer": "Treasury Mist eignet sich besonders, wenn Vertrauen, Regulierung und sachliche Führung wichtiger sind als visuelle Lautstärke."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Treasury Mist<\/span><h3>Corporate Trust<\/h3><p>Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen muss.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

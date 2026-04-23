@@ -1,0 +1,120 @@
+{
+  "title": "Art & Gallery: Museum Mist",
+  "slug": "art-gallery-museum-mist",
+  "vibe": "Curated Silence / White Cube",
+  "summary": "Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren. Die Variante Museum Mist verschiebt den Cluster in eine hellere, stille Richtung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Art & Gallery",
+    "cluster_slug": "art-gallery",
+    "variant": "Museum Mist"
+  },
+  "keywords": [
+    "Farbpalette Museum",
+    "Art & Gallery",
+    "Museum Mist",
+    "Kreativitaet & Bildung",
+    "Museen",
+    "Kunstgalerien"
+  ],
+  "seo": {
+    "meta_title": "Art & Gallery: Museum Mist | Farbpalette Museum",
+    "meta_description": "Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren. Museum Mist bringt eine hellere, stille Auspraegung fuer Museen, Kunstgalerien und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Museum",
+    "questions": [
+      "Welche Farben lassen Kunst im Web atmen?",
+      "Wann passt Museum Mist im Cluster Art & Gallery?",
+      "Wie bleibt eine Galeriepalette neutral statt leer?"
+    ]
+  },
+  "colors": {
+    "primary": "#f9f9f9",
+    "secondary": "#ffffff",
+    "accent": "#575757",
+    "bg": "#ffffff",
+    "text": "#1a1a1a",
+    "card": "#fbfbf8"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent nahezu weisse Buehne, 30 Prozent ruhige Unterebenen fuer Metadaten und Karten, 10 Prozent Accent fuer Orientierung und kuratorische Hinweise. Museum Mist wirkt dabei hellere, stille."
+  },
+  "accessibility": {
+    "text_on_primary": 16.53,
+    "text_on_secondary": 17.4,
+    "text_on_bg": 17.4,
+    "text_on_card": 16.79
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Museen",
+    "Kunstgalerien",
+    "Ausstellungen"
+  ],
+  "audiences": [
+    "Kuratorische Teams",
+    "Kunstinteressierte Besucherinnen und Besucher",
+    "Institutionen mit Werkfokus"
+  ],
+  "brand_traits": [
+    "neutral",
+    "still",
+    "praezise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Museum Mist Primary",
+      "psychology": "Die Primarfarbe nimmt sich zurück und schafft Platz fuer Werk, Bild und Typografie. In der Variante Museum Mist wirkt sie hellere, stille.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Art & Gallery",
+      "risk": "Wenn Museum Mist zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Art & Gallery."
+    },
+    "secondary": {
+      "name": "Museum Mist Surface",
+      "psychology": "Die Zweitfarbe gibt Orientierung ohne die Buehne zu okkupieren. So bleibt Museum Mist auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Museum Mist Accent",
+      "psychology": "Der Accent dient nur der Struktur und sollte niemals dem Werk die Schau stehlen. Gerade in Museum Mist sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Museums- und Galerie-Websites",
+      "Digitale Ausstellungen",
+      "Kuratorische Archive mit Bildfokus"
+    ],
+    "avoid_for": [
+      "Trendgetriebene D2C-Launches",
+      "Tech-Produkte mit hoher Aktivierungsenergie",
+      "Gaming- und Synthwave-Kultur"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Museum Mist den Cluster Art & Gallery glaubwuerdig traegt",
+        "reason": "Museum Mist bleibt im Kern Art & Gallery, verschiebt die Tonlage aber in eine hellere, stille Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben lassen Kunst im Web atmen?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Art & Gallery zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Museum Mist im Cluster Art & Gallery?",
+        "answer": "Museum Mist eignet sich besonders, wenn Werk und kuratorische Orientierung ueber der Eigenlautstaerke des UI stehen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Museum Mist</span><h3>Art & Gallery</h3><p>Eine neutrale Buehnenpalette fuer Museen, Kunstgalerien und Ausstellungen, damit Werk, Caption und kuratorische Orientierung ohne Farmlaerm funktionieren.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

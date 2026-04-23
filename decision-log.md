@@ -2,11 +2,13 @@
 
 ## 2026-04-23
 
-- Reading und Mockup wurden als zwei getrennte Seiten pro Palette umgesetzt. Die Analyse bleibt dadurch redaktionell ruhig, das UI-Mockup kann dieselben Farbvariablen isoliert testen.
-- Jede Palette lädt ihr generiertes Stylesheet direkt per `<link rel="stylesheet">`. JavaScript ergänzt nur Copy-CSS, Kontrast-Hinweis und die Navigation zwischen Reading und Mockup.
-- Palette-spezifische SEO-Fragen und Keywords wurden aus dem sichtbaren HTML entfernt. Sie liegen jetzt als `meta keywords`, `article:tag`, JSON-LD und zusätzlicher GEO-JSON-Kontext für KI-Systeme vor.
-- Die frühere eingebettete Live-Demo/Lab-Ansicht ist damit obsolet und wurde aus der HTML-Ausgabe entfernt.
-- Für die UI-Demo gibt es eine separate Mockup-Seite unter `/{slug}/mockup/`, damit dieselben Variablen ohne Analyse-Content auf Navigation, Hero, Karten und Status-Footer angewendet werden.
-- Die CSS-Ausgabe enthält neben `--color-*` auch Kurzvariablen `--p`, `--s`, `--a`, `--bg`, `--t` und `--c`, damit generierte Mockups und KI-Referenzen dieselbe Benennung verwenden.
-- Der Abstand zwischen Mini-Swatches und Tag-Listen wurde vergrößert, damit sich beide Elemente in den Set-Cards nicht mehr visuell berühren.
-- Die IDE-Hinweise zu angeblich fehlerhaftem JSON stammten aus Template-Platzhaltern innerhalb von `<script>`-Tags. Die Templates rendern diese Blöcke jetzt als vollständige Platzhalter-Tags, sodass kein echtes JSON-Parsing-Problem mehr im HTML-Template entsteht.
+- Das Archiv wurde von einer Einzelbeispiel-Struktur auf ein vollständigeres Portfolio mit 131 Paletten ausgebaut. Die Anzahl folgt den definierten Clustern und Varianten über alle sechs Sektoren hinweg.
+- Jede Palette bleibt datengetrieben. Die JSON-Dateien enthalten Taxonomie, SEO-Metadaten, Zielgruppen, Branchenfit, Farbpsychologie, Entscheidungsargumente und die Style-Guide-Übertragung in einem Datensatz.
+- Die Detailseite ist jetzt die eigentliche Trägerseite der Palette. Das generierte Paletten-Stylesheet wird direkt auf die Analyse-Seite geladen, statt eine separate Mockup-Seite zu erzeugen.
+- Der Modusschalter bleibt erhalten, aber nur noch innerhalb derselben Seite: `Reading` priorisiert Analyse und Argumentation, `Lab` verschiebt dieselbe Oberfläche visuell in eine UI-nähere Gewichtung.
+- SEO-Fragen und Keywords werden nicht mehr sichtbar im HTML ausgegeben. Sie liegen als klassische Metadaten, OpenGraph, JSON-LD und zusätzlicher maschinenlesbarer GEO-Kontext im Head.
+- Die Startseite wurde von Prompt-/Anleitungs-Texten bereinigt. Stattdessen beschreibt sie jetzt das Portfolio, die Suchlogik und wie VibeVault-Daten in einen Style Guide oder ein Design-System übertragen werden.
+- Die Suche bleibt als eigene Seite erhalten und wurde um Sektor- und Clusterfilter erweitert. Dadurch bleibt die Startseite redaktionell fokussiert und die Suche skaliert sauber mit dem größeren Portfolio.
+- Ein separates Impressum wurde ergänzt und in die Hauptnavigation der zentralen Einstiegsseiten aufgenommen.
+- Die bisherige generische Umlaut-Konvertierung war zu aggressiv und hat englische Variantennamen wie `Blue` beschädigt. Die Ausgabe verwendet jetzt gezieltere Schutz- und Korrekturregeln.
+- Alte Mockup-spezifische CSS- und Variablennamen wurden entfernt, damit die Codebasis die aktuelle Ein-Seiten-Architektur konsistent abbildet.

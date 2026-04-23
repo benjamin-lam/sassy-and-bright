@@ -1,0 +1,120 @@
+{
+  "title": "Sweet Confectionery: Berry Cream",
+  "slug": "sweet-confectionery-berry-cream",
+  "vibe": "Tender Delight / Peach",
+  "summary": "Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Die Variante Berry Cream verschiebt den Cluster in eine pfirsichigere, nahbare Richtung.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sweet Confectionery",
+    "cluster_slug": "sweet-confectionery",
+    "variant": "Berry Cream"
+  },
+  "keywords": [
+    "Farbpalette Konditorei",
+    "Sweet Confectionery",
+    "Berry Cream",
+    "Lifestyle & Konsum",
+    "Baeckereien",
+    "Konditoreien"
+  ],
+  "seo": {
+    "meta_title": "Sweet Confectionery: Berry Cream | Farbpalette Konditorei",
+    "meta_description": "Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit. Berry Cream bringt eine pfirsichigere, nahbare Auspraegung fuer Baeckereien, Konditoreien und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Konditorei",
+    "questions": [
+      "Welche Farben machen Genussmarken nahbar?",
+      "Wann passt Berry Cream im Cluster Sweet Confectionery?",
+      "Wie wirken suesse Farben einladend statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#f7cfbc",
+    "secondary": "#fdf3eb",
+    "accent": "#df9b60",
+    "bg": "#ffffff",
+    "text": "#3a2b2a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warme Grundflaechen schaffen Leichtigkeit, 30 Prozent softe Produktflaechen tragen Sortimente, 10 Prozent Accent markieren Genussmomente und CTA. Berry Cream wirkt dabei pfirsichigere, nahbare."
+  },
+  "accessibility": {
+    "text_on_primary": 9.37,
+    "text_on_secondary": 12.31,
+    "text_on_bg": 13.47,
+    "text_on_card": 13.47
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Baeckereien",
+    "Konditoreien",
+    "Geschenk-Shops"
+  ],
+  "audiences": [
+    "Spontane Kaeuferinnen und Kaeufer",
+    "Familiennahe Zielgruppen",
+    "Produktmarken mit Genussfokus"
+  ],
+  "brand_traits": [
+    "nahbar",
+    "freundlich",
+    "einladend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Berry Cream Primary",
+      "psychology": "Die Primarfarbe wirkt wie Zuckerguss oder Creme und aktiviert ohne aggressiv zu werden. In der Variante Berry Cream wirkt sie pfirsichigere, nahbare.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Sweet Confectionery",
+      "risk": "Wenn Berry Cream zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Sweet Confectionery."
+    },
+    "secondary": {
+      "name": "Berry Cream Surface",
+      "psychology": "Die Zweitfarbe hält das Interface weich und produktfreundlich. So bleibt Berry Cream auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Berry Cream Accent",
+      "psychology": "Der Accent liefert kleine, appetitliche Highlights fuer Angebote und Aktionen. Gerade in Berry Cream sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Onlineshops fuer Backwaren und Geschenke",
+      "Saisonale Landingpages fuer Genussprodukte",
+      "Marken mit starker Nahbarkeitsinszenierung"
+    ],
+    "avoid_for": [
+      "CISO-Dashboards und Security-Produkte",
+      "Corporate-Finance Kommunikation",
+      "Brutalistisches Anti-Design"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Berry Cream den Cluster Sweet Confectionery glaubwuerdig traegt",
+        "reason": "Berry Cream bleibt im Kern Sweet Confectionery, verschiebt die Tonlage aber in eine pfirsichigere, nahbare Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben machen Genussmarken nahbar?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Sweet Confectionery zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Berry Cream im Cluster Sweet Confectionery?",
+        "answer": "Berry Cream eignet sich besonders, wenn Wohlgefuehl, Genuss und leichte Aktivierung wichtiger sind als Sachlichkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Berry Cream</span><h3>Sweet Confectionery</h3><p>Eine einladende Genuss-Palette fuer Baeckereien, Konditoreien und Geschenk-Shops mit Fokus auf Softness, Nahbarkeit und Appetitlichkeit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Crypto & Fintech 2.0: DeFi Slate",
+  "slug": "crypto-fintech-2-0-defi-slate",
+  "vibe": "Cold Market Precision / Chain",
+  "summary": "Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung. Die Variante DeFi Slate verschiebt den Cluster in eine pragmatischere, praezise Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Crypto & Fintech 2.0",
+    "cluster_slug": "crypto-fintech-2-0",
+    "variant": "DeFi Slate"
+  },
+  "keywords": [
+    "Farbpalette Fintech",
+    "Crypto & Fintech 2.0",
+    "DeFi Slate",
+    "Tech & Future",
+    "Web3",
+    "Trading"
+  ],
+  "seo": {
+    "meta_title": "Crypto & Fintech 2.0: DeFi Slate | Farbpalette Fintech",
+    "meta_description": "Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung. DeFi Slate bringt eine pragmatischere, praezise Auspraegung fuer Web3, Trading und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Fintech",
+    "questions": [
+      "Welche Farben passen zu Fintech und Web3?",
+      "Wann passt DeFi Slate im Cluster Crypto & Fintech 2.0?",
+      "Wie wirkt eine Trading-Palette technisch-kuehl statt abweisend?"
+    ]
+  },
+  "colors": {
+    "primary": "#22dcc9",
+    "secondary": "#16222c",
+    "accent": "#2fa7fc",
+    "bg": "#0e131c",
+    "text": "#eef3ff",
+    "card": "#182030"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Flaechen halten Markt- und Tradingdaten fokussiert, 30 Prozent Supportebenen ordnen Widgets, 10 Prozent Accent markieren wichtige Entscheidungen. DeFi Slate wirkt dabei pragmatischere, praezise."
+  },
+  "accessibility": {
+    "text_on_primary": 1.56,
+    "text_on_secondary": 14.55,
+    "text_on_bg": 16.75,
+    "text_on_card": 14.67
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Web3",
+    "Trading",
+    "Fintech"
+  ],
+  "audiences": [
+    "Power User",
+    "Quant-orientierte Teams",
+    "Risikobewusste Traderinnen und Trader"
+  ],
+  "brand_traits": [
+    "kuehl",
+    "dominant",
+    "technisch",
+    "praezise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "DeFi Slate Primary",
+      "psychology": "Die Primarfarbe liefert kuehle technische Dominanz und starken digitalen Wiedererkennungswert. In der Variante DeFi Slate wirkt sie pragmatischere, praezise.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Crypto & Fintech 2.0",
+      "risk": "Wenn DeFi Slate zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Crypto & Fintech 2.0."
+    },
+    "secondary": {
+      "name": "DeFi Slate Surface",
+      "psychology": "Die Zweitebene organisiert Daten und Interaktionsraeume ohne Showeffekte. So bleibt DeFi Slate auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "DeFi Slate Accent",
+      "psychology": "Der Accent dient Handelssignalen, aktiven Zuständen und fokussierten CTAs. Gerade in DeFi Slate sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Trading-Apps mit hoher Dichte",
+      "Fintech-Startseiten mit Produktclaim",
+      "Web3-Produkte mit kuehler Dominanz"
+    ],
+    "avoid_for": [
+      "Kinderprodukte",
+      "Achtsamkeitsangebote",
+      "Klassische Behördenkommunikation"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum DeFi Slate den Cluster Crypto & Fintech 2.0 glaubwuerdig traegt",
+        "reason": "DeFi Slate bleibt im Kern Crypto & Fintech 2.0, verschiebt die Tonlage aber in eine pragmatischere, praezise Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Fintech und Web3?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Crypto & Fintech 2.0 zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt DeFi Slate im Cluster Crypto & Fintech 2.0?",
+        "answer": "DeFi Slate eignet sich besonders, wenn Datenklarheit, Kontrolle und moderne Dominanz die Wahrnehmung tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>DeFi Slate</span><h3>Crypto & Fintech 2.0</h3><p>Eine kuhl-dominante Fintech-Palette fuer Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schaerfe und klarer Datenpriorisierung.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

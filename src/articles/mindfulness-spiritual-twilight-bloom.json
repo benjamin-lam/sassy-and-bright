@@ -1,0 +1,121 @@
+{
+  "title": "Mindfulness & Spiritual: Twilight Bloom",
+  "slug": "mindfulness-spiritual-twilight-bloom",
+  "vibe": "Quiet Intuition / Aura",
+  "summary": "Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Die Variante Twilight Bloom verschiebt den Cluster in eine schimmerndere, auraartige Richtung.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Mindfulness & Spiritual",
+    "cluster_slug": "mindfulness-spiritual",
+    "variant": "Twilight Bloom"
+  },
+  "keywords": [
+    "Farbpalette Meditation",
+    "Mindfulness & Spiritual",
+    "Twilight Bloom",
+    "Mensch & Gesellschaft",
+    "Meditation",
+    "Coaching"
+  ],
+  "seo": {
+    "meta_title": "Mindfulness & Spiritual: Twilight Bloom | Farbpalette Meditation",
+    "meta_description": "Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit. Twilight Bloom bringt eine schimmerndere, auraartige Auspraegung fuer Meditation, Coaching und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Meditation",
+    "questions": [
+      "Welche Farben passen zu Meditation und Mindfulness?",
+      "Wann passt Twilight Bloom im Cluster Mindfulness & Spiritual?",
+      "Wie wirkt Spiritualitaet ruhig statt kitschig?"
+    ]
+  },
+  "colors": {
+    "primary": "#cab7d9",
+    "secondary": "#f6f2fa",
+    "accent": "#6f54ac",
+    "bg": "#ffffff",
+    "text": "#29243a",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent atmende Hintergrundflaechen, 30 Prozent weiche Supportzonen fuer Inhalte und Sessions, 10 Prozent tiefer Accent fuer Fokus und Orientierung. Twilight Bloom wirkt dabei schimmerndere, auraartige."
+  },
+  "accessibility": {
+    "text_on_primary": 8.02,
+    "text_on_secondary": 13.5,
+    "text_on_bg": 14.92,
+    "text_on_card": 14.92
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Meditation",
+    "Coaching",
+    "Spirituelle Angebote"
+  ],
+  "audiences": [
+    "Achtsamkeitsorientierte Zielgruppen",
+    "Coachs und Guides",
+    "Menschen mit Ruhebedarf"
+  ],
+  "brand_traits": [
+    "achtsam",
+    "weich",
+    "ruhig",
+    "schimmernd"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Twilight Bloom Primary",
+      "psychology": "Die Primarfarbe bringt Sanftheit und leichte Transzendenz in den Auftritt. In der Variante Twilight Bloom wirkt sie schimmerndere, auraartige.",
+      "best_for": "Hero-Flaechen, Marke und Leitmodule im Cluster Mindfulness & Spiritual",
+      "risk": "Wenn Twilight Bloom zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Mindfulness & Spiritual."
+    },
+    "secondary": {
+      "name": "Twilight Bloom Surface",
+      "psychology": "Die Sekundaerflaechen halten das Erlebnis weich und entlastend. So bleibt Twilight Bloom auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flaechen",
+      "risk": "Zu viel Flaeche ohne typografische Fuehrung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Twilight Bloom Accent",
+      "psychology": "Der Accent setzt tiefe Orientierungspunkte in einem ansonsten ruhigen System. Gerade in Twilight Bloom sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein ueberdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Meditationsseiten",
+      "Coaching-Angebote mit ruhiger Tonalitaet",
+      "Spirituelle Projekte mit achtsamer Navigation"
+    ],
+    "avoid_for": [
+      "Alarmierende Security-Produkte",
+      "Harte Industriekommunikation",
+      "Laute Popkultur-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Twilight Bloom den Cluster Mindfulness & Spiritual glaubwuerdig traegt",
+        "reason": "Twilight Bloom bleibt im Kern Mindfulness & Spiritual, verschiebt die Tonlage aber in eine schimmerndere, auraartige Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Meditation und Mindfulness?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Mindfulness & Spiritual zeigt dafuer einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Twilight Bloom im Cluster Mindfulness & Spiritual?",
+        "answer": "Twilight Bloom eignet sich besonders, wenn Entschleunigung, Sanftheit und innere Ruhe die User Experience tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Twilight Bloom</span><h3>Mindfulness & Spiritual</h3><p>Eine ruhige Mindfulness-Palette fuer Meditation, Coaching und spirituelle Angebote mit Flieder, Indigo und schimmernder Gelassenheit.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Crypto & Fintech 2.0: Matrix Ledger",
+  "slug": "crypto-fintech-2-0-matrix-ledger",
+  "vibe": "Cold Market Precision / Ledger",
+  "summary": "Eine kühl-dominante Fintech-Palette für Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schärfe und klarer Datenpriorisierung. Die Variante Matrix Ledger verschiebt den Cluster in eine kühl-technische, kontrollierte Richtung.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Crypto & Fintech 2.0",
+    "cluster_slug": "crypto-fintech-2-0",
+    "variant": "Matrix Ledger"
+  },
+  "keywords": [
+    "Farbpalette Fintech",
+    "Crypto & Fintech 2.0",
+    "Matrix Ledger",
+    "Tech & Future",
+    "Web3",
+    "Trading"
+  ],
+  "seo": {
+    "meta_title": "Crypto & Fintech 2.0: Matrix Ledger | Farbpalette Fintech",
+    "meta_description": "Eine kühl-dominante Fintech-Palette für Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schärfe und klarer Datenpriorisierung. Matrix Ledger bringt eine kühl-technische, kontrollierte Ausprägung für Web3, Trading und verwandte Projekte.",
+    "focus_keyword": "Farbpalette Fintech",
+    "questions": [
+      "Welche Farben passen zu Fintech und Web3?",
+      "Wann passt Matrix Ledger im Cluster Crypto & Fintech 2.0?",
+      "Wie wirkt eine Trading-Palette technisch-kühl statt abweisend?"
+    ]
+  },
+  "colors": {
+    "primary": "#2fc2d9",
+    "secondary": "#1a2232",
+    "accent": "#4d7cf3",
+    "bg": "#10151f",
+    "text": "#eef3ff",
+    "card": "#182030"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent dunkle Flächen halten Markt- und Tradingdaten fokussiert, 30 Prozent Supportebenen ordnen Widgets, 10 Prozent Accent markieren wichtige Entscheidungen. Matrix Ledger wirkt dabei kühl-technische, kontrollierte."
+  },
+  "accessibility": {
+    "text_on_primary": 1.92,
+    "text_on_secondary": 14.33,
+    "text_on_bg": 16.45,
+    "text_on_card": 14.67
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Web3",
+    "Trading",
+    "Fintech"
+  ],
+  "audiences": [
+    "Power User",
+    "Quant-orientierte Teams",
+    "Risikobewusste Traderinnen und Trader"
+  ],
+  "brand_traits": [
+    "kühl",
+    "dominant",
+    "technisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Matrix Ledger Primary",
+      "psychology": "Die Primarfarbe liefert kühle technische Dominanz und starken digitalen Wiedererkennungswert. In der Variante Matrix Ledger wirkt sie kühl-technische, kontrollierte.",
+      "best_for": "Hero-Flächen, Marke und Leitmodule im Cluster Crypto & Fintech 2.0",
+      "risk": "Wenn Matrix Ledger zu dominant gespielt wird, verliert der Auftritt die Balance des Clusters Crypto & Fintech 2.0."
+    },
+    "secondary": {
+      "name": "Matrix Ledger Surface",
+      "psychology": "Die Zweitebene organisiert Daten und Interaktionsräume ohne Showeffekte. So bleibt Matrix Ledger auch auf langen Seiten nachvollziehbar.",
+      "best_for": "Sektionen, Karten, Raster und strukturierende Flächen",
+      "risk": "Zu viel Fläche ohne typografische Führung macht die Seite schnell beliebig oder monoton."
+    },
+    "accent": {
+      "name": "Matrix Ledger Accent",
+      "psychology": "Der Accent dient Handelssignalen, aktiven Zuständen und fokussierten CTAs. Gerade in Matrix Ledger sollte der Accent priorisiert statt gestreut werden.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Ein überdehnter Accent nimmt der Palette ihren argumentierbaren Schwerpunkt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Trading-Apps mit hoher Dichte",
+      "Fintech-Startseiten mit Produktclaim",
+      "Web3-Produkte mit kühler Dominanz"
+    ],
+    "avoid_for": [
+      "Kinderprodukte",
+      "Achtsamkeitsangebote",
+      "Klassische Behördenkommunikation"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Matrix Ledger den Cluster Crypto & Fintech 2.0 glaubwürdig trägt",
+        "reason": "Matrix Ledger bleibt im Kern Crypto & Fintech 2.0, verschiebt die Tonlage aber in eine kühl-technische, kontrollierte Richtung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Fintech und Web3?",
+        "answer": "Ein belastbarer Einstieg entsteht, wenn Farblogik, Zielgruppe und Kontrast zusammen gedacht werden. Crypto & Fintech 2.0 zeigt dafür einen klaren Rahmen."
+      },
+      {
+        "question": "Wann passt Matrix Ledger im Cluster Crypto & Fintech 2.0?",
+        "answer": "Matrix Ledger eignet sich besonders, wenn Datenklarheit, Kontrolle und moderne Dominanz die Wahrnehmung tragen sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Matrix Ledger<\/span><h3>Crypto & Fintech 2.0<\/h3><p>Eine kühl-dominante Fintech-Palette für Trading, Web3 und DeFi-Produkte mit kontrollierter technischer Schärfe und klarer Datenpriorisierung.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}
