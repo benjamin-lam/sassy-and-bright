@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Lavendel",
+  "slug": "pastel-lavendel",
+  "vibe": "Lavender Rest / Lavendel-Ruhe",
+  "summary": "Blasse Violettöne für entspannte Inhalte in Wellness- und Beauty-Kontexten. Lavendel schafft eine beruhigende, duftende Atmosphäre für Schlaf- und Entspannungsmarken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Lavendel"
+  },
+  "keywords": [
+    "Farbpalette Schlaf und Entspannung",
+    "Sanft & Pastel",
+    "Lavendel",
+    "Lifestyle & Konsum",
+    "Schlaf und Entspannung",
+    "Aromatherapie"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Lavendel | Farbpalette Schlaf und Entspannun",
+    "meta_description": "Blasse Violettöne für entspannte Inhalte in Wellness- und Beauty-Kontexten. Lavendel schafft eine beruhigende, duftende Atmosphäre für Schlaf- und Ents",
+    "focus_keyword": "Farbpalette Schlaf und Entspannung",
+    "questions": [
+      "Welche Farben passen für Schlaf- und Entspannungsmarken?",
+      "Wann passt Lavendel?",
+      "Wann passt Lavendel?"
+    ]
+  },
+  "colors": {
+    "primary": "#ce93d8",
+    "secondary": "#f3e5f5",
+    "accent": "#ab47bc",
+    "bg": "#fdf8ff",
+    "text": "#2d1a3d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Lavendelweiss, 30 Prozent helles Lila für Karten, 10 Prozent mittleres Violett für dezente Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 6.62,
+    "text_on_secondary": 13.07,
+    "text_on_bg": 15.11,
+    "text_on_card": 15.83
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Schlaf und Entspannung",
+    "Aromatherapie",
+    "Beruhigende Wellness-Produkte"
+  ],
+  "audiences": [
+    "Stress-Geplagte auf Erholungssuche",
+    "Schlaf-Optimierer",
+    "Aromatherapie-Fans"
+  ],
+  "brand_traits": [
+    "beruhigend",
+    "sanft",
+    "entspannend",
+    "duftend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Lavendel Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Lavendel.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Lavendel Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Lavendel.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Lavendel Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Lavendel.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Schlaf und Entspannung",
+      "Projekte mit Zielgruppe Stress-Geplagte auf Erholungssuche",
+      "Marken mit dem Kernmerkmal beruhigend"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Lavendel Entspannung und Ruhe kommuniziert",
+        "reason": "Blasse Violettöne assoziieren Lavendelduft, Schlaf und mentale Erholung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Schlaf- und Entspannungsmarken?",
+        "answer": "Blasse Violettöne signalisieren Ruhe und Entspannung und schaffen die richtige Stimmung für Schlaf- und Wellness-Produkte."
+      },
+      {
+        "question": "Wann passt Lavendel?",
+        "answer": "Für Marken, die Entspannung, Ruhe und Schlaf als Kernleistung kommunizieren."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Lavendel<\/span><h3>Sanft & Pastel<\/h3><p>Blasse Violettöne für entspannte Inhalte in Wellness- und Beauty-Kontexten. Lavendel schafft eine beruhigende, duftend<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

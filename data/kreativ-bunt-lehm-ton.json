@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Lehm & Ton",
+  "slug": "kreativ-bunt-lehm-ton",
+  "vibe": "Earthy Craft / Handwerkliche Erde",
+  "summary": "Warme Erdfarben mit künstlerischem Charakter für handgemachte und kreative Marken. Lehm & Ton eignet sich für Kunsthandwerk, Keramik und authentische Kreativmarken.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Lehm & Ton"
+  },
+  "keywords": [
+    "Farbpalette Kunsthandwerk",
+    "Kreativ & Bunt",
+    "Lehm & Ton",
+    "Kreativität & Bildung",
+    "Kunsthandwerk",
+    "Keramik und Töpferei"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Lehm & Ton | Farbpalette Kunsthandwerk",
+    "meta_description": "Warme Erdfarben mit künstlerischem Charakter für handgemachte und kreative Marken. Lehm & Ton eignet sich für Kunsthandwerk, Keramik und authentische Kr",
+    "focus_keyword": "Farbpalette Kunsthandwerk",
+    "questions": [
+      "Welche Farben passen für Kunsthandwerk-Websites?",
+      "Wann passt Lehm & Ton?",
+      "Wann passt Lehm & Ton?"
+    ]
+  },
+  "colors": {
+    "primary": "#a0522d",
+    "secondary": "#d4a76a",
+    "accent": "#7a4523",
+    "bg": "#fdf5ec",
+    "text": "#2c1500",
+    "card": "#fffaf4"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent warmes Crembeige als natürliche Basis, 30 Prozent helles Creme für Karten, 10 Prozent tiefes Braun für Handlungsaufforderungen."
+  },
+  "accessibility": {
+    "text_on_primary": 3.08,
+    "text_on_secondary": 7.85,
+    "text_on_bg": 16.02,
+    "text_on_card": 16.66
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kunsthandwerk",
+    "Keramik und Töpferei",
+    "Kreative Lifestyle-Marken"
+  ],
+  "audiences": [
+    "Keramik-Fans und Töpfer",
+    "Kreative Marken-Gründer",
+    "Handwerk-affine Konsumenten"
+  ],
+  "brand_traits": [
+    "handwerklich",
+    "authentisch",
+    "warm",
+    "künstlerisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Lehm & Ton Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Lehm & Ton.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Lehm & Ton Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Lehm & Ton.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Lehm & Ton Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Lehm & Ton.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Kunsthandwerk",
+      "Projekte mit Zielgruppe Keramik-Fans und Töpfer",
+      "Marken mit dem Kernmerkmal handwerklich"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Lehm & Ton Authentizität für Kreativmarken kommuniziert",
+        "reason": "Erdfarben assoziieren Handarbeit, Natürlichkeit und Sorgfalt."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Kunsthandwerk-Websites?",
+        "answer": "Warme Erdtöne erzeugen authentischen Handwerkscharakter und schaffen Vertrauen in die handgefertigte Qualität."
+      },
+      {
+        "question": "Wann passt Lehm & Ton?",
+        "answer": "Wenn Natürlichkeit, Handarbeit und künstlerischer Anspruch kommuniziert werden sollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Lehm & Ton<\/span><h3>Kreativ & Bunt<\/h3><p>Warme Erdfarben mit künstlerischem Charakter für handgemachte und kreative Marken. Lehm & Ton eignet sich für Kunstha<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

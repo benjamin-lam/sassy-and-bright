@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Dunkle Marine",
+  "slug": "sachlich-professionell-dunkle-marine",
+  "vibe": "Calm Authority / Ruhige Autorität",
+  "summary": "Tiefes Marineblau mit hellem Grau für klassische Firmenseiten, die Stabilität und Professionalität ausstrahlen. Diese Palette eignet sich für Unternehmenswebsites mit hohem Vertrauensbedarf.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Dunkle Marine"
+  },
+  "keywords": [
+    "Farbpalette Firmenseite",
+    "Sachlich & Professionell",
+    "Dunkle Marine",
+    "Business & Institutionen",
+    "Corporate Design",
+    "Marineblau"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Dunkle Marine | Firmenseite",
+    "meta_description": "Tiefes Marineblau mit hellem Grau für klassische Firmenseiten. Dunkle Marine liefert kontrollierte Autorität für Unternehmenswebsites.",
+    "focus_keyword": "Farbpalette Firmenseite",
+    "questions": [
+      "Welche Farben wirken auf Firmenseiten seriös und klassisch?",
+      "Wann passt Marineblau im Corporate Design?",
+      "Wie unterscheidet sich Dunkle Marine von hellerem Businessblau?"
+    ]
+  },
+  "colors": {
+    "primary": "#b8c8d8",
+    "secondary": "#dde8f0",
+    "accent": "#1e3a5f",
+    "bg": "#f4f6f8",
+    "text": "#0f1e2b",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent helles Grau-Blau als ruhige Fläche, 30 Prozent Soft Marine für Strukturelemente, 10 Prozent tiefes Navy für Navigation und Handlungsaufforderungen."
+  },
+  "accessibility": {
+    "text_on_primary": 9.91,
+    "text_on_secondary": 13.6,
+    "text_on_bg": 15.62,
+    "text_on_card": 16.92
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Unternehmensberatung",
+    "Finanzdienstleistungen",
+    "Industrieunternehmen"
+  ],
+  "audiences": [
+    "Geschäftsführung und Management",
+    "Investor-Relations-Teams",
+    "B2B-Entscheider"
+  ],
+  "brand_traits": [
+    "seriös",
+    "stabil",
+    "klassisch",
+    "vertrauenswürdig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Dunkle Marine Primary",
+      "psychology": "Helles Marineblau signalisiert Zuverlässigkeit und geordnete Kompetenz ohne visuelle Lautstärke.",
+      "best_for": "Hero-Flächen, Navigationsleisten und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt Tiefe und wirkt flach."
+    },
+    "secondary": {
+      "name": "Dunkle Marine Surface",
+      "psychology": "Das helle Grau-Blau schafft Abstand zwischen Inhaltsblöcken und führt den Blick ohne Ablenkung.",
+      "best_for": "Karten, Tabellen, Formularbereiche und Rasterstrukturen",
+      "risk": "Ohne typografische Führung entsteht eine monotone Fläche ohne Hierarchie."
+    },
+    "accent": {
+      "name": "Dunkle Marine Accent",
+      "psychology": "Das tiefe Navy setzt präzise Akzente und verankert die Palette in klassischer Businesslogik.",
+      "best_for": "Buttons, Badges, aktive Navigationselemente und Hervorhebungen",
+      "risk": "Übermässig eingesetzt dominiert der Accent und zerstört die ruhige Grundstimmung."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Unternehmenswebsites mit klassischem Corporate-Anspruch",
+      "B2B-Portale mit langen Formularen und Datentabellen",
+      "Geschäftsbericht-Microseiten mit hohem Textanteil"
+    ],
+    "avoid_for": [
+      "Jugendmarken mit Pop-Energie",
+      "E-Commerce mit starken Promo-Elementen",
+      "Kreativagenturen mit experimentellem Anspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Dunkle Marine Autorität ohne Arroganz vermittelt",
+        "reason": "Marine bleibt kühl und sachlich, ohne den emotionalen Abstand eines reinen Schwarz-Weiss-Schemas."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken auf Firmenseiten seriös und klassisch?",
+        "answer": "Kühlere Blautöne in Kombination mit hellen Grautönen schaffen eine sachliche Basis. Die 60-30-10-Regel sichert dabei die Lesbarkeit."
+      },
+      {
+        "question": "Wann passt Dunkle Marine für Unternehmenswebsites?",
+        "answer": "Dunkle Marine eignet sich besonders, wenn Vertrauen und sachliche Führung wichtiger sind als emotionale Ansprache."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Dunkle Marine<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Tiefes Marineblau mit hellem Grau für klassische Firmenseiten.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

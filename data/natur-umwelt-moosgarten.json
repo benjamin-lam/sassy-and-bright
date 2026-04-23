@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Moosgarten",
+  "slug": "natur-umwelt-moosgarten",
+  "vibe": "Garden Peace / Gartenstille",
+  "summary": "Sanfte Grüntöne mit einem Schuss Oliv für Gartenthemen, Pflanzenpflege und naturnahe Lifestylemarken. Moosgarten steht für behutsamen Umgang mit der Natur und einladende Grünflächen.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Moosgarten"
+  },
+  "keywords": [
+    "Farbpalette Garten",
+    "Natur & Umwelt",
+    "Moosgarten",
+    "Mensch & Gesellschaft",
+    "Pflanzenpflege",
+    "Gartenblog"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Moosgarten | Farbpalette Garten",
+    "meta_description": "Sanfte Grüntöne mit Oliv für Gartenthemen. Moosgarten schafft einladende Atmosphäre für Garten- und Pflanzen-Websites.",
+    "focus_keyword": "Farbpalette Garten",
+    "questions": [
+      "Welche Farben eignen sich für Garten- und Pflanzenwebsites?",
+      "Wie unterscheidet sich sanftes Grün von kräftigem Waldgrün im Design?",
+      "Wann ist Oliv als Akzentfarbe die richtige Wahl?"
+    ]
+  },
+  "colors": {
+    "primary": "#8fab7b",
+    "secondary": "#c8d8b8",
+    "accent": "#6b8c52",
+    "bg": "#f6f9f2",
+    "text": "#1e3010",
+    "card": "#f9fdf6"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent helles Gartengrün-Weiss als frische Basis, 30 Prozent zartes Moogrün für Karten und Inhalte, 10 Prozent sattes Oliv für Interaktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 5.57,
+    "text_on_secondary": 9.4,
+    "text_on_bg": 13.3,
+    "text_on_card": 13.74
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Gartenbau und Landschaftspflege",
+    "Pflanzenhandel und Saatgut",
+    "Urban Gardening"
+  ],
+  "audiences": [
+    "Hobbygärtner",
+    "Pflanzenliebhaber",
+    "Urban Gardening Enthusiasten"
+  ],
+  "brand_traits": [
+    "sanft",
+    "einladend",
+    "natürlich",
+    "behutsam"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Moosgarten Primary",
+      "psychology": "Mittleres Gartengrün assoziiert lebendige Pflanzenwelt und Sorgfalt ohne die Intensität von Dunkelgrün.",
+      "best_for": "Hauptnavigation, Kategorie-Hervorhebungen und Pflanzengruppen-Trenner",
+      "risk": "Zu sattes Grün ohne helle Fläche kann ermüden und erdrücken."
+    },
+    "secondary": {
+      "name": "Moosgarten Surface",
+      "psychology": "Zartes Moosgrün imitiert den Farbton von jungen Trieben und vermittelt Wachstum und Pflege.",
+      "best_for": "Pflanzenkarten, Empfehlungsboxen und Inhalts-Kacheln",
+      "risk": "Zu viel sekundäres Grün ohne weissräumige Lüftung macht das Design dicht."
+    },
+    "accent": {
+      "name": "Moosgarten Accent",
+      "psychology": "Olivgrüner Accent gibt der Palette Erdung und Tiefe und verbindet Pflanzenwelt mit natürlicher Substanz.",
+      "best_for": "Kaufen-Buttons, Filter-Tags und aktive Zustände",
+      "risk": "Olivgrün kann auf schlechten Bildschirmen gelbstichig wirken."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Garten-Blogs und Pflanzenpflege-Portale",
+      "Onlineshops für Saatgut und Gartenartikel",
+      "Urban-Gardening-Community-Seiten"
+    ],
+    "avoid_for": [
+      "Gesundheits- und Medizinportale",
+      "Technische Produkte ohne Naturbezug",
+      "Luxusmarken mit urbanem Chic"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Moosgarten Pflanzenpflege-Brands glaubwürdig unterstützt",
+        "reason": "Sanfte Grüntöne strahlen Sorgfalt und Naturnähe aus, ohne so dominant zu sein, dass sie Produktfotos überlagern."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich für Garten-Websites?",
+        "answer": "Sanfte, mittlere Grüntöne mit Weissraumflächen schaffen eine einladende Atmosphäre, die Pflanzenpflege und Wachstum visuell unterstützt."
+      },
+      {
+        "question": "Wann ist Oliv als Akzent besser als sattes Grün?",
+        "answer": "Olivgrün gibt Erdung und Tiefe ohne aggressive Farbintensität. Für natürliche und geduldige Themen ist es die stimmigere Wahl."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Moosgarten<\/span><h3>Natur &amp; Umwelt<\/h3><p>Sanfte Grüntöne für Gartenthemen und Pflanzenpflege.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Code-Editor",
+  "slug": "dark-mode-code-editor",
+  "vibe": "Editor Comfort / Editor-Komfort",
+  "summary": "Klassische dunkle Palette mit Pastellfarben für Text - inspiriert von modernen Code-Editoren und Terminal-Interfaces. Code-Editor schafft optimale Lesbarkeit für Programmierumgebungen.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Code-Editor"
+  },
+  "keywords": [
+    "Dark Mode Code",
+    "Dark Mode",
+    "Code-Editor",
+    "Tech & Future",
+    "Terminal Design",
+    "Programmierumgebung"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Code-Editor | Dark Mode für Entwickler",
+    "meta_description": "Dunkle Palette mit Pastellfarben für Code-Editoren. Code-Editor schafft optimale Lesbarkeit für Programmierumgebungen.",
+    "focus_keyword": "Dark Mode Code",
+    "questions": [
+      "Welches Dark-Mode-Theme eignet sich für Code-Editoren?",
+      "Warum sind Pastellfarben in Code-Editoren so beliebt?",
+      "Wie gestalte ich ein augenschonendes Coding-Interface?"
+    ]
+  },
+  "colors": {
+    "primary": "#1e1e2e",
+    "secondary": "#313244",
+    "accent": "#cba6f7",
+    "bg": "#181825",
+    "text": "#cdd6f4",
+    "card": "#1e1e2e"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent tiefes Dunkelblau als beruhigende Editor-Basis, 30 Prozent etwas helleres Dunkelblau für Panels und Karten, 10 Prozent zartes Violett als sanfter Akzent."
+  },
+  "accessibility": {
+    "text_on_primary": 11.34,
+    "text_on_secondary": 8.69,
+    "text_on_bg": 12.14,
+    "text_on_card": 11.34
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Software-Entwicklung",
+    "DevTools und IDEs",
+    "Terminal-Anwendungen"
+  ],
+  "audiences": [
+    "Software-Entwickler und DevOps",
+    "Frontend- und Backend-Entwickler",
+    "Studierende der Informatik"
+  ],
+  "brand_traits": [
+    "komfortabel",
+    "augenschonend",
+    "strukturiert",
+    "entwicklerorientiert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Code-Editor Primary",
+      "psychology": "Tiefes Dunkelblau schafft eine ruhige Editor-Umgebung, die stundenlange Programmiersessions ohne Ermüdung unterstützt.",
+      "best_for": "Editor-Hintergründe, Sidebar-Panels und Navigationsleisten",
+      "risk": "Zu ähnliche Töne zwischen bg und primary machen Kartenabgrenzungen schwer erkennbar."
+    },
+    "secondary": {
+      "name": "Code-Editor Surface",
+      "psychology": "Etwas helleres Dunkelblau hebt Panels, Tabs und Editor-Bereiche voneinander ab.",
+      "best_for": "Tab-Bars, Panel-Hintergründe und Dialog-Felder",
+      "risk": "Zu geringer Stufenunterschied macht Panels schwer unterscheidbar."
+    },
+    "accent": {
+      "name": "Code-Editor Accent",
+      "psychology": "Zartes Lavendelviolett setzt sanfte, augenschonende Highlights und ist typisch für beliebte Code-Editor-Themes.",
+      "best_for": "Syntax-Highlights, aktive Zeilen und Cursor-Farben",
+      "risk": "Zu viel Violett-Accent macht den Editor unruhig und ablenken."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Code-Editor-Themes für Webentwicklung",
+      "Terminal-Interface-Designs",
+      "DevTool-Dashboards für Entwickler"
+    ],
+    "avoid_for": [
+      "Consumer-Anwendungen ohne Tech-Bezug",
+      "Marketing-Websites mit breitem Publikum",
+      "Gesundheitsportale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Pastell-Akzente in Code-Editoren augenschonend sind",
+        "reason": "Gedämpfte, helle Farben auf dunklem Grund reduzieren Blendung und ermüdendes Schimmern während langer Coding-Sitzungen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welches Dark-Mode-Theme eignet sich für Code-Editoren?",
+        "answer": "Tiefes Dunkelblau als Basis mit hellen Pastell-Akzenten schafft den typischen Komfort-Look populärer Code-Themes wie Catppuccin oder Dracula."
+      },
+      {
+        "question": "Warum sind Pastellfarben in Code-Editoren so beliebt?",
+        "answer": "Pastellfarben haben hohen Kontrast auf dunklem Grund ohne zu blenden. Ihre reduzierte Sattigung schont die Augen bei stundenlangem Lesen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Code-Editor<\/span><h3>Dark Mode<\/h3><p>Dunkle Palette mit Pastellfarben für Code-Editoren und Programmierumgebungen.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

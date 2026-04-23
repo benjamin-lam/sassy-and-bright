@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Anthrazit-Basis",
+  "slug": "dark-mode-anthrazit",
+  "vibe": "Professional Dark / Professionelles Dunkel",
+  "summary": "Dunkelgrau als Grundton mit hellen Linien-Elementen für professionelle Dark-Mode-Anwendungen. Anthrazit-Basis ist die universellste dunkle Palette für Enterprise- und Profi-Software.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Anthrazit-Basis"
+  },
+  "keywords": [
+    "Dark Mode Enterprise",
+    "Dark Mode",
+    "Anthrazit-Basis",
+    "Tech & Future",
+    "professionelles Dark UI",
+    "Grau Dark Mode"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Anthrazit-Basis | Enterprise Dark UI",
+    "meta_description": "Dunkelgrau als Grundton für professionelle Dark-Mode-Apps. Anthrazit-Basis ist die universelle dunkle Palette für Enterprise-Software.",
+    "focus_keyword": "Dark Mode Enterprise",
+    "questions": [
+      "Welche dunkle Palette eignet sich für Enterprise-Software?",
+      "Warum ist Anthrazit besser als Schwarz für professionelle Apps?",
+      "Wie gestalte ich ein zugängliches dunkles Dashboard?"
+    ]
+  },
+  "colors": {
+    "primary": "#2d2d2d",
+    "secondary": "#404040",
+    "accent": "#9e9e9e",
+    "bg": "#1a1a1a",
+    "text": "#d4d4d4",
+    "card": "#2d2d2d"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent tiefes Dunkelgrau als ruhige Basis, 30 Prozent etwas helleres Grau für Karten und Panels, 10 Prozent mittleres Grau für dezente Interaktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 9.29,
+    "text_on_secondary": 6.99,
+    "text_on_bg": 11.74,
+    "text_on_card": 9.29
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Enterprise-Software",
+    "Professionelle Tools und IDEs",
+    "Sicherheitsmonitoring"
+  ],
+  "audiences": [
+    "Senior Developer und Architekten",
+    "Operations- und DevOps-Teams",
+    "Analysten mit intensiver Bildschirmarbeit"
+  ],
+  "brand_traits": [
+    "professionell",
+    "ruhig",
+    "neutral",
+    "fokussiert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Anthrazit-Basis Primary",
+      "psychology": "Dunkelgrau ist die neutralste dunkle Farbe ohne den optischen Druck von reinem Schwarz.",
+      "best_for": "Panel-Hintergründe, Navigationsleisten und Modal-Grundflächen",
+      "risk": "Zu ähnliche Grauabstufungen machen Grenzlinien unsichtbar."
+    },
+    "secondary": {
+      "name": "Anthrazit-Basis Surface",
+      "psychology": "Etwas helleres Grau hebt Karten und Dialoge klar vom Hintergrund ab.",
+      "best_for": "Karten, Dialoge und erhöhte Schichten",
+      "risk": "Zu wenig Abstand zwischen Grautönen reduziert die wahrgenommene Tiefe."
+    },
+    "accent": {
+      "name": "Anthrazit-Basis Accent",
+      "psychology": "Mittleres Grau als Accent bleibt völlig neutral und setzt nur minimalste visuelle Signale.",
+      "best_for": "Icons, Beschriftungen, sekundäre Schaltflächen",
+      "risk": "Grau als Accent bietet keine starke Führung - ergänzen mit spezifischen Statusfarben."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Enterprise-Dashboards mit intensiver Nutzung",
+      "IDE-Themes und Code-Editor-Designs",
+      "Monitoring-Konsolen für DevOps-Teams"
+    ],
+    "avoid_for": [
+      "Konsumprodukte mit Markenanspruch",
+      "Kunden-seitige Portale mit niedrigerer digitaler Affinität",
+      "Kinder- und Jugendportale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Anthrazit die universellste dunkle Basis ist",
+        "reason": "Neutrales Dunkelgrau erlaubt nahezu beliebige Farbsystem-Erweiterungen und ist das Fundament der meisten professionellen Dark-Themes."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche dunkle Palette eignet sich für Enterprise-Software?",
+        "answer": "Neutrale Dunkelgrau-Töne schaffen die vielseitigste Basis für komplexe Informations-Architekturen im Dark Mode."
+      },
+      {
+        "question": "Warum ist Anthrazit besser als Schwarz für professionelle Apps?",
+        "answer": "Anthrazit verhindert extreme Kontrast-Ermüdung und erlaubt feinere Tiefenebenen als reines Schwarz."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Anthrazit-Basis<\/span><h3>Dark Mode<\/h3><p>Dunkelgrau für professionelle Dark-Mode-Anwendungen und Enterprise-Software.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

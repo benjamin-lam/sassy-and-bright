@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Sanddorn",
+  "slug": "pastel-sanddorn",
+  "vibe": "Warm Pastel / Warmes Pastell",
+  "summary": "Sanftes Orange mit viel Weissanteil für warme, einladende Lifestyle-Auftritte. Sanddorn schafft eine appetitliche, warmherzige Atmosphäre für Food- und Wellness-Marken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Sanddorn"
+  },
+  "keywords": [
+    "Farbpalette Food und Gastro",
+    "Sanft & Pastel",
+    "Sanddorn",
+    "Lifestyle & Konsum",
+    "Food und Gastro",
+    "Wellness und Naturkost"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Sanddorn | Farbpalette Food und Gastro",
+    "meta_description": "Sanftes Orange mit viel Weissanteil für warme, einladende Lifestyle-Auftritte. Sanddorn schafft eine appetitliche, warmherzige Atmosphäre für Food- und",
+    "focus_keyword": "Farbpalette Food und Gastro",
+    "questions": [
+      "Welche Farben fördern Appetit in Food-Designs?",
+      "Wann passt Sanddorn?",
+      "Wann passt Sanddorn?"
+    ]
+  },
+  "colors": {
+    "primary": "#ffcc80",
+    "secondary": "#fff3e0",
+    "accent": "#ffa726",
+    "bg": "#fffdf8",
+    "text": "#2d1900",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Creme-Orange, 30 Prozent helles Pfirsich für Karten, 10 Prozent sattes Warmorange für Aktionen."
+  },
+  "accessibility": {
+    "text_on_primary": 11.35,
+    "text_on_secondary": 15.31,
+    "text_on_bg": 16.52,
+    "text_on_card": 16.79
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Food und Gastro",
+    "Wellness und Naturkost",
+    "Saisonale Lifestyle-Marken"
+  ],
+  "audiences": [
+    "Food-Liebhaber",
+    "Wellness-Käuferschicht",
+    "Saisonal aktive Konsumenten"
+  ],
+  "brand_traits": [
+    "warm",
+    "appetitlich",
+    "einladend",
+    "natürlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Sanddorn Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Sanddorn.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Sanddorn Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Sanddorn.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Sanddorn Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Sanddorn.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Food und Gastro",
+      "Projekte mit Zielgruppe Food-Liebhaber",
+      "Marken mit dem Kernmerkmal warm"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Sanddorn Appetit und Wärme weckt",
+        "reason": "Warme Orangetöne sind kulturell mit Essen, Gemeinschaft und Wärme assoziiert."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben fördern Appetit in Food-Designs?",
+        "answer": "Warme Orangetöne stimulieren Appetit und schaffen eine einladende Tisch-Atmosphäre."
+      },
+      {
+        "question": "Wann passt Sanddorn?",
+        "answer": "Für Food-, Gastro- und Wellness-Marken die Wärme und Appetitlichkeit kommunizieren wollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Sanddorn<\/span><h3>Sanft & Pastel<\/h3><p>Sanftes Orange mit viel Weissanteil für warme, einladende Lifestyle-Auftritte. Sanddorn schafft eine appetitliche, warm<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

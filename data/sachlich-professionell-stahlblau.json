@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Stahlblau",
+  "slug": "sachlich-professionell-stahlblau",
+  "vibe": "Structured Trust / Strukturiertes Vertrauen",
+  "summary": "Sachliche Blaugrautöne mit Fokus auf Lesbarkeit und klarer Struktur für B2B-Websites und Intranet-Portale. Stahlblau kommuniziert Kompetenz ohne emotionalen Überdruck.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Stahlblau"
+  },
+  "keywords": [
+    "Farbpalette B2B",
+    "Sachlich & Professionell",
+    "Stahlblau",
+    "Business & Institutionen",
+    "Intranet Design",
+    "Unternehmenskommunikation"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Stahlblau | B2B Design",
+    "meta_description": "Sachliche Blaugrautöne für B2B-Websites und Intranet-Portale. Stahlblau liefert Kompetenz und Struktur ohne emotionalen Überdruck.",
+    "focus_keyword": "Farbpalette B2B",
+    "questions": [
+      "Welche Farben eignen sich für B2B-Websites?",
+      "Warum wirkt Stahlblau in der Unternehmenskommunikation kompetent?",
+      "Wie unterscheidet sich Stahlblau von Marineblau im Webdesign?"
+    ]
+  },
+  "colors": {
+    "primary": "#90a4ae",
+    "secondary": "#e8edf0",
+    "accent": "#455a64",
+    "bg": "#f8f9fa",
+    "text": "#1c2b35",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Grau für Klarheit und Luft, 30 Prozent Blaugrau für Struktur und Navigation, 10 Prozent dunkles Stahlblau als Interaktionssignal."
+  },
+  "accessibility": {
+    "text_on_primary": 5.61,
+    "text_on_secondary": 12.31,
+    "text_on_bg": 13.77,
+    "text_on_card": 14.52
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Industrieunternehmen",
+    "Logistik und Supply Chain",
+    "B2B-Dienstleister"
+  ],
+  "audiences": [
+    "Einkaufsabteilungen",
+    "Operations-Manager",
+    "IT-Entscheider in Unternehmen"
+  ],
+  "brand_traits": [
+    "kompetent",
+    "strukturiert",
+    "verlässlich",
+    "sachlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Stahlblau Primary",
+      "psychology": "Blaugrau vermittelt technische Kompetenz und industrielle Stabilität ohne dekorativen Charakter.",
+      "best_for": "Navigationsleisten, Seitenköpfe und Modul-Trenner",
+      "risk": "Zu viel Blaugrau ohne Weissraum erzeugt eine schwere, klaustrophobische Atmosphäre."
+    },
+    "secondary": {
+      "name": "Stahlblau Surface",
+      "psychology": "Das helle Blauweiss schafft subtile Trennung zwischen Inhaltsblöcken.",
+      "best_for": "Karten, Tabellenzeilen und Formularabschnitte",
+      "risk": "Zu schwacher Kontrast zwischen secondary und bg macht Karten unsichtbar."
+    },
+    "accent": {
+      "name": "Stahlblau Accent",
+      "psychology": "Tiefes Stahlblau setzt klare Handlungssignale und ankert die Palette im professionellen Kontext.",
+      "best_for": "Primäraktionen, Status-Badges und Navigations-Highlights",
+      "risk": "Zu oft eingesetzt verliert der Accent seine Orientierungsfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "B2B-Websites mit Produktkatalogen und Anfrage-Formularen",
+      "Intranet-Portale mit vielen Nutzerrollen",
+      "Unternehmenskommunikation mit mehreren Sprachversionen"
+    ],
+    "avoid_for": [
+      "Konsumgut-Marken für Endverbraucher",
+      "Kreativagenturen mit starker visueller Identität",
+      "Food- und Lifestyle-Marken"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Stahlblau in B2B-Kontexten überzeugt",
+        "reason": "Industrielle Blautöne kodieren technische Kompetenz kulturell und reduzieren die Entscheidungsunsicherheit bei Einkaufsprozessen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich für B2B-Websites?",
+        "answer": "Sachliche Blautöne mit hohem Kontrast signalisieren Professionalität. Die richtige Balance zwischen Struktur und Luftigkeit bestimmt die Nutzbarkeit."
+      },
+      {
+        "question": "Wann passt Stahlblau besser als Marineblau?",
+        "answer": "Stahlblau wirkt leichter und moderner als klassisches Marine. Für technische Produkte und industielle Anwendungen ist es die pragmatischere Wahl."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Stahlblau<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Sachliche Blaugrautöne für B2B-Websites und Intranet-Portale.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

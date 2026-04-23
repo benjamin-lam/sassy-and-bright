@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Sommer-Beere",
+  "slug": "kreativ-bunt-sommer-beere",
+  "vibe": "Creative Pop / Kreative Energie",
+  "summary": "Kräftiges Rot und Pink für auffällige Akzente in kreativen Kampagnen und D2C-Marken. Sommer-Beere steht für Energie, Aufmerksamkeit und emotionale Direktheit.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Sommer-Beere"
+  },
+  "keywords": [
+    "Farbpalette D2C-Marken",
+    "Kreativ & Bunt",
+    "Sommer-Beere",
+    "Kreativität & Bildung",
+    "D2C-Marken",
+    "Kreativ-Kampagnen"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Sommer-Beere | Farbpalette D2C-Marken",
+    "meta_description": "Kräftiges Rot und Pink für auffällige Akzente in kreativen Kampagnen und D2C-Marken. Sommer-Beere steht für Energie, Aufmerksamkeit und emotionale Dire",
+    "focus_keyword": "Farbpalette D2C-Marken",
+    "questions": [
+      "Welche Farben eignen sich für kreative Kampagnen?",
+      "Wann passt Sommer-Beere?",
+      "Wann passt Sommer-Beere?"
+    ]
+  },
+  "colors": {
+    "primary": "#c62828",
+    "secondary": "#f8bbd0",
+    "accent": "#e91e63",
+    "bg": "#fff8f9",
+    "text": "#1a0005",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "Kräftiges Rot auf fast weissem Grund, zartes Pink für Karten, Magenta für fokussierte Aktionen."
+  },
+  "accessibility": {
+    "text_on_primary": 3.57,
+    "text_on_secondary": 12.44,
+    "text_on_bg": 19.16,
+    "text_on_card": 20.07
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "D2C-Marken",
+    "Kreativ-Kampagnen",
+    "Mode und Beauty"
+  ],
+  "audiences": [
+    "Junge Konsumenten",
+    "Kreative Direktoren",
+    "Social-Media-Marketer"
+  ],
+  "brand_traits": [
+    "kräftig",
+    "auffällig",
+    "emotional",
+    "direkt"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Sommer-Beere Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Sommer-Beere.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Sommer-Beere Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Sommer-Beere.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Sommer-Beere Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Sommer-Beere.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für D2C-Marken",
+      "Projekte mit Zielgruppe Junge Konsumenten",
+      "Marken mit dem Kernmerkmal kräftig"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Sommer-Beere Aufmerksamkeit erzeugt",
+        "reason": "Rot und Pink aktivieren sofortige emotionale Reaktionen und durchbrechen den visuellen Alltag."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich für kreative Kampagnen?",
+        "answer": "Kräftige Rottöne und Pink erzeugen hohe Aufmerksamkeit und emotionale Aktivierung."
+      },
+      {
+        "question": "Wann passt Sommer-Beere?",
+        "answer": "Wenn kurzfristige Aufmerksamkeit und Energie wichtiger sind als sachliche Glaubwürdigkeit."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Sommer-Beere<\/span><h3>Kreativ & Bunt<\/h3><p>Kräftiges Rot und Pink für auffällige Akzente in kreativen Kampagnen und D2C-Marken. Sommer-Beere steht für Energie,<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

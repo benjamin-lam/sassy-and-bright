@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Ozean-Koralle",
+  "slug": "kreativ-bunt-ozean-koralle",
+  "vibe": "Ocean Warmth / Ozean-Wärme",
+  "summary": "Kräftiges Blau kombiniert mit warmem Pfirsich für maritime Kreativprojekte und Sommer-Marken. Ozean-Koralle verbindet Meeresfrische mit warmem Urlaubsgefühl.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Ozean-Koralle"
+  },
+  "keywords": [
+    "Farbpalette Sommer-Marken",
+    "Kreativ & Bunt",
+    "Ozean-Koralle",
+    "Kreativität & Bildung",
+    "Sommer-Marken",
+    "Reise und Tourismus"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Ozean-Koralle | Farbpalette Sommer-Marken",
+    "meta_description": "Kräftiges Blau kombiniert mit warmem Pfirsich für maritime Kreativprojekte und Sommer-Marken. Ozean-Koralle verbindet Meeresfrische mit warmem Urlaubsgef",
+    "focus_keyword": "Farbpalette Sommer-Marken",
+    "questions": [
+      "Welche Farben passen zu maritimen Kreativprojekten?",
+      "Wann passt Ozean-Koralle?",
+      "Wann passt Ozean-Koralle?"
+    ]
+  },
+  "colors": {
+    "primary": "#0277bd",
+    "secondary": "#b3e5fc",
+    "accent": "#ff7043",
+    "bg": "#f0f9ff",
+    "text": "#012d5f",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helles Meeresblau-Weiss, 30 Prozent zartes Hellblau für Karten, 10 Prozent warmes Koralle-Orange für Energie-Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 2.84,
+    "text_on_secondary": 10.07,
+    "text_on_bg": 12.78,
+    "text_on_card": 13.62
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Sommer-Marken",
+    "Reise und Tourismus",
+    "Maritime Lifestyle-Produkte"
+  ],
+  "audiences": [
+    "Urlaubsreisende",
+    "Sommer-Kampagnen-Zielgruppen",
+    "Maritime Lifestyle-Fans"
+  ],
+  "brand_traits": [
+    "frisch",
+    "warm",
+    "urlaubshaft",
+    "meeresblau"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Ozean-Koralle Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Ozean-Koralle.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Ozean-Koralle Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Ozean-Koralle.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Ozean-Koralle Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Ozean-Koralle.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Sommer-Marken",
+      "Projekte mit Zielgruppe Urlaubsreisende",
+      "Marken mit dem Kernmerkmal frisch"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Ozean-Koralle Sommer-Emotionen aktiviert",
+        "reason": "Blau und Koralle sind die klassischen Urlaubsfarben und aktivieren Sehnsucht nach Meer und Sonne."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu maritimen Kreativprojekten?",
+        "answer": "Blau und Koralle kombinieren Meeresfrische mit Wärme und schaffen eine einladende Sommer-Atmosphäre."
+      },
+      {
+        "question": "Wann passt Ozean-Koralle?",
+        "answer": "Für Sommer-Kampagnen und Reisemarken, die Urlaubssehnsucht und maritime Energie kommunizieren wollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Ozean-Koralle<\/span><h3>Kreativ & Bunt<\/h3><p>Kräftiges Blau kombiniert mit warmem Pfirsich für maritime Kreativprojekte und Sommer-Marken. Ozean-Koralle verbindet <\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

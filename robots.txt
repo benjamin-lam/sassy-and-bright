@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://benjamin-lam.github.io/sassy-and-bright/sitemap.xml

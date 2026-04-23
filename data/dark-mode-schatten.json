@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Schatten",
+  "slug": "dark-mode-schatten",
+  "vibe": "Layered Depth / Geschichtete Tiefe",
+  "summary": "Verschiedene Ebenen von sehr dunklem Grau für subtile Tiefen-Navigation in Interfaces. Schatten optimiert die Material-Design-Elevation für Dark-Mode-Anwendungen.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Schatten"
+  },
+  "keywords": [
+    "Dark Mode Tiefe",
+    "Dark Mode",
+    "Schatten",
+    "Tech & Future",
+    "Elevation Dark Mode",
+    "Grauabstufungen"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Schatten | Dark Mode Elevation Design",
+    "meta_description": "Grauabstufungen für subtile Tiefen-Navigation. Schatten optimiert Material-Design-Elevation für Dark-Mode-Apps.",
+    "focus_keyword": "Dark Mode Tiefe",
+    "questions": [
+      "Wie baue ich Tiefen-Ebenen im Dark Mode auf?",
+      "Was ist Material Design Elevation im Dark Mode?",
+      "Wie viele Grauabstufungen braucht ein Dark-Mode-Interface?"
+    ]
+  },
+  "colors": {
+    "primary": "#141414",
+    "secondary": "#1e1e1e",
+    "accent": "#3a3a3a",
+    "bg": "#0a0a0a",
+    "text": "#b0b0b0",
+    "card": "#141414"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent tiefste Schicht als Basis-Hintergrund, 30 Prozent erste Elevations-Ebene für Karten, 10 Prozent zweite Ebene für erhöhte Elemente."
+  },
+  "accessibility": {
+    "text_on_primary": 8.49,
+    "text_on_secondary": 7.69,
+    "text_on_bg": 9.13,
+    "text_on_card": 8.49
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Material Design Apps",
+    "Android-Apps und Cross-Plattform",
+    "UI-Bibliotheken"
+  ],
+  "audiences": [
+    "Android-Entwickler",
+    "UI-System-Architekten",
+    "Design-System-Verantwortliche"
+  ],
+  "brand_traits": [
+    "systematisch",
+    "stufenweise",
+    "nüchtern",
+    "strukturiert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Schatten Primary",
+      "psychology": "Fast schwarzes Grau setzt die erste Elevations-Stufe und schafft eine systematische Tiefen-Hierarchie.",
+      "best_for": "Basis-Karten auf erstem Elevations-Level",
+      "risk": "Zu ähnliche Graustufen machen die Hierarchie auf schlechten Bildschirmen unsichtbar."
+    },
+    "secondary": {
+      "name": "Schatten Surface",
+      "psychology": "Etwas helleres Dunkelgrau repräsentiert die zweite Elevations-Ebene im Material-Design-System.",
+      "best_for": "Erhöhte Karten, Dialoge und schwebende Aktionspanele",
+      "risk": "Zu wenig Kontrast zwischen Ebenen macht das System visuell flat."
+    },
+    "accent": {
+      "name": "Schatten Accent",
+      "psychology": "Mittleres Grau repräsentiert die dritte Ebene und abgerundete Elemente wie Tooltips und Popups.",
+      "best_for": "Tooltips, Popups und höchste Elevations-Ebene",
+      "risk": "Mehr als drei ähnliche Graustufen überfordern das Wahrnehmungssystem."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Material-Design-Dark-Mode-Implementierungen",
+      "Android-Apps mit systematischer Elevation",
+      "Design-Systeme mit klar definierter Tiefen-Hierarchie"
+    ],
+    "avoid_for": [
+      "Interfaces ohne klares Elevations-Konzept",
+      "Websites mit flachem Design ohne Tiefen-Metapher",
+      "Kunden-seitige Portale ohne Tech-Bezug"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Schatten das Material-Design-Konzept im Dark Mode umsetzt",
+        "reason": "Helligkeitsstufen statt Schatten sind die bevorzugte Methode für Elevation im Dark Mode - Schatten implementiert dieses Prinzip konsequent."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie baue ich Tiefen-Ebenen im Dark Mode auf?",
+        "answer": "Material Design empfiehlt höhere Helligkeit statt Schatten für Elevation im Dark Mode. Schrittweise Grauabstufungen bilden das Tiefen-System ab."
+      },
+      {
+        "question": "Wie viele Grauabstufungen braucht ein Dark-Mode-Interface?",
+        "answer": "Drei bis vier klar unterscheidbare Tiefen-Ebenen reichen für die meisten Interfaces. Mehr Ebenen sind schwer wahrnehmbar und erhöhen die Komplexität."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Schatten<\/span><h3>Dark Mode<\/h3><p>Grauabstufungen für subtile Tiefen-Navigation in Dark-Mode-Interfaces.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

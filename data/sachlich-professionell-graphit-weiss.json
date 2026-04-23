@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Graphit & Weiss",
+  "slug": "sachlich-professionell-graphit-weiss",
+  "vibe": "Sharp Precision / Klare Präzision",
+  "summary": "Strenger Kontrast aus Graphitgrau und Reinweiss für technische Dokumentationen und Reports. Die Variante Graphit & Weiss maximiert Lesbarkeit bei hohem Textanteil.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Graphit & Weiss"
+  },
+  "keywords": [
+    "Farbpalette Dokumentation",
+    "Sachlich & Professionell",
+    "Graphit Weiss",
+    "Business & Institutionen",
+    "technischer Report",
+    "Lesbarkeit"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Graphit & Weiss | Dokumente",
+    "meta_description": "Strenger Kontrast aus Graphit und Weiss für technische Dokumentationen. Maximale Lesbarkeit bei hohem Textanteil.",
+    "focus_keyword": "Farbpalette Dokumentation",
+    "questions": [
+      "Welche Farben fördern die Lesbarkeit technischer Dokumente?",
+      "Wann ist Graphit besser als Schwarz für Textinterfaces?",
+      "Wie gestalte ich Reports und Handbücher lesbar?"
+    ]
+  },
+  "colors": {
+    "primary": "#546e7a",
+    "secondary": "#e0e0e0",
+    "accent": "#37474f",
+    "bg": "#fafafa",
+    "text": "#212121",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisser Hintergrund für maximale Lesbarkeit, 30 Prozent Hellgrau als Trennstruktur, 10 Prozent tiefes Graphit für Überschriften und Navigationselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 2.98,
+    "text_on_secondary": 12.2,
+    "text_on_bg": 15.43,
+    "text_on_card": 16.1
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Technische Dokumentation",
+    "Wissenschaft und Forschung",
+    "Unternehmensberichterstattung"
+  ],
+  "audiences": [
+    "Technische Redakteure",
+    "Compliance-Beauftragte",
+    "Wissenschaftler und Analysten"
+  ],
+  "brand_traits": [
+    "präzise",
+    "sachlich",
+    "klar",
+    "strukturiert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Graphit & Weiss Primary",
+      "psychology": "Mittleres Graphit signalisiert Sachlichkeit ohne den Härte-Effekt von reinem Schwarz.",
+      "best_for": "Kapitelüberschriften, Tabellenköpfe und strukturierende Trennelemente",
+      "risk": "Zu viel Graphit ohne Weissraum erzeugt Enge und erschwert das Scanning."
+    },
+    "secondary": {
+      "name": "Graphit & Weiss Surface",
+      "psychology": "Hellgrau als Trennfarbe ermöglicht Hierarchien, ohne den Lesefluss zu unterbrechen.",
+      "best_for": "Code-Blöcke, Tabellen-Zebrastreifen und Randnotizen",
+      "risk": "Zu wenig Kontrast zwischen secondary und bg macht Strukturen unsichtbar."
+    },
+    "accent": {
+      "name": "Graphit & Weiss Accent",
+      "psychology": "Tiefes Anthrazit als Accent setzt klare Prioritäten im Informationssystem.",
+      "best_for": "Primärüberschriften, Seitenleisten und Navigationspfade",
+      "risk": "Accent und text zu ähnlich macht die Hierarchie lesbar aber nicht erkennbar."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Technische Handbücher und API-Dokumentationen",
+      "Wissenschaftliche Journals und Research-Portale",
+      "Compliance-Reports mit gesetzlichem Textanteil"
+    ],
+    "avoid_for": [
+      "Markenauftritte mit emotionalem Storytelling",
+      "E-Commerce mit visuellem Produktfokus",
+      "Kampagnenseiten mit kurzer Aufmerksamkeitsspanne"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Graphit Weiss Lesbarkeit maximiert",
+        "reason": "Der hohe Kontrast zwischen fast-Weiss und Dunkelgrau entspricht WCAG AAA ohne dabei kalt oder harsch zu wirken."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben fördern die Lesbarkeit technischer Dokumente?",
+        "answer": "Hoher Kontrast zwischen Text und Hintergrund ist entscheidend. Graphit auf fast-Weiss erreicht AAA-Werte und ist augenschonender als reines Schwarz."
+      },
+      {
+        "question": "Wann ist Graphit & Weiss die richtige Wahl?",
+        "answer": "Wenn Nutzer lange Textmengen lesen und dabei prazise Inhalte verarbeiten müssen, schafft Graphit & Weiss optimale Bedingungen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Graphit &amp; Weiss<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Strenger Kontrast für technische Dokumentationen und Reports.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

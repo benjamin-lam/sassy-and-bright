@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Behörden-Blau",
+  "slug": "sachlich-professionell-behoerden-blau",
+  "vibe": "Civic Trust / Institutionelles Vertrauen",
+  "summary": "Traditionelle Blautöne für öffentliche Institutionen und Behördenwebsites, die Ruhe und Sicherheit vermitteln sollen. Die Palette folgt dem visuellen Erwartungshorizont öffentlicher Dienstleistungen.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Behörden-Blau"
+  },
+  "keywords": [
+    "Farbpalette Behörde",
+    "Sachlich & Professionell",
+    "Behörden-Blau",
+    "Business & Institutionen",
+    "öffentliche Verwaltung",
+    "Institutionsdesign"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Behörden-Blau | Verwaltung",
+    "meta_description": "Traditionelle Blautöne für Behörden und öffentliche Institutionen. Behörden-Blau schafft Vertrauen und Wiedererkennung.",
+    "focus_keyword": "Farbpalette Behörde",
+    "questions": [
+      "Welche Farben passen für Behörden-Websites?",
+      "Warum verwenden öffentliche Institutionen oft Blau?",
+      "Wie gestalte ich ein Verwaltungsportal nutzerfreundlich?"
+    ]
+  },
+  "colors": {
+    "primary": "#90afc5",
+    "secondary": "#dce8f0",
+    "accent": "#2e5f8a",
+    "bg": "#f4f7fa",
+    "text": "#1a2e3f",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helles Blauweiss als staatlich-ruhige Fläche, 30 Prozent gedämpftes Himmelblau für Orientierungsebenen, 10 Prozent kräftiges Behördenblau für Aktionen und Hervorhebungen."
+  },
+  "accessibility": {
+    "text_on_primary": 6.06,
+    "text_on_secondary": 11.18,
+    "text_on_bg": 12.96,
+    "text_on_card": 13.94
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Öffentliche Verwaltung",
+    "Kommunen und Landkreise",
+    "Bundesbehörden"
+  ],
+  "audiences": [
+    "Bürgerinnen und Bürger",
+    "Antragsteller",
+    "Mitarbeitende öffentlicher Stellen"
+  ],
+  "brand_traits": [
+    "vertrauenswürdig",
+    "ruhig",
+    "zuverlässig",
+    "bürgernah"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Behörden-Blau Primary",
+      "psychology": "Mittleres Institutionsblau verkörpert den visuellen Kontrakt öffentlicher Stellen mit den Bürgern.",
+      "best_for": "Seitenköpfe, Navigationsbereiche und Orientierungsbalken",
+      "risk": "Zu sattes Blau kann autoritär statt einladend wirken."
+    },
+    "secondary": {
+      "name": "Behörden-Blau Surface",
+      "psychology": "Helles Himmelblau-Weiss schafft Offenheit und Transparenz im institutionellen Kontext.",
+      "best_for": "Formularabschnitte, Informationskästen und Hinweis-Panele",
+      "risk": "Zu weit von Weiss entfernt können Textfelder unlesbar wirken."
+    },
+    "accent": {
+      "name": "Behörden-Blau Accent",
+      "psychology": "Sattes Institutionsblau markiert Pflichtfelder, Einreichungs-Buttons und wichtige Hinweise klar und unmissverständlich.",
+      "best_for": "Formularbeschriftungen, Einreichen-Buttons und Pflichtfeldmarkierungen",
+      "risk": "In geschwungenen Layouts wirkt der Accent steif und veraltet."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bürgerdienst-Portale und Online-Antragsformulare",
+      "Kommunale Informationsseiten",
+      "Öffnungszeiten- und Kontaktportale von Behörden"
+    ],
+    "avoid_for": [
+      "Startup-Websites mit agiler Positionierung",
+      "Lifestyle-Marken für jüngere Zielgruppen",
+      "Kreative Plattformen mit experimentellem Anspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Behörden-Blau den Erwartungshorizont der Bürger erfüllt",
+        "reason": "Bürger assoziieren Institutionsblau mit staatlicher Legitimität. Abweichungen davon erhöhen die kognitive Last bei der Einschätzung der Seriösität."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Behörden-Websites?",
+        "answer": "Traditionelle Blautöne mit hohem Kontrast und klarer Struktur entsprechen den Erwartungen der Bürger und unterstützen die Zugänglichkeit."
+      },
+      {
+        "question": "Wie gestalte ich ein Verwaltungsportal nutzerfreundlich?",
+        "answer": "Klare Farbhierarchie, ausreichend Kontrast und minimale visuelle Ablenkung sind entscheidend für niedrigschwellige Nutzung durch alle Bevölkerungsgruppen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Behörden-Blau<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Traditionelle Blautöne für öffentliche Institutionen und Verwaltungsportale.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

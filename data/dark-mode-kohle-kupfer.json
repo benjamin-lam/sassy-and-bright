@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Kohle & Kupfer",
+  "slug": "dark-mode-kohle-kupfer",
+  "vibe": "Warm Dark / Warmes Dunkel",
+  "summary": "Dunkle Flächen mit warmen, kupferfarbenen Details für Premium-Dark-Interfaces. Kohle & Kupfer steht für Exklusivität und Handwerkscharakter in dunklen digitalen Räumen.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Kohle & Kupfer"
+  },
+  "keywords": [
+    "Dark Mode Premium",
+    "Dark Mode",
+    "Kohle Kupfer",
+    "Tech & Future",
+    "warmes Dark UI",
+    "Kupfer Akzent"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Kohle & Kupfer | Premium Dark UI",
+    "meta_description": "Dunkle Flächen mit Kupfer-Details für Premium-Dark-Interfaces. Kohle & Kupfer schafft Exklusivität in dunklen digitalen Räumen.",
+    "focus_keyword": "Dark Mode Premium",
+    "questions": [
+      "Welche Akzentfarbe passt zu einem Premium Dark Mode?",
+      "Wie nutze ich Kupfer im Dark-Mode-Design?",
+      "Wann ist ein warmes Dark-Mode-Theme besser als ein kühles?"
+    ]
+  },
+  "colors": {
+    "primary": "#1c1c1c",
+    "secondary": "#2a2a2a",
+    "accent": "#b87333",
+    "bg": "#111111",
+    "text": "#d4c5a9",
+    "card": "#1c1c1c"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent fast schwarzes Kohle als dominante Premium-Fläche, 30 Prozent dunkelgrau für Karten und Abgrenzungen, 10 Prozent warmes Kupfer für exklusive Hervorhebungen."
+  },
+  "accessibility": {
+    "text_on_primary": 10.03,
+    "text_on_secondary": 8.45,
+    "text_on_bg": 11.11,
+    "text_on_card": 10.03
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Premium-Software und Tools",
+    "Luxus-E-Commerce im Dark Mode",
+    "Audiophile und Profi-Equipment"
+  ],
+  "audiences": [
+    "Premium-Technologie-Nutzer",
+    "Audio- und Hardware-Enthusiasten",
+    "Dark-Mode-affine Power-User"
+  ],
+  "brand_traits": [
+    "exklusiv",
+    "warm",
+    "premium",
+    "handwerklich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Kohle & Kupfer Primary",
+      "psychology": "Kohleschwarz assoziiert Exklusivität und Ruhe, wie der Innenraum eines Premiumgeräts.",
+      "best_for": "Hintergrundflächen, Modal-Grundlagen und Panel-Rahmen",
+      "risk": "Fast identisches Primary und bg macht Kartenabgrenzungen unsichtbar."
+    },
+    "secondary": {
+      "name": "Kohle & Kupfer Surface",
+      "psychology": "Etwas helleres Dunkelgrau hebt Karten und Bedienfelder klar hervor ohne den Premium-Charakter zu brechen.",
+      "best_for": "Karten, Bedienfelder und Auswahlbereiche",
+      "risk": "Zu viele ähnliche Grautöne machen die Hierarchie schwer erkennbar."
+    },
+    "accent": {
+      "name": "Kohle & Kupfer Accent",
+      "psychology": "Kupfer bringt Wärme, Handwerkscharakter und Exklusivität in das kühle Dark-Design.",
+      "best_for": "Premium-CTAs, Hervorhebungen und Status-Indikationen",
+      "risk": "Kupfer kann auf schlechten Bildschirmen ins Orangebraune kippen und günstig wirken."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Premium-Software für Audiophile oder Profis",
+      "Luxury Dark E-Commerce für High-End-Geräte",
+      "Dark-Mode-Interfaces mit Handwerks- oder Materialcharakter"
+    ],
+    "avoid_for": [
+      "Medizinische oder wissenschaftliche Interfaces",
+      "Consumer-Apps mit breiter Zielgruppe",
+      "Sachliche Enterprise-Tools"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Kupfer im Dark Mode Exklusivität signalisiert",
+        "reason": "Kupfer assoziiert handgefertigte Präzision und teures Material. Als Akzent auf schwarzem Grund erzeugt es einen unverwechselbaren Premium-Eindruck."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Akzentfarbe passt zu einem Premium Dark Mode?",
+        "answer": "Warme Metallfarben wie Kupfer oder Gold setzen exklusive Signale auf schwarzen Flächen und signalisieren Premium-Qualität."
+      },
+      {
+        "question": "Wann ist ein warmes Dark-Mode-Theme die bessere Wahl?",
+        "answer": "Wenn Premium, Handwerk und Exklusivität kommuniziert werden sollen, ist ein warmer Dark Mode glaubwürdiger als kühle Blau- oder Violett-Varianten."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Kohle &amp; Kupfer<\/span><h3>Dark Mode<\/h3><p>Dunkle Flächen mit Kupfer-Details für Premium-Dark-Interfaces.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

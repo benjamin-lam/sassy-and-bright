@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Frühlingswiese",
+  "slug": "natur-umwelt-fruehlingswiese",
+  "vibe": "Spring Energy / Frühlingsenergies",
+  "summary": "Helles Grasgrün mit Akzenten in Zitronengelb für frische Frühlingsthemen, saisonale Kampagnen und Outdoor-Marken. Frühlingswiese vermittelt Aufbruch, Energie und Naturfrische.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Frühlingswiese"
+  },
+  "keywords": [
+    "Farbpalette Frühling",
+    "Natur & Umwelt",
+    "Frühlingswiese",
+    "Mensch & Gesellschaft",
+    "Outdoor Design",
+    "saisonale Kampagne"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Frühlingswiese | Farbpalette Frühling",
+    "meta_description": "Helles Grasgrün mit Zitronengelb für Frühlingskampagnen. Frühlingswiese vermittelt Aufbruch und Naturfrische.",
+    "focus_keyword": "Farbpalette Frühling",
+    "questions": [
+      "Welche Farben passen zu Frühlingsthemen?",
+      "Wie kombiniert man Grün und Gelb im Webdesign?",
+      "Wann ist eine helle Naturfarbpalette besser als dunklere Varianten?"
+    ]
+  },
+  "colors": {
+    "primary": "#7cb518",
+    "secondary": "#e8f5c8",
+    "accent": "#d4e157",
+    "bg": "#f9fdf0",
+    "text": "#1a3300",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Wiesengrün, 30 Prozent zartes Hellgrün für Karten und Abschnitte, 10 Prozent kräftiges Limonengelb für Energie-Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 5.59,
+    "text_on_secondary": 12.08,
+    "text_on_bg": 13.4,
+    "text_on_card": 13.84
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Outdoor und Sport",
+    "Frühjahrs-Saisonkampagnen",
+    "Bio- und Frischemarken"
+  ],
+  "audiences": [
+    "Outdoor-Aktive",
+    "Saisonal shoppende Verbraucher",
+    "Bio-Markt-Kundschaft"
+  ],
+  "brand_traits": [
+    "frisch",
+    "energetisch",
+    "natürlich",
+    "lebendig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Frühlingswiese Primary",
+      "psychology": "Kräftiges Grasgrün signalisiert Wachstum, Energie und Aufbruch und ist kulturell stark mit dem Frühling assoziiert.",
+      "best_for": "Hero-Bereiche, Kampagnentitel und Produkt-Hervorhebungen",
+      "risk": "Zu sattes Grün ohne Weissraum kann intensiv und anstrengend wirken."
+    },
+    "secondary": {
+      "name": "Frühlingswiese Surface",
+      "psychology": "Zartes Hellgrün imitiert das zarte Gras junger Triebe und schafft eine einladende, frische Lesefläche.",
+      "best_for": "Inhaltskarten, Produktkacheln und Infoboxen",
+      "risk": "Zu viel Hellgrün ohne gelbe Energie-Akzente verliert an Lebendigkeit."
+    },
+    "accent": {
+      "name": "Frühlingswiese Accent",
+      "psychology": "Limonengelb bringt Sonne und Energie in die Palette und unterstützt die Frühlingsenergie-Erzählung.",
+      "best_for": "CTA-Buttons, Rabatt-Tags und aufmerksamkeitsstarke Highlights",
+      "risk": "Gelb auf Weiss kann bei schwacher Bildschirmkalibrierung schwer lesbar sein."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Frühjahrs-Kampagnenseiten für Outdoor-Marken",
+      "Bio-Lebensmittelmarken mit Frische-Positionierung",
+      "Saisonale Content-Seiten zu Frühlingsgarten und Aktivitäten"
+    ],
+    "avoid_for": [
+      "Sachliche Businessportale",
+      "Herbst- oder Wintersaisonkampagnen",
+      "Medizinische oder klinische Interfaces"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Frühlingswiese saisonale Kauflaune fördert",
+        "reason": "Saisonpassende Farben steigern die emotionale Relevanz von Kampagneninhalten und fördern die Bereitschaft zum Handeln."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Frühlingsthemen?",
+        "answer": "Kräftiges Grasgrün kombiniert mit zartem Hellgrün und einem Energieakzent in Gelb bilden das visuelle Spektrum des Frühlings ab."
+      },
+      {
+        "question": "Wann ist eine helle Naturfarbpalette die bessere Wahl?",
+        "answer": "Für Frühlings- und Sommerthemen, die Energie und Aufbruch kommunizieren, sind helle, kräftige Grüns besser geeignet als erdige oder dunkle Naturtöne."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Frühlingswiese<\/span><h3>Natur &amp; Umwelt<\/h3><p>Helles Grasgrün mit Zitronengelb für Frühlingsthemen und Outdoor-Marken.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

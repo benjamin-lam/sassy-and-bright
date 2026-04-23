@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Aprikose",
+  "slug": "pastel-aprikose",
+  "vibe": "Soft Warmth / Sanfte Wärme",
+  "summary": "Weicher Mix aus Orange und Rosa für warme, einladende Beauty- und Food-Auftritte. Aprikose verbindet appetitliche Wärme mit femininer Sanftheit.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Aprikose"
+  },
+  "keywords": [
+    "Farbpalette Beauty und Skincare",
+    "Sanft & Pastel",
+    "Aprikose",
+    "Lifestyle & Konsum",
+    "Beauty und Skincare",
+    "Food und Catering"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Aprikose | Farbpalette Beauty und Skincare",
+    "meta_description": "Weicher Mix aus Orange und Rosa für warme, einladende Beauty- und Food-Auftritte. Aprikose verbindet appetitliche Wärme mit femininer Sanftheit.",
+    "focus_keyword": "Farbpalette Beauty und Skincare",
+    "questions": [
+      "Welche Farben passen für Beauty und Food gleichzeitig?",
+      "Wann passt Aprikose?",
+      "Wann passt Aprikose?"
+    ]
+  },
+  "colors": {
+    "primary": "#ffccbc",
+    "secondary": "#fce4ec",
+    "accent": "#ff8a65",
+    "bg": "#fffdf9",
+    "text": "#2d1500",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Aprikosenweiss, 30 Prozent helles Rosapink für Karten, 10 Prozent sattes Koralle für Aktionen."
+  },
+  "accessibility": {
+    "text_on_primary": 11.99,
+    "text_on_secondary": 14.31,
+    "text_on_bg": 16.96,
+    "text_on_card": 17.23
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Beauty und Skincare",
+    "Food und Catering",
+    "Feminine Lifestyle-Marken"
+  ],
+  "audiences": [
+    "Beauty-Konsumentinnen",
+    "Food-Liebhaber",
+    "Feminine Lifestyle-Zielgruppen"
+  ],
+  "brand_traits": [
+    "warm",
+    "sanft",
+    "appetitlich",
+    "feminin"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Aprikose Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Aprikose.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Aprikose Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Aprikose.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Aprikose Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Aprikose.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Beauty und Skincare",
+      "Projekte mit Zielgruppe Beauty-Konsumentinnen",
+      "Marken mit dem Kernmerkmal warm"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Aprikose Wärme und Appetit verbindet",
+        "reason": "Aprikose kombiniert die Wärme von Orange mit der Sanftheit von Rosa und aktiviert appetitliche und einladende Assoziationen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Beauty und Food gleichzeitig?",
+        "answer": "Aprikose verbindet appetitliche Orange-Wärme mit femininer Rosa-Sanftheit und ist für beide Segmente geeignet."
+      },
+      {
+        "question": "Wann passt Aprikose?",
+        "answer": "Für Beauty- und Food-Marken, die gleichzeitig warm, einladend und feminin wirken wollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Aprikose<\/span><h3>Sanft & Pastel<\/h3><p>Weicher Mix aus Orange und Rosa für warme, einladende Beauty- und Food-Auftritte. Aprikose verbindet appetitliche Wärm<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

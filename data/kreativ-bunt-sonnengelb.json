@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Sonnengelb",
+  "slug": "kreativ-bunt-sonnengelb",
+  "vibe": "Sunny Welcome / Sonnenenergie",
+  "summary": "Warme Gelbtöne für eine freundliche und einladende Atmosphäre in Kreativprojekten und Community-Portalen. Sonnengelb strahlt Wearme und Optimismus aus.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Sonnengelb"
+  },
+  "keywords": [
+    "Farbpalette Community-Portale",
+    "Kreativ & Bunt",
+    "Sonnengelb",
+    "Kreativität & Bildung",
+    "Community-Portale",
+    "Bildungsplattformen"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Sonnengelb | Farbpalette Community-Portale",
+    "meta_description": "Warme Gelbtöne für eine freundliche und einladende Atmosphäre in Kreativprojekten und Community-Portalen. Sonnengelb strahlt Wearme und Optimismus aus.",
+    "focus_keyword": "Farbpalette Community-Portale",
+    "questions": [
+      "Welche Farben schaffen eine freundliche Atmosphäre?",
+      "Wann passt Sonnengelb?",
+      "Wann passt Sonnengelb?"
+    ]
+  },
+  "colors": {
+    "primary": "#f9a825",
+    "secondary": "#fff9c4",
+    "accent": "#f57f17",
+    "bg": "#fffde7",
+    "text": "#1a1000",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Gelbweiss, 30 Prozent helles Pastellgelb für Karten, 10 Prozent sattes Sonnengold für CTAs."
+  },
+  "accessibility": {
+    "text_on_primary": 9.53,
+    "text_on_secondary": 17.53,
+    "text_on_bg": 18.3,
+    "text_on_card": 18.78
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Community-Portale",
+    "Bildungsplattformen",
+    "Freundliche Marken"
+  ],
+  "audiences": [
+    "Community-Mitglieder",
+    "Lernende und Kinder",
+    "Positive-Marken-Zielgruppen"
+  ],
+  "brand_traits": [
+    "freundlich",
+    "warm",
+    "einladend",
+    "optimistisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Sonnengelb Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Sonnengelb.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Sonnengelb Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Sonnengelb.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Sonnengelb Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Sonnengelb.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Community-Portale",
+      "Projekte mit Zielgruppe Community-Mitglieder",
+      "Marken mit dem Kernmerkmal freundlich"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Sonnengelb Offenheit und Einladung signalisiert",
+        "reason": "Gelb ist die einladendste Farbe im Spektrum und aktiviert positive Emotionen und Kooperationsbereitschaft."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben schaffen eine freundliche Atmosphäre?",
+        "answer": "Warme Gelbtöne aktivieren positive Emotionen und schaffen eine einladende, zugängliche Atmosphäre."
+      },
+      {
+        "question": "Wann passt Sonnengelb?",
+        "answer": "Für Community-Portale, Bildungsplattformen und Marken, die Wärme und Offenheit als Kernwerte haben."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Sonnengelb<\/span><h3>Kreativ & Bunt<\/h3><p>Warme Gelbtöne für eine freundliche und einladende Atmosphäre in Kreativprojekten und Community-Portalen. Sonnengelb s<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Babyblau",
+  "slug": "pastel-babyblau",
+  "vibe": "Gentle Blue / Sanftes Blau",
+  "summary": "Klassisches Hellblau für sanfte Navigation in Eltern-, Baby- und Pflegeprodukten. Babyblau schafft eine vertraute, sorgsame Atmosphäre für Pflege- und Familienmarken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Babyblau"
+  },
+  "keywords": [
+    "Farbpalette Baby- und Kinderprodukte",
+    "Sanft & Pastel",
+    "Babyblau",
+    "Lifestyle & Konsum",
+    "Baby- und Kinderprodukte",
+    "Pflegeprodukte"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Babyblau | Farbpalette Baby- und Kinderprodu",
+    "meta_description": "Klassisches Hellblau für sanfte Navigation in Eltern-, Baby- und Pflegeprodukten. Babyblau schafft eine vertraute, sorgsame Atmosphäre für Pflege- und F",
+    "focus_keyword": "Farbpalette Baby- und Kinderprodukte",
+    "questions": [
+      "Welche Farben passen für Baby- und Pflegeprodukte?",
+      "Wann passt Babyblau?",
+      "Wann passt Babyblau?"
+    ]
+  },
+  "colors": {
+    "primary": "#bbdefb",
+    "secondary": "#e3f2fd",
+    "accent": "#64b5f6",
+    "bg": "#f8fcff",
+    "text": "#0d2137",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Babyhellblau, 30 Prozent zartes Aqua für Karten, 10 Prozent mittleres Hellblau für Aktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 11.59,
+    "text_on_secondary": 14.25,
+    "text_on_bg": 15.78,
+    "text_on_card": 16.28
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Baby- und Kinderprodukte",
+    "Pflegeprodukte",
+    "Familienmarken"
+  ],
+  "audiences": [
+    "Eltern mit kleinen Kindern",
+    "Pflegebewusste Konsumenten",
+    "Familien-Einkaufsentscheider"
+  ],
+  "brand_traits": [
+    "sanft",
+    "vertraut",
+    "sorgend",
+    "hell"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Babyblau Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Babyblau.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Babyblau Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Babyblau.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Babyblau Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Babyblau.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Baby- und Kinderprodukte",
+      "Projekte mit Zielgruppe Eltern mit kleinen Kindern",
+      "Marken mit dem Kernmerkmal sanft"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Babyblau Vertrauen und Fürsorge kommuniziert",
+        "reason": "Helles Blau assoziiert Sanftheit, Sauberkeit und Fürsorge - alle Kernwerte für Baby- und Pflegeprodukte."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Baby- und Pflegeprodukte?",
+        "answer": "Helles Blau signalisiert Sanftheit und Fürsorge und entspricht den Erwartungen der Zielgruppe."
+      },
+      {
+        "question": "Wann passt Babyblau?",
+        "answer": "Für Baby-, Kind- und Pflegeprodukt-Marken die Sanftheit und sorgsame Fürsorge kommunizieren wollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Babyblau<\/span><h3>Sanft & Pastel<\/h3><p>Klassisches Hellblau für sanfte Navigation in Eltern-, Baby- und Pflegeprodukten. Babyblau schafft eine vertraute, sorg<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}
