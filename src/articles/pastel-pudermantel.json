@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Pudermantel",
+  "slug": "pastel-pudermantel",
+  "vibe": "Soft Feminine / Sanfte Femininitaet",
+  "summary": "Sehr helle Rosa- und Beigetoene fuer feminine und sanfte Lifestyle-Designs. Pudermantel schafft eine einladende, gepflegte Atmosphaere fuer Beauty- und Modenmarken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Pudermantel"
+  },
+  "keywords": [
+    "Farbpalette Beauty und Kosmetik",
+    "Sanft & Pastel",
+    "Pudermantel",
+    "Lifestyle & Konsum",
+    "Beauty und Kosmetik",
+    "Mode und Accessoires"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Pudermantel | Farbpalette Beauty und Kosmeti",
+    "meta_description": "Sehr helle Rosa- und Beigetoene fuer feminine und sanfte Lifestyle-Designs. Pudermantel schafft eine einladende, gepflegte Atmosphaere fuer Beauty- und Mod",
+    "focus_keyword": "Farbpalette Beauty und Kosmetik",
+    "questions": [
+      "Welche Farben passen fuer Beauty-Marken?",
+      "Wann passt Pudermantel?",
+      "Wann passt Pudermantel?"
+    ]
+  },
+  "colors": {
+    "primary": "#f8d7da",
+    "secondary": "#fae8dc",
+    "accent": "#e8b4b8",
+    "bg": "#fefcfb",
+    "text": "#4a2830",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Creme-Weiss, 30 Prozent helles Aprikosenrosa fuer Karten, 10 Prozent gedaempftes Altrosa als Accent."
+  },
+  "accessibility": {
+    "text_on_primary": 9.6,
+    "text_on_secondary": 10.77,
+    "text_on_bg": 12.54,
+    "text_on_card": 12.83
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Beauty und Kosmetik",
+    "Mode und Accessoires",
+    "Brautkleidung"
+  ],
+  "audiences": [
+    "Beauty-Konsumentinnen",
+    "Mode-affine Frauen",
+    "Braut-Zielgruppen"
+  ],
+  "brand_traits": [
+    "sanft",
+    "feminin",
+    "gepflegt",
+    "einladend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Pudermantel Primary",
+      "psychology": "Die Primaerfarbe praesentiert den visuellen Kerncharakter der Palette Pudermantel.",
+      "best_for": "Hero-Flaechen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Pudermantel Surface",
+      "psychology": "Die Sekundaerfarbe schafft Flaechen und Trenner mit passender Tiefe fuer Pudermantel.",
+      "best_for": "Karten, Tabellen und Inhaltsflaechen",
+      "risk": "Ohne typografische Fuehrung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Pudermantel Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstuetzt die Erzaehllogik von Pudermantel.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Uebermaessig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Beauty und Kosmetik",
+      "Projekte mit Zielgruppe Beauty-Konsumentinnen",
+      "Marken mit dem Kernmerkmal sanft"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensaetzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Pudermantel feminine Lifestyle-Marken stärkt",
+        "reason": "Sehr helle Rosatöne signalisieren Pflege und Sanftheit ohne aufdringlich zu wirken."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen fuer Beauty-Marken?",
+        "answer": "Sehr helle Rosa- und Cremetoene schaffen eine einladende feminine Atmosphaere fuer Beauty und Mode."
+      },
+      {
+        "question": "Wann passt Pudermantel?",
+        "answer": "Fuer Marken, die Sanftheit, Weiblichkeit und Gepflegtheit als Kernwerte kommunizieren."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Pudermantel</span><h3>Sanft & Pastel</h3><p>Sehr helle Rosa- und Beigetoene fuer feminine und sanfte Lifestyle-Designs. Pudermantel schafft eine einladende, gepfleg</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

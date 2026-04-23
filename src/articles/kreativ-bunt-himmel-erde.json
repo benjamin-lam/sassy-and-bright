@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Himmel & Erde",
+  "slug": "kreativ-bunt-himmel-erde",
+  "vibe": "Sky and Soil / Himmel und Boden",
+  "summary": "Klassische Kombination aus Blau und Braun fuer ausgewogene kreative Projekte mit natuerlichem Charakter. Himmel & Erde verbindet Weite mit Erdung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Himmel & Erde"
+  },
+  "keywords": [
+    "Farbpalette Kreative Bueros und Studios",
+    "Kreativ & Bunt",
+    "Himmel & Erde",
+    "Kreativitaet & Bildung",
+    "Kreative Bueros und Studios",
+    "Outdoor-Lifestyle"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Himmel & Erde | Farbpalette Kreative Bueros ",
+    "meta_description": "Klassische Kombination aus Blau und Braun fuer ausgewogene kreative Projekte mit natuerlichem Charakter. Himmel & Erde verbindet Weite mit Erdung.",
+    "focus_keyword": "Farbpalette Kreative Bueros und Studios",
+    "questions": [
+      "Welche Farben passen fuer nachhaltige Kreativmarken?",
+      "Wann passt Himmel & Erde?",
+      "Wann passt Himmel & Erde?"
+    ]
+  },
+  "colors": {
+    "primary": "#1565c0",
+    "secondary": "#a1887f",
+    "accent": "#0d47a1",
+    "bg": "#f8f4f0",
+    "text": "#1a0f00",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warmes Creme als Basisflaeche, 30 Prozent Erdbraun fuer Karten und Struktur, 10 Prozent tiefes Himmelsblau fuer Aktionen."
+  },
+  "accessibility": {
+    "text_on_primary": 3.29,
+    "text_on_secondary": 5.7,
+    "text_on_bg": 17.25,
+    "text_on_card": 18.88
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kreative Bueros und Studios",
+    "Outdoor-Lifestyle",
+    "Nachhaltige Kreativmarken"
+  ],
+  "audiences": [
+    "Kreative Freelancer",
+    "Nachhaltigkeits-Marken",
+    "Outdoor-Enthusiasten"
+  ],
+  "brand_traits": [
+    "ausgewogen",
+    "geerdet",
+    "kreativ",
+    "natuerlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Himmel & Erde Primary",
+      "psychology": "Die Primaerfarbe praesentiert den visuellen Kerncharakter der Palette Himmel & Erde.",
+      "best_for": "Hero-Flaechen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Himmel & Erde Surface",
+      "psychology": "Die Sekundaerfarbe schafft Flaechen und Trenner mit passender Tiefe fuer Himmel & Erde.",
+      "best_for": "Karten, Tabellen und Inhaltsflaechen",
+      "risk": "Ohne typografische Fuehrung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Himmel & Erde Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstuetzt die Erzaehllogik von Himmel & Erde.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Uebermaessig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Kreative Bueros und Studios",
+      "Projekte mit Zielgruppe Kreative Freelancer",
+      "Marken mit dem Kernmerkmal ausgewogen"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensaetzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Himmel & Erde Weite und Erdung gleichzeitig vermittelt",
+        "reason": "Blau und Braun kombinieren das Groesste und das Naechste und schaffen eine emotional ausgewogene Palette."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen fuer nachhaltige Kreativmarken?",
+        "answer": "Blau und Erdbraun kombinieren natuerliche Assoziation mit kreativer Kompetenz und wirken ausgewogen und glaubwuerdig."
+      },
+      {
+        "question": "Wann passt Himmel & Erde?",
+        "answer": "Fuer kreative Projekte, die gleichzeitig Weite und Erdung kommunizieren - besonders bei Outdoor- und Nachhaltigkeitsmarken."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Himmel & Erde</span><h3>Kreativ & Bunt</h3><p>Klassische Kombination aus Blau und Braun fuer ausgewogene kreative Projekte mit natuerlichem Charakter. Himmel & Erde v</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

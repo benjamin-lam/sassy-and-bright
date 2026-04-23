@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Minz-Eis",
+  "slug": "pastel-minz-eis",
+  "vibe": "Cool Fresh / Kuehle Frische",
+  "summary": "Kuehles, helles Gruen fuer moderne und frische Oberflaechen im Lifestyle-Segment. Minz-Eis schafft eine saubere, erfrischende Atmosphaere fuer Wellness- und Beauty-Marken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Minz-Eis"
+  },
+  "keywords": [
+    "Farbpalette Wellness und Spa",
+    "Sanft & Pastel",
+    "Minz-Eis",
+    "Lifestyle & Konsum",
+    "Wellness und Spa",
+    "Naturkosmetik"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Minz-Eis | Farbpalette Wellness und Spa",
+    "meta_description": "Kuehles, helles Gruen fuer moderne und frische Oberflaechen im Lifestyle-Segment. Minz-Eis schafft eine saubere, erfrischende Atmosphaere fuer Wellness- un",
+    "focus_keyword": "Farbpalette Wellness und Spa",
+    "questions": [
+      "Welche Farben eignen sich fuer Wellness-Marken?",
+      "Wann passt Minz-Eis?",
+      "Wann passt Minz-Eis?"
+    ]
+  },
+  "colors": {
+    "primary": "#b2dfdb",
+    "secondary": "#e0f2f1",
+    "accent": "#4db6ac",
+    "bg": "#f5fffe",
+    "text": "#1a3330",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Mintgruen, 30 Prozent zartes Aqua fuer Karten, 10 Prozent mittleres Teal fuer Aktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 9.28,
+    "text_on_secondary": 11.63,
+    "text_on_bg": 13.22,
+    "text_on_card": 13.46
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Wellness und Spa",
+    "Naturkosmetik",
+    "Frische Lifestyle-Marken"
+  ],
+  "audiences": [
+    "Wellness-Affine",
+    "Naturkosmetik-Kaeufer",
+    "Gesundheitsbewusste Konsumenten"
+  ],
+  "brand_traits": [
+    "frisch",
+    "kuuehl",
+    "sauber",
+    "modern"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Minz-Eis Primary",
+      "psychology": "Die Primaerfarbe praesentiert den visuellen Kerncharakter der Palette Minz-Eis.",
+      "best_for": "Hero-Flaechen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Minz-Eis Surface",
+      "psychology": "Die Sekundaerfarbe schafft Flaechen und Trenner mit passender Tiefe fuer Minz-Eis.",
+      "best_for": "Karten, Tabellen und Inhaltsflaechen",
+      "risk": "Ohne typografische Fuehrung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Minz-Eis Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstuetzt die Erzaehllogik von Minz-Eis.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Uebermaessig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Wellness und Spa",
+      "Projekte mit Zielgruppe Wellness-Affine",
+      "Marken mit dem Kernmerkmal frisch"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensaetzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Minz-Eis Frische und Sauberkeit kommuniziert",
+        "reason": "Kuehle Minttoene assoziieren Frische, Sauberkeit und natuerliche Pflege."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich fuer Wellness-Marken?",
+        "answer": "Kuehle Minttoene schaffen eine frische, saubere Atmosphaere die Wellness und Naturkosmetik authentisch unterstuetzt."
+      },
+      {
+        "question": "Wann passt Minz-Eis?",
+        "answer": "Fuer Wellness- und Naturkosmetik-Marken die Frische und Sauberkeit als Kernwerte kommunizieren."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Minz-Eis</span><h3>Sanft & Pastel</h3><p>Kuehles, helles Gruen fuer moderne und frische Oberflaechen im Lifestyle-Segment. Minz-Eis schafft eine saubere, erfrisc</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}
