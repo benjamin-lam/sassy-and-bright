@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Herbstlaub",
+  "slug": "natur-umwelt-herbstlaub",
+  "vibe": "Autumn Warmth / Herbstwaerme",
+  "summary": "Warme Orange- und Rosttoene fuer saisonale Inhalte, Ernte-Themen und Herbst-Kampagnen. Herbstlaub schafft eine einladende, nostalgische Atmosphaere fuer saisonal gepraegtes Content-Marketing.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Herbstlaub"
+  },
+  "keywords": [
+    "Farbpalette Herbst",
+    "Natur & Umwelt",
+    "Herbstlaub",
+    "Mensch & Gesellschaft",
+    "Saisonales Design",
+    "Erntethemen"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Herbstlaub | Farbpalette Herbst",
+    "meta_description": "Warme Orange- und Rosttoene fuer Herbstthemen. Herbstlaub schafft einladende Atmosphaere fuer saisonales Content-Marketing.",
+    "focus_keyword": "Farbpalette Herbst",
+    "questions": [
+      "Welche Farben passen zu Herbstthemen im Webdesign?",
+      "Wie setze ich saisonales Design authentisch um?",
+      "Wann ist Orange besser als Gruen fuer Naturthemen?"
+    ]
+  },
+  "colors": {
+    "primary": "#e65c00",
+    "secondary": "#ffe0b2",
+    "accent": "#bf360c",
+    "bg": "#fff8f0",
+    "text": "#2d1300",
+    "card": "#fffaf5"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warmes Cremeorange als Basisflaeche, 30 Prozent zartes Pfirsich fuer Karten und Bereiche, 10 Prozent tiefes Rostrot fuer Hervorhebungen und CTAs."
+  },
+  "accessibility": {
+    "text_on_primary": 4.89,
+    "text_on_secondary": 13.74,
+    "text_on_bg": 16.55,
+    "text_on_card": 16.8
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Saisonales Content-Marketing",
+    "Lebensmittel und Ernte",
+    "Regio-Tourismus im Herbst"
+  ],
+  "audiences": [
+    "Saisonal aktive Konsumenten",
+    "Food-Blogger und Rezeptseiten",
+    "Regio-Marketing-Teams"
+  ],
+  "brand_traits": [
+    "warm",
+    "nostalgisch",
+    "einladend",
+    "saisonal"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Herbstlaub Primary",
+      "psychology": "Kraeftiges Orange-Rot evoziert das Bild farbiger Herbstblaetter und loest unmittelbare saisonale Resonanz aus.",
+      "best_for": "Hero-Flaechen, Aktionstitel und Kampagnen-Hervorhebungen",
+      "risk": "Zu dominantes Orange kann als warnend oder aggressive wahrgenommen werden."
+    },
+    "secondary": {
+      "name": "Herbstlaub Surface",
+      "psychology": "Zartes Pfirsich imitiert das weiche Licht eines Herbstvormittags und schafft eine einladende Leseflaeche.",
+      "best_for": "Inhaltskarten, Rezeptboxen und Angebotsflaechen",
+      "risk": "Zu viel Pfirsich ohne Orangeakzent verliert die saisonale Staerke."
+    },
+    "accent": {
+      "name": "Herbstlaub Accent",
+      "psychology": "Tiefes Rostrot setzt sattigere, gesaettigtere Signale und gibt Buttons und Links Gewicht.",
+      "best_for": "CTA-Elemente, Sonderangebote und Zeitdruck-Buttons",
+      "risk": "Zu viel Rostrot koennte negativ als Warnung oder Fehler interpretiert werden."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Saisonale Kampagnenseiten im Herbst",
+      "Rezept- und Food-Websites mit Erntethemen",
+      "Regionaler Tourismus fuer Weinlese und Ernte"
+    ],
+    "avoid_for": [
+      "Medizinische oder klinische Portale",
+      "Technologie-Marken ohne saisonalen Bezug",
+      "Fruehlings- oder Sommerkampagnen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Herbstlaub saisonale Conversion foerdert",
+        "reason": "Passende saisonale Farben erhoehen die emotionale Relevanz von Inhalten und steigern die Bereitschaft, saisonal relevante Angebote wahrzunehmen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Herbstthemen?",
+        "answer": "Orange, Rostrot und warme Beige-Toene bilden das klassische Herbst-Spektrum ab und erzeugen sofortige saisonale Assoziationen."
+      },
+      {
+        "question": "Wann ist Orange besser als Gruen fuer Naturthemen?",
+        "answer": "Im Herbst ist Orange die ehrlichere Wahl als Gruen, das Fruehling und Sommer assoziiert. Fuer Ernte und Herbstkampagnen ist die Farbe phaenomenal passend."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Herbstlaub</span><h3>Natur &amp; Umwelt</h3><p>Warme Orange- und Rosttoene fuer Herbstthemen und Ernte-Kampagnen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

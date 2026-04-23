@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Schiefer-Nacht",
+  "slug": "dark-mode-schiefer-nacht",
+  "vibe": "Slate Night / Schiefer-Nacht",
+  "summary": "Klassisches dunkles Interface mit neutralem Weiss-Kontrast fuer professionelle Anwendungen. Schiefer-Nacht ist der ausgewogene Dark Mode fuer taeglich genutzte Produktivitaetstools.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Schiefer-Nacht"
+  },
+  "keywords": [
+    "Dark Mode Produktivitaet",
+    "Dark Mode",
+    "Schiefer-Nacht",
+    "Tech & Future",
+    "ausgewogenes dunkles UI",
+    "Schiefer Dark Mode"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Schiefer-Nacht | Produktivitaets Dark UI",
+    "meta_description": "Klassisch dunkles Interface mit neutralem Weiss-Kontrast. Schiefer-Nacht ist der ausgewogene Dark Mode fuer Produktivitaetstools.",
+    "focus_keyword": "Dark Mode Produktivitaet",
+    "questions": [
+      "Welcher Dark Mode eignet sich am besten fuer Produktivitaetstools?",
+      "Wie gestalte ich einen ausgewogenen Dark Mode?",
+      "Was unterscheidet Schiefer-Nacht von reinem Anthrazit?"
+    ]
+  },
+  "colors": {
+    "primary": "#263238",
+    "secondary": "#37474f",
+    "accent": "#cfd8dc",
+    "bg": "#1a2327",
+    "text": "#eceff1",
+    "card": "#263238"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent tiefes Schiefer als ruhige Basis, 30 Prozent mittleres Schiefer fuer Karten und Trenner, 10 Prozent helles Grau fuer dezente Interaktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 11.39,
+    "text_on_secondary": 8.35,
+    "text_on_bg": 13.84,
+    "text_on_card": 11.39
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Produktivitaetssoftware",
+    "Text-Editoren und Notiztools",
+    "Projektmanagement-Apps"
+  ],
+  "audiences": [
+    "Wissensarbeiter",
+    "Autoren und Content-Creator",
+    "Produktmanager"
+  ],
+  "brand_traits": [
+    "ausgewogen",
+    "klassisch",
+    "professionell",
+    "nuechtern"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Schiefer-Nacht Primary",
+      "psychology": "Mittleres Schiefer schafft eine tiefe, aber nicht erdrückende Grundflaeche fuer lange Arbeitssitzungen.",
+      "best_for": "Navigationsleisten, Panel-Hintergruende und Seitenleisten",
+      "risk": "Zu viele aehnliche Schiefer-Toene machen Grenzen zwischen Elementen unsichtbar."
+    },
+    "secondary": {
+      "name": "Schiefer-Nacht Surface",
+      "psychology": "Etwas helleres Schiefer gibt Karten und Editorbereiche klar hervor.",
+      "best_for": "Editor-Flaechen, Karten und Dialog-Backgrounds",
+      "risk": "Zu geringer Kontrast zwischen primary und secondary macht Struktur schwer erkennbar."
+    },
+    "accent": {
+      "name": "Schiefer-Nacht Accent",
+      "psychology": "Helles Grau setzt neutrale, nicht ablenkende Akzente fuer Interaktionselemente.",
+      "best_for": "Icons, Schaltflaechen-Beschriftungen und sekundaere Aktionen",
+      "risk": "Grau-Accent bietet keine starke Fuehrung - Farbsystem mit Statusfarben ergaenzen."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Schreibtools und Notizanwendungen",
+      "Projektmanagement-Apps fuer Wissensarbeiter",
+      "Text-Editoren und Markdown-Tools"
+    ],
+    "avoid_for": [
+      "Action-Apps mit hohem Aktivierungsbedarf",
+      "Gaming mit visuellen Effekten",
+      "Kunden-seitige Portale mit Markenanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Schiefer-Nacht die ausgewogenste Dark-Mode-Variante ist",
+        "reason": "Schiefer-Blaugrau hat mehr Tiefe als Anthrazit-Grau aber weniger Dramatik als Schwarz. Es ist der ideale Kompromiss fuer taeglich genutzte Werkzeuge."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welcher Dark Mode eignet sich fuer Produktivitaetstools?",
+        "answer": "Ausgewogene Schiefer-Toene mit hohem Textkontrast schaffen die optimale Lese- und Arbeitsumgebung fuer lange Sitzungen."
+      },
+      {
+        "question": "Was unterscheidet Schiefer-Nacht von reinem Anthrazit?",
+        "answer": "Schiefer hat einen leichten Blaustich, der die Flaeche lebendiger und weniger steril wirken laesst als reines Anthrazit-Grau."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Schiefer-Nacht</span><h3>Dark Mode</h3><p>Klassisch dunkles Interface fuer Produktivitaetstools.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

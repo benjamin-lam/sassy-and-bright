@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Fruehlingswiese",
+  "slug": "natur-umwelt-fruehlingswiese",
+  "vibe": "Spring Energy / Fruehlingsenergies",
+  "summary": "Helles Grasgruen mit Akzenten in Zitronengelb fuer frische Fruehlingsthemen, saisonale Kampagnen und Outdoor-Marken. Fruehlingswiese vermittelt Aufbruch, Energie und Naturfrische.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Fruehlingswiese"
+  },
+  "keywords": [
+    "Farbpalette Fruehling",
+    "Natur & Umwelt",
+    "Fruehlingswiese",
+    "Mensch & Gesellschaft",
+    "Outdoor Design",
+    "saisonale Kampagne"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Fruehlingswiese | Farbpalette Fruehling",
+    "meta_description": "Helles Grasgruen mit Zitronengelb fuer Fruehlingskampagnen. Fruehlingswiese vermittelt Aufbruch und Naturfrische.",
+    "focus_keyword": "Farbpalette Fruehling",
+    "questions": [
+      "Welche Farben passen zu Fruehlingsthemen?",
+      "Wie kombiniert man Gruen und Gelb im Webdesign?",
+      "Wann ist eine helle Naturfarbpalette besser als dunklere Varianten?"
+    ]
+  },
+  "colors": {
+    "primary": "#7cb518",
+    "secondary": "#e8f5c8",
+    "accent": "#d4e157",
+    "bg": "#f9fdf0",
+    "text": "#1a3300",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Wiesengruen, 30 Prozent zartes Hellgruen fuer Karten und Abschnitte, 10 Prozent kraeftiges Limonengelb fuer Energie-Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 5.59,
+    "text_on_secondary": 12.08,
+    "text_on_bg": 13.4,
+    "text_on_card": 13.84
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Outdoor und Sport",
+    "Fruehjahrs-Saisonkampagnen",
+    "Bio- und Frischemarken"
+  ],
+  "audiences": [
+    "Outdoor-Aktive",
+    "Saisonal shoppende Verbraucher",
+    "Bio-Markt-Kundschaft"
+  ],
+  "brand_traits": [
+    "frisch",
+    "energetisch",
+    "natuerlich",
+    "lebendig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Fruehlingswiese Primary",
+      "psychology": "Kraeftiges Grasgruen signalisiert Wachstum, Energie und Aufbruch und ist kulturell stark mit dem Fruehling assoziiert.",
+      "best_for": "Hero-Bereiche, Kampagnentitel und Produkt-Hervorhebungen",
+      "risk": "Zu sattes Gruen ohne Weissraum kann intensiv und anstrengend wirken."
+    },
+    "secondary": {
+      "name": "Fruehlingswiese Surface",
+      "psychology": "Zartes Hellgruen imitiert das zarte Gras junger Triebe und schafft eine einladende, frische Leseflaeche.",
+      "best_for": "Inhaltskarten, Produktkacheln und Infoboxen",
+      "risk": "Zu viel Hellgruen ohne gelbe Energie-Akzente verliert an Lebendigkeit."
+    },
+    "accent": {
+      "name": "Fruehlingswiese Accent",
+      "psychology": "Limonengelb bringt Sonne und Energie in die Palette und unterstuetzt die Fruehlingsenergie-Erzaehlung.",
+      "best_for": "CTA-Buttons, Rabatt-Tags und aufmerksamkeitsstarke Highlights",
+      "risk": "Gelb auf Weiss kann bei schwacher Bildschirmkalibrierung schwer lesbar sein."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Fruehjahrs-Kampagnenseiten fuer Outdoor-Marken",
+      "Bio-Lebensmittelmarken mit Frische-Positionierung",
+      "Saisonale Content-Seiten zu Fruehlingsgarten und Aktivitaeten"
+    ],
+    "avoid_for": [
+      "Sachliche Businessportale",
+      "Herbst- oder Wintersaisonkampagnen",
+      "Medizinische oder klinische Interfaces"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Fruehlingswiese saisonale Kauflaune foerdert",
+        "reason": "Saisonpassende Farben steigern die emotionale Relevanz von Kampagneninhalten und foerdern die Bereitschaft zum Handeln."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Fruehlingsthemen?",
+        "answer": "Kraeftiges Grasgruen kombiniert mit zartem Hellgruen und einem Energieakzent in Gelb bilden das visuelle Spektrum des Fruehlings ab."
+      },
+      {
+        "question": "Wann ist eine helle Naturfarbpalette die bessere Wahl?",
+        "answer": "Fuer Fruehlings- und Sommerthemen, die Energie und Aufbruch kommunizieren, sind helle, kraeftige Gruens besser geeignet als erdige oder dunkle Naturtöne."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Fruehlingswiese</span><h3>Natur &amp; Umwelt</h3><p>Helles Grasgruen mit Zitronengelb fuer Fruehlingsthemen und Outdoor-Marken.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

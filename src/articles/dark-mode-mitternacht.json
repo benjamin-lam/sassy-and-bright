@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Mitternacht",
+  "slug": "dark-mode-mitternacht",
+  "vibe": "Midnight Depth / Mitternachtstiefe",
+  "summary": "Tiefes Schwarz mit Violett-Akzenten fuer intensive Dark-Mode-Erfahrungen in kreativen und Tech-Kontexten. Mitternacht schafft einen dramatischen, visuell starken Auftritt.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Mitternacht"
+  },
+  "keywords": [
+    "Dark Mode Violett",
+    "Dark Mode",
+    "Mitternacht",
+    "Tech & Future",
+    "dramatisches Dark UI",
+    "Schwarz Violett"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Mitternacht | Dramatisches Dark UI",
+    "meta_description": "Tiefes Schwarz mit Violett-Akzenten fuer intensive Dark-Mode-Erfahrungen. Mitternacht schafft dramatischen Look fuer Tech- und Kreativanwendungen.",
+    "focus_keyword": "Dark Mode Violett",
+    "questions": [
+      "Welche Farben passen zu einem dramatischen Dark Mode?",
+      "Wann ist Violett im Dark Mode die richtige Wahl?",
+      "Wie gestalte ich ein intensives dunkles Interface?"
+    ]
+  },
+  "colors": {
+    "primary": "#1a1a2e",
+    "secondary": "#16213e",
+    "accent": "#7c4dff",
+    "bg": "#0a0a14",
+    "text": "#e8e8f0",
+    "card": "#1a1a2e"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent fast schwarzes Dunkelblau als dramatische Basis, 30 Prozent dunkles Indigo fuer Karten und Panels, 10 Prozent kraeftiges Violett fuer intensive Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 14.0,
+    "text_on_secondary": 13.04,
+    "text_on_bg": 16.16,
+    "text_on_card": 14.0
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Gaming-Plattformen",
+    "Kreativ-Tools",
+    "Cyber-Security-Dashboards"
+  ],
+  "audiences": [
+    "Gamer und Game-Entwickler",
+    "Kreative mit Dark-Mode-Praeferenz",
+    "Security-Analysten"
+  ],
+  "brand_traits": [
+    "dramatisch",
+    "intensiv",
+    "kraeftig",
+    "modern"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Mitternacht Primary",
+      "psychology": "Fast schwarzes Dunkelblau erzeugt maximale Tiefe und eine dramatische Grundstimmung.",
+      "best_for": "Hero-Hintergruende, Modal-Grundflaechen und Navigationsbereich",
+      "risk": "Zu viel near-black laesst Strukturelemente verschwimmen."
+    },
+    "secondary": {
+      "name": "Mitternacht Surface",
+      "psychology": "Dunkles Indigo gibt Karten und Panels eine leichte Farbtiefe ohne die dramatische Wirkung zu brechen.",
+      "best_for": "Karten, Panel-Hintergruende und erhoehte UI-Ebenen",
+      "risk": "Zu wenig Unterschied zwischen primary und secondary macht Tiefenebenen unsichtbar."
+    },
+    "accent": {
+      "name": "Mitternacht Accent",
+      "psychology": "Kraeftiges Violett setzt elektrisierende Akzente auf schwarzem Grund und erzeugt dramatische Interaktionsmomente.",
+      "best_for": "CTAs, aktive States, Fortschrittsbalken und Energie-Elemente",
+      "risk": "Zu breit eingesetzt wirkt intensives Violett ermuedend."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Gaming-Plattformen und Esports-Portale",
+      "Kreativ-Tools fuer Dark-Mode-Anwender",
+      "Cyber-Security-Dashboards mit dramatischem Anspruch"
+    ],
+    "avoid_for": [
+      "Sachliche Business-Anwendungen",
+      "Kinder-und Familien-Apps",
+      "Gesundheitsportale mit beruhigendem Anspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Mitternacht Gaming- und Kreativkontexten passt",
+        "reason": "Dramatische dunkle Paletten sprechen die aesthetischen Praeferenzen digitaler Kreativkultur an und signalisieren hohe Produktqualitaet."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu einem dramatischen Dark Mode?",
+        "answer": "Fast schwarze Flaechen mit einem intensiven, satten Akzent erzeugen dramatische Energie. Violett und Neonfarben sind klassische Kombinations-Partner."
+      },
+      {
+        "question": "Wann ist Violett im Dark Mode die richtige Wahl?",
+        "answer": "Violett passt wenn Kreativitaet, Energie und digitale Avantgarde kommuniziert werden sollen - besonders in Gaming und Kreativtools."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Mitternacht</span><h3>Dark Mode</h3><p>Tiefes Schwarz mit Violett-Akzenten fuer intensive Dark-Mode-Erfahrungen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

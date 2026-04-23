@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Waldgrund",
+  "slug": "natur-umwelt-waldgrund",
+  "vibe": "Forest Depth / Waldtiefe",
+  "summary": "Dunkle Grüntöne und Erdbraun fuer biologische, oekologische und naturwissenschaftliche Webprojekte. Waldgrund erzeugt eine organische, erdverbundene Atmosphaere fuer Umwelt- und Naturthemen.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Waldgrund"
+  },
+  "keywords": [
+    "Farbpalette Natur",
+    "Natur & Umwelt",
+    "Waldgrund",
+    "Mensch & Gesellschaft",
+    "Oekologie",
+    "Umweltthemen"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Waldgrund | Farbpalette Oekologie",
+    "meta_description": "Dunkle Grüntöne und Erdbraun fuer biologische Webprojekte. Waldgrund schafft eine organische Atmosphaere fuer Umwelt- und Naturthemen.",
+    "focus_keyword": "Farbpalette Natur",
+    "questions": [
+      "Welche Farben eignen sich fuer Umwelt- und Naturwebsites?",
+      "Wie wirkt Dunkelgruen in Kombination mit Erdbraun?",
+      "Wann ist eine dunkle Naturfarbpalette sinnvoller als ein helles Gruen?"
+    ]
+  },
+  "colors": {
+    "primary": "#2d5016",
+    "secondary": "#8b6914",
+    "accent": "#5a7a2d",
+    "bg": "#f4f0e6",
+    "text": "#1a2c0d",
+    "card": "#faf6ec"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent warmes Naturbeige als Papier-Hintergrund, 30 Prozent Creme-Karte fuer Inhaltsbloecke, 10 Prozent Waldgruen fuer Aktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 1.61,
+    "text_on_secondary": 2.93,
+    "text_on_bg": 13.09,
+    "text_on_card": 13.8
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Naturschutz und Oekologie",
+    "Biologische Forschung",
+    "Umweltberatung"
+  ],
+  "audiences": [
+    "Naturbegeisterte und Wanderer",
+    "Biologen und Oekologiestudenten",
+    "NGO-Mitarbeiter im Umweltbereich"
+  ],
+  "brand_traits": [
+    "organisch",
+    "geerdet",
+    "authentisch",
+    "nachhaltig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Waldgrund Primary",
+      "psychology": "Tiefes Waldgruen verweist direkt auf das Oekosystem Wald und erzeugt eine sofortige naturnahe Assoziation.",
+      "best_for": "Navigationsleisten, Artikelkopfzeilen und Kategoriemarkierungen",
+      "risk": "Zu dominant kann Dunkelgruen den Hintergrund verdunkeln und die Lesbarkeit einschraenken."
+    },
+    "secondary": {
+      "name": "Waldgrund Surface",
+      "psychology": "Erdbraun bringt Bodenhaftung und organische Waerme in das Design.",
+      "best_for": "Akzent-Boxen, Zitat-Hervorhebungen und Produktkarten",
+      "risk": "Erdbraun kann in zu grosser Flaeche einen unruhigen, muffigen Eindruck erzeugen."
+    },
+    "accent": {
+      "name": "Waldgrund Accent",
+      "psychology": "Mittleres Waldgruen verbindet Primaer- und Sekundaerfarbe und setzt klare Handlungssignale.",
+      "best_for": "CTA-Buttons, Tags, Statusanzeigen",
+      "risk": "Zu viele grüne Stufen verwirren und nehmen dem Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Naturschutz und Umweltorganisationen",
+      "Wissenschaftliche Portale zu Biologie und Oekologie",
+      "Nachhaltige Marken mit starkem Naturbezug"
+    ],
+    "avoid_for": [
+      "Technologie-Startups ohne Naturbezug",
+      "Medizinische oder klinische Interfaces",
+      "Luxusmarken mit urbanem Anspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Waldgrund Authentizitaet fuer Natorthemen signalisiert",
+        "reason": "Die Farbkombination spiegelt das reale Erscheinungsbild des Waldes wider und erzeugt sofortige thematische Glaubwuerdigkeit."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich fuer Umwelt- und Naturwebsites?",
+        "answer": "Erdgebundene Gruens und Brauns schaffen authentischen Naturbezug. Wichtig ist ein warmer Hintergrund, der Naturmaterialien imitiert."
+      },
+      {
+        "question": "Wann ist Waldgrund besser als ein helles Gruen?",
+        "answer": "Wenn Tiefe, Nachhaltigkeit und naturwissenschaftlicher Ernst vermittelt werden sollen, ist Dunkelgruen glaubwuerdiger als spielerisches Hellgruen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Waldgrund</span><h3>Natur &amp; Umwelt</h3><p>Dunkle Grüntöne und Erdbraun fuer biologische und oekologische Webprojekte.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

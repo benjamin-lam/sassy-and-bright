@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Nachtblau",
+  "slug": "dark-mode-nachtblau",
+  "vibe": "Night Interface / Nacht-Interface",
+  "summary": "Fast schwarzer Hintergrund mit hellblauer Schrift fuer Nacht-Interfaces und Dark-Mode-Layouts. Nachtblau bietet augenschonendes Arbeiten und einen klaren Look fuer technische Nacht-Apps.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Nachtblau"
+  },
+  "keywords": [
+    "Dark Mode Farbpalette",
+    "Dark Mode",
+    "Nachtblau",
+    "Tech & Future",
+    "Nacht-Interface",
+    "dunkles UI"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Nachtblau | Dark Mode Farbpalette",
+    "meta_description": "Fast schwarzer Hintergrund mit Hellblau fuer Nacht-Interfaces. Nachtblau schafft augenschonendes Dark-Mode-Layout fuer Tech-Apps.",
+    "focus_keyword": "Dark Mode Farbpalette",
+    "questions": [
+      "Welche Farben eignen sich fuer Dark-Mode-Interfaces?",
+      "Warum ist Nachtblau augenschonender als reines Schwarz?",
+      "Wie baue ich ein zugaengliches Dark-Mode-Design auf?"
+    ]
+  },
+  "colors": {
+    "primary": "#1e3a5f",
+    "secondary": "#2d5a8e",
+    "accent": "#4fc3f7",
+    "bg": "#0a1520",
+    "text": "#b3d4f0",
+    "card": "#1e3a5f"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent fast schwarzes Nachtblau als dominante Flaeche, 30 Prozent dunkles Mittelblau fuer Karten und Panels, 10 Prozent helles Himmelblau als Interaktionssignal."
+  },
+  "accessibility": {
+    "text_on_primary": 7.45,
+    "text_on_secondary": 4.58,
+    "text_on_bg": 11.91,
+    "text_on_card": 7.45
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Nacht-Apps und Schlaf-Tools",
+    "Astronomie-Software",
+    "Professionelle Monitoring-Dashboards"
+  ],
+  "audiences": [
+    "Entwickler und Nacht-Coder",
+    "Astronomiefans",
+    "Schichtarbeiter mit Bildschirmarbeit"
+  ],
+  "brand_traits": [
+    "dunkel",
+    "fokussiert",
+    "ruhig",
+    "praezise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Nachtblau Primary",
+      "psychology": "Dunkles Navy schafft eine tiefe, beruhigende Flaeche, die nachts nicht blendet und Fokus foerdert.",
+      "best_for": "Navigationsleisten, Panel-Hintergruende und Modul-Rahmen",
+      "risk": "Zu aehnliche Blautöne bei primary und bg machen Strukturgrenzen unsichtbar."
+    },
+    "secondary": {
+      "name": "Nachtblau Surface",
+      "psychology": "Mittleres Dunkelblau hebt Karten vom Hintergrund ab und schafft sichtbare Tiefenebenen.",
+      "best_for": "Karten, Dialoge und erhöhte UI-Schichten",
+      "risk": "Zu viele aehnliche Blautöne erzeugen einen flachen, unstrukturierten Eindruck."
+    },
+    "accent": {
+      "name": "Nachtblau Accent",
+      "psychology": "Helles Himmelblau setzt leuchtende Handlungssignale auf dunklem Grund und ist nachts besonders kontrastreich.",
+      "best_for": "Links, aktive States, Fortschrittsbalken und Benachrichtigungen",
+      "risk": "Zu hell kann Accent bei empfindlichen Augen blendend wirken."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Monitoring-Dashboards fuer Schichtarbeit",
+      "Astronomie-Apps und Nacht-Navigationstools",
+      "Code-Editor-Themes fuer Nacht-Codiersitzungen"
+    ],
+    "avoid_for": [
+      "Tagesgeschaeft-Anwendungen mit hellem Umgebungslicht",
+      "Kindgerechte Interfaces",
+      "Gesundheitsportale mit Entspannungsfokus"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Nachtblau besser ist als reines Schwarz im Dark Mode",
+        "reason": "Reines Schwarz erzeugt Halo-Effekte bei OLED-Bildschirmen. Dunkles Navy vermeidet das und bietet gleichzeitig angenehmen Kontrast."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich fuer Dark-Mode-Interfaces?",
+        "answer": "Dunkle, aber nicht schwarze Flaechen kombiniert mit hellen Textfarben und leuchtenden Akzenten schaffen zugaengliche Dark-Mode-Designs."
+      },
+      {
+        "question": "Warum ist Nachtblau augenschonender als reines Schwarz?",
+        "answer": "Dunkles Blau hat eine leicht hoehere Luminanz als reines Schwarz und reduziert damit den extremen Kontrast, der Augen ermueden laesst."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Nachtblau</span><h3>Dark Mode</h3><p>Fast schwarzer Hintergrund mit Hellblau fuer Nacht-Interfaces und Dark-Mode-Layouts.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

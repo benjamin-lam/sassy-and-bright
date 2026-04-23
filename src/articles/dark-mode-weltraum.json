@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Weltraum",
+  "slug": "dark-mode-weltraum",
+  "vibe": "Cosmic Void / Kosmische Leere",
+  "summary": "Schwarz mit minimalen grauen Abstufungen fuer maximale Reduktion und Fokus. Weltraum ist die extremste Dark-Mode-Variante fuer Interfaces, die vollstaendige visuelle Kontrolle erfordern.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Weltraum"
+  },
+  "keywords": [
+    "Dark Mode minimal",
+    "Dark Mode",
+    "Weltraum",
+    "Tech & Future",
+    "maximale Reduktion",
+    "Schwarz Interface"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Weltraum | Maximale Reduktion Dark UI",
+    "meta_description": "Schwarz mit minimalen Grauabstufungen fuer maximale Fokussierung. Weltraum ist der extreme Dark Mode fuer Kontroll-Interfaces.",
+    "focus_keyword": "Dark Mode minimal",
+    "questions": [
+      "Wann ist ein fast schwarzes Interface die richtige Wahl?",
+      "Wie gestalte ich ein minimales Dark-Mode-Design?",
+      "Welche Elemente braucht ein extrem reduziertes Interface?"
+    ]
+  },
+  "colors": {
+    "primary": "#0d0d0d",
+    "secondary": "#1a1a1a",
+    "accent": "#2d2d2d",
+    "bg": "#000000",
+    "text": "#c0c0c0",
+    "card": "#0d0d0d"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent reines Schwarz als absolute Basis, 30 Prozent fast schwarzes Grau fuer Karten-Abgrenzungen, 10 Prozent dunkles Grau fuer minimale Strukturierung."
+  },
+  "accessibility": {
+    "text_on_primary": 10.68,
+    "text_on_secondary": 9.57,
+    "text_on_bg": 11.54,
+    "text_on_card": 10.68
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "OLED-optimierte Apps",
+    "Astrofotografie-Software",
+    "Professionelle Monitoring-Systeme"
+  ],
+  "audiences": [
+    "Power-User mit OLED-Bildschirmen",
+    "Astronomen und Sterngucker",
+    "Profis mit maximaler Fokusanforderung"
+  ],
+  "brand_traits": [
+    "minimal",
+    "extrem",
+    "fokussiert",
+    "reduziert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Weltraum Primary",
+      "psychology": "Fast schwarze Flaechen verschwinden auf OLED-Bildschirmen und schaffen einen realen Schwarz-Effekt.",
+      "best_for": "Panel-Hintergruende auf OLED-optimierten Geraeten",
+      "risk": "Auf normalen Bildschirmen kaum von bg unterscheidbar - Karten werden unsichtbar."
+    },
+    "secondary": {
+      "name": "Weltraum Surface",
+      "psychology": "Minimale Grauabstufung hebt Karten knapp vom Hintergrund ab ohne die extreme Reduktion zu durchbrechen.",
+      "best_for": "Karten und modale Flaechen auf OLED-Geraeten",
+      "risk": "Auf Non-OLED-Bildschirmen oft nicht ausreichend kontrastreich."
+    },
+    "accent": {
+      "name": "Weltraum Accent",
+      "psychology": "Dunkles Mittelgrau setzt minimalste Struktursignale und erlaubt vollstaendige Inhaltsfokussierung.",
+      "best_for": "Trennlinien, Icons und sehr dezente Navigationselemente",
+      "risk": "Grau-Accent ist fuer normale Schaltflaechen zu schwach - Statusfarben benoetigt."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "OLED-optimierte Smartphone-Interfaces",
+      "Astrofotografie-Tools fuer Nachtsichterhalt",
+      "Extreme Fokus-Anwendungen fuer Profis"
+    ],
+    "avoid_for": [
+      "Anwendungen auf schlechten oder alten Bildschirmen",
+      "Breit zugaengliche Consumer-Apps",
+      "Interfaces mit vielen Interaktionselementen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Weltraum auf OLED-Geraeten Akkustrom spart",
+        "reason": "OLED-Pixel leuchten nicht fuer schwarze Bereiche. Reines Schwarz im Dark Mode kann den Akkuverbrauch um bis zu 30 Prozent reduzieren."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wann ist ein fast schwarzes Interface die richtige Wahl?",
+        "answer": "Fuer OLED-Geraete, Nacht-Anwendungen und extreme Fokusanforderungen ist reines Schwarz die effizienteste und augenschonendste Wahl."
+      },
+      {
+        "question": "Welche Elemente braucht ein extrem reduziertes Interface?",
+        "answer": "Wenige, aber klare Farbstufen, hoher Textkontrast und gezielte Statusfarben fuer Interaktionselemente sind entscheidend."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Weltraum</span><h3>Dark Mode</h3><p>Schwarz mit minimalen Grauabstufungen fuer maximale Reduktion und Fokus.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

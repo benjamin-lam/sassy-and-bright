@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Kalkstein",
+  "slug": "natur-umwelt-kalkstein",
+  "vibe": "Stone Lightness / Steinleichtigkeit",
+  "summary": "Sehr helle Naturtoene in Steinweiss und zartem Sand fuer luftige, minimalistische Naturthemen. Kalkstein eignet sich fuer Mineral-, Geologie- und nachhaltige Lifestyle-Projekte.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Kalkstein"
+  },
+  "keywords": [
+    "Farbpalette Natur minimal",
+    "Natur & Umwelt",
+    "Kalkstein",
+    "Mensch & Gesellschaft",
+    "Geologie",
+    "nachhaltiger Lifestyle"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Kalkstein | Farbpalette Natur minimal",
+    "meta_description": "Sehr helle Steintoene fuer luftige Naturthemen. Kalkstein verbindet Minimalismus mit authentischem Naturbezug.",
+    "focus_keyword": "Farbpalette Natur minimal",
+    "questions": [
+      "Wie kombiniert man Minimalismus mit Naturthemen im Design?",
+      "Welche Farben passen zu nachhaltigen Lifestyle-Marken?",
+      "Wann ist ein helles Naturdesign besser als sattes Gruen?"
+    ]
+  },
+  "colors": {
+    "primary": "#e8e0d0",
+    "secondary": "#f5f0e8",
+    "accent": "#c9b99a",
+    "bg": "#fdfcf9",
+    "text": "#4a3f2f",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Naturpapier, 30 Prozent zartes Steinweiss fuer Karten, 10 Prozent warmes Sand als Akzent."
+  },
+  "accessibility": {
+    "text_on_primary": 7.83,
+    "text_on_secondary": 9.06,
+    "text_on_bg": 10.02,
+    "text_on_card": 10.28
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Nachhaltige Lifestyle-Marken",
+    "Geologie und Mineralogie",
+    "Slow Fashion und Nachhaltigkeit"
+  ],
+  "audiences": [
+    "Minimalismus-affine Verbraucher",
+    "Nachhaltigkeit-Interessierte",
+    "Naturstein-Liebhaber"
+  ],
+  "brand_traits": [
+    "minimal",
+    "luftig",
+    "natuerlich",
+    "ruhig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Kalkstein Primary",
+      "psychology": "Warmes Steinweiss imitiert die Oberflaeche von Kalkstein und schafft eine taktile Verbindung zur natuerlichen Welt.",
+      "best_for": "Sektionshintergruende, Produktkarten und ruhige Inhaltsflaechen",
+      "risk": "Zu wenig Kontrast auf steinweissem Hintergrund macht Text schwer lesbar."
+    },
+    "secondary": {
+      "name": "Kalkstein Surface",
+      "psychology": "Zartes Creme ist eine sanfte Abgrenzung ohne visuelle Haerte und schafft Tiefe ohne Farbe.",
+      "best_for": "Verschachtelte Karten, Formularfelder und Inhalts-Trenner",
+      "risk": "Zu wenig Kontrast zwischen secondary und bg macht die Struktur unsichtbar."
+    },
+    "accent": {
+      "name": "Kalkstein Accent",
+      "psychology": "Warmes Sandbraun gibt der Palette den einzigen Farbakzent und lenkt die Aufmerksamkeit gezielt.",
+      "best_for": "Buttons, Links und Hervorhebungen",
+      "risk": "Sand als einziger Akzent reicht nur fuer wenige Interaktionselemente."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Nachhaltige Marken mit Naturbezug und minimalem Anspruch",
+      "Wellness- und Slow-Living-Blogs",
+      "Geologie- und Mineralien-Webshops"
+    ],
+    "avoid_for": [
+      "Marken, die aktive Energie oder Dynamik kommunizieren muessen",
+      "Kinder- und Jugend-Zielgruppen",
+      "Tech-Interfaces mit komplexer Navigation"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Kalkstein Nachhaltigkeit ohne Klieschee kommuniziert",
+        "reason": "Steintoene sind natuerlich ohne ausgeschliffene Gruentoene und wirken damit authentischer fuer Marken, die Greenwashing vermeiden wollen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie kombiniert man Minimalismus mit Naturthemen?",
+        "answer": "Sehr helle Naturtoene wie Steinweiss und Creme schaffen einen Naturbezug ohne Farbintensitaet. Wenige Akzente sichern die Orientierung."
+      },
+      {
+        "question": "Welche Farben passen zu nachhaltigen Lifestyle-Marken?",
+        "answer": "Warme Naturtoene statt sattes Gruen signalisieren Nachhaltigkeit subtil und glaubwuerdig ohne grelles Umwelt-Marketing."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Kalkstein</span><h3>Natur &amp; Umwelt</h3><p>Sehr helle Naturtoene fuer luftige, minimalistische Naturthemen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

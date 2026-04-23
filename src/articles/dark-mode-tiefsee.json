@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Tiefsee",
+  "slug": "dark-mode-tiefsee",
+  "vibe": "Deep Sea Focus / Tiefsee-Fokus",
+  "summary": "Sehr dunkles Blaugruen fuer augenschonendes Arbeiten in langen Sitzungen. Tiefsee verbindet Dark-Mode-Komfort mit einer farblich reichen, aber beruhigenden Tiefsee-Atmosphaere.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Tiefsee"
+  },
+  "keywords": [
+    "Dark Mode Gruenblau",
+    "Dark Mode",
+    "Tiefsee",
+    "Tech & Future",
+    "augenschonend",
+    "Blaugruen Dark UI"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Tiefsee | Augenschonendes Dark UI",
+    "meta_description": "Sehr dunkles Blaugruen fuer augenschonendes Arbeiten. Tiefsee kombiniert Dark-Mode-Komfort mit Tiefsee-Atmosphaere.",
+    "focus_keyword": "Dark Mode Gruenblau",
+    "questions": [
+      "Wie gestalte ich ein augenschonendes Dark-Mode-Interface?",
+      "Warum ist Blaugruen besser als reines Schwarz fuer lange Sitzungen?",
+      "Welche Farben reduzieren Bildschirmmuedigkeit im Dark Mode?"
+    ]
+  },
+  "colors": {
+    "primary": "#0d2137",
+    "secondary": "#1a3a52",
+    "accent": "#00897b",
+    "bg": "#060f1a",
+    "text": "#90c8d8",
+    "card": "#0d2137"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent fast schwarzes Tiefblau als augenschonende Grundflaeche, 30 Prozent dunkles Navy fuer Karten, 10 Prozent Tiefsee-Gruen als Interaktionsakzent."
+  },
+  "accessibility": {
+    "text_on_primary": 8.87,
+    "text_on_secondary": 6.46,
+    "text_on_bg": 10.49,
+    "text_on_card": 8.87
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Wissenschaftliche Software",
+    "Medizinische Monitoring-Systeme",
+    "Marine-Technologie"
+  ],
+  "audiences": [
+    "Wissenschaftler und Forscher",
+    "Medizinisches Fachpersonal",
+    "Marine-Ingenieure"
+  ],
+  "brand_traits": [
+    "ruhig",
+    "tief",
+    "konzentriert",
+    "wissenschaftlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Tiefsee Primary",
+      "psychology": "Sehr dunkles Blaugruen reduziert die spektrale Energie des Bildschirmlichts und ist damit augenschonender als reines Schwarz oder Dunkelblau.",
+      "best_for": "Hauptflaechen, Navigationsleisten und Panel-Hintergruende",
+      "risk": "Zu dunkel und zu aehnlich wie bg macht Karten unsichtbar."
+    },
+    "secondary": {
+      "name": "Tiefsee Surface",
+      "psychology": "Etwas helleres Tiefblau hebt Karten deutlich ab und gibt dem Interface wahrnehmbare Tiefenebenen.",
+      "best_for": "Karten, Dialog-Hintergruende und erhoehte Schichten",
+      "risk": "Zu kleine Kontrast-Stufen machen das Interface flach."
+    },
+    "accent": {
+      "name": "Tiefsee Accent",
+      "psychology": "Tiefseegruen assoziiert Biolumineszenz und setzt lebendige, prazise Handlungssignale auf dunklem Grund.",
+      "best_for": "Links, Statusanzeigen, Fortschritt und Aktionsbuttons",
+      "risk": "Gruen als Accent kann in kritischen Monitoring-Systemen mit Erfolgsstatus verwechselt werden."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Wissenschaftliche Analysetools fuer Nacht-Einsatz",
+      "Medizinische Ueberwachungssysteme",
+      "Marine-Technologie und Tiefsee-Forschungsinterfaces"
+    ],
+    "avoid_for": [
+      "Consumer-Apps mit breiter Zielgruppe",
+      "Markenauftritte mit emotionalem Anspruch",
+      "Lebensmittel- und Food-Interfaces"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Tiefsee Bildschirmmuedigkeit bei langen Sitzungen reduziert",
+        "reason": "Blaugruene Toene haben eine optimalere Wellenlangen-Zusammensetzung fuer das menschliche Auge als reine Blau- oder Grun-Toene."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie gestalte ich ein augenschonendes Dark-Mode-Interface?",
+        "answer": "Sehr dunkle Hintergruende mit mittlerer Textluminanz und einem gruenen oder tuerkisfarbenen Akzent schaffen die augenschonendste Dark-Mode-Erfahrung."
+      },
+      {
+        "question": "Welche Farben reduzieren Bildschirmmuedigkeit im Dark Mode?",
+        "answer": "Dunkle Blaugruen-Toene statt reinem Schwarz reduzieren den extremen Luminanz-Kontrast und foerdern ein entspannteres Sehverhalten."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Tiefsee</span><h3>Dark Mode</h3><p>Sehr dunkles Blaugruen fuer augenschonendes Arbeiten in langen Sitzungen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

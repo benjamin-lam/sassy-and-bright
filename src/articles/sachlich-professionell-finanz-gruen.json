@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Finanz-Gruen",
+  "slug": "sachlich-professionell-finanz-gruen",
+  "vibe": "Stable Growth / Stabiles Wachstum",
+  "summary": "Dunkles Waldgruen kombiniert mit hellem Papierweiss fuer vertrauenswuerdige Finanzplattformen und Investment-Websites. Finanz-Gruen verbindet Stabilitaet mit einem Wachstumsversprechen.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Finanz-Gruen"
+  },
+  "keywords": [
+    "Farbpalette Finanzportal",
+    "Sachlich & Professionell",
+    "Finanz-Gruen",
+    "Business & Institutionen",
+    "Investmentplattform",
+    "Banking Design"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Finanz-Gruen | Finanzportal",
+    "meta_description": "Dunkles Waldgruen mit Papierweiss fuer Finanzplattformen. Finanz-Gruen verbindet Stabilitaet mit Wachstumsversprechen.",
+    "focus_keyword": "Farbpalette Finanzportal",
+    "questions": [
+      "Welche Farben signalisieren Stabilitaet auf Finanzwebsites?",
+      "Warum eignet sich Gruen fuer Banking- und Investment-Interfaces?",
+      "Wie unterscheidet sich Finanz-Gruen von typischem Unternehmensblau?"
+    ]
+  },
+  "colors": {
+    "primary": "#2d6a4f",
+    "secondary": "#d8f3dc",
+    "accent": "#1b4332",
+    "bg": "#f9fefb",
+    "text": "#1b3a2d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Naturgruen als Basis, 30 Prozent zartes Mintgruen fuer Karten und Bereiche, 10 Prozent tiefes Dunkelgruen fuer Buttons und Hervorhebungen."
+  },
+  "accessibility": {
+    "text_on_primary": 1.94,
+    "text_on_secondary": 10.52,
+    "text_on_bg": 12.19,
+    "text_on_card": 12.43
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Vermoegensverwaltung",
+    "Banking-Interfaces",
+    "Nachhaltige Investmentfonds"
+  ],
+  "audiences": [
+    "Privatanleger und Investoren",
+    "Finanzberater",
+    "ESG-orientierte Unternehmen"
+  ],
+  "brand_traits": [
+    "stabil",
+    "wachstumsorientiert",
+    "nachhaltig",
+    "vertrauenswuerdig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Finanz-Gruen Primary",
+      "psychology": "Sattes Waldgruen verbindet Wachstum und Nachhaltigkeit und positioniert Finanzprodukte jenseits klassischen Bankblaus.",
+      "best_for": "Hero-Flaechen, Produktkarten und Navigationsbereiche",
+      "risk": "Zu dominantes Dunkelgruen kann klaustrophobisch wirken und Vertrauen unterlaufen."
+    },
+    "secondary": {
+      "name": "Finanz-Gruen Surface",
+      "psychology": "Zartes Mintgruen signalisiert Wachstum und positive Entwicklung ohne aggressive Energie.",
+      "best_for": "Fortschrittsbalken, positive Statusmeldungen und Karten-Hintergruende",
+      "risk": "Zu satt eingesetzt wirkt Mint kuenstlich und klinisch."
+    },
+    "accent": {
+      "name": "Finanz-Gruen Accent",
+      "psychology": "Tiefes Dunkelgruen setzt verbindliche Signale und gibt Schaltflaechen einen soliden, verlässlichen Charakter.",
+      "best_for": "CTA-Buttons, Investitions-Aktionen und Einlog-Flaechen",
+      "risk": "Zu dunkler Accent auf dunklem Hintergrund verletzt die Zugaenglichkeit."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Investment-Plattformen mit Nachhaltigkeitsfokus",
+      "Banking-Apps fuer private Vermoegensplanung",
+      "ESG-Fonds und Green-Finance-Portale"
+    ],
+    "avoid_for": [
+      "Krisenkommunikation oder Verlust-Szenarien",
+      "Konservative Traditionsbankenseiten",
+      "Handelssysteme mit Echtzeit-Daten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Finanz-Gruen bei ESG-Investoren besser ankommt als Blau",
+        "reason": "Gruene Farben kodieren Nachhaltigkeit und Wachstum, was bei wertorientierten Investoren eine staerkere Resonanz erzeugt als konventionelles Bankblau."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben signalisieren Stabilitaet auf Finanzwebsites?",
+        "answer": "Dunklere Gruen- und Blautöne erzeugen Vertrauen. Wichtig ist ein hoher Kontrast und eine klare Struktur, die Sicherheit vermittelt."
+      },
+      {
+        "question": "Warum eignet sich Gruen fuer Banking-Interfaces?",
+        "answer": "Gruen assoziiert Wachstum und positive Entwicklung. Fuer nachhaltige und wachstumsorientierte Finanzprodukte ist es eine stimmige Markenbotschaft."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Finanz-Gruen</span><h3>Sachlich &amp; Professionell</h3><p>Dunkles Waldgruen fuer Finanzplattformen und Investment-Websites.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

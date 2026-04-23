@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Flusskiesel",
+  "slug": "natur-umwelt-flusskiesel",
+  "vibe": "Smooth Stone / Glatter Stein",
+  "summary": "Matte Grautöne mit glatten Farbübergaengen fuer ruhige Natur-Interfaces und Mineral-Webshops. Flusskiesel schafft eine subtile, materielle Naturreferenz ohne starken Farbkontrast.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Flusskiesel"
+  },
+  "keywords": [
+    "Farbpalette Naturstein",
+    "Natur & Umwelt",
+    "Flusskiesel",
+    "Mensch & Gesellschaft",
+    "Mineralogie",
+    "Steindesign"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Flusskiesel | Farbpalette Naturstein",
+    "meta_description": "Matte Grautöne fuer ruhige Natur-Interfaces. Flusskiesel bringt subtile Naturreferenz ohne starken Farbkontrast.",
+    "focus_keyword": "Farbpalette Naturstein",
+    "questions": [
+      "Welche Farben passen zu Naturstein und Mineralien im Design?",
+      "Wie setze ich materielle Naturreferenzen ohne Farbe um?",
+      "Wann ist Grau besser als Gruen fuer Naturthemen?"
+    ]
+  },
+  "colors": {
+    "primary": "#9e9e9e",
+    "secondary": "#e0e0e0",
+    "accent": "#bdbdbd",
+    "bg": "#f9f9f9",
+    "text": "#2d2d2d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisser Hintergrund, 30 Prozent helles Kiesel-Grau fuer Strukturebenen, 10 Prozent mittleres Steingrau fuer dezente Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 5.14,
+    "text_on_secondary": 10.43,
+    "text_on_bg": 13.08,
+    "text_on_card": 13.77
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Naturstein und Mineralien",
+    "Slow Living und Naturdesign",
+    "Wellnessprodukte mit Steinbezug"
+  ],
+  "audiences": [
+    "Mineral- und Steinsammler",
+    "Spa- und Wellness-Anbieter",
+    "Minimalismus-affine Kaeuferschichten"
+  ],
+  "brand_traits": [
+    "ruhig",
+    "materiell",
+    "zeitlos",
+    "natuerlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Flusskiesel Primary",
+      "psychology": "Mittleres Steingrau imitiert die Farbe von Flussteinen und schafft eine taktile Assoziation ohne Farbspektrum.",
+      "best_for": "Produktkarten, Hintergrundflaechen und Trenner",
+      "risk": "Reines Grau ohne organische Elemente kann leblos und steril wirken."
+    },
+    "secondary": {
+      "name": "Flusskiesel Surface",
+      "psychology": "Helles Grau simuliert glatten Stein und schafft eine ruhige, zeitlose Flaeche.",
+      "best_for": "Karten-Hintergruende, Bildrahmen und Rastertrennungen",
+      "risk": "Zu wenig Kontrast macht Strukturen unsichtbar auf Bildschirmen mit schlechter Kalibrierung."
+    },
+    "accent": {
+      "name": "Flusskiesel Accent",
+      "psychology": "Mittelgrau setzt den minimst moeglichen Akzent und bleibt dabei voellig neutral.",
+      "best_for": "Icons, Beschriftungen und sekundaere Schaltflaechen",
+      "risk": "Grau als einziger Accent bietet kaum Fuehrung - sparsam und gezielt einsetzen."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Naturstein-Webshops und Mineralien-Portale",
+      "Spa- und Wellness-Marken mit Steinbezug",
+      "Minimalistische Natur-Portfolios"
+    ],
+    "avoid_for": [
+      "Marken, die Energie und Dynamik kommunizieren muessen",
+      "Kinder- und Familien-Portale",
+      "Lebensmittel- und Food-Websites"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Flusskiesel Langlebigkeit und Zeitlosigkeit kommuniziert",
+        "reason": "Grau als Steinfarbe assoziiert geologische Zeit und Bestaendigkeit - was fuer nachhaltige und zeitlose Marken eine starke Botschaft ist."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Naturstein im Design?",
+        "answer": "Matte Grautöne mit leichten Warmabstufungen imitieren Steinoberflaechen und schaffen eine authentische materielle Referenz."
+      },
+      {
+        "question": "Wann ist Grau besser als Gruen fuer Naturthemen?",
+        "answer": "Wenn Stein, Mineral und anorganische Natur im Mittelpunkt stehen, ist Grau die glaubwuerdigere Farbwahl als pflanzliches Gruen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Flusskiesel</span><h3>Natur &amp; Umwelt</h3><p>Matte Grautöne fuer ruhige Natur-Interfaces und Mineral-Webshops.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

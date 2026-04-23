@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Juristisches Grau",
+  "slug": "sachlich-professionell-juristisches-grau",
+  "vibe": "Legal Gravity / Juristische Schwere",
+  "summary": "Dunkle, gedeckte Farben fuer seriöse Textinhalte in juristischen, compliance-bezogenen und formalen Web-Kontexten. Juristisches Grau kommuniziert Ernsthaftigkeit und Verlässlichkeit.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Juristisches Grau"
+  },
+  "keywords": [
+    "Farbpalette Kanzlei",
+    "Sachlich & Professionell",
+    "Juristisches Grau",
+    "Business & Institutionen",
+    "Rechtswebsite",
+    "Compliance Design"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Juristisches Grau | Kanzlei",
+    "meta_description": "Dunkle, gedeckte Farben fuer Kanzleiwebsites und Compliance-Portale. Juristisches Grau vermittelt Ernsthaftigkeit und Verlässlichkeit.",
+    "focus_keyword": "Farbpalette Kanzlei",
+    "questions": [
+      "Welche Farben wirken bei Kanzleiwebsites serioes?",
+      "Wie gestalte ich eine Rechtswebsite farblich korrekt?",
+      "Warum sind helle Farben auf juristischen Websites riskant?"
+    ]
+  },
+  "colors": {
+    "primary": "#7f8c8d",
+    "secondary": "#d5d8dc",
+    "accent": "#5d6d7e",
+    "bg": "#f8f9f9",
+    "text": "#1b2631",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent sehr helles Grau als ruhige Basis, 30 Prozent gedaempftes Mittelgrau fuer Sektionierung, 10 Prozent Slate-Blaugrau fuer Verlinkungen und CTA-Elemente."
+  },
+  "accessibility": {
+    "text_on_primary": 4.41,
+    "text_on_secondary": 10.73,
+    "text_on_bg": 14.55,
+    "text_on_card": 15.35
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Rechtsanwaltskanzleien",
+    "Steuerberatung",
+    "Compliance-Abteilungen"
+  ],
+  "audiences": [
+    "Mandanten auf Informationssuche",
+    "Unternehmensjuristen",
+    "Compliance-Manager"
+  ],
+  "brand_traits": [
+    "serioes",
+    "zuverlaessig",
+    "kompetent",
+    "diskret"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Juristisches Grau Primary",
+      "psychology": "Gedecktes Grau steht fuer Neutralitaet und Unparteilichkeit - Kernwerte juristischer Kommunikation.",
+      "best_for": "Navigationsflaechen, Seitenkoepfe und Inhalts-Trenner",
+      "risk": "Zu viel Grau ohne Struktur erzeugt Tristesse statt Serioesitaet."
+    },
+    "secondary": {
+      "name": "Juristisches Grau Surface",
+      "psychology": "Helles Grau schafft klare Abschnittsgrenzen fuer lange Vertragstexte und Informationsseiten.",
+      "best_for": "Absatztrennungen, Zitierblöcke und Randspalten",
+      "risk": "Zu wenig Kontrast macht Textabschnitte schwer voneinander abgrenzbar."
+    },
+    "accent": {
+      "name": "Juristisches Grau Accent",
+      "psychology": "Slate-Blaugrau setzt dezente Handlungssignale, die serioes statt werbend wirken.",
+      "best_for": "Kontaktlinks, Terminvereinbarungsbuttons und Dokumenten-Downloads",
+      "risk": "Helle oder farbenfrohe Alternativen wuerden das seriöse Erscheinungsbild untergraben."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Kanzleiwebsites mit Erstkontakt-Fokus",
+      "Compliance-Portale mit umfangreichen Richtlinientexten",
+      "Vertragsplattformen mit langen Lesepfaden"
+    ],
+    "avoid_for": [
+      "Startups mit spielerischer Markenidentitaet",
+      "E-Commerce mit hohem Konversionsdruck",
+      "Gesundheitsportale, die Empathie und Naehe ausstrahlen sollen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Juristisches Grau Vertrauen in Rechtskontexten aufbaut",
+        "reason": "Mandanten verbinden Diskretion und Zurueckhaltung mit professioneller Kompetenz. Bunte oder laute Designs wuerden diesen Erwartungshorizont verletzen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken bei Kanzleiwebsites serioes?",
+        "answer": "Gedaempfte Grautöne mit ausreichend Kontrast schaffen das seriöse Erscheinungsbild, das Mandanten von Rechtsdienstleistern erwarten."
+      },
+      {
+        "question": "Warum sind bunte Farben auf Kanzleiwebsites riskant?",
+        "answer": "Zu viel Farbe signalisiert Verspieltheit statt juristischer Praezision und kann das Vertrauen in die Fachkompetenz der Kanzlei untergraben."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Juristisches Grau</span><h3>Sachlich &amp; Professionell</h3><p>Dunkle, gedeckte Farben fuer Kanzleiwebsites und Compliance-Portale.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}
