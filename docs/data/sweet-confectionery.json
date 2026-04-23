@@ -2,19 +2,19 @@
   "title": "Sweet Confectionery",
   "slug": "sweet-confectionery",
   "vibe": "Warm Delight",
-  "summary": "Eine appetitliche, freundliche Palette fuer Baeckereien, Patisserien und Geschenkmarken, die Genuss, Nahbarkeit und einladende Waerme zeigen will.",
+  "summary": "Eine appetitliche, freundliche Palette für Bäckereien, Patisserien und Geschenkmarken, die Genuss, Nahbarkeit und einladende Wärme zeigen will.",
   "keywords": [
-    "Farbpalette Baeckerei",
+    "Farbpalette Bäckerei",
     "Patisserie Farben",
     "Geschenkshop Webdesign",
     "Lifestyle & Konsum"
   ],
   "seo": {
-    "meta_title": "Sweet Confectionery: Farbpalette fuer Baeckereien und Geschenkmarken",
-    "meta_description": "Welche Farben passen zu Baeckereien und Patisserie? Sweet Confectionery kombiniert Creme, Pfirsich und warme Akzente fuer Genuss, Naehe und freundliche Kaufimpulse.",
-    "focus_keyword": "Farbpalette Baeckerei",
+    "meta_title": "Sweet Confectionery: Farbpalette für Bäckereien und Geschenkmarken",
+    "meta_description": "Welche Farben passen zu Bäckereien und Patisserie? Sweet Confectionery kombiniert Creme, Pfirsich und warme Akzente für Genuss, Nähe und freundliche Kaufimpulse.",
+    "focus_keyword": "Farbpalette Bäckerei",
     "questions": [
-      "Welche Farben passen zu Baeckereien und Patisserie?",
+      "Welche Farben passen zu Bäckereien und Patisserie?",
       "Wie wirkt ein Geschenkshop warm statt kitschig?",
       "Welche Palette steigert Genuss ohne kindlich zu werden?"
     ]
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent Creme fuer Ruhe und Produktbilder, 30 Prozent Pfirsich fuer Waerme und 10 Prozent gebackene Koralle fuer Highlights, CTAs und saisonale Signale."
+    "note": "60 Prozent Creme für Ruhe und Produktbilder, 30 Prozent Pfirsich für Wärme und 10 Prozent gebackene Koralle für Highlights, CTAs und saisonale Signale."
   },
   "accessibility": {
     "text_on_primary": 5.84,
@@ -41,13 +41,13 @@
   },
   "cognitive_load": 4,
   "industry_match": [
-    "Baeckereien",
+    "Bäckereien",
     "Geschenke",
     "Patisserie"
   ],
   "audiences": [
     "Genussorientierte Kundschaft",
-    "Familien und Geschenkkaeufer",
+    "Familien und Geschenkkäufer",
     "Lokale Marken mit Warmherzigkeit"
   ],
   "brand_traits": [
@@ -59,19 +59,19 @@
   "color_psychology": {
     "primary": {
       "name": "Baked Peach",
-      "psychology": "Erzeugt Waerme, Frische und den Eindruck handgemachter Genussmomente.",
+      "psychology": "Erzeugt Wärme, Frische und den Eindruck handgemachter Genussmomente.",
       "best_for": "Produktteaser, saisonale Aktionen, Hero-Bereiche",
       "risk": "Zu viel Pfirsich kann klebrig oder infantil wirken."
     },
     "secondary": {
       "name": "Cream Frost",
-      "psychology": "Schafft eine weiche, appetitliche Buehne, die Bilder und Typografie freundlich rahmt.",
-      "best_for": "Karten, Kategorien, Geschenkbloecke",
+      "psychology": "Schafft eine weiche, appetitliche Bühne, die Bilder und Typografie freundlich rahmt.",
+      "best_for": "Karten, Kategorien, Geschenkblöcke",
       "risk": "Ohne klaren Kontrast wird die Seite zu pastellig und verliert Tempo."
     },
     "accent": {
       "name": "Jam Coral",
-      "psychology": "Bringt Appetit, Handlung und emotionale Naehe in die Palette.",
+      "psychology": "Bringt Appetit, Handlung und emotionale Nähe in die Palette.",
       "best_for": "Buttons, Angebotsmarker, kleine Eyecatcher",
       "risk": "Zu viel Koralle macht das Interface hektisch und werblich."
     }
@@ -90,17 +90,17 @@
     "argumentation": [
       {
         "claim": "Warum diese Palette Genuss transportiert",
-        "reason": "Warme Creme- und Backtinten aktivieren Geschmackserwartung und Naehe, ohne sofort in bunte Konditorei-Klischees zu kippen."
+        "reason": "Warme Creme- und Backtinten aktivieren Geschmackserwartung und Nähe, ohne sofort in bunte Konditorei-Klischees zu kippen."
       },
       {
         "claim": "Warum Freundlichkeit hier kaufrelevant ist",
-        "reason": "Baeckereien und Geschenkmarken verkaufen nicht nur Produkte, sondern Stimmung, Gastlichkeit und kleine Freuden."
+        "reason": "Bäckereien und Geschenkmarken verkaufen nicht nur Produkte, sondern Stimmung, Gastlichkeit und kleine Freuden."
       }
     ],
     "faq": [
       {
-        "question": "Welche Farben passen zu einer Baeckerei?",
-        "answer": "Warme Creme- und Gebaecktoene mit klarer dunkler Typografie sind oft ideal, um Genuss, Qualitaet und Nahbarkeit auszubalancieren."
+        "question": "Welche Farben passen zu einer Bäckerei?",
+        "answer": "Warme Creme- und Gebäcktöne mit klarer dunkler Typografie sind oft ideal, um Genuss, Qualität und Nahbarkeit auszubalancieren."
       },
       {
         "question": "Wie wirkt ein Geschenkshop warm statt kitschig?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Fresh<\/span><h3>Feine Auswahl<\/h3><p>Ein freundlicher Shop-Moment fuer Gebaeck, Geschenkideen und saisonale Bundles.<\/p><button class='btn btn-cta' type='button'>Jetzt bestellen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Fresh<\/span><h3>Feine Auswahl<\/h3><p>Ein freundlicher Shop-Moment für Gebäck, Geschenkideen und saisonale Bundles.<\/p><button class='btn btn-cta' type='button'>Jetzt bestellen<\/button><\/section>"
 }

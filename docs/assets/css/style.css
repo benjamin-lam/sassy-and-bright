@@ -5,6 +5,12 @@
   --color-bg: #fff7fa;
   --color-text: #2b2230;
   --color-card: #ffffff;
+  --p: var(--color-primary);
+  --s: var(--color-secondary);
+  --a: var(--color-accent);
+  --bg: var(--color-bg);
+  --t: var(--color-text);
+  --c: var(--color-card);
   --color-shadow: rgba(43, 34, 48, 0.12);
   --radius-xl: 1.75rem;
   --radius-lg: 1.25rem;
@@ -245,6 +251,7 @@ textarea {
 
 .button-row {
   margin-top: 1rem;
+  justify-items: start;
 }
 
 .section-head {
@@ -300,6 +307,14 @@ textarea {
   display: flex;
   gap: 0.55rem;
   flex-wrap: wrap;
+}
+
+.palette-card .mini-swatches {
+  margin-top: 0.8rem;
+}
+
+.palette-card .tag-list {
+  margin-top: 1rem;
 }
 
 .mini-swatch,
@@ -571,6 +586,11 @@ td {
   width: fit-content;
 }
 
+.inline-action {
+  width: fit-content;
+  margin-top: 1rem;
+}
+
 .bg-60 {
   background:
     linear-gradient(140deg, rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.68)),
@@ -589,6 +609,162 @@ td {
 
 .lab-stage[hidden] {
   display: none;
+}
+
+.mockup-container {
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(43, 34, 48, 0.1);
+  background: var(--c);
+  box-shadow: 0 1.25rem 2.5rem -1.5rem var(--color-shadow);
+}
+
+.mockup-nav,
+.mockup-hero,
+.mockup-content,
+.mockup-footer {
+  padding-inline: 1rem;
+}
+
+.mockup-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-block: 0.85rem;
+  background: var(--c);
+  border-bottom: 2px solid var(--s);
+}
+
+.mockup-brand {
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--p);
+}
+
+.mockup-avatar {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--s);
+}
+
+.mockup-hero {
+  display: grid;
+  justify-items: center;
+  gap: 0.8rem;
+  padding-block: 1.8rem;
+  text-align: center;
+  background: var(--s);
+}
+
+.mockup-hero h2,
+.mockup-hero p,
+.mockup-footer {
+  margin: 0;
+}
+
+.mockup-hero h2 {
+  color: var(--t);
+  font-size: clamp(1.5rem, 4vw, 2rem);
+}
+
+.mockup-hero p {
+  max-width: 30rem;
+  color: color-mix(in srgb, var(--t) 78%, transparent);
+  font-size: 0.95rem;
+}
+
+.mockup-cta {
+  min-height: 2.9rem;
+  padding: 0.7rem 1.15rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--p);
+  color: var(--mockup-cta-fg, var(--t));
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0.8rem 1.8rem -1rem rgba(43, 34, 48, 0.28);
+}
+
+.mockup-content {
+  display: grid;
+  gap: 1rem;
+  padding-block: 1rem;
+  background: var(--bg);
+}
+
+.mockup-card {
+  padding: 1rem;
+  border-radius: 0.9rem;
+  background: var(--c);
+}
+
+.mockup-card-feature {
+  border: 1px solid var(--s);
+  box-shadow: 0.3rem 0.3rem 0 var(--s);
+}
+
+.mockup-accent-block {
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.75rem;
+  border-radius: 0.55rem;
+  background: var(--a);
+}
+
+.mockup-line {
+  height: 0.65rem;
+  border-radius: 999px;
+  background: var(--t);
+}
+
+.mockup-line-strong {
+  width: 80%;
+  opacity: 0.2;
+}
+
+.mockup-line-soft {
+  width: 50%;
+  margin-top: 0.45rem;
+  opacity: 0.1;
+}
+
+.mockup-card-active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  border: 2px solid var(--a);
+  text-align: center;
+}
+
+.mockup-card-active span {
+  color: var(--a);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.mockup-progress {
+  width: 100%;
+  height: 0.25rem;
+  border-radius: 999px;
+  background: var(--a);
+}
+
+.mockup-footer {
+  padding-block: 0.8rem;
+  background: var(--t);
+  color: var(--bg);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.mockup-footer span {
+  color: var(--a);
+  font-weight: 700;
 }
 
 .lab-shell {
@@ -738,8 +914,12 @@ td {
   }
 
   .button-row {
-    grid-template-columns: repeat(2, max-content);
+    grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
     align-items: center;
+  }
+
+  .mockup-content {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .lab-shell {

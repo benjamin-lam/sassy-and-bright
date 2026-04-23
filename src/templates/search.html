@@ -6,14 +6,14 @@
   <title>{{meta_title}}</title>
   <meta name="description" content="{{meta_description}}">
   <meta name="theme-color" content="{{theme_color}}">
-  <link rel="canonical" href="{{canonical_url}}">
+  {{canonical_link}}
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{meta_title}}">
   <meta property="og:description" content="{{meta_description}}">
   <meta property="og:url" content="{{canonical_url}}">
   <meta property="og:site_name" content="VibeVault">
   <link rel="stylesheet" href="../assets/css/style.css">
-  <script type="application/ld+json">{{json_ld}}</script>
+  {{json_ld_script}}
   <script defer src="../assets/js/search.js"></script>
 </head>
 <body class="theme-shell">
@@ -21,7 +21,7 @@
   <header class="site-header shell">
     <a class="brand-mark" href="{{home_href}}">VibeVault</a>
     <nav class="site-nav" aria-label="Hauptnavigation">
-      <a href="{{home_href}}">Uebersicht</a>
+      <a href="{{home_href}}">Übersicht</a>
     </nav>
   </header>
 
@@ -30,12 +30,12 @@
       <div class="hero-copy">
         <p class="eyebrow">Suche</p>
         <h1 class="display-title">Passende Farbpalette nach Projektlogik filtern</h1>
-        <p class="lead">Suche nicht nach Huebschigkeit, sondern nach Wirkung, Branche, Zielgruppe und Begruendbarkeit.</p>
+        <p class="lead">Suche nicht nach Hübschigkeit, sondern nach Wirkung, Branche, Zielgruppe und Begründbarkeit.</p>
       </div>
       <div class="control-card bg-30">
         <p class="eyebrow">Ergebnis</p>
         <h2><span id="result-count">0</span> von <span id="total-count">0</span> Paletten sichtbar</h2>
-        <p>Die Filter arbeiten nur clientseitig und bleiben damit schnell und ohne externe Abhaengigkeiten.</p>
+        <p>Die Filter arbeiten nur clientseitig und bleiben damit schnell und ohne externe Abhängigkeiten.</p>
       </div>
     </section>
 
@@ -59,7 +59,7 @@
             {{industry_options}}
           </select>
         </label>
-        <button id="reset-search" class="btn btn-ghost" type="button">Filter zuruecksetzen</button>
+        <button id="reset-search" class="btn btn-ghost" type="button">Filter zurücksetzen</button>
       </div>
     </section>
 
@@ -69,15 +69,15 @@
       </div>
       <div id="empty-state" class="panel empty-state" hidden>
         <h2>Keine Palette passt auf diese Kombination.</h2>
-        <p>Versuche breitere Suchbegriffe oder setze Vibe und Branche zurueck.</p>
+        <p>Versuche breitere Suchbegriffe oder setze Vibe und Branche zurück.</p>
       </div>
     </section>
   </main>
 
   <footer class="site-footer shell">
-    <p>VibeVault Archiv fuer Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
   </footer>
 
-  <script id="search-data" type="application/json">{{palette_index_json}}</script>
+  {{search_data_script}}
 </body>
 </html>

@@ -2,7 +2,7 @@
   "title": "Non-Profit & Activism",
   "slug": "non-profit-activism",
   "vibe": "Urgent Hope",
-  "summary": "Eine aktivierende Kampagnenpalette fuer NGOs, Klima-Initiativen und Fundraising-Seiten, die Dringlichkeit und Beteiligung sichtbar machen soll, ohne die Glaubwuerdigkeit zu verlieren.",
+  "summary": "Eine aktivierende Kampagnenpalette für NGOs, Klima-Initiativen und Fundraising-Seiten, die Dringlichkeit und Beteiligung sichtbar machen soll, ohne die Glaubwürdigkeit zu verlieren.",
   "keywords": [
     "Farbpalette NGO",
     "Klima Kampagne Farben",
@@ -10,13 +10,13 @@
     "Mensch & Gesellschaft"
   ],
   "seo": {
-    "meta_title": "Non-Profit & Activism: Farbpalette fuer NGOs und Klima-Kampagnen",
-    "meta_description": "Welche Farben passen zu NGOs und Aktivismus? Non-Profit & Activism verbindet Dringlichkeit, Lesbarkeit und Beteiligung fuer Kampagnen, Fundraising und gesellschaftliche Mobilisierung.",
+    "meta_title": "Non-Profit & Activism: Farbpalette für NGOs und Klima-Kampagnen",
+    "meta_description": "Welche Farben passen zu NGOs und Aktivismus? Non-Profit & Activism verbindet Dringlichkeit, Lesbarkeit und Beteiligung für Kampagnen, Fundraising und gesellschaftliche Mobilisierung.",
     "focus_keyword": "Farbpalette NGO",
     "questions": [
       "Welche Farben passen zu NGOs und Klima-Kampagnen?",
-      "Wie wirkt Aktivismus dringlich ohne Alarmmuedigkeit?",
-      "Welche Palette unterstuetzt Beteiligung und Vertrauen zugleich?"
+      "Wie wirkt Aktivismus dringlich ohne Alarmmüdigkeit?",
+      "Welche Palette unterstützt Beteiligung und Vertrauen zugleich?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent helle Kampagnenflaechen fuer Lesbarkeit, 30 Prozent dringliches Warmrot fuer emotionale Mobilisierung und 10 Prozent glaubwuerdiges Gruen fuer Handlung, Hoffnung und Impact."
+    "note": "60 Prozent helle Kampagnenflächen für Lesbarkeit, 30 Prozent dringliches Warmrot für emotionale Mobilisierung und 10 Prozent glaubwürdiges Grün für Handlung, Hoffnung und Impact."
   },
   "accessibility": {
     "text_on_primary": 5.71,
@@ -54,43 +54,43 @@
     "dringlich",
     "menschlich",
     "mobilisierend",
-    "glaubwuerdig"
+    "glaubwürdig"
   ],
   "color_psychology": {
     "primary": {
       "name": "Campaign Coral",
-      "psychology": "Erzeugt emotionale Dringlichkeit und menschliche Naehe statt kalter Betroffenheit.",
-      "best_for": "Kampagnenbuehnen, Petition-Module, Spendenaufrufe",
+      "psychology": "Erzeugt emotionale Dringlichkeit und menschliche Nähe statt kalter Betroffenheit.",
+      "best_for": "Kampagnenbühnen, Petition-Module, Spendenaufrufe",
       "risk": "Zu viel Koralle kann moralischen Druck statt konstruktiver Aktivierung erzeugen."
     },
     "secondary": {
       "name": "Action Paper",
-      "psychology": "Schafft lesbare Ruhe fuer Fakten, Forderungen und Erklaerungen.",
-      "best_for": "Textflaechen, Positionsseiten, Faktenboxen",
-      "risk": "Ohne staerkere Akzente bleibt die Mobilisierungsenergie zu niedrig."
+      "psychology": "Schafft lesbare Ruhe für Fakten, Forderungen und Erklärungen.",
+      "best_for": "Textflächen, Positionsseiten, Faktenboxen",
+      "risk": "Ohne stärkere Akzente bleibt die Mobilisierungsenergie zu niedrig."
     },
     "accent": {
       "name": "Impact Green",
       "psychology": "Signalisiert Hoffnung, Handlung und konstruktive Richtung.",
       "best_for": "Buttons, Fortschrittsanzeigen, Erfolgsmarker",
-      "risk": "Ein zu grosser Gruenanteil kann Aktivismus weichspuelen oder greenwashing-nahe wirken."
+      "risk": "Ein zu grosser Grünanteil kann Aktivismus weichspülen oder greenwashing-nahe wirken."
     }
   },
   "decision_support": {
     "best_for": [
       "Petitionen und Kampagnen mit Aktivierungslogik",
       "Fundraising-Seiten mit hohem Vertrauensbedarf",
-      "NGO-Portale, die Fakten und Emotion verbinden muessen"
+      "NGO-Portale, die Fakten und Emotion verbinden müssen"
     ],
     "avoid_for": [
       "Luxus- und Distinktionsmarken",
-      "Stark technische Produkte mit kuehler Dominanz",
-      "Kanzleien und Beratungen mit diskreter Zurueckhaltung"
+      "Stark technische Produkte mit kühler Dominanz",
+      "Kanzleien und Beratungen mit diskreter Zurückhaltung"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Dringlichkeit ohne Panik erzeugt",
-        "reason": "Sie setzt emotionale Aktivierung gegen klare Ruheflaechen. So bleibt der Aufruf stark, aber nicht hysterisch."
+        "reason": "Sie setzt emotionale Aktivierung gegen klare Ruheflächen. So bleibt der Aufruf stark, aber nicht hysterisch."
       },
       {
         "claim": "Warum Hoffnung als Akzent wichtig ist",
@@ -100,13 +100,13 @@
     "faq": [
       {
         "question": "Welche Farben passen zu NGOs und Klima-Kampagnen?",
-        "answer": "Warme Aktivierungstoene mit guter Lesbarkeit und wenigen glaubwuerdigen Hoffnungsakzenten funktionieren oft am besten."
+        "answer": "Warme Aktivierungstöne mit guter Lesbarkeit und wenigen glaubwürdigen Hoffnungsakzenten funktionieren oft am besten."
       },
       {
-        "question": "Wie wirkt Aktivismus dringlich ohne Alarmmuedigkeit?",
-        "answer": "Durch gezielte Aktivierung, klare Faktenflaechen und den Verzicht auf permanente Schocksignale."
+        "question": "Wie wirkt Aktivismus dringlich ohne Alarmmüdigkeit?",
+        "answer": "Durch gezielte Aktivierung, klare Faktenflächen und den Verzicht auf permanente Schocksignale."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Act<\/span><h3>Jetzt mitmachen<\/h3><p>Dringliche, aber geordnete Kampagnenfuehrung fuer Petition, Spende und Beteiligung.<\/p><button class='btn btn-cta' type='button'>Unterstuetzen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Act<\/span><h3>Jetzt mitmachen<\/h3><p>Dringliche, aber geordnete Kampagnenführung für Petition, Spende und Beteiligung.<\/p><button class='btn btn-cta' type='button'>Unterstützen<\/button><\/section>"
 }

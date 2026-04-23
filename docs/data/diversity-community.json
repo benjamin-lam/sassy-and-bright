@@ -2,7 +2,7 @@
   "title": "Diversity & Community",
   "slug": "diversity-community",
   "vibe": "Warm Belonging",
-  "summary": "Eine inklusive Community-Palette fuer Inklusionsprojekte, LGBTQ+ Initiativen und soziale Plattformen, die Offenheit, Sicherheit und gelebte Zugehoerigkeit sichtbar machen will.",
+  "summary": "Eine inklusive Community-Palette für Inklusionsprojekte, LGBTQ+ Initiativen und soziale Plattformen, die Offenheit, Sicherheit und gelebte Zugehörigkeit sichtbar machen will.",
   "keywords": [
     "Farbpalette Inklusion",
     "LGBTQ+ Farben Webdesign",
@@ -10,13 +10,13 @@
     "Mensch & Gesellschaft"
   ],
   "seo": {
-    "meta_title": "Diversity & Community: Farbpalette fuer Inklusion, LGBTQ+ und Community Projekte",
-    "meta_description": "Welche Farben passen zu Community- und Inklusionsprojekten? Diversity & Community verbindet warme Offenheit, soziale Naehe und klare Orientierung fuer inklusive Plattformen.",
+    "meta_title": "Diversity & Community: Farbpalette für Inklusion, LGBTQ+ und Community Projekte",
+    "meta_description": "Welche Farben passen zu Community- und Inklusionsprojekten? Diversity & Community verbindet warme Offenheit, soziale Nähe und klare Orientierung für inklusive Plattformen.",
     "focus_keyword": "Farbpalette Inklusion",
     "questions": [
       "Welche Farben passen zu Inklusion, LGBTQ+ und Community-Projekten?",
       "Wie wirkt ein Community-Auftritt warm statt beliebig?",
-      "Welche Palette zeigt Zugehoerigkeit ohne Symbolueberladung?"
+      "Welche Palette zeigt Zugehörigkeit ohne Symbolüberladung?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent offene Flaechen fuer Zugaenglichkeit, 30 Prozent warme Haut- und Pfirsichtoene fuer Naehe und 10 Prozent inklusives Blau fuer Orientierung, Struktur und Sicherheit."
+    "note": "60 Prozent offene Flächen für Zugänglichkeit, 30 Prozent warme Haut- und Pfirsichtöne für Nähe und 10 Prozent inklusives Blau für Orientierung, Struktur und Sicherheit."
   },
   "accessibility": {
     "text_on_primary": 5.63,
@@ -48,7 +48,7 @@
   "audiences": [
     "Community-orientierte Gruppen",
     "Nicht-kommerzielle Netzwerke",
-    "Teams mit Fokus auf Zugehoerigkeit"
+    "Teams mit Fokus auf Zugehörigkeit"
   ],
   "brand_traits": [
     "integrativ",
@@ -59,21 +59,21 @@
   "color_psychology": {
     "primary": {
       "name": "Belonging Peach",
-      "psychology": "Der warme Ton signalisiert Menschlichkeit, Offenheit und soziale Naehe.",
+      "psychology": "Der warme Ton signalisiert Menschlichkeit, Offenheit und soziale Nähe.",
       "best_for": "Willkommensbereiche, Community-Teaser, Intro-Sektionen",
-      "risk": "Zu viel Waerme ohne Ordnung kann beliebig oder weichgespuelt wirken."
+      "risk": "Zu viel Wärme ohne Ordnung kann beliebig oder weichgespült wirken."
     },
     "secondary": {
       "name": "Gathering Light",
-      "psychology": "Schafft sichere, ruhige Flaechen fuer Austausch, Information und Service.",
+      "psychology": "Schafft sichere, ruhige Flächen für Austausch, Information und Service.",
       "best_for": "Guides, Events, Forenmodule",
       "risk": "Ein komplett sanftes Interface kann Handlungsenergie verlieren."
     },
     "accent": {
-      "name": "Trust Blue",
-      "psychology": "Bringt Orientierung und ein zusaetzliches Gefuehl von Stabilitaet in einen warmen Community-Kontext.",
+      "name": "Trust Blü",
+      "psychology": "Bringt Orientierung und ein zusätzliches Gefühl von Stabilität in einen warmen Community-Kontext.",
       "best_for": "Links, Buttons, Strukturmarker",
-      "risk": "Ein zu dominanter Blauanteil macht den Auftritt wieder institutioneller als gewuenscht."
+      "risk": "Ein zu dominanter Blauanteil macht den Auftritt wieder institutioneller als gewünscht."
     }
   },
   "decision_support": {
@@ -84,29 +84,29 @@
     ],
     "avoid_for": [
       "Finanz- und Legal-Produkte mit Distanzhaltung",
-      "Brutalistische oder absichtlich stoerende Marken",
-      "Very high-tech Produkte mit kuehler Dominanz"
+      "Brutalistische oder absichtlich störende Marken",
+      "Very high-tech Produkte mit kühler Dominanz"
     ],
     "argumentation": [
       {
-        "claim": "Warum diese Palette Zugehoerigkeit sichtbar macht",
+        "claim": "Warum diese Palette Zugehörigkeit sichtbar macht",
         "reason": "Sie koppelt warme Offenheit an klare blaue Orientierung. Dadurch wirkt sie gleichzeitig einladend und sicher."
       },
       {
-        "claim": "Warum Inklusion nicht mit Regenbogen-Ueberladung beginnen muss",
-        "reason": "Zugehoerigkeit entsteht ueber Tonfall, Lesbarkeit, Struktur und Haltung. Eine gute Palette unterstuetzt das, ohne jedes Symbol gleichzeitig zu spielen."
+        "claim": "Warum Inklusion nicht mit Regenbogen-Überladung beginnen muss",
+        "reason": "Zugehörigkeit entsteht über Tonfall, Lesbarkeit, Struktur und Haltung. Eine gute Palette unterstützt das, ohne jedes Symbol gleichzeitig zu spielen."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Inklusion und Community-Projekten?",
-        "answer": "Warme, menschliche Tinten mit stabilisierenden Strukturfarben sind oft glaubwuerdiger als ein rein symbolischer Farbdauerfeuer-Modus."
+        "answer": "Warme, menschliche Tinten mit stabilisierenden Strukturfarben sind oft glaubwürdiger als ein rein symbolischer Farbdauerfeuer-Modus."
       },
       {
-        "question": "Wie zeigt man Zugehoerigkeit ohne Symbolueberladung?",
+        "question": "Wie zeigt man Zugehörigkeit ohne Symbolüberladung?",
         "answer": "Durch eine warme, sichere Grundstimmung, gute Kontraste und konsistente Community-Signale statt durch maximale Farbvielfalt."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Together<\/span><h3>Willkommen<\/h3><p>Ein sicherer, warmer Einstieg fuer Austausch, Orientierung und Zugehoerigkeit.<\/p><button class='btn btn-cta' type='button'>Community entdecken<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Together<\/span><h3>Willkommen<\/h3><p>Ein sicherer, warmer Einstieg für Austausch, Orientierung und Zugehörigkeit.<\/p><button class='btn btn-cta' type='button'>Community entdecken<\/button><\/section>"
 }

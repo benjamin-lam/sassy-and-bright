@@ -2,7 +2,7 @@
   "title": "Luxury Heritage",
   "slug": "luxury-heritage",
   "vibe": "Quiet Prestige",
-  "summary": "Eine elegante Heritage-Palette fuer High-End Immobilien, Uhren und diskrete Luxusmarken, die Exklusivitaet ueber Materialanmutung statt Lautstaerke kommuniziert.",
+  "summary": "Eine elegante Heritage-Palette für High-End Immobilien, Uhren und diskrete Luxusmarken, die Exklusivität über Materialanmutung statt Lautstärke kommuniziert.",
   "keywords": [
     "Farbpalette Luxusmarke",
     "Farben Luxusimmobilien",
@@ -10,8 +10,8 @@
     "Lifestyle & Konsum"
   ],
   "seo": {
-    "meta_title": "Luxury Heritage: Farbpalette fuer Luxusimmobilien und Premium Marken",
-    "meta_description": "Welche Farben passen zu einer Luxusmarke? Luxury Heritage kombiniert Champagner, Pergament und Bronze fuer ruhige Exklusivitaet bei Immobilien, Uhren und Premium Services.",
+    "meta_title": "Luxury Heritage: Farbpalette für Luxusimmobilien und Premium Marken",
+    "meta_description": "Welche Farben passen zu einer Luxusmarke? Luxury Heritage kombiniert Champagner, Pergament und Bronze für ruhige Exklusivität bei Immobilien, Uhren und Premium Services.",
     "focus_keyword": "Farbpalette Luxusmarke",
     "questions": [
       "Welche Farben passen zu einer Luxusmarke oder Premium Immobilie?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent Pergament und Luft fuer Raum, 30 Prozent Champagner fuer Wertigkeit und 10 Prozent Bronze fuer gezielte Signaturmomente."
+    "note": "60 Prozent Pergament und Luft für Raum, 30 Prozent Champagner für Wertigkeit und 10 Prozent Bronze für gezielte Signaturmomente."
   },
   "accessibility": {
     "text_on_primary": 6.11,
@@ -46,8 +46,8 @@
     "Private Wealth"
   ],
   "audiences": [
-    "Vermoegende Privatkundschaft",
-    "Designaffine Kaeuferschaft",
+    "Vermögende Privatkundschaft",
+    "Designaffine Käuferschaft",
     "Concierge-orientierte Vertriebsteams"
   ],
   "brand_traits": [
@@ -59,19 +59,19 @@
   "color_psychology": {
     "primary": {
       "name": "Champagne Stone",
-      "psychology": "Vermittelt Materialqualitaet, Licht und kultivierte Zurueckhaltung.",
-      "best_for": "Hero-Flaechen, Objekt- oder Produktbuehnen, Introsektionen",
+      "psychology": "Vermittelt Materialqualität, Licht und kultivierte Zurückhaltung.",
+      "best_for": "Hero-Flächen, Objekt- oder Produktbühnen, Introsektionen",
       "risk": "Zu viel Champagner ohne Tiefe kann nach Mainstream-Luxus aussehen."
     },
     "secondary": {
       "name": "Gallery Linen",
-      "psychology": "Schafft Raum, Laenge und stille Exklusivitaet fuer grosse Bilder und Details.",
+      "psychology": "Schafft Raum, Länge und stille Exklusivität für grosse Bilder und Details.",
       "best_for": "Exposes, Storytelling, Data Sheets",
-      "risk": "Wenn alles zu beige bleibt, fehlt dem Auftritt die praegnante Identitaet."
+      "risk": "Wenn alles zu beige bleibt, fehlt dem Auftritt die prägnante Identität."
     },
     "accent": {
       "name": "Reserve Bronze",
-      "psychology": "Setzt ein leises Signal fuer Wert und Handwerk ohne plakative Goldinszenierung.",
+      "psychology": "Setzt ein leises Signal für Wert und Handwerk ohne plakative Goldinszenierung.",
       "best_for": "Links, Preisanker, ikonische Details",
       "risk": "Ein zu intensiver Bronzeeinsatz kippt schnell in Dekoration statt Substanz."
     }
@@ -80,33 +80,33 @@
     "best_for": [
       "Premium-Exposes mit Bildfokus",
       "Heritage-Marken mit Handwerksnarrativ",
-      "Digitale Verkaufspunkte fuer exklusive Services"
+      "Digitale Verkaufspunkte für exklusive Services"
     ],
     "avoid_for": [
       "Discount- oder Massmarket-Shops",
       "Tech-Produkte mit starkem Innovationsanspruch",
-      "Behoerden- und Public-Sector Interfaces"
+      "Behörden- und Public-Sector Interfaces"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Luxus leise statt laut inszeniert",
-        "reason": "Sie arbeitet mit Materialassoziation, Raum und Licht. Dadurch entsteht Wertigkeit ueber Haltung statt ueber plakative Metallic-Klischees."
+        "reason": "Sie arbeitet mit Materialassoziation, Raum und Licht. Dadurch entsteht Wertigkeit über Haltung statt über plakative Metallic-Klischees."
       },
       {
         "claim": "Warum Schwarz-Gold allein oft nicht reicht",
-        "reason": "Im Web wirkt diese Kombination schnell generisch und schwer. Helle, fein abgestufte Luxuspaletten sind meist glaubwuerdiger und lesbarer."
+        "reason": "Im Web wirkt diese Kombination schnell generisch und schwer. Helle, fein abgestufte Luxuspaletten sind meist glaubwürdiger und lesbarer."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu einer Luxusmarke?",
-        "answer": "Materialnahe, helle Premium-Toene mit klarer Typografie und wenigen, praezisen Akzenten sind oft staerker als laute Gold-Schwarz-Kombinationen."
+        "answer": "Materialnahe, helle Premium-Töne mit klarer Typografie und wenigen, präzisen Akzenten sind oft stärker als laute Gold-Schwarz-Kombinationen."
       },
       {
         "question": "Wie wirkt Luxus hochwertig statt kitschig?",
-        "answer": "Durch Zurueckhaltung, Raum, gute Kontraste und eine Farbpalette, die Wert ueber Feingefuehl statt ueber Effekte kommuniziert."
+        "answer": "Durch Zurückhaltung, Raum, gute Kontraste und eine Farbpalette, die Wert über Feingefühl statt über Effekte kommuniziert."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Heritage<\/span><h3>Private Viewing<\/h3><p>Viel Luft, feine Materialwerte und leise Signale fuer hochwertige Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Expose anfragen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Heritage<\/span><h3>Private Viewing<\/h3><p>Viel Luft, feine Materialwerte und leise Signale für hochwertige Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Expose anfragen<\/button><\/section>"
 }

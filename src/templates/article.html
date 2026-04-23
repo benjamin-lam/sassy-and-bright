@@ -5,15 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{meta_title}}</title>
   <meta name="description" content="{{meta_description}}">
+  <meta name="keywords" content="{{meta_keywords}}">
   <meta name="theme-color" content="{{theme_color}}">
-  <link rel="canonical" href="{{canonical_url}}">
+  {{canonical_link}}
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{meta_title}}">
   <meta property="og:description" content="{{meta_description}}">
   <meta property="og:url" content="{{canonical_url}}">
   <meta property="og:site_name" content="VibeVault">
+  {{article_tag_meta}}
   <link rel="stylesheet" href="../assets/css/style.css">
-  <script type="application/ld+json">{{json_ld}}</script>
+  {{palette_stylesheet_link}}
+  {{json_ld_script}}
+  {{geo_context_script}}
   <script defer src="../assets/js/theme-engine.js"></script>
 </head>
 <body class="theme-shell" data-mode="reading">
@@ -21,7 +25,7 @@
   <header class="site-header shell">
     <a class="brand-mark" href="{{home_href}}">VibeVault</a>
     <nav class="site-nav" aria-label="Hauptnavigation">
-      <a href="{{home_href}}">Uebersicht</a>
+      <a href="{{home_href}}">Übersicht</a>
       <a href="{{search_href}}">Suche</a>
     </nav>
   </header>
@@ -42,16 +46,23 @@
         <div class="toggle-row">
           <div>
             <p class="eyebrow">Mode</p>
-            <p>Reading fuer Analyse, Lab fuer UI-Demo.</p>
+            <p>Reading für Analyse, Lab für UI-Demo.</p>
           </div>
           <label class="switch">
-            <input id="mode-toggle" type="checkbox" aria-label="Lab Mode aktivieren">
+            <input
+              id="mode-toggle"
+              type="checkbox"
+              aria-label="Lab Mode aktivieren"
+              data-reading-href="{{reading_href}}"
+              data-mockup-href="{{mockup_href}}"
+            >
             <span class="slider"></span>
           </label>
         </div>
         <div class="button-row">
           <button class="btn" type="button" data-copy-css>Copy CSS</button>
           <a class="btn btn-ghost" href="{{css_download_href}}" download>CSS Download</a>
+          <a class="btn btn-ghost" href="{{mockup_href}}">Lab öffnen</a>
           <a class="text-link" href="{{json_download_href}}">JSON Referenz</a>
         </div>
         <p id="copy-status" class="micro-copy" aria-live="polite"></p>
@@ -72,14 +83,14 @@
           </div>
         </article>
         <article class="panel">
-          <h3>SEO-Fragen, fuer die diese Palette ranken soll</h3>
-          <ol class="question-list">
-            {{seo_question_cards}}
-          </ol>
-          <h3>Keywords</h3>
-          <ul class="tag-list">
-            {{keyword_tags}}
+          <h3>Direkte Anwendung</h3>
+          <p>Die Palette wird über ihr generiertes Stylesheet direkt geladen und sofort auf die Seite angewendet.</p>
+          <ul class="bullet-list">
+            <li>Reading Mode für Analyse, Argumentation und Kontrastprüfung.</li>
+            <li>Separate Mockup-Seite mit denselben Variablen für Hierarchie-Tests.</li>
+            <li>CSS und JSON bleiben als Download und KI-Referenz verfügbar.</li>
           </ul>
+          <a class="btn btn-ghost inline-action" href="{{mockup_href}}">Zum UI-Mockup</a>
         </article>
       </div>
     </section>
@@ -141,7 +152,7 @@
       <article class="panel">
         <div class="section-head compact">
           <p class="eyebrow">Risiko</p>
-          <h2>Weniger passend fuer</h2>
+          <h2>Weniger passend für</h2>
         </div>
         {{avoid_for_list}}
       </article>
@@ -150,7 +161,7 @@
     <section class="reveal">
       <div class="section-head">
         <p class="eyebrow">Argumentation</p>
-        <h2>Wie du die Palette sicher begruendest</h2>
+        <h2>Wie du die Palette sicher begründest</h2>
       </div>
       <div class="grid-three">
         {{argument_cards}}
@@ -167,27 +178,18 @@
       </article>
       <article class="panel">
         <div class="section-head compact">
-          <p class="eyebrow">Live Demo</p>
-          <h2>Reading Mode Preview</h2>
+          <p class="eyebrow">Lab</p>
+          <h2>UI-Mockup auf eigener Seite</h2>
         </div>
-        <div class="preview-shell">
-          {{html_preview}}
-        </div>
+        <p>Das Mockup nutzt dieselben CSS-Variablen wie die Analyse-Seite und trennt UI-Test und Dokumentation sauber voneinander.</p>
+        <a class="btn" href="{{mockup_href}}">Lab öffnen</a>
       </article>
-    </section>
-
-    <section id="lab-wrapper" class="reveal">
-      <div class="section-head">
-        <p class="eyebrow">Lab Mode</p>
-        <h2>UI-Mockup mit denselben Variablen</h2>
-      </div>
-      <div id="lab-mode" class="lab-stage" hidden></div>
     </section>
 
     <section class="reveal">
       <div class="section-head">
         <p class="eyebrow">FAQ</p>
-        <h2>Argumente fuer Teams, Stakeholder und SEO</h2>
+        <h2>Argumente für Teams, Stakeholder und SEO</h2>
       </div>
       <div class="faq-stack">
         {{faq_items}}
@@ -196,9 +198,9 @@
   </main>
 
   <footer class="site-footer shell">
-    <p>VibeVault Archiv fuer Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
   </footer>
 
-  <script id="article-data" type="application/json">{{article_json}}</script>
+  {{article_data_script}}
 </body>
 </html>

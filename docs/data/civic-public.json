@@ -2,21 +2,21 @@
   "title": "Civic & Public",
   "slug": "civic-public",
   "vibe": "Neutral Clarity",
-  "summary": "Eine barrierearme Palette fuer staatliche Portale und kommunale Services, bei der Neutralitaet, Orientierung und hohe Lesbarkeit ueber Stilgesten stehen.",
+  "summary": "Eine barrierearme Palette für staatliche Portale und kommunale Services, bei der Neutralität, Orientierung und hohe Lesbarkeit über Stilgesten stehen.",
   "keywords": [
-    "Farbpalette Behoerden",
+    "Farbpalette Behörden",
     "WCAG AAA Farben",
     "staatliche Portale Design",
     "Business & Institutionen"
   ],
   "seo": {
-    "meta_title": "Civic & Public: Farbpalette fuer Behoerden und barrierearme Portale",
-    "meta_description": "Welche Farben funktionieren fuer staatliche Portale? Civic & Public priorisiert Neutralitaet, WCAG-nahe Klarheit und eine ruhige Bedienlogik fuer Behoerden und Oeffentliche Services.",
-    "focus_keyword": "Farbpalette Behoerden",
+    "meta_title": "Civic & Public: Farbpalette für Behörden und barrierearme Portale",
+    "meta_description": "Welche Farben funktionieren für staatliche Portale? Civic & Public priorisiert Neutralität, WCAG-nahe Klarheit und eine ruhige Bedienlogik für Behörden und Öffentliche Services.",
+    "focus_keyword": "Farbpalette Behörden",
     "questions": [
-      "Welche Farben funktionieren fuer staatliche Portale und Behoerden?",
-      "Wie wirkt ein Buergerportal neutral statt kalt?",
-      "Welche Palette unterstuetzt hohe Accessibility im Public Sector?"
+      "Welche Farben funktionieren für staatliche Portale und Behörden?",
+      "Wie wirkt ein Bürgerportal neutral statt kalt?",
+      "Welche Palette unterstützt hohe Accessibility im Public Sector?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "secondary",
     "accent": "accent",
-    "note": "60 Prozent fast neutrale Flaechen fuer maximale Lesbarkeit, 30 Prozent kuehles Grau-Blau fuer Orientierung und 10 Prozent Akzentfarbe fuer gezielte Interaktion."
+    "note": "60 Prozent fast neutrale Flächen für maximale Lesbarkeit, 30 Prozent kühles Grau-Blau für Orientierung und 10 Prozent Akzentfarbe für gezielte Interaktion."
   },
   "accessibility": {
     "text_on_primary": 8.16,
@@ -41,66 +41,66 @@
   },
   "cognitive_load": 1,
   "industry_match": [
-    "Behoerden",
+    "Behörden",
     "Staatliche Portale",
     "Kommunale Services"
   ],
   "audiences": [
-    "Buergerinnen und Buerger",
+    "Bürgerinnen und Bürger",
     "Servicecenter Teams",
     "Barrierefreiheits-Verantwortliche"
   ],
   "brand_traits": [
     "neutral",
     "ordentlich",
-    "zugaenglich",
-    "verlaesslich"
+    "zugänglich",
+    "verlässlich"
   ],
   "color_psychology": {
     "primary": {
-      "name": "Public Blue",
-      "psychology": "Gibt Orientierung und Seriositaet, ohne stark nach Marke oder Werbung auszusehen.",
+      "name": "Public Blü",
+      "psychology": "Gibt Orientierung und Seriosität, ohne stark nach Marke oder Werbung auszusehen.",
       "best_for": "Header, Servicemodule, Statusbereiche",
-      "risk": "Ein zu schwacher Primarton kann die visuelle Fuehrung auf grossen Portalen verwischen."
+      "risk": "Ein zu schwacher Primarton kann die visuelle Führung auf grossen Portalen verwischen."
     },
     "secondary": {
       "name": "Civic Mist",
-      "psychology": "Schafft nuchterne Trennungen und lesbare Gruppenbildung fuer komplexe Inhaltsstrukturen.",
-      "best_for": "Formularstrecken, Tabellen, Hinweiskaesten",
-      "risk": "Zu viel Neutralitaet kann emotional distanziert und veraltet wirken."
+      "psychology": "Schafft nuchterne Trennungen und lesbare Gruppenbildung für komplexe Inhaltsstrukturen.",
+      "best_for": "Formularstrecken, Tabellen, Hinweiskästen",
+      "risk": "Zu viel Neutralität kann emotional distanziert und veraltet wirken."
     },
     "accent": {
       "name": "Service Signal",
       "psychology": "Gibt Interaktion einen klaren Anker, ohne den sachlichen Charakter des Portals zu brechen.",
       "best_for": "Buttons, aktive Tabs, Sprunglinks",
-      "risk": "Zu viele aktive Signale machen ein Serviceportal hektischer als noetig."
+      "risk": "Zu viele aktive Signale machen ein Serviceportal hektischer als nötig."
     }
   },
   "decision_support": {
     "best_for": [
-      "Buergerportale mit hoher Informationsdichte",
+      "Bürgerportale mit hoher Informationsdichte",
       "Digitale Formulare mit vielen Schritten",
-      "Service-Seiten, die auf Lesbarkeit und Vertrauen optimiert werden muessen"
+      "Service-Seiten, die auf Lesbarkeit und Vertrauen optimiert werden müssen"
     ],
     "avoid_for": [
       "Tourismusseiten mit stark emotionaler Bildsprache",
       "Event- oder Standortkampagnen mit viel Lifestyle-Inszenierung",
-      "Markenportale, die ueberspitzte visuelle Eigenstaendigkeit brauchen"
+      "Markenportale, die überspitzte visuelle Eigenständigkeit brauchen"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette im Public Sector funktioniert",
-        "reason": "Sie minimiert Reibung in der Nutzung, statt Aufmerksamkeit um ihrer selbst willen zu erzeugen. Genau das ist bei staatlichen Services ein Qualitaetskriterium."
+        "reason": "Sie minimiert Reibung in der Nutzung, statt Aufmerksamkeit um ihrer selbst willen zu erzeugen. Genau das ist bei staatlichen Services ein Qualitätskriterium."
       },
       {
-        "claim": "Warum Neutralitaet nicht gleich Langeweile sein muss",
-        "reason": "Klare Hierarchie, gute Kontraste und praezise Signalfarben erzeugen Orientierung. Das ist funktionaler als dekorative Farbvielfalt."
+        "claim": "Warum Neutralität nicht gleich Langeweile sein muss",
+        "reason": "Klare Hierarchie, gute Kontraste und präzise Signalfarben erzeugen Orientierung. Das ist funktionaler als dekorative Farbvielfalt."
       }
     ],
     "faq": [
       {
-        "question": "Welche Farben passen zu einem Buergerportal?",
-        "answer": "Helle, neutrale Flaechen mit einer kontrollierten Blauachse sind meist ein belastbarer Rahmen, wenn Accessibility und Vertrauen Prioritaet haben."
+        "question": "Welche Farben passen zu einem Bürgerportal?",
+        "answer": "Helle, neutrale Flächen mit einer kontrollierten Blauachse sind meist ein belastbarer Rahmen, wenn Accessibility und Vertrauen Priorität haben."
       },
       {
         "question": "Wie wirkt ein staatliches Portal neutral statt kalt?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Service<\/span><h3>Termin buchen<\/h3><p>Ein ruhiges Interface fuer Verwaltung, Formulare und nachvollziehbare Handlungsschritte.<\/p><button class='btn btn-cta' type='button'>Weiter<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Service<\/span><h3>Termin buchen<\/h3><p>Ein ruhiges Interface für Verwaltung, Formulare und nachvollziehbare Handlungsschritte.<\/p><button class='btn btn-cta' type='button'>Weiter<\/button><\/section>"
 }

@@ -2,7 +2,7 @@
   "title": "Urban Lifestyle",
   "slug": "urban-lifestyle",
   "vibe": "Contemporary Motion",
-  "summary": "Eine moderne City-Palette fuer Coworking, Mobility und Coffee Brands, die Offenheit, Tempo und einen erwachsenen Lifestyle-Charakter zeigen soll.",
+  "summary": "Eine moderne City-Palette für Coworking, Mobility und Coffee Brands, die Offenheit, Tempo und einen erwachsenen Lifestyle-Charakter zeigen soll.",
   "keywords": [
     "Farbpalette Coworking",
     "Urban Brand Farben",
@@ -10,13 +10,13 @@
     "Lifestyle & Konsum"
   ],
   "seo": {
-    "meta_title": "Urban Lifestyle: Farbpalette fuer Coworking, Mobility und City Brands",
-    "meta_description": "Welche Farben passen zu urbanen Marken? Urban Lifestyle kombiniert Beton, Glas und einen kontrollierten Petrol-Akzent fuer Coworking, Mobility und Coffee Brands.",
+    "meta_title": "Urban Lifestyle: Farbpalette für Coworking, Mobility und City Brands",
+    "meta_description": "Welche Farben passen zu urbanen Marken? Urban Lifestyle kombiniert Beton, Glas und einen kontrollierten Petrol-Akzent für Coworking, Mobility und Coffee Brands.",
     "focus_keyword": "Farbpalette Coworking",
     "questions": [
       "Welche Farben passen zu Coworking und urbanen Lifestyle-Marken?",
       "Wie wirkt ein City-Brand modern statt steril?",
-      "Welche Palette verbindet Offenheit und Professionalitaet?"
+      "Welche Palette verbindet Offenheit und Professionalität?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent helle City-Flaechen fuer Weite, 30 Prozent Beton- und Glaswerte fuer Struktur und 10 Prozent Petrol fuer Orientierung und Charakter."
+    "note": "60 Prozent helle City-Flächen für Weite, 30 Prozent Beton- und Glaswerte für Struktur und 10 Prozent Petrol für Orientierung und Charakter."
   },
   "accessibility": {
     "text_on_primary": 7.18,
@@ -47,7 +47,7 @@
   ],
   "audiences": [
     "Urbane Professionals",
-    "Gruenderinnen und Gruender",
+    "Gründerinnen und Gründer",
     "Community-orientierte Marken"
   ],
   "brand_traits": [
@@ -59,19 +59,19 @@
   "color_psychology": {
     "primary": {
       "name": "Concrete Light",
-      "psychology": "Das helle Grau-Blau erinnert an Stadt, Infrastruktur und zeitgenoessische Architektur.",
-      "best_for": "Layoutflaechen, Karten, Info-Sektionen",
+      "psychology": "Das helle Grau-Blau erinnert an Stadt, Infrastruktur und zeitgenössische Architektur.",
+      "best_for": "Layoutflächen, Karten, Info-Sektionen",
       "risk": "Zu viel Grau ohne warmen Inhaltston kann distanziert wirken."
     },
     "secondary": {
       "name": "Glass Mist",
-      "psychology": "Schafft Luft und ein sauberes, urbanes Arbeitsgefuehl fuer Interfaces mit viel Inhalt.",
+      "psychology": "Schafft Luft und ein sauberes, urbanes Arbeitsgefühl für Interfaces mit viel Inhalt.",
       "best_for": "Preisboxen, Timelines, Feature-Grids",
       "risk": "Wenn die Mikro-Hierarchie zu schwach ist, wird der Auftritt generisch."
     },
     "accent": {
       "name": "Transit Petrol",
-      "psychology": "Bringt Modernitaet, Navigation und ein subtiles City-Signal in die Palette.",
+      "psychology": "Bringt Modernität, Navigation und ein subtiles City-Signal in die Palette.",
       "best_for": "CTAs, Buchungspfade, aktive States",
       "risk": "Zu viel Petrol kann den offenen, sozialen Charakter der Marke verdunkeln."
     }
@@ -93,20 +93,20 @@
         "reason": "Sie nutzt City-Codes wie Beton und Glas, setzt ihnen aber einen charaktervollen Petrol-Akzent entgegen. Dadurch bleibt der Auftritt markant."
       },
       {
-        "claim": "Warum Modernitaet nicht steril sein darf",
+        "claim": "Warum Modernität nicht steril sein darf",
         "reason": "Coworking und Lifestyle leben von sozialer Energie. Die Palette braucht deshalb Offenheit und Struktur zugleich."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Coworking und Mobility?",
-        "answer": "Helle urbane Neutrals mit einem kontrollierten, modernen Akzent sind oft ein guter Weg, um Bewegung und Professionalitaet auszubalancieren."
+        "answer": "Helle urbane Neutrals mit einem kontrollierten, modernen Akzent sind oft ein guter Weg, um Bewegung und Professionalität auszubalancieren."
       },
       {
         "question": "Wie wirkt ein City-Brand modern statt steril?",
-        "answer": "Durch Raum, weiche Lichtwerte und einen praegnanten Akzent, der Orientierung gibt, ohne den Auftritt zu verharten."
+        "answer": "Durch Raum, weiche Lichtwerte und einen prägnanten Akzent, der Orientierung gibt, ohne den Auftritt zu verharten."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>City<\/span><h3>Workspace buchen<\/h3><p>Ein urbaner, klarer Flow fuer Memberships, Buchung und soziale Orientierung.<\/p><button class='btn btn-cta' type='button'>Desk sichern<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>City<\/span><h3>Workspace buchen<\/h3><p>Ein urbaner, klarer Flow für Memberships, Buchung und soziale Orientierung.<\/p><button class='btn btn-cta' type='button'>Desk sichern<\/button><\/section>"
 }

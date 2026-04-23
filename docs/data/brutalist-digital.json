@@ -2,7 +2,7 @@
   "title": "Brutalist Digital",
   "slug": "brutalist-digital",
   "vibe": "Raw Contrast",
-  "summary": "Eine harte, rohe Webpalette fuer Anti-Design, experimentelle Kunst und digitale Underground-Projekte, die absichtlich Reibung und direkte Lesbarkeit erzeugt.",
+  "summary": "Eine harte, rohe Webpalette für Anti-Design, experimentelle Kunst und digitale Underground-Projekte, die absichtlich Reibung und direkte Lesbarkeit erzeugt.",
   "keywords": [
     "Brutalist Webdesign Farben",
     "Anti Design Palette",
@@ -10,13 +10,13 @@
     "Kreativ & Bildung"
   ],
   "seo": {
-    "meta_title": "Brutalist Digital: Farbpalette fuer Anti-Design und rohes Web",
-    "meta_description": "Welche Farben passen zu brutalistischem Webdesign? Brutalist Digital setzt auf harte Neutrals, direktes Schwarz und einen schneidenden Akzent fuer rohe digitale Auftritte.",
+    "meta_title": "Brutalist Digital: Farbpalette für Anti-Design und rohes Web",
+    "meta_description": "Welche Farben passen zu brutalistischem Webdesign? Brutalist Digital setzt auf harte Neutrals, direktes Schwarz und einen schneidenden Akzent für rohe digitale Auftritte.",
     "focus_keyword": "Brutalist Webdesign Farben",
     "questions": [
       "Welche Farben passen zu brutalistischem Webdesign?",
       "Wie wirkt Anti-Design absichtlich roh statt einfach kaputt?",
-      "Welche Palette traegt rohes HTML im Netz glaubwuerdig?"
+      "Welche Palette trägt rohes HTML im Netz glaubwürdig?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "secondary",
     "accent": "accent",
-    "note": "60 Prozent fast rohe Papierflaechen, 30 Prozent graue Funktionsebene und 10 Prozent toxisch wirkender Accent fuer harte Stoerung, Fokus und Anti-Perfektion."
+    "note": "60 Prozent fast rohe Papierflächen, 30 Prozent graue Funktionsebene und 10 Prozent toxisch wirkender Accent für harte Störung, Fokus und Anti-Perfektion."
   },
   "accessibility": {
     "text_on_primary": 10.98,
@@ -53,27 +53,27 @@
   "brand_traits": [
     "roh",
     "direkt",
-    "stoerend",
-    "ungefaellig"
+    "störend",
+    "ungefällig"
   ],
   "color_psychology": {
     "primary": {
       "name": "Concrete Grey",
       "psychology": "Schafft einen absichtlich unpolierten Grundton, der Distanz zum Hochglanz-Web markiert.",
-      "best_for": "Grosse Flaechen, harte Raster, Content-Bloecke",
+      "best_for": "Grosse Flächen, harte Raster, Content-Blöcke",
       "risk": "Ohne starke Typografie kippt der Look in beliebiges Grau."
     },
     "secondary": {
       "name": "Unfinished Surface",
-      "psychology": "Verstaerkt das Gefuehl von Rohheit und Browser-Naehe statt von gebauten Marketingwelten.",
+      "psychology": "Verstärkt das Gefühl von Rohheit und Browser-Nähe statt von gebauten Marketingwelten.",
       "best_for": "Navigation, Listen, Module mit Systemcharakter",
-      "risk": "Zu viel Gleichfoermigkeit nimmt der Inszenierung ihre absichtliche Spannung."
+      "risk": "Zu viel Gleichförmigkeit nimmt der Inszenierung ihre absichtliche Spannung."
     },
     "accent": {
       "name": "Acid Marker",
-      "psychology": "Zerschneidet die Neutralitaet und macht die Anti-Design-Haltung sofort sichtbar.",
+      "psychology": "Zerschneidet die Neutralität und macht die Anti-Design-Haltung sofort sichtbar.",
       "best_for": "Links, Marker, Warnhinweise, Eyecatcher",
-      "risk": "Ein uebertriebener Acid-Einsatz macht die Seite unlesbar oder gimmickhaft."
+      "risk": "Ein übertriebener Acid-Einsatz macht die Seite unlesbar oder gimmickhaft."
     }
   },
   "decision_support": {
@@ -89,22 +89,22 @@
     ],
     "argumentation": [
       {
-        "claim": "Warum diese Palette brutalistisch statt unfaehig wirkt",
-        "reason": "Die Roheit ist gezielt komponiert: klares Schwarz, funktionale Grausysteme und ein bewusst stoerender Accent."
+        "claim": "Warum diese Palette brutalistisch statt unfähig wirkt",
+        "reason": "Die Roheit ist gezielt komponiert: klares Schwarz, funktionale Grausysteme und ein bewusst störender Accent."
       },
       {
         "claim": "Warum Anti-Design trotzdem Struktur braucht",
-        "reason": "Ohne Leselogik und harte Priorisierung ist Brutalismus nur defekt. Die Wirkung entsteht durch bewusste, nicht zufaellige Reibung."
+        "reason": "Ohne Leselogik und harte Priorisierung ist Brutalismus nur defekt. Die Wirkung entsteht durch bewusste, nicht zufällige Reibung."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu brutalistischem Webdesign?",
-        "answer": "Harte Neutrals, extremes Schwarz und wenige radikale Signalfarben sind oft ein starker Ausgangspunkt fuer absichtlich rohe Interfaces."
+        "answer": "Harte Neutrals, extremes Schwarz und wenige radikale Signalfarben sind oft ein starker Ausgangspunkt für absichtlich rohe Interfaces."
       },
       {
         "question": "Wie wirkt Anti-Design absichtlich statt schlecht?",
-        "answer": "Durch konsequente Typografie, klare Raster und eine Farbdramaturgie, die ihre Stoerung bewusst dosiert."
+        "answer": "Durch konsequente Typografie, klare Raster und eine Farbdramaturgie, die ihre Störung bewusst dosiert."
       }
     ]
   },

@@ -2,7 +2,7 @@
   "title": "High-Octane Tech",
   "slug": "high-octane-tech",
   "vibe": "Accelerated Clarity",
-  "summary": "Eine schnelle Tech-Palette fuer KI-Startups, Big-Data-Produkte und neue B2B-Software, die Innovation, Momentum und digitale Souveraenitaet zeigen soll.",
+  "summary": "Eine schnelle Tech-Palette für KI-Startups, Big-Data-Produkte und neue B2B-Software, die Innovation, Momentum und digitale Souveränität zeigen soll.",
   "keywords": [
     "Farbpalette KI Startup",
     "Tech Farben Innovation",
@@ -10,13 +10,13 @@
     "Tech & Future"
   ],
   "seo": {
-    "meta_title": "High-Octane Tech: Farbpalette fuer KI-Startups und Big Data Produkte",
-    "meta_description": "Welche Farben passen zu KI-Startups? High-Octane Tech verbindet elektrische Blautoene, helle Systemflaechen und starke Lesbarkeit fuer Produkte mit Innovationsdruck.",
+    "meta_title": "High-Octane Tech: Farbpalette für KI-Startups und Big Data Produkte",
+    "meta_description": "Welche Farben passen zu KI-Startups? High-Octane Tech verbindet elektrische Blautöne, helle Systemflächen und starke Lesbarkeit für Produkte mit Innovationsdruck.",
     "focus_keyword": "Farbpalette KI Startup",
     "questions": [
       "Welche Farben passen zu KI-Startups und Big-Data-Produkten?",
       "Wie wirkt eine Tech-Marke innovativ statt austauschbar?",
-      "Warum reicht neutrales SaaS-Blau fuer neue Tech-Marken oft nicht mehr?"
+      "Warum reicht neutrales SaaS-Blau für neue Tech-Marken oft nicht mehr?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent Systemflaechen fuer technische Ruhe, 30 Prozent Light Electric Blue fuer Produktcharakter und 10 Prozent starke Blauimpulse fuer Navigation, CTA und Key Metrics."
+    "note": "60 Prozent Systemflächen für technische Ruhe, 30 Prozent Light Electric Blü für Produktcharakter und 10 Prozent starke Blauimpulse für Navigation, CTA und Key Metrics."
   },
   "accessibility": {
     "text_on_primary": 7.26,
@@ -59,8 +59,8 @@
   "color_psychology": {
     "primary": {
       "name": "Electric Base",
-      "psychology": "Signalisiert Tempo, Technologie und einen klaren Vorwaertsimpuls.",
-      "best_for": "Hero, Produktshots, KPI-Flaechen",
+      "psychology": "Signalisiert Tempo, Technologie und einen klaren Vorwärtsimpuls.",
+      "best_for": "Hero, Produktshots, KPI-Flächen",
       "risk": "Zu viel Elektrik ohne Ruhepunkte wirkt nach generischem Startup-Hype."
     },
     "secondary": {
@@ -70,10 +70,10 @@
       "risk": "Wenn alles nur hellblau bleibt, verliert die Marke Spannung."
     },
     "accent": {
-      "name": "Velocity Blue",
-      "psychology": "Setzt klare Energiepunkte fuer Interaktion und moderne Produktdynamik.",
+      "name": "Velocity Blü",
+      "psychology": "Setzt klare Energiepunkte für Interaktion und moderne Produktdynamik.",
       "best_for": "CTAs, aktive Tabs, Statusmomente",
-      "risk": "Zu viele Akzente lassen das Produkt hektischer wirken als noetig."
+      "risk": "Zu viele Akzente lassen das Produkt hektischer wirken als nötig."
     }
   },
   "decision_support": {
@@ -84,8 +84,8 @@
     ],
     "avoid_for": [
       "Heritage- oder Luxusmarken mit Materialfokus",
-      "Behoerden- oder Public-Sector Portale",
-      "Mindfulness-Marken mit extrem ruhiger Tonalitaet"
+      "Behörden- oder Public-Sector Portale",
+      "Mindfulness-Marken mit extrem ruhiger Tonalität"
     ],
     "argumentation": [
       {
@@ -94,13 +94,13 @@
       },
       {
         "claim": "Warum Tech-Farben dennoch Ruhe brauchen",
-        "reason": "Produkte mit hoher Komplexitaet brauchen Orientierung. Innovation ohne Systemklarheit kostet Vertrauen."
+        "reason": "Produkte mit hoher Komplexität brauchen Orientierung. Innovation ohne Systemklarheit kostet Vertrauen."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu KI-Startups?",
-        "answer": "Elektrische Blauachsen mit hellen, strukturierten Flaechen sind ein guter Start, solange Kontrast und Produktlogik sauber bleiben."
+        "answer": "Elektrische Blauachsen mit hellen, strukturierten Flächen sind ein guter Start, solange Kontrast und Produktlogik sauber bleiben."
       },
       {
         "question": "Warum reicht neutrales SaaS-Blau oft nicht mehr?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>AI<\/span><h3>Inference Engine<\/h3><p>Ein klarer Produktmoment fuer neue Modelle, Dashboards und schnelle Aktivierung.<\/p><button class='btn btn-cta' type='button'>Demo starten<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>AI<\/span><h3>Inference Engine<\/h3><p>Ein klarer Produktmoment für neue Modelle, Dashboards und schnelle Aktivierung.<\/p><button class='btn btn-cta' type='button'>Demo starten<\/button><\/section>"
 }

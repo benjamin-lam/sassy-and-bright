@@ -2,7 +2,7 @@
   "title": "Underground & Rebellion",
   "slug": "underground-rebellion",
   "vibe": "Rough Defiance",
-  "summary": "Eine stoerende Gegenkultur-Palette fuer Punk, Skater und DIY-Marken, die Widerstand, Unsauberkeit und visuelle Reibung bewusst als Haltung einsetzt.",
+  "summary": "Eine störende Gegenkultur-Palette für Punk, Skater und DIY-Marken, die Widerstand, Unsauberkeit und visuelle Reibung bewusst als Haltung einsetzt.",
   "keywords": [
     "Farbpalette Punk",
     "Skater Brand Farben",
@@ -10,12 +10,12 @@
     "Popkultur & Subkultur"
   ],
   "seo": {
-    "meta_title": "Underground & Rebellion: Farbpalette fuer Punk, Skater und DIY Marken",
-    "meta_description": "Welche Farben passen zu Punk und DIY-Marken? Underground & Rebellion verbindet schmutzige Neutrals und harte Signale fuer stoerende, widerstaendige Webauftritte.",
+    "meta_title": "Underground & Rebellion: Farbpalette für Punk, Skater und DIY Marken",
+    "meta_description": "Welche Farben passen zu Punk und DIY-Marken? Underground & Rebellion verbindet schmutzige Neutrals und harte Signale für störende, widerständige Webauftritte.",
     "focus_keyword": "Farbpalette Punk",
     "questions": [
       "Welche Farben passen zu Punk, Skater und DIY-Marken?",
-      "Wie erzeugt man visuelle Stoerung ohne chaotische Unlesbarkeit?",
+      "Wie erzeugt man visuelle Störung ohne chaotische Unlesbarkeit?",
       "Welche Palette wirkt rebellisch statt nur schlampig?"
     ]
   },
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent dreckige Papierflaechen fuer DIY-Gefuehl, 30 Prozent Beton- und Tape-Waerme fuer Struktur und 10 Prozent hartes Rot fuer Provokation und Bewegung."
+    "note": "60 Prozent dreckige Papierflächen für DIY-Gefühl, 30 Prozent Beton- und Tape-Wärme für Struktur und 10 Prozent hartes Rot für Provokation und Bewegung."
   },
   "accessibility": {
     "text_on_primary": 6.91,
@@ -48,7 +48,7 @@
   "audiences": [
     "Szenenahe Communities",
     "Independent Brands",
-    "Subkulturell gepraegte Kundschaft"
+    "Subkulturell geprägte Kundschaft"
   ],
   "brand_traits": [
     "rebellisch",
@@ -59,8 +59,8 @@
   "color_psychology": {
     "primary": {
       "name": "Tape Grey",
-      "psychology": "Der graubeige Grundton erinnert an Copyshop, Papier, Klebeband und rohe Strassenoberflaechen.",
-      "best_for": "Hintergruende, Rastersysteme, Inhaltsbloecke",
+      "psychology": "Der graubeige Grundton erinnert an Copyshop, Papier, Klebeband und rohe Strassenoberflächen.",
+      "best_for": "Hintergründe, Rastersysteme, Inhaltsblöcke",
       "risk": "Ohne Typografie mit Haltung wirkt der Ton einfach schmutzig."
     },
     "secondary": {
@@ -78,7 +78,7 @@
   },
   "decision_support": {
     "best_for": [
-      "Szene-Labels mit DIY-Attituede",
+      "Szene-Labels mit DIY-Attitüde",
       "Underground-Events und Kollektivseiten",
       "Marken, die bewusste Anti-Polish-Haltung zeigen wollen"
     ],
@@ -90,7 +90,7 @@
     "argumentation": [
       {
         "claim": "Warum diese Palette rebellisch statt nur dreckig wirkt",
-        "reason": "Sie koppelt rohe Materialtoene an eine klar gefuehrte Signalachse. Dadurch bleibt die Stoerung bewusst und lesbar."
+        "reason": "Sie koppelt rohe Materialtöne an eine klar geführte Signalachse. Dadurch bleibt die Störung bewusst und lesbar."
       },
       {
         "claim": "Warum Subkultur auch im Web Struktur braucht",
@@ -103,10 +103,10 @@
         "answer": "Rauhe Neutrals, schmutzige Papiertinten und gezielte Konfliktfarben funktionieren oft besser als cleanes Corporate Schwarz-Weiss."
       },
       {
-        "question": "Wie erzeugt man Stoerung ohne Chaos?",
+        "question": "Wie erzeugt man Störung ohne Chaos?",
         "answer": "Indem man den visuellen Bruch auf wenige starke Elemente konzentriert und den Rest lesbar organisiert."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>DIY<\/span><h3>Night Drop<\/h3><p>Roh, laut und bewusst kantig statt glattgebuegelt oder marktkonform.<\/p><button class='btn btn-cta' type='button'>Line-up sehen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>DIY<\/span><h3>Night Drop<\/h3><p>Roh, laut und bewusst kantig statt glattgebügelt oder marktkonform.<\/p><button class='btn btn-cta' type='button'>Line-up sehen<\/button><\/section>"
 }

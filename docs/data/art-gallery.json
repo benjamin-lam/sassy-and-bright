@@ -2,7 +2,7 @@
   "title": "Art & Gallery",
   "slug": "art-gallery",
   "vibe": "Neutral Stage",
-  "summary": "Eine stille Galeriepalette fuer Museen und Ausstellungen, die Kunstwerken, Exponaten und kuratorischen Inhalten eine neutrale, respektvolle Buehne gibt.",
+  "summary": "Eine stille Galeriepalette für Museen und Ausstellungen, die Kunstwerken, Exponaten und kuratorischen Inhalten eine neutrale, respektvolle Bühne gibt.",
   "keywords": [
     "Farbpalette Museum",
     "Ausstellungsdesign Farben",
@@ -10,13 +10,13 @@
     "Kreativ & Bildung"
   ],
   "seo": {
-    "meta_title": "Art & Gallery: Farbpalette fuer Museen und Ausstellungen",
-    "meta_description": "Welche Farben passen zu Museen und Ausstellungen? Art & Gallery setzt auf neutrale Buehnen, klare Typografie und stille Akzente fuer kuratierte Inhalte.",
+    "meta_title": "Art & Gallery: Farbpalette für Museen und Ausstellungen",
+    "meta_description": "Welche Farben passen zu Museen und Ausstellungen? Art & Gallery setzt auf neutrale Bühnen, klare Typografie und stille Akzente für kuratierte Inhalte.",
     "focus_keyword": "Farbpalette Museum",
     "questions": [
       "Welche Farben passen zu Museen und Ausstellungen?",
-      "Wie schafft man eine neutrale Buehne fuer Kunst im Web?",
-      "Welche Palette unterstuetzt kuratorische Zurueckhaltung?"
+      "Wie schafft man eine neutrale Bühne für Kunst im Web?",
+      "Welche Palette unterstützt kuratorische Zurückhaltung?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "secondary",
     "accent": "accent",
-    "note": "60 Prozent nahezu neutrale Galerie-Flaechen fuer Werke und Bilder, 30 Prozent leichte Wandtoene fuer Gliederung und 10 Prozent gedeckte Akzente fuer Orientierung."
+    "note": "60 Prozent nahezu neutrale Galerie-Flächen für Werke und Bilder, 30 Prozent leichte Wandtöne für Gliederung und 10 Prozent gedeckte Akzente für Orientierung."
   },
   "accessibility": {
     "text_on_primary": 7.31,
@@ -51,7 +51,7 @@
     "Institutionelle Partner"
   ],
   "brand_traits": [
-    "zurueckhaltend",
+    "zurückhaltend",
     "kuratorisch",
     "respektvoll",
     "klar"
@@ -59,8 +59,8 @@
   "color_psychology": {
     "primary": {
       "name": "Gallery Wall",
-      "psychology": "Schafft eine physische Ausstellungsassoziation und laesst Inhalte geerdet, aber nicht aufdringlich erscheinen.",
-      "best_for": "Werkbuehnen, Objektseiten, Intro-Flaechen",
+      "psychology": "Schafft eine physische Ausstellungsassoziation und lässt Inhalte geerdet, aber nicht aufdringlich erscheinen.",
+      "best_for": "Werkbühnen, Objektseiten, Intro-Flächen",
       "risk": "Zu viel Wandton ohne Rhythmus kann altmodisch wirken."
     },
     "secondary": {
@@ -73,14 +73,14 @@
       "name": "Frame Taupe",
       "psychology": "Setzt leise Markierungen, die eher rahmen als rufen.",
       "best_for": "Navigation, kleine Labels, Datumsmarker",
-      "risk": "Zu wenige Akzente koennen die Orientierung schwaechen."
+      "risk": "Zu wenige Akzente können die Orientierung schwächen."
     }
   },
   "decision_support": {
     "best_for": [
       "Ausstellungsseiten mit starkem Bild- und Objektfokus",
       "Museumsportale mit viel kuratorischem Text",
-      "Kulturinstitutionen, die Inhalte ueber den Look stellen"
+      "Kulturinstitutionen, die Inhalte über den Look stellen"
     ],
     "avoid_for": [
       "D2C-Shops mit aktivem Kaufimpuls",
@@ -89,24 +89,24 @@
     ],
     "argumentation": [
       {
-        "claim": "Warum Neutralitaet hier kein Nachteil ist",
-        "reason": "Die Aufgabe der Palette ist nicht Selbstinszenierung, sondern die Inhalte sichtbar zu machen. Eine gute Museumsfarbe tritt bewusst zurueck."
+        "claim": "Warum Neutralität hier kein Nachteil ist",
+        "reason": "Die Aufgabe der Palette ist nicht Selbstinszenierung, sondern die Inhalte sichtbar zu machen. Eine gute Museumsfarbe tritt bewusst zurück."
       },
       {
         "claim": "Warum kuratorische Ruhe trotzdem Gestaltung ist",
-        "reason": "Zurueckhaltung ist eine aktive Entscheidung. Sie schafft Fokus, Respekt und eine hochwertige Wahrnehmung von Werken und Texten."
+        "reason": "Zurückhaltung ist eine aktive Entscheidung. Sie schafft Fokus, Respekt und eine hochwertige Wahrnehmung von Werken und Texten."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Museen und Ausstellungen?",
-        "answer": "Neutrale, warme Weiss- und Wandtoene mit klarer Typografie sind oft ideal, wenn Exponate und kuratorische Inhalte die Hauptrolle spielen."
+        "answer": "Neutrale, warme Weiss- und Wandtöne mit klarer Typografie sind oft ideal, wenn Exponate und kuratorische Inhalte die Hauptrolle spielen."
       },
       {
-        "question": "Wie schafft man eine neutrale Buehne fuer Kunst?",
-        "answer": "Durch bewusste Zurueckhaltung, feine Materialassoziationen und genug Kontrast, damit Kunst und Text sauber getragen werden."
+        "question": "Wie schafft man eine neutrale Bühne für Kunst?",
+        "answer": "Durch bewusste Zurückhaltung, feine Materialassoziationen und genug Kontrast, damit Kunst und Text sauber getragen werden."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Exhibit<\/span><h3>Current Show<\/h3><p>Eine stille Buehne fuer Werke, Captions und kuratorische Orientierung.<\/p><button class='btn btn-cta' type='button'>Ausstellung ansehen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Exhibit<\/span><h3>Current Show<\/h3><p>Eine stille Bühne für Werke, Captions und kuratorische Orientierung.<\/p><button class='btn btn-cta' type='button'>Ausstellung ansehen<\/button><\/section>"
 }

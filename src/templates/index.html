@@ -6,14 +6,14 @@
   <title>{{meta_title}}</title>
   <meta name="description" content="{{meta_description}}">
   <meta name="theme-color" content="{{theme_color}}">
-  <link rel="canonical" href="{{canonical_url}}">
+  {{canonical_link}}
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{meta_title}}">
   <meta property="og:description" content="{{meta_description}}">
   <meta property="og:url" content="{{canonical_url}}">
   <meta property="og:site_name" content="VibeVault">
   <link rel="stylesheet" href="assets/css/style.css">
-  <script type="application/ld+json">{{json_ld}}</script>
+  {{json_ld_script}}
 </head>
 <body class="theme-shell">
   <a class="skip-link" href="#content">Zum Inhalt</a>
@@ -28,11 +28,11 @@
     <section class="hero-panel bg-60 reveal">
       <div class="hero-copy">
         <p class="eyebrow">Farbpaletten, Farbpsychologie, SEO</p>
-        <h1 class="display-title">Ein Archiv fuer argumentierbare Farbentscheidungen im Web</h1>
+        <h1 class="display-title">Ein Archiv für argumentierbare Farbentscheidungen im Web</h1>
         <p class="lead">Jede Palette wird als Set-Card mit Wirkung, Zielgruppenfit, Accessibility und Download der CSS Variablen dargestellt. So wird aus Geschmack eine belastbare Entscheidung.</p>
         <ul class="meta-strip">
           <li><strong>{{palette_count}}</strong> Palette(n) im Archiv</li>
-          <li><strong>Mobile first</strong> fuer schnelle Referenz</li>
+          <li><strong>Mobile first</strong> für schnelle Referenz</li>
           <li><strong>SEO-Fokus</strong> auf Fragen rund um Farbpalette und Farbpsychologie</li>
         </ul>
       </div>
@@ -48,7 +48,7 @@
       <article class="panel">
         <div class="section-head compact">
           <p class="eyebrow">Fragen</p>
-          <h2>Wofuer das Archiv Antworten liefert</h2>
+          <h2>Wofür das Archiv Antworten liefert</h2>
         </div>
         <ol class="question-list">
           {{featured_questions}}
@@ -60,9 +60,9 @@
           <h2>Was eine gute Set-Card leisten muss</h2>
         </div>
         <ul class="bullet-list">
-          <li>Farben fachlich begruenden statt nur subjektiv zu bewerten.</li>
+          <li>Farben fachlich begründen statt nur subjektiv zu bewerten.</li>
           <li>Palette, Zielgruppe, Branche und Risiken auf einen Blick lesen.</li>
-          <li>CSS Variablen direkt uebernehmen oder an eine KI weiterreichen.</li>
+          <li>CSS Variablen direkt übernehmen oder an eine KI weiterreichen.</li>
           <li>SEO-Fragen und FAQ mit den Daten der Palette verbinden.</li>
         </ul>
       </article>
@@ -80,7 +80,7 @@
   </main>
 
   <footer class="site-footer shell">
-    <p>VibeVault Archiv fuer Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+    <p>VibeVault Archiv für Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
   </footer>
 </body>
 </html>

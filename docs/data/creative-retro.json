@@ -2,7 +2,7 @@
   "title": "Creative & Retro",
   "slug": "creative-retro",
   "vibe": "Constructed Play",
-  "summary": "Eine expressive Agenturpalette mit Bauhaus- und Retro-Anklang fuer Design-Studios, kreative Plattformen und Marken mit bewusst gestalteter Eigenstaendigkeit.",
+  "summary": "Eine expressive Agenturpalette mit Bauhaus- und Retro-Anklang für Design-Studios, kreative Plattformen und Marken mit bewusst gestalteter Eigenständigkeit.",
   "keywords": [
     "Farbpalette Agentur",
     "Bauhaus Farben Webdesign",
@@ -10,8 +10,8 @@
     "Kreativ & Bildung"
   ],
   "seo": {
-    "meta_title": "Creative & Retro: Farbpalette fuer Agenturen und Design-Studios",
-    "meta_description": "Welche Farben passen zu Agenturen und Design-Studios? Creative & Retro kombiniert Bauhaus-nahe Tinten, klare Kontraste und nostalgische Energie fuer kreative Marken.",
+    "meta_title": "Creative & Retro: Farbpalette für Agenturen und Design-Studios",
+    "meta_description": "Welche Farben passen zu Agenturen und Design-Studios? Creative & Retro kombiniert Bauhaus-nahe Tinten, klare Kontraste und nostalgische Energie für kreative Marken.",
     "focus_keyword": "Farbpalette Agentur",
     "questions": [
       "Welche Farben passen zu Agenturen und Design-Studios?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent warme Galerie-Flaechen fuer Raum, 30 Prozent Retro-Sand fuer Komposition und 10 Prozent klares Studio-Blau fuer Form, Richtung und Spannung."
+    "note": "60 Prozent warme Galerie-Flächen für Raum, 30 Prozent Retro-Sand für Komposition und 10 Prozent klares Studio-Blau für Form, Richtung und Spannung."
   },
   "accessibility": {
     "text_on_primary": 5.91,
@@ -59,31 +59,31 @@
   "color_psychology": {
     "primary": {
       "name": "Studio Clay",
-      "psychology": "Verbindet Materialwaerme mit einem kuenstlerischen, menschlichen Grundton.",
-      "best_for": "Hero-Flaechen, Work-Highlights, Intro-Sektionen",
-      "risk": "Zu viel Waerme ohne Gegenpol wirkt dekorativ statt konzeptuell."
+      "psychology": "Verbindet Materialwärme mit einem künstlerischen, menschlichen Grundton.",
+      "best_for": "Hero-Flächen, Work-Highlights, Intro-Sektionen",
+      "risk": "Zu viel Wärme ohne Gegenpol wirkt dekorativ statt konzeptüll."
     },
     "secondary": {
       "name": "Archive Paper",
-      "psychology": "Erzeugt einen editorischen Raum, der Arbeiten und Texte wie kuratierte Exponate wirken laesst.",
-      "best_for": "Projektseiten, Textbloecke, Journalformate",
+      "psychology": "Erzeugt einen editorischen Raum, der Arbeiten und Texte wie kuratierte Exponate wirken lässt.",
+      "best_for": "Projektseiten, Textblöcke, Journalformate",
       "risk": "Ein zu papierhafter Gesamteindruck kann nach Nostalgie statt nach Gegenwart aussehen."
     },
     "accent": {
-      "name": "Bauhaus Blue",
+      "name": "Bauhaus Blü",
       "psychology": "Setzt klare Form- und Richtungsimpulse, die der Palette Haltung und grafische Strenge geben.",
       "best_for": "CTAs, Labels, Navigationspunkte",
-      "risk": "Zu viel Akzentblau nimmt dem Retro-Warmton die Fuehrung."
+      "risk": "Zu viel Akzentblau nimmt dem Retro-Warmton die Führung."
     }
   },
   "decision_support": {
     "best_for": [
-      "Agenturseiten mit starker Projektpraesentation",
+      "Agenturseiten mit starker Projektpräsentation",
       "Design-Studios mit editorischer Haltung",
       "Kultur- und Kreativmarken mit kuratiertem Look"
     ],
     "avoid_for": [
-      "Public-Sector Portale mit Neutralitaetsanspruch",
+      "Public-Sector Portale mit Neutralitätsanspruch",
       "Rein technische Security- oder MedTech-Angebote",
       "Sehr konservative Corporate-Auftritte"
     ],
@@ -94,17 +94,17 @@
       },
       {
         "claim": "Warum Retro im Web Struktur braucht",
-        "reason": "Nostalgie allein traegt keine Usability. Die Palette funktioniert erst ueber klare Hierarchie und saubere Kontraste."
+        "reason": "Nostalgie allein trägt keine Usability. Die Palette funktioniert erst über klare Hierarchie und saubere Kontraste."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Agenturen und Design-Studios?",
-        "answer": "Paletten mit Haltung, Materialwaerme und einer klaren grafischen Gegenstimme sind oft staerker als neutrale Corporate-Systeme."
+        "answer": "Paletten mit Haltung, Materialwärme und einer klaren grafischen Gegenstimme sind oft stärker als neutrale Corporate-Systeme."
       },
       {
         "question": "Wie wirkt Retro kreativ statt museal?",
-        "answer": "Indem nostalgische Toene mit moderner Typografie, klaren Grid-Entscheidungen und funktionalen Interaktionsfarben kombiniert werden."
+        "answer": "Indem nostalgische Töne mit moderner Typografie, klaren Grid-Entscheidungen und funktionalen Interaktionsfarben kombiniert werden."
       }
     ]
   },

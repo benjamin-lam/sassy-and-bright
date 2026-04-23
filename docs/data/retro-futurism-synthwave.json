@@ -2,7 +2,7 @@
   "title": "Retro-Futurism / Synthwave",
   "slug": "retro-futurism-synthwave",
   "vibe": "Neon Memory",
-  "summary": "Eine digitale Nostalgie-Palette fuer Arcade, 80s, Synthwave und Entertainment-Marken, die Rueckblick und futuristische Energie in einem hellen Interface verbinden will.",
+  "summary": "Eine digitale Nostalgie-Palette für Arcade, 80s, Synthwave und Entertainment-Marken, die Rückblick und futuristische Energie in einem hellen Interface verbinden will.",
   "keywords": [
     "Farbpalette Synthwave",
     "Retro Futurism Farben",
@@ -10,8 +10,8 @@
     "Popkultur & Subkultur"
   ],
   "seo": {
-    "meta_title": "Retro-Futurism / Synthwave: Farbpalette fuer Arcade und digitale Nostalgie",
-    "meta_description": "Welche Farben passen zu Synthwave und Retro-Futurism? Diese Palette verbindet Neon-Erinnerung, weiche Sunset-Toene und digitale Nostalgie fuer Entertainment-Formate.",
+    "meta_title": "Retro-Futurism / Synthwave: Farbpalette für Arcade und digitale Nostalgie",
+    "meta_description": "Welche Farben passen zu Synthwave und Retro-Futurism? Diese Palette verbindet Neon-Erinnerung, weiche Sunset-Töne und digitale Nostalgie für Entertainment-Formate.",
     "focus_keyword": "Farbpalette Synthwave",
     "questions": [
       "Welche Farben passen zu Synthwave und Retro-Futurism?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent helle Sunset-Flaechen fuer Lesbarkeit, 30 Prozent rosa Neon-Erinnerung fuer Stimmung und 10 Prozent elektrisches Blau fuer Arcade-Richtung und CTA-Spannung."
+    "note": "60 Prozent helle Sunset-Flächen für Lesbarkeit, 30 Prozent rosa Neon-Erinnerung für Stimmung und 10 Prozent elektrisches Blau für Arcade-Richtung und CTA-Spannung."
   },
   "accessibility": {
     "text_on_primary": 5.79,
@@ -60,7 +60,7 @@
     "primary": {
       "name": "Sunset Pink",
       "psychology": "Transportiert sofort die emotionale Signatur digitaler Nostalgie und weicher Neonwelten.",
-      "best_for": "Hero-Flaechen, Eventmodule, Teaser",
+      "best_for": "Hero-Flächen, Eventmodule, Teaser",
       "risk": "Zu viel Pink ohne Kontrast kippt in Retro-Kitsch."
     },
     "secondary": {
@@ -70,8 +70,8 @@
       "risk": "Ein zu softer Grundton nimmt der Palette den Futurismus."
     },
     "accent": {
-      "name": "Arcade Blue",
-      "psychology": "Bringt digitale Tiefe, Bewegung und das Gefuehl von Bildschirmlicht in den Auftritt.",
+      "name": "Arcade Blü",
+      "psychology": "Bringt digitale Tiefe, Bewegung und das Gefühl von Bildschirmlicht in den Auftritt.",
       "best_for": "Buttons, aktive States, Tracks und Highlights",
       "risk": "Zu viele blaue Signale lassen die Sunset-Stimmung kollabieren."
     }
@@ -90,21 +90,21 @@
     "argumentation": [
       {
         "claim": "Warum diese Palette Synthwave lesbar macht",
-        "reason": "Sie uebersetzt Neonstimmung in ein helles, alltagstaugliches Interface statt in eine dunkle Effektkulisse."
+        "reason": "Sie übersetzt Neonstimmung in ein helles, alltagstaugliches Interface statt in eine dunkle Effektkulisse."
       },
       {
         "claim": "Warum digitale Nostalgie Dosierung braucht",
-        "reason": "Ohne ruhige Flaechen und saubere Typografie wird der Look schnell zum Partyfilter statt zur Marke."
+        "reason": "Ohne ruhige Flächen und saubere Typografie wird der Look schnell zum Partyfilter statt zur Marke."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Synthwave und Retro-Futurism?",
-        "answer": "Pink-Sunset Toene, elektrische Blaustiche und helle Gegenflaechen sind oft ein guter Mix aus Nostalgie und moderner Nutzbarkeit."
+        "answer": "Pink-Sunset Töne, elektrische Blaustiche und helle Gegenflächen sind oft ein guter Mix aus Nostalgie und moderner Nutzbarkeit."
       },
       {
         "question": "Wie vermeidet man Neon-Overkill?",
-        "answer": "Indem man Neon nur als Stimmungs- und Akzentschicht nutzt und das System sonst ueber ruhige Flaechen organisiert."
+        "answer": "Indem man Neon nur als Stimmungs- und Akzentschicht nutzt und das System sonst über ruhige Flächen organisiert."
       }
     ]
   },

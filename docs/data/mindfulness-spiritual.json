@@ -2,7 +2,7 @@
   "title": "Mindfulness & Spiritual",
   "slug": "mindfulness-spiritual",
   "vibe": "Soft Stillness",
-  "summary": "Eine leise Achtsamkeitspalette fuer Meditation, Coaching und Retreat-Angebote, die Ruhe, Offenheit und innere Sammlung statt Wellness-Kitsch transportiert.",
+  "summary": "Eine leise Achtsamkeitspalette für Meditation, Coaching und Retreat-Angebote, die Ruhe, Offenheit und innere Sammlung statt Wellness-Kitsch transportiert.",
   "keywords": [
     "Farbpalette Meditation",
     "Mindfulness Farben",
@@ -10,12 +10,12 @@
     "Mensch & Gesellschaft"
   ],
   "seo": {
-    "meta_title": "Mindfulness & Spiritual: Farbpalette fuer Meditation, Coaching und Retreats",
-    "meta_description": "Welche Farben passen zu Meditation und Achtsamkeit? Mindfulness & Spiritual verbindet sanfte Naturwerte, viel Luft und ruhige Akzente fuer Coaching und Retreat-Marken.",
+    "meta_title": "Mindfulness & Spiritual: Farbpalette für Meditation, Coaching und Retreats",
+    "meta_description": "Welche Farben passen zu Meditation und Achtsamkeit? Mindfulness & Spiritual verbindet sanfte Naturwerte, viel Luft und ruhige Akzente für Coaching und Retreat-Marken.",
     "focus_keyword": "Farbpalette Meditation",
     "questions": [
       "Welche Farben passen zu Meditation und Achtsamkeit?",
-      "Wie wirkt Spiritualitaet ruhig statt kitschig?",
+      "Wie wirkt Spiritualität ruhig statt kitschig?",
       "Welche Palette schafft Stille in digitalen Produkten?"
     ]
   },
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent stille Hintergrundflaechen fuer Atmung, 30 Prozent sanftes Salbeigruen fuer Erdung und 10 Prozent nebliges Violett fuer Orientierung und kontemplative Tiefe."
+    "note": "60 Prozent stille Hintergrundflächen für Atmung, 30 Prozent sanftes Salbeigrün für Erdung und 10 Prozent nebliges Violett für Orientierung und kontemplative Tiefe."
   },
   "accessibility": {
     "text_on_primary": 7.28,
@@ -59,19 +59,19 @@
   "color_psychology": {
     "primary": {
       "name": "Sage Breath",
-      "psychology": "Das zuruethaltende Gruen schafft Erdung und einen entschleunigten Einstieg.",
-      "best_for": "Hero-Flaechen, Angebotsmodule, Leitgedanken",
-      "risk": "Zu viel Salbei ohne Spannung kann schlaefrig oder austauschbar wirken."
+      "psychology": "Das zurüthaltende Grün schafft Erdung und einen entschleunigten Einstieg.",
+      "best_for": "Hero-Flächen, Angebotsmodule, Leitgedanken",
+      "risk": "Zu viel Salbei ohne Spannung kann schläfrig oder austauschbar wirken."
     },
     "secondary": {
       "name": "Calm Paper",
-      "psychology": "Gibt Texten und Kursinformationen eine luftige, nicht invasive Buehne.",
+      "psychology": "Gibt Texten und Kursinformationen eine luftige, nicht invasive Bühne.",
       "best_for": "Texte, Terminseiten, Buchungsinformationen",
-      "risk": "Zu viele weiche Flaechen schwachen die Orientierung."
+      "risk": "Zu viele weiche Flächen schwachen die Orientierung."
     },
     "accent": {
       "name": "Quiet Violet",
-      "psychology": "Bringt kontemplative Tiefe und eine leichte spirituelle Aufladung ohne Esoterik-Kitsch.",
+      "psychology": "Bringt kontemplative Tiefe und eine leichte spiritülle Aufladung ohne Esoterik-Kitsch.",
       "best_for": "Links, kleine Highlights, Fokusmomente",
       "risk": "Ein zu dominanter Violettanteil kann ins diffuse Mystische abgleiten."
     }
@@ -80,7 +80,7 @@
     "best_for": [
       "Meditations- und Coaching-Seiten mit ruhigem Flow",
       "Retreat-Angebote, die Vertrauen und Luft brauchen",
-      "Digitale Formate mit sanfter, erwachsener Spiritualitaet"
+      "Digitale Formate mit sanfter, erwachsener Spiritualität"
     ],
     "avoid_for": [
       "Dringliche Fundraising- und Aktivismus-Kampagnen",
@@ -90,11 +90,11 @@
     "argumentation": [
       {
         "claim": "Warum diese Palette ruhig statt kitschig wirkt",
-        "reason": "Sie setzt auf Natur- und Nebeltoene mit sauberer Typografie statt auf Lavendelwolken und Wellness-Klischees."
+        "reason": "Sie setzt auf Natur- und Nebeltöne mit sauberer Typografie statt auf Lavendelwolken und Wellness-Klischees."
       },
       {
-        "claim": "Warum Stille digitale Fuehrung braucht",
-        "reason": "Auch ruhige Produkte muessen klar navigierbar sein. Sonst wird aus Entschleunigung Unbestimmtheit."
+        "claim": "Warum Stille digitale Führung braucht",
+        "reason": "Auch ruhige Produkte müssen klar navigierbar sein. Sonst wird aus Entschleunigung Unbestimmtheit."
       }
     ],
     "faq": [
@@ -103,8 +103,8 @@
         "answer": "Sanfte Naturweiss- und Salbeitinte mit wenigen tiefen Akzenten funktionieren oft gut, wenn Ruhe und Vertrauen gemeinsam sichtbar werden sollen."
       },
       {
-        "question": "Wie wirkt Spiritualitaet ruhig statt kitschig?",
-        "answer": "Durch Zurueckhaltung, Luft und einen Verzicht auf zu offensichtliche Esoterik-Farbcodes."
+        "question": "Wie wirkt Spiritualität ruhig statt kitschig?",
+        "answer": "Durch Zurückhaltung, Luft und einen Verzicht auf zu offensichtliche Esoterik-Farbcodes."
       }
     ]
   },

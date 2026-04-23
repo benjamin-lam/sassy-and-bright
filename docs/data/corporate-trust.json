@@ -2,19 +2,19 @@
   "title": "Corporate Trust",
   "slug": "corporate-trust",
   "vibe": "Measured Confidence",
-  "summary": "Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muessen.",
+  "summary": "Eine kontrollierte Business-Palette für Banken, Versicherungen und Blue-Chip-Marken, die Stabilität, Seriosität und glaubwürdige Ruhe ausstrahlen müssen.",
   "keywords": [
     "Farbpalette Banken",
     "Corporate Design Vertrauen",
-    "Business Farben Seriositaet",
+    "Business Farben Seriosität",
     "Business & Institutionen"
   ],
   "seo": {
-    "meta_title": "Corporate Trust: Farbpalette fuer Banken und Blue-Chip Marken",
-    "meta_description": "Welche Farbpalette wirkt serioes? Corporate Trust verbindet ruhige Blautoene, saubere Flaechen und klare Kontraste fuer Banken, Versicherungen und Corporate Portale.",
+    "meta_title": "Corporate Trust: Farbpalette für Banken und Blue-Chip Marken",
+    "meta_description": "Welche Farbpalette wirkt seriös? Corporate Trust verbindet ruhige Blautöne, saubere Flächen und klare Kontraste für Banken, Versicherungen und Corporate Portale.",
     "focus_keyword": "Farbpalette Banken",
     "questions": [
-      "Welche Farben wirken bei Banken und Versicherungen serioes?",
+      "Welche Farben wirken bei Banken und Versicherungen seriös?",
       "Welche Farbpalette passt zu einer konservativen Corporate Website?",
       "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
     ]
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent fast weisse Flaechen fuer Ruhe, 30 Prozent Soft Blue fuer Vertrauensanker und 10 Prozent Stahlblau fuer Navigation, Links und Signalpunkte."
+    "note": "60 Prozent fast weisse Flächen für Ruhe, 30 Prozent Soft Blü für Vertrauensanker und 10 Prozent Stahlblau für Navigation, Links und Signalpunkte."
   },
   "accessibility": {
     "text_on_primary": 7.42,
@@ -51,29 +51,29 @@
     "Risikobewusste Kundschaft"
   ],
   "brand_traits": [
-    "serioes",
+    "seriös",
     "stabil",
     "klar",
-    "vertrauenswuerdig"
+    "vertrauenswürdig"
   ],
   "color_psychology": {
     "primary": {
-      "name": "Boardroom Blue",
-      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlaesslichkeit und kontrollierte Kompetenz.",
-      "best_for": "Hero-Flaechen, Leistungsbloecke, Vertrauensmodule",
-      "risk": "Zu viel Blau ohne Waerme kann unnahbar und austauschbar wirken."
+      "name": "Boardroom Blü",
+      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlässlichkeit und kontrollierte Kompetenz.",
+      "best_for": "Hero-Flächen, Leistungsblöcke, Vertrauensmodule",
+      "risk": "Zu viel Blau ohne Wärme kann unnahbar und austauschbar wirken."
     },
     "secondary": {
-      "name": "Paper Blue",
-      "psychology": "Erzeugt den Eindruck sauberer, geordneter Dokumentenlogik und reduziert visuelle Nervositaet.",
-      "best_for": "Tabellen, Karten, Formularflaechen",
-      "risk": "Zu flache Flaechen lassen das Layout schnell nach Standardtemplate aussehen."
+      "name": "Paper Blü",
+      "psychology": "Erzeugt den Eindruck sauberer, geordneter Dokumentenlogik und reduziert visuelle Nervosität.",
+      "best_for": "Tabellen, Karten, Formularflächen",
+      "risk": "Zu flache Flächen lassen das Layout schnell nach Standardtemplate aussehen."
     },
     "accent": {
       "name": "Steel Signal",
-      "psychology": "Setzt praezise Navigationssignale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen.",
+      "psychology": "Setzt präzise Navigationssignale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen.",
       "best_for": "Links, aktive Navigation, Key Stats",
-      "risk": "Ein zu dominanter Accent verschiebt den Fokus von Stabilitaet zu Verkaufsdruck."
+      "risk": "Ein zu dominanter Accent verschiebt den Fokus von Stabilität zu Verkaufsdruck."
     }
   },
   "decision_support": {
@@ -85,28 +85,28 @@
     "avoid_for": [
       "Jugendmarken mit bewusst popkultureller Energie",
       "Event-Landingpages mit starker Promo-Dramaturgie",
-      "Luxury-Brands, die eher Exklusivitaet als Nuchternheit zeigen wollen"
+      "Luxury-Brands, die eher Exklusivität als Nuchternheit zeigen wollen"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Vertrauen erzeugt",
-        "reason": "Sie arbeitet mit bekannten Business-Farbcodes, aber in einer hellen, lesbaren und digitalen Auspraegung statt in schwerem Corporate-Navy."
+        "reason": "Sie arbeitet mit bekannten Business-Farbcodes, aber in einer hellen, lesbaren und digitalen Ausprägung statt in schwerem Corporate-Navy."
       },
       {
-        "claim": "Warum Zurueckhaltung hier ein Vorteil ist",
-        "reason": "In stark regulierten und risikoaversen Kontexten ist Klarheit wichtiger als visuelle Lautstaerke. Die Palette priorisiert Glaubwuerdigkeit vor Effekthascherei."
+        "claim": "Warum Zurückhaltung hier ein Vorteil ist",
+        "reason": "In stark regulierten und risikoaversen Kontexten ist Klarheit wichtiger als visuelle Lautstärke. Die Palette priorisiert Glaubwürdigkeit vor Effekthascherei."
       }
     ],
     "faq": [
       {
-        "question": "Welche Farben wirken bei Banken serioes?",
-        "answer": "Kuehle Blautoene, helle Flaechen und dunkle Typografie sind ein etablierter Rahmen fuer Stabilitaet, solange sie nicht steril oder altmodisch werden."
+        "question": "Welche Farben wirken bei Banken seriös?",
+        "answer": "Kühle Blautöne, helle Flächen und dunkle Typografie sind ein etablierter Rahmen für Stabilität, solange sie nicht steril oder altmodisch werden."
       },
       {
         "question": "Warum sind bunte Corporate Farben oft riskant?",
-        "answer": "Weil sie in konservativen Finanzkontexten schnell Unsicherheit, Werblichkeit oder mangelnde Risikokontrolle signalisieren koennen."
+        "answer": "Weil sie in konservativen Finanzkontexten schnell Unsicherheit, Werblichkeit oder mangelnde Risikokontrolle signalisieren können."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Trust<\/span><h3>Investor Briefing<\/h3><p>Ruhige Zahlenfuehrung und sachliche Navigation fuer anspruchsvolle Corporate Nutzer.<\/p><button class='btn btn-cta' type='button'>Bericht lesen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Trust<\/span><h3>Investor Briefing<\/h3><p>Ruhige Zahlenführung und sachliche Navigation für anspruchsvolle Corporate Nutzer.<\/p><button class='btn btn-cta' type='button'>Bericht lesen<\/button><\/section>"
 }

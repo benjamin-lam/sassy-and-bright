@@ -2,7 +2,7 @@
   "title": "Crypto & Fintech 2.0",
   "slug": "crypto-fintech-2-0",
   "vibe": "Cold Control",
-  "summary": "Eine kuehle Fintech-Palette fuer Trading, Web3 und neue Finanzprodukte, die Dominanz, Datenklarheit und digitale Ernsthaftigkeit zeigen soll.",
+  "summary": "Eine kühle Fintech-Palette für Trading, Web3 und neue Finanzprodukte, die Dominanz, Datenklarheit und digitale Ernsthaftigkeit zeigen soll.",
   "keywords": [
     "Farbpalette Fintech",
     "Web3 Farben",
@@ -10,8 +10,8 @@
     "Tech & Future"
   ],
   "seo": {
-    "meta_title": "Crypto & Fintech 2.0: Farbpalette fuer Trading, Web3 und Fintech",
-    "meta_description": "Welche Farben passen zu Fintech und Web3? Crypto & Fintech 2.0 verbindet kuehle Metalltoene, technische Ruhe und harte Signale fuer Trading- und Plattformprodukte.",
+    "meta_title": "Crypto & Fintech 2.0: Farbpalette für Trading, Web3 und Fintech",
+    "meta_description": "Welche Farben passen zu Fintech und Web3? Crypto & Fintech 2.0 verbindet kühle Metalltöne, technische Ruhe und harte Signale für Trading- und Plattformprodukte.",
     "focus_keyword": "Farbpalette Fintech",
     "questions": [
       "Welche Farben passen zu Fintech, Trading und Web3?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent kalte Systemflaechen fuer Datenruhe, 30 Prozent Metallgrau-Blau fuer Dominanz und 10 Prozent tiefes Petrol fuer aktive Zustande und Controls."
+    "note": "60 Prozent kalte Systemflächen für Datenruhe, 30 Prozent Metallgrau-Blau für Dominanz und 10 Prozent tiefes Petrol für aktive Zustände und Controls."
   },
   "accessibility": {
     "text_on_primary": 7.64,
@@ -51,62 +51,62 @@
     "Risikobewusste Traderinnen und Trader"
   ],
   "brand_traits": [
-    "kuehl",
+    "kühl",
     "dominant",
     "technisch",
-    "praezise"
+    "präzise"
   ],
   "color_psychology": {
     "primary": {
       "name": "Metal Flow",
-      "psychology": "Kuehl-metallische Toene wirken datengetrieben, kontrolliert und wenig emotional.",
-      "best_for": "Dashboards, Preisflaechen, Marktuebersichten",
-      "risk": "Zu viel Kuehle kann Distanz und mangelnde Nahbarkeit erzeugen."
+      "psychology": "Kühl-metallische Töne wirken datengetrieben, kontrolliert und wenig emotional.",
+      "best_for": "Dashboards, Preisflächen, Marktübersichten",
+      "risk": "Zu viel Kühle kann Distanz und mangelnde Nahbarkeit erzeugen."
     },
     "secondary": {
       "name": "Cold Surface",
       "psychology": "Gibt Kursen, Tabellen und modularen Interfaces eine ruhige technische Basis.",
       "best_for": "Order-Module, Vergleichslisten, Portfoliokarten",
-      "risk": "Ein komplett entsaettigter Auftritt verliert Wiedererkennbarkeit."
+      "risk": "Ein komplett entsättigter Auftritt verliert Wiedererkennbarkeit."
     },
     "accent": {
       "name": "Depth Petrol",
-      "psychology": "Setzt kontrollierte High-Tech-Signale ohne das uebliche Neon-Spektakel vieler Krypto-Marken.",
+      "psychology": "Setzt kontrollierte High-Tech-Signale ohne das übliche Neon-Spektakel vieler Krypto-Marken.",
       "best_for": "Interaktionen, aktive Auswahl, KPI-Fokus",
-      "risk": "Zu dunkle Akzente koennen Interaktionspfade schwerer lesbar machen."
+      "risk": "Zu dunkle Akzente können Interaktionspfade schwerer lesbar machen."
     }
   },
   "decision_support": {
     "best_for": [
       "Trading-Produkte mit hoher Datendichte",
-      "Fintech-Portale mit technischer Glaubwuerdigkeit",
+      "Fintech-Portale mit technischer Glaubwürdigkeit",
       "Web3-Marken, die ernster als reine Hype-Projekte wirken wollen"
     ],
     "avoid_for": [
       "Food-, Beauty- oder Geschenkmarken",
-      "Public-Sector und Behoerdenportale",
+      "Public-Sector und Behördenportale",
       "Marken mit starker humaner, warmer Community-Ausrichtung"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Dominanz ohne Neon erreicht",
-        "reason": "Sie erzeugt technische Kuehle und Ordnung ueber Metall- und Petrolwerte statt ueber laute Cyber-Effekte."
+        "reason": "Sie erzeugt technische Kühle und Ordnung über Metall- und Petrolwerte statt über laute Cyber-Effekte."
       },
       {
         "claim": "Warum zu viel Neon bei Fintech riskant ist",
-        "reason": "Finanzprodukte brauchen neben Aufmerksamkeit vor allem Vertrauenswuerdigkeit. Zu schrille Farben koennen wie Spekulation ohne Substanz wirken."
+        "reason": "Finanzprodukte brauchen neben Aufmerksamkeit vor allem Vertrauenswürdigkeit. Zu schrille Farben können wie Spekulation ohne Substanz wirken."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Fintech und Trading?",
-        "answer": "Kuehle, systemische Toene mit starken Kontrasten und begrenztem Accent sind oft passender als bunte, hypegetriebene Paletten."
+        "answer": "Kühle, systemische Töne mit starken Kontrasten und begrenztem Accent sind oft passender als bunte, hypegetriebene Paletten."
       },
       {
         "question": "Wie wirkt ein Fintech-Produkt dominant statt aggressiv?",
-        "answer": "Durch klare, kalte Ordnung, praezise Interaktionssignale und den Verzicht auf visuelle Uebersteuerung."
+        "answer": "Durch klare, kalte Ordnung, präzise Interaktionssignale und den Verzicht auf visuelle Übersteuerung."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Trade<\/span><h3>Portfolio Flow<\/h3><p>Kuehle Datenklarheit fuer Kurse, Orders und rationale High-Focus Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Dashboard oeffnen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Trade<\/span><h3>Portfolio Flow<\/h3><p>Kühle Datenklarheit für Kurse, Orders und rationale High-Focus Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Dashboard öffnen<\/button><\/section>"
 }

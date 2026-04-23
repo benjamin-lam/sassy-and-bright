@@ -1,4 +1,13 @@
 (function () {
+  var aliasMap = {
+    primary: "p",
+    secondary: "s",
+    accent: "a",
+    bg: "bg",
+    text: "t",
+    card: "c"
+  };
+
   function escapeHtml(value) {
     return String(value)
       .replace(/&/g, "&amp;")
@@ -13,11 +22,26 @@
       return;
     }
 
-    Object.entries(colors).forEach(function (entry) {
-      var key = entry[0];
-      var value = entry[1];
+    Object.keys(colors).forEach(function (key) {
+      var value = colors[key];
       document.documentElement.style.setProperty("--color-" + key, value);
+
+      if (aliasMap[key]) {
+        document.documentElement.style.setProperty("--" + aliasMap[key], value);
+      }
     });
+
+    document.documentElement.style.setProperty(
+      "--mockup-cta-fg",
+      contrastRatio(colors.primary, colors.bg) >= contrastRatio(colors.primary, colors.text)
+        ? colors.bg
+        : colors.text
+    );
+
+    var themeMeta = document.querySelector('meta[name="theme-color"]');
+    if (themeMeta && colors.primary) {
+      themeMeta.setAttribute("content", colors.primary);
+    }
   }
 
   function hexToRgb(hex) {
@@ -54,9 +78,23 @@
 
   function cssBlock(colors) {
     var lines = [":root {"];
+
     Object.keys(colors).forEach(function (key) {
       lines.push("  --color-" + key + ": " + colors[key] + ";");
     });
+
+    Object.keys(aliasMap).forEach(function (key) {
+      lines.push("  --" + aliasMap[key] + ": " + colors[key] + ";");
+    });
+
+    lines.push(
+      "  --mockup-cta-fg: " +
+        (contrastRatio(colors.primary, colors.bg) >= contrastRatio(colors.primary, colors.text)
+          ? colors.bg
+          : colors.text) +
+        ";"
+    );
+
     lines.push("}");
     return lines.join("\n");
   }
@@ -88,56 +126,19 @@
     if (failing.length > 0) {
       notice.className = "notice notice-warning";
       notice.innerHTML =
-        "<strong>Kontrast check:</strong> " +
+        "<strong>Kontrast-Check:</strong> " +
         failing
           .map(function (pair) {
             return escapeHtml(pair.label + " " + pair.ratio.toFixed(2) + ":1");
           })
           .join(" | ") +
-        ". Fuer Fliesstext sollten mindestens 4.5:1 erreicht werden.";
+        ". Für Fließtext sollten mindestens 4.5:1 erreicht werden.";
       return;
     }
 
     notice.className = "notice notice-success";
     notice.innerHTML =
-      "<strong>Kontrast check:</strong> Alle Kernpaare liegen aktuell ueber 4.5:1.";
-  }
-
-  function buildLabMode(data) {
-    var bestFit = (data.decision_support && data.decision_support.best_for && data.decision_support.best_for[0]) || "Passender Einsatzbereich";
-    var question = (data.seo && data.seo.questions && data.seo.questions[0]) || "Welche Farben passen zum Projekt?";
-    return [
-      '<div class="lab-shell">',
-      '  <section class="hero-card bg-60">',
-      '    <span class="badge bg-10">Hero</span>',
-      "    <h3>" + escapeHtml(data.title) + "</h3>",
-      "    <p>" + escapeHtml(data.summary) + "</p>",
-      '    <button class="btn btn-cta" type="button">Palette in UI testen</button>',
-      "    <p class=\"micro-copy\">" + escapeHtml(question) + "</p>",
-      "  </section>",
-      '  <section class="contact-card">',
-      '    <span class="badge bg-10">Kontaktformular</span>',
-      "    <p>Nutze denselben Farbkanon fuer Lead-Formulare und Support-Kontakt.</p>",
-      '    <form>',
-      '      <label class="field"><span>Name</span><input type="text" placeholder="Jane Example"></label>',
-      '      <label class="field"><span>E-Mail</span><input type="email" placeholder="jane@example.com"></label>',
-      '      <label class="field"><span>Projektziel</span><textarea placeholder="Welche Wirkung soll die Palette ausloesen?"></textarea></label>',
-      '      <button class="btn" type="button">Analyse senden</button>',
-      "    </form>",
-      "  </section>",
-      '  <section class="dashboard-card bg-30">',
-      '    <span class="badge bg-10">Dashboard</span>',
-      "    <p><strong>Best Fit:</strong> " + escapeHtml(bestFit) + "</p>",
-      '    <div class="dashboard-metrics">',
-      "      <span><strong>Load</strong><small>" + escapeHtml(String(data.cognitive_load)) + " / 5</small></span>",
-      "      <span><strong>Vibe</strong><small>" + escapeHtml(data.vibe) + "</small></span>",
-      "      <span><strong>Branche</strong><small>" + escapeHtml(data.industry_match[0] || "Allgemein") + "</small></span>",
-      "      <span><strong>Accent</strong><small>" + escapeHtml(data.colors.accent) + "</small></span>",
-      "    </div>",
-      "    " + data.html_preview,
-      "  </section>",
-      "</div>"
-    ].join("");
+      "<strong>Kontrast-Check:</strong> Alle Kernpaare liegen aktuell über 4.5:1.";
   }
 
   function copyCss(colors) {
@@ -166,64 +167,69 @@
     });
   }
 
+  function bindModeToggle(toggle) {
+    if (!toggle) {
+      return;
+    }
+
+    toggle.checked = document.body.getAttribute("data-mode") === "mockup";
+    toggle.addEventListener("change", function () {
+      var target = toggle.checked ? toggle.dataset.mockupHref : toggle.dataset.readingHref;
+      if (target) {
+        window.location.href = target;
+      }
+    });
+  }
+
   function applyPaletteFromJSON(json) {
     if (!json || !json.colors) {
       return;
     }
+
     injectTheme(json.colors);
     updateCssPreview(json.colors);
     updateContrastHint(json.colors);
   }
 
+  function readEmbeddedJSON(node) {
+    if (!node) {
+      return null;
+    }
+
+    try {
+      return JSON.parse(node.textContent || "{}");
+    } catch (error) {
+      return null;
+    }
+  }
+
   var dataNode = document.getElementById("article-data");
-  if (!dataNode) {
+  var data = readEmbeddedJSON(dataNode);
+
+  if (!data) {
     window.injectTheme = injectTheme;
     window.applyPaletteFromJSON = applyPaletteFromJSON;
     return;
   }
 
-  var data = JSON.parse(dataNode.textContent || "{}");
   var modeToggle = document.getElementById("mode-toggle");
-  var labStage = document.getElementById("lab-mode");
   var copyButton = document.querySelector("[data-copy-css]");
   var copyStatus = document.getElementById("copy-status");
 
-  function setMode(isLab) {
-    document.body.setAttribute("data-mode", isLab ? "lab" : "reading");
-    if (!labStage) {
-      return;
-    }
-
-    if (isLab) {
-      labStage.hidden = false;
-      labStage.innerHTML = buildLabMode(data);
-      return;
-    }
-
-    labStage.hidden = true;
-    labStage.innerHTML = "";
-  }
-
   applyPaletteFromJSON(data);
-  setMode(false);
-
-  if (modeToggle) {
-    modeToggle.addEventListener("change", function (event) {
-      setMode(Boolean(event.target.checked));
-    });
-  }
+  bindModeToggle(modeToggle);
 
   if (copyButton) {
     copyButton.addEventListener("click", function () {
       copyCss(data.colors)
         .then(function () {
           if (copyStatus) {
-            copyStatus.textContent = "CSS Variablen in die Zwischenablage kopiert.";
+            copyStatus.textContent = "CSS-Variablen in die Zwischenablage kopiert.";
           }
         })
         .catch(function () {
           if (copyStatus) {
-            copyStatus.textContent = "Copy fehlgeschlagen. Nutze den Download-Link.";
+            copyStatus.textContent = "Kopieren fehlgeschlagen. Nutze den Download-Link.";
           }
         });
     });

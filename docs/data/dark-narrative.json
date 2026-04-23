@@ -2,7 +2,7 @@
   "title": "Dark Narrative",
   "slug": "dark-narrative",
   "vibe": "Slow Suspense",
-  "summary": "Eine dichte Erzaehlpalette fuer Horror, Mystery und True-Crime-Formate, die Spannung, Unsicherheit und fokussierte Leseatmosphaere aufbaut.",
+  "summary": "Eine dichte Erzählpalette für Horror, Mystery und True-Crime-Formate, die Spannung, Unsicherheit und fokussierte Leseatmosphäre aufbaut.",
   "keywords": [
     "Farbpalette Mystery",
     "True Crime Farben",
@@ -10,8 +10,8 @@
     "Popkultur & Subkultur"
   ],
   "seo": {
-    "meta_title": "Dark Narrative: Farbpalette fuer Horror, Mystery und True Crime",
-    "meta_description": "Welche Farben passen zu Mystery und True Crime? Dark Narrative verbindet Rauchlila, matte Grautiefen und kontrollierte Suspense fuer spannungsvolle digitale Formate.",
+    "meta_title": "Dark Narrative: Farbpalette für Horror, Mystery und True Crime",
+    "meta_description": "Welche Farben passen zu Mystery und True Crime? Dark Narrative verbindet Rauchlila, matte Grautiefen und kontrollierte Suspense für spannungsvolle digitale Formate.",
     "focus_keyword": "Farbpalette Mystery",
     "questions": [
       "Welche Farben passen zu Mystery, Horror und True Crime?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent neblige Flaechen fuer stille Spannung, 30 Prozent Rauchlila fuer Atmosphaere und 10 Prozent dunkle Mauve-Signale fuer Fokus, Kapitel und CTA-Momente."
+    "note": "60 Prozent neblige Flächen für stille Spannung, 30 Prozent Rauchlila für Atmosphäre und 10 Prozent dunkle Mauve-Signale für Fokus, Kapitel und CTA-Momente."
   },
   "accessibility": {
     "text_on_primary": 7.03,
@@ -48,7 +48,7 @@
   "audiences": [
     "Story-getriebene Communities",
     "Podcast- und Streaming-Publikum",
-    "Atmosphaere suchende Leserinnen und Leser"
+    "Atmosphäre suchende Leserinnen und Leser"
   ],
   "brand_traits": [
     "spannend",
@@ -60,18 +60,18 @@
     "primary": {
       "name": "Smoke Violet",
       "psychology": "Das rauchige Lila erzeugt Unsicherheit und emotionale Tiefe ohne billigen Halloween-Effekt.",
-      "best_for": "Hero-Flaechen, Kapitelteiler, Story-Module",
+      "best_for": "Hero-Flächen, Kapitelteiler, Story-Module",
       "risk": "Zu viel Dunkelromantik kann das Thema unfreiwillig melodramatisch machen."
     },
     "secondary": {
       "name": "Fog Paper",
-      "psychology": "Schafft Raum fuer Text und Hinweise, waehrend die Stimmung unterschwellig angespannt bleibt.",
+      "psychology": "Schafft Raum für Text und Hinweise, während die Stimmung unterschwellig angespannt bleibt.",
       "best_for": "Artikel, Episodenlisten, Beweisboards",
       "risk": "Ohne starke Typografie wird das System zu weich und spannungsarm."
     },
     "accent": {
       "name": "Suspense Mauve",
-      "psychology": "Setzt feine Dringlichkeit und narrative Marker, ohne die Stimmung mit Alarmrot zu zerstoeren.",
+      "psychology": "Setzt feine Dringlichkeit und narrative Marker, ohne die Stimmung mit Alarmrot zu zerstören.",
       "best_for": "Links, Kapitelmarker, Highlights",
       "risk": "Ein zu heller Accent nimmt dem Thema die Schwere."
     }
@@ -94,13 +94,13 @@
       },
       {
         "claim": "Warum Suspense im Web Lesbarkeit braucht",
-        "reason": "Auch dunkle Narrative leben von langem Lesen. Atmosphaere darf den Content nicht verschlucken."
+        "reason": "Auch dunkle Narrative leben von langem Lesen. Atmosphäre darf den Content nicht verschlucken."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Mystery und True Crime?",
-        "answer": "Gedimmte, rauchige Toene mit guter Typografie funktionieren oft besser als plakative Horrorfarben."
+        "answer": "Gedimmte, rauchige Töne mit guter Typografie funktionieren oft besser als plakative Horrorfarben."
       },
       {
         "question": "Wie baut Farbe Spannung auf ohne Kitsch?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Case<\/span><h3>Neue Spur<\/h3><p>Dichte Atmosphaere fuer Kapitel, Hinweise und spannungsvolle Storyfuehrung.<\/p><button class='btn btn-cta' type='button'>Episode starten<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Case<\/span><h3>Neue Spur<\/h3><p>Dichte Atmosphäre für Kapitel, Hinweise und spannungsvolle Storyführung.<\/p><button class='btn btn-cta' type='button'>Episode starten<\/button><\/section>"
 }

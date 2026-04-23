@@ -7,6 +7,7 @@ import json
 import os
 import re
 import shutil
+from copy import deepcopy
 from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin
@@ -22,6 +23,14 @@ SITE_NAME = "VibeVault"
 DEFAULT_SITE_URL = "https://example.com/"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 HEX_PATTERN = re.compile(r"^#[0-9a-fA-F]{6}$")
+PALETTE_ALIAS_MAP = {
+    "primary": "p",
+    "secondary": "s",
+    "accent": "a",
+    "bg": "bg",
+    "text": "t",
+    "card": "c",
+}
 
 
 def ensure_trailing_slash(value: str) -> str:
@@ -30,6 +39,11 @@ def ensure_trailing_slash(value: str) -> str:
 
 SITE_URL = ensure_trailing_slash(os.environ.get("SITE_URL", DEFAULT_SITE_URL))
 BUILD_DATE = date.today().isoformat()
+UMLAUT_PROTECTIONS = {
+    "Blue-Chip": "__P0__",
+    "True Crime": "__P1__",
+    "Aerospace": "__P2__",
+}
 
 
 def load_json(path: Path) -> dict:
@@ -58,6 +72,102 @@ def html_text(value: str) -> str:
 
 def script_json(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, indent=2).replace("</", "<\\/")
+
+
+def dedupe_strings(items: list[str]) -> list[str]:
+    return list(dict.fromkeys(item for item in items if item))
+
+
+def canonical_link_tag(url: str) -> str:
+    return f'<link rel="canonical" href="{html_text(url)}">'
+
+
+def stylesheet_link_tag(href: str) -> str:
+    return f'<link rel="stylesheet" href="{html_text(href)}">'
+
+
+def json_ld_script_tag(content: str) -> str:
+    return f'<script type="application/ld+json">{content}</script>'
+
+
+def json_data_script_tag(element_id: str, payload: object) -> str:
+    return f'<script id="{html_text(element_id)}" type="application/json">{script_json(payload)}</script>'
+
+
+def with_umlauts(value: str) -> str:
+    if not isinstance(value, str):
+        return value
+
+    for original, placeholder in UMLAUT_PROTECTIONS.items():
+        value = value.replace(original, placeholder)
+
+    value = value.replace("AE", "Ä").replace("OE", "Ö").replace("UE", "Ü")
+    value = re.sub(r"(?<![A-Za-zÄÖÜäöü])Ae", "Ä", value)
+    value = re.sub(r"(?<![A-Za-zÄÖÜäöü])Oe", "Ö", value)
+    value = re.sub(r"(?<![A-Za-zÄÖÜäöü])Ue", "Ü", value)
+    value = re.sub(r"(?<![AÄEIOUÖÜaäeiouöü])ae", "ä", value)
+    value = re.sub(r"(?<![AÄEIOUÖÜaäeiouöü])oe", "ö", value)
+    value = re.sub(r"(?<![AÄEIOUÖÜaäeiouöü])ue", "ü", value)
+    value = (
+        value.replace("visüll", "visuell")
+        .replace("Trü-Crime", "True-Crime")
+        .replace("serioes", "seriös")
+        .replace("Serioes", "Seriös")
+        .replace("Qü", "Que")
+        .replace("qü", "que")
+        .replace("Zustande", "Zustände")
+        .replace("zustande", "zustände")
+    )
+
+    for original, placeholder in UMLAUT_PROTECTIONS.items():
+        value = value.replace(placeholder, original)
+    return value
+
+
+def humanize_palette(palette: dict) -> dict:
+    display = deepcopy(palette)
+    display["title"] = with_umlauts(display["title"])
+    display["vibe"] = with_umlauts(display["vibe"])
+    display["summary"] = with_umlauts(display["summary"])
+    display["keywords"] = [with_umlauts(item) for item in display["keywords"]]
+    display["seo"]["meta_title"] = with_umlauts(display["seo"]["meta_title"])
+    display["seo"]["meta_description"] = with_umlauts(display["seo"]["meta_description"])
+    display["seo"]["focus_keyword"] = with_umlauts(display["seo"]["focus_keyword"])
+    display["seo"]["questions"] = [with_umlauts(item) for item in display["seo"]["questions"]]
+    display["usage_ratio"]["note"] = with_umlauts(display["usage_ratio"]["note"])
+    display["industry_match"] = [with_umlauts(item) for item in display["industry_match"]]
+    display["audiences"] = [with_umlauts(item) for item in display["audiences"]]
+    display["brand_traits"] = [with_umlauts(item) for item in display["brand_traits"]]
+    display["html_preview"] = with_umlauts(display["html_preview"])
+
+    for key in ("primary", "secondary", "accent"):
+        entry = display["color_psychology"][key]
+        entry["name"] = with_umlauts(entry["name"])
+        entry["psychology"] = with_umlauts(entry["psychology"])
+        entry["best_for"] = with_umlauts(entry["best_for"])
+        entry["risk"] = with_umlauts(entry["risk"])
+
+    display["decision_support"]["best_for"] = [
+        with_umlauts(item) for item in display["decision_support"]["best_for"]
+    ]
+    display["decision_support"]["avoid_for"] = [
+        with_umlauts(item) for item in display["decision_support"]["avoid_for"]
+    ]
+    display["decision_support"]["argumentation"] = [
+        {
+            "claim": with_umlauts(item["claim"]),
+            "reason": with_umlauts(item["reason"]),
+        }
+        for item in display["decision_support"]["argumentation"]
+    ]
+    display["decision_support"]["faq"] = [
+        {
+            "question": with_umlauts(item["question"]),
+            "answer": with_umlauts(item["answer"]),
+        }
+        for item in display["decision_support"]["faq"]
+    ]
+    return display
 
 
 def require_string(data: dict, key: str, path: str, errors: list[str]) -> str:
@@ -248,23 +358,55 @@ def validate_palette(raw: dict, source_path: Path) -> dict:
     return normalized
 
 
+def hex_to_rgb(hex_color: str) -> tuple[float, float, float]:
+    normalized = hex_color.lstrip("#")
+    return tuple(int(normalized[index : index + 2], 16) / 255 for index in (0, 2, 4))
+
+
+def channel_luminance(channel: float) -> float:
+    if channel <= 0.03928:
+        return channel / 12.92
+    return ((channel + 0.055) / 1.055) ** 2.4
+
+
+def contrast_ratio(first: str, second: str) -> float:
+    rgb_a = hex_to_rgb(first)
+    rgb_b = hex_to_rgb(second)
+    lum_a = (
+        0.2126 * channel_luminance(rgb_a[0])
+        + 0.7152 * channel_luminance(rgb_a[1])
+        + 0.0722 * channel_luminance(rgb_a[2])
+    )
+    lum_b = (
+        0.2126 * channel_luminance(rgb_b[0])
+        + 0.7152 * channel_luminance(rgb_b[1])
+        + 0.0722 * channel_luminance(rgb_b[2])
+    )
+    lighter = max(lum_a, lum_b)
+    darker = min(lum_a, lum_b)
+    return (lighter + 0.05) / (darker + 0.05)
+
+
+def best_foreground(background: str, *options: str) -> str:
+    return max(options, key=lambda option: contrast_ratio(background, option))
+
+
+def theme_var_lines(colors: dict[str, str]) -> list[str]:
+    lines = [f"  --color-{key}: {value};" for key, value in colors.items()]
+    for key, alias in PALETTE_ALIAS_MAP.items():
+        lines.append(f"  --{alias}: {colors[key]};")
+    lines.append(
+        f"  --mockup-cta-fg: {best_foreground(colors['primary'], colors['text'], colors['bg'])};"
+    )
+    return lines
+
+
 def color_var_block(colors: dict[str, str]) -> str:
-    lines = [":root {"]
-    for key, value in colors.items():
-        lines.append(f"  --color-{key}: {value};")
-    lines.append("}")
-    return "\n".join(lines)
+    return "\n".join([":root {", *theme_var_lines(colors), "}"])
 
 
 def palette_css(colors: dict[str, str]) -> str:
-    return "\n".join(
-        [
-            ":root {",
-            *(f"  --color-{key}: {value};" for key, value in colors.items()),
-            "}",
-            "",
-        ]
-    )
+    return color_var_block(colors) + "\n"
 
 
 def list_items(items: list[str], class_name: str = "bullet-list") -> str:
@@ -338,7 +480,7 @@ def psychology_cards(psychology: dict[str, dict[str, str]]) -> str:
                     f"  <p class=\"eyebrow\">{html_text(key.title())}</p>",
                     f"  <h3>{html_text(entry['name'])}</h3>",
                     f"  <p>{html_text(entry['psychology'])}</p>",
-                    f"  <p><strong>Gut fuer:</strong> {html_text(entry['best_for'])}</p>",
+                    f"  <p><strong>Gut für:</strong> {html_text(entry['best_for'])}</p>",
                     f"  <p><strong>Risiko:</strong> {html_text(entry['risk'])}</p>",
                     "</article>",
                 ]
@@ -392,6 +534,41 @@ def cognitive_label(score: int) -> str:
         5: "Sehr aktivierend",
     }
     return labels.get(score, "Nicht bewertet")
+
+
+def wcag_status(accessibility: dict[str, float]) -> str:
+    ratios = list(accessibility.values())
+    if ratios and all(ratio >= 7.0 for ratio in ratios):
+        return "WCAG AAA"
+    if ratios and all(ratio >= 4.5 for ratio in ratios):
+        return "WCAG AA"
+    return "Kontrast prüfen"
+
+
+def meta_keywords(palette: dict) -> str:
+    terms = dedupe_strings(
+        [
+            palette["seo"]["focus_keyword"],
+            *palette["keywords"],
+            *palette["industry_match"],
+            *palette["brand_traits"],
+            *palette["audiences"],
+        ]
+    )
+    return ", ".join(terms)
+
+
+def article_tag_meta(palette: dict) -> str:
+    tags = dedupe_strings(
+        [
+            palette["seo"]["focus_keyword"],
+            *palette["keywords"][:6],
+            *palette["industry_match"][:3],
+        ]
+    )
+    return "\n".join(
+        f'<meta property="article:tag" content="{html_text(tag)}">' for tag in tags
+    )
 
 
 def palette_card(palette: dict, asset_prefix: str = "", show_link: bool = True) -> str:
@@ -556,6 +733,32 @@ def collection_json_ld(title: str, description: str, canonical_url: str, items: 
     return script_json(data)
 
 
+def geo_context_payload(palette: dict, canonical_url: str) -> dict:
+    return {
+        "type": "palette-knowledge-card",
+        "site": SITE_NAME,
+        "language": "de",
+        "url": canonical_url,
+        "title": palette["title"],
+        "slug": palette["slug"],
+        "summary": palette["summary"],
+        "focus_keyword": palette["seo"]["focus_keyword"],
+        "keywords": dedupe_strings([palette["seo"]["focus_keyword"], *palette["keywords"]]),
+        "seo_questions": palette["seo"]["questions"],
+        "industry_match": palette["industry_match"],
+        "audiences": palette["audiences"],
+        "brand_traits": palette["brand_traits"],
+        "decision_support": palette["decision_support"],
+        "accessibility": palette["accessibility"],
+        "recommended_ai_output": [
+            "Kurzbegründung für die Palette",
+            "Farbpsychologie pro Leitfarbe",
+            "geeignete Einsatzbereiche",
+            "Hinweise zu Kontrast und Risiken",
+        ],
+    }
+
+
 def write_file(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
@@ -570,22 +773,30 @@ def build_article_page(palette: dict) -> None:
     canonical_url = to_absolute_url(f"{slug}/")
     css_href = f"../assets/css/palettes/{slug}.css"
     json_href = f"../data/{slug}.json"
+    reading_href = "./"
+    mockup_href = "mockup/"
     content = render_template(
         "article.html",
         {
             "meta_title": html_text(palette["seo"]["meta_title"]),
             "meta_description": html_text(palette["seo"]["meta_description"]),
+            "meta_keywords": html_text(meta_keywords(palette)),
             "canonical_url": html_text(canonical_url),
             "theme_color": html_text(palette["colors"]["primary"]),
-            "json_ld": article_json_ld(palette, canonical_url),
+            "canonical_link": canonical_link_tag(canonical_url),
+            "article_tag_meta": article_tag_meta(palette),
+            "palette_stylesheet_link": stylesheet_link_tag(css_href),
+            "json_ld_script": json_ld_script_tag(article_json_ld(palette, canonical_url)),
+            "geo_context_script": json_data_script_tag(
+                "geo-context", geo_context_payload(palette, canonical_url)
+            ),
             "title": html_text(palette["title"]),
             "slug": html_text(slug),
             "vibe": html_text(palette["vibe"]),
             "summary": html_text(palette["summary"]),
             "focus_keyword": html_text(palette["seo"]["focus_keyword"]),
             "color_vars": html_text(color_var_block(palette["colors"])),
-            "article_json": script_json(palette),
-            "html_preview": palette["html_preview"],
+            "article_data_script": json_data_script_tag("article-data", palette),
             "usage_note": html_text(palette["usage_ratio"]["note"]),
             "palette_swatches": palette_swatches(palette["colors"], palette["usage_ratio"]),
             "accessibility_rows": accessibility_rows(palette["accessibility"]),
@@ -594,15 +805,15 @@ def build_article_page(palette: dict) -> None:
             "industry_tags": tag_list(palette["industry_match"]),
             "audience_tags": tag_list(palette["audiences"], "tag-soft"),
             "brand_tags": tag_list(palette["brand_traits"], "tag-soft"),
-            "keyword_tags": tag_list(palette["keywords"], "tag-soft"),
             "psychology_cards": psychology_cards(palette["color_psychology"]),
             "best_for_list": list_items(palette["decision_support"]["best_for"]),
             "avoid_for_list": list_items(palette["decision_support"]["avoid_for"]),
             "argument_cards": argument_cards(palette["decision_support"]["argumentation"]),
             "faq_items": faq_items(palette["decision_support"]["faq"]),
-            "seo_question_cards": question_cards(palette["seo"]["questions"]),
             "css_download_href": html_text(css_href),
             "json_download_href": html_text(json_href),
+            "reading_href": reading_href,
+            "mockup_href": mockup_href,
             "home_href": "../",
             "search_href": "../search/",
             "year": BUILD_DATE[:4],
@@ -613,11 +824,43 @@ def build_article_page(palette: dict) -> None:
     write_file(DOCS_DIR / "data" / f"{slug}.json", script_json(palette) + "\n")
 
 
+def build_mockup_page(palette: dict) -> None:
+    slug = palette["slug"]
+    canonical_url = to_absolute_url(f"{slug}/")
+    content = render_template(
+        "mockup.html",
+        {
+            "meta_title": html_text(f"{palette['title']} UI-Mockup | {SITE_NAME}"),
+            "meta_description": html_text(
+                f"{palette['summary']} Als eigenständiges UI-Mockup mit denselben CSS-Variablen."
+            ),
+            "canonical_url": html_text(canonical_url),
+            "theme_color": html_text(palette["colors"]["primary"]),
+            "canonical_link": canonical_link_tag(canonical_url),
+            "palette_stylesheet_link": stylesheet_link_tag(
+                f"../../assets/css/palettes/{slug}.css"
+            ),
+            "title": html_text(palette["title"]),
+            "vibe": html_text(palette["vibe"]),
+            "wcag_status": html_text(wcag_status(palette["accessibility"])),
+            "css_download_href": html_text(f"../../assets/css/palettes/{slug}.css"),
+            "json_download_href": html_text(f"../../data/{slug}.json"),
+            "reading_href": "../",
+            "mockup_href": "./",
+            "home_href": "../../",
+            "search_href": "../../search/",
+            "article_data_script": json_data_script_tag("article-data", palette),
+            "year": BUILD_DATE[:4],
+        },
+    )
+    write_file(DOCS_DIR / slug / "mockup" / "index.html", content)
+
+
 def build_index_page(palettes: list[dict]) -> None:
-    title = "Farbpaletten fuer Webprojekte mit Farbpsychologie und SEO-Fokus"
+    title = "Farbpaletten für Webprojekte mit Farbpsychologie und SEO-Fokus"
     description = (
         "VibeVault zeigt Farbpaletten als Set-Cards mit Farbpsychologie, Zielgruppenfit, "
-        "Accessibility und argumentierbaren Empfehlungen fuer Webprojekte."
+        "Accessibility und argumentierbaren Empfehlungen für Webprojekte."
     )
     content = render_template(
         "index.html",
@@ -626,14 +869,15 @@ def build_index_page(palettes: list[dict]) -> None:
             "meta_description": html_text(description),
             "canonical_url": html_text(SITE_URL),
             "theme_color": html_text("#e68298"),
-            "json_ld": collection_json_ld(title, description, SITE_URL, palettes),
+            "canonical_link": canonical_link_tag(SITE_URL),
+            "json_ld_script": json_ld_script_tag(collection_json_ld(title, description, SITE_URL, palettes)),
             "palette_count": str(len(palettes)),
             "palette_cards": "\n".join(palette_card(palette) for palette in palettes),
             "featured_questions": question_cards(
                 [
                     "Welche Farben passen zu welcher Branche?",
-                    "Welche Farbpalette ist fuer ein neues Produkt glaubwuerdig?",
-                    "Warum sind neutrale Grautoene im E-Commerce oft nicht genug?",
+                    "Welche Farbpalette ist für ein neues Produkt glaubwürdig?",
+                    "Warum sind neutrale Grautöne im E-Commerce oft nicht genug?",
                 ]
             ),
             "search_href": "search/",
@@ -647,7 +891,7 @@ def build_search_page(palettes: list[dict]) -> None:
     title = "Suche: passende Farbpalette nach Zielgruppe, Branche und Wirkung"
     description = (
         "Filtere Farbpaletten nach Vibe, Branche, Keywords und Entscheidungsfragen. "
-        "So findest du schneller eine argumentierbare Farbpalette fuer dein Webprojekt."
+        "So findest du schneller eine argumentierbare Farbpalette für dein Webprojekt."
     )
     palette_index = [
         {
@@ -683,9 +927,12 @@ def build_search_page(palettes: list[dict]) -> None:
             "meta_description": html_text(description),
             "canonical_url": html_text(to_absolute_url("search/")),
             "theme_color": html_text("#36b7a7"),
-            "json_ld": collection_json_ld(title, description, to_absolute_url("search/"), palettes),
+            "canonical_link": canonical_link_tag(to_absolute_url("search/")),
+            "json_ld_script": json_ld_script_tag(
+                collection_json_ld(title, description, to_absolute_url("search/"), palettes)
+            ),
             "search_cards": "\n".join(palette_search_card(palette) for palette in palettes),
-            "palette_index_json": script_json(palette_index),
+            "search_data_script": json_data_script_tag("search-data", palette_index),
             "vibe_options": vibe_options,
             "industry_options": industry_options,
             "home_href": "../",
@@ -737,11 +984,12 @@ def main() -> None:
     if not article_paths:
         raise SystemExit("No JSON files found in src/articles/")
 
-    palettes = [validate_palette(load_json(path), path) for path in article_paths]
+    palettes = [humanize_palette(validate_palette(load_json(path), path)) for path in article_paths]
     reset_docs_dir()
     copy_assets()
     for palette in palettes:
         build_article_page(palette)
+        build_mockup_page(palette)
     build_index_page(palettes)
     build_search_page(palettes)
     build_support_files(palettes)

@@ -2,7 +2,7 @@
   "title": "Legal & Consulting",
   "slug": "legal-consulting",
   "vibe": "Quiet Authority",
-  "summary": "Eine diskrete Premium-Palette fuer Kanzleien, Notariate und Beratungen, die Souveraenitaet, Vertrauen und leise Exklusivitaet zeigen wollen.",
+  "summary": "Eine diskrete Premium-Palette für Kanzleien, Notariate und Beratungen, die Souveränität, Vertrauen und leise Exklusivität zeigen wollen.",
   "keywords": [
     "Farbpalette Kanzlei",
     "Farben Notar Website",
@@ -10,8 +10,8 @@
     "Business & Institutionen"
   ],
   "seo": {
-    "meta_title": "Legal & Consulting: Farbpalette fuer Kanzleien und diskrete Premium Auftritte",
-    "meta_description": "Welche Farben passen zu Kanzleien und Notaren? Legal & Consulting kombiniert warme Steinwerte, leise Prestige-Signale und hohe Lesbarkeit fuer vertrauensvolle Premium-Portale.",
+    "meta_title": "Legal & Consulting: Farbpalette für Kanzleien und diskrete Premium Auftritte",
+    "meta_description": "Welche Farben passen zu Kanzleien und Notaren? Legal & Consulting kombiniert warme Steinwerte, leise Prestige-Signale und hohe Lesbarkeit für vertrauensvolle Premium-Portale.",
     "focus_keyword": "Farbpalette Kanzlei",
     "questions": [
       "Welche Farben passen zu einer Kanzlei oder einem Notariat?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent ruhige Steinflaechen, 30 Prozent warmes Pergament fuer Tiefenstaffelung und 10 Prozent Bronze fuer diskrete Signale, Links und Fokusmomente."
+    "note": "60 Prozent ruhige Steinflächen, 30 Prozent warmes Pergament für Tiefenstaffelung und 10 Prozent Bronze für diskrete Signale, Links und Fokusmomente."
   },
   "accessibility": {
     "text_on_primary": 6.55,
@@ -46,21 +46,21 @@
     "Strategieberatung"
   ],
   "audiences": [
-    "Vermoegende Privatkundschaft",
+    "Vermögende Privatkundschaft",
     "Unternehmensmandate",
-    "Vertrauenssuchende Entscheidungstraeger"
+    "Vertrauenssuchende Entscheidungsträger"
   ],
   "brand_traits": [
     "diskret",
     "prestigebewusst",
-    "souveraen",
+    "souverän",
     "geordnet"
   ],
   "color_psychology": {
     "primary": {
       "name": "Stone Authority",
-      "psychology": "Der warme Steinwert vermittelt Ruhe, Reife und den Eindruck kontrollierter Zurueckhaltung.",
-      "best_for": "Kanzleiprofile, Leistungsbloecke, Teamsektionen",
+      "psychology": "Der warme Steinwert vermittelt Ruhe, Reife und den Eindruck kontrollierter Zurückhaltung.",
+      "best_for": "Kanzleiprofile, Leistungsblöcke, Teamsektionen",
       "risk": "Zu viel Stein kann formalistisch und wenig lebendig wirken."
     },
     "secondary": {
@@ -78,29 +78,29 @@
   },
   "decision_support": {
     "best_for": [
-      "Kanzleiwebsites mit hoher Vertrauenshuerde",
+      "Kanzleiwebsites mit hoher Vertrauenshürde",
       "Beratungsportale mit Premium-Anspruch",
-      "Notar- und Private-Client Auftritte mit diskreter Exklusivitaet"
+      "Notar- und Private-Client Auftritte mit diskreter Exklusivität"
     ],
     "avoid_for": [
       "Massenmarkt-Shops mit hoher Promotionsdichte",
       "Jugendnahe Plattformen mit spielerischer Energie",
-      "Security-Produkte, die staerkere technische Signalwirkung brauchen"
+      "Security-Produkte, die stärkere technische Signalwirkung brauchen"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Prestige leise statt laut kommuniziert",
-        "reason": "Sie nutzt Materialassoziationen und Waerme statt goldene Effektsprache. Das wirkt vertrauensvoller und erwachsener."
+        "reason": "Sie nutzt Materialassoziationen und Wärme statt goldene Effektsprache. Das wirkt vertrauensvoller und erwachsener."
       },
       {
         "claim": "Warum Diskretion hier ein Conversion-Faktor ist",
-        "reason": "Mandantinnen und Mandanten suchen in sensiblen Kontexten keine Unterhaltung, sondern Sicherheit, Ordnung und Seriositaet."
+        "reason": "Mandantinnen und Mandanten suchen in sensiblen Kontexten keine Unterhaltung, sondern Sicherheit, Ordnung und Seriosität."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu einer Kanzlei?",
-        "answer": "Warme Neutrals, dunkle Typografie und sparsame Prestige-Akzente schaffen einen belastbaren Rahmen fuer Vertrauen und Zurueckhaltung."
+        "answer": "Warme Neutrals, dunkle Typografie und sparsame Prestige-Akzente schaffen einen belastbaren Rahmen für Vertrauen und Zurückhaltung."
       },
       {
         "question": "Wie vermittelt man Prestige ohne Kitsch?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Private Client<\/span><h3>Mandat anfragen<\/h3><p>Diskrete Signale, ruhige Flaechen und eine kontrollierte Premium-Anmutung.<\/p><button class='btn btn-cta' type='button'>Erstgespraech<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Private Client<\/span><h3>Mandat anfragen<\/h3><p>Diskrete Signale, ruhige Flächen und eine kontrollierte Premium-Anmutung.<\/p><button class='btn btn-cta' type='button'>Erstgespräch<\/button><\/section>"
 }

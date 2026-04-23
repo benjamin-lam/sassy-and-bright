@@ -2,7 +2,7 @@
   "title": "Industrial Strength",
   "slug": "industrial-strength",
   "vibe": "Safety Forward",
-  "summary": "Eine robuste Palette fuer Handwerk, Logistik und Bauwesen, die Sicherheitslogik, Orientierung und physische Verlaesslichkeit sichtbar machen soll.",
+  "summary": "Eine robuste Palette für Handwerk, Logistik und Bauwesen, die Sicherheitslogik, Orientierung und physische Verlässlichkeit sichtbar machen soll.",
   "keywords": [
     "Farbpalette Bauunternehmen",
     "Farben Logistik",
@@ -10,8 +10,8 @@
     "Business & Institutionen"
   ],
   "seo": {
-    "meta_title": "Industrial Strength: Farbpalette fuer Bau, Logistik und Handwerk",
-    "meta_description": "Welche Farben passen zu Bauunternehmen und Logistik? Industrial Strength verbindet Materialnahe, Sicherheitslogik und klare Kontraste fuer robuste Webauftritte.",
+    "meta_title": "Industrial Strength: Farbpalette für Bau, Logistik und Handwerk",
+    "meta_description": "Welche Farben passen zu Bauunternehmen und Logistik? Industrial Strength verbindet Materialnahe, Sicherheitslogik und klare Kontraste für robuste Webauftritte.",
     "focus_keyword": "Farbpalette Bauunternehmen",
     "questions": [
       "Welche Farben passen zu Bauunternehmen und Logistik?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent helle Materialflaechen fuer Ruhe, 30 Prozent Sand und Stahlanmutung fuer Struktur, 10 Prozent Signalorange fuer CTAs, Labels und Sicherheitsbezug."
+    "note": "60 Prozent helle Materialflächen für Ruhe, 30 Prozent Sand und Stahlanmutung für Struktur, 10 Prozent Signalorange für CTAs, Labels und Sicherheitsbezug."
   },
   "accessibility": {
     "text_on_primary": 6.38,
@@ -52,28 +52,28 @@
   ],
   "brand_traits": [
     "robust",
-    "verlaesslich",
+    "verlässlich",
     "praktisch",
     "sicherheitsorientiert"
   ],
   "color_psychology": {
     "primary": {
       "name": "Material Sand",
-      "psychology": "Erinnert an Werkstoff, Bodenstaendigkeit und geerdete Arbeit statt an abstrakte Markeninszenierung.",
-      "best_for": "Leistungsseiten, Referenzbloecke, Baustellenmodule",
+      "psychology": "Erinnert an Werkstoff, Bodenständigkeit und geerdete Arbeit statt an abstrakte Markeninszenierung.",
+      "best_for": "Leistungsseiten, Referenzblöcke, Baustellenmodule",
       "risk": "Zu viel Sand ohne klaren Kontrast kann alt und staubig wirken."
     },
     "secondary": {
       "name": "Workshop Beige",
-      "psychology": "Beruhigt das Layout und gibt technischen oder logistischen Informationen eine lesbare Buehne.",
+      "psychology": "Beruhigt das Layout und gibt technischen oder logistischen Informationen eine lesbare Bühne.",
       "best_for": "Tabellen, Angebotsboxen, Vergleichssektionen",
-      "risk": "Ohne moderne Typografie kippt der Eindruck schnell in konservative Broschuere."
+      "risk": "Ohne moderne Typografie kippt der Eindruck schnell in konservative Broschüre."
     },
     "accent": {
       "name": "Safety Orange",
       "psychology": "Transportiert Dringlichkeit, Aktivierung und das mentale Modell von Beschilderung und Sichtbarkeit.",
       "best_for": "CTAs, Warnhinweise, Quick Actions",
-      "risk": "Ein ueberdosierter Signalton erzeugt Alarmismus statt Kontrolle."
+      "risk": "Ein überdosierter Signalton erzeugt Alarmismus statt Kontrolle."
     }
   },
   "decision_support": {
@@ -83,18 +83,18 @@
       "Handwerksmarken mit starker physischer Produktwelt"
     ],
     "avoid_for": [
-      "Luxury-Immobilien mit exklusiver, stiller Tonalitaet",
+      "Luxury-Immobilien mit exklusiver, stiller Tonalität",
       "Mindfulness-Angebote mit Fokus auf Ruhe und Leichtigkeit",
       "Brands, die extrem digital oder futuristisch wirken sollen"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette in industriellen Kontexten plausibel ist",
-        "reason": "Sie uebersetzt Sicherheits- und Werkstoffcodes in ein digitales Interface, ohne wie reine Warnbeschilderung zu wirken."
+        "reason": "Sie übersetzt Sicherheits- und Werkstoffcodes in ein digitales Interface, ohne wie reine Warnbeschilderung zu wirken."
       },
       {
-        "claim": "Warum Lifestyle-Farben hier fehl am Platz waeren",
-        "reason": "Bau und Logistik werden ueber Belastbarkeit, Orientierung und Pflichtbewusstsein gelesen. Zu dekorative Farben schwachen dieses Signal."
+        "claim": "Warum Lifestyle-Farben hier fehl am Platz wären",
+        "reason": "Bau und Logistik werden über Belastbarkeit, Orientierung und Pflichtbewusstsein gelesen. Zu dekorative Farben schwachen dieses Signal."
       }
     ],
     "faq": [
@@ -104,9 +104,9 @@
       },
       {
         "question": "Wie nutzt man Sicherheitsfarben im Web sinnvoll?",
-        "answer": "Sparsam und funktional. Signaltoene sollten Prioritaet markieren, nicht den gesamten Auftritt dominieren."
+        "answer": "Sparsam und funktional. Signaltöne sollten Priorität markieren, nicht den gesamten Auftritt dominieren."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Safety<\/span><h3>Projektstatus<\/h3><p>Klare Materialanmutung und harte Priorisierung fuer technische Leistungen und schnelle Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Referenzen ansehen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Safety<\/span><h3>Projektstatus<\/h3><p>Klare Materialanmutung und harte Priorisierung für technische Leistungen und schnelle Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Referenzen ansehen<\/button><\/section>"
 }

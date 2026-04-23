@@ -2,7 +2,7 @@
   "title": "New Adult & Romantasy",
   "slug": "new-adult-romantasy",
   "vibe": "Soft Escape",
-  "summary": "Eine eskapistische Buch- und Community-Palette fuer Romance, Romantasy und Bookstagram-nahe Formate, die Sehnsucht, Intimitaet und leichte Magie tragen soll.",
+  "summary": "Eine eskapistische Buch- und Community-Palette für Romance, Romantasy und Bookstagram-nahe Formate, die Sehnsucht, Intimität und leichte Magie tragen soll.",
   "keywords": [
     "Farbpalette Romance",
     "Bookstagram Farben",
@@ -10,13 +10,13 @@
     "Popkultur & Subkultur"
   ],
   "seo": {
-    "meta_title": "New Adult & Romantasy: Farbpalette fuer Romance und Book Communities",
-    "meta_description": "Welche Farben passen zu Romance und Romantasy? New Adult & Romantasy kombiniert Blush, Mauve und sanfte Magie fuer Community- und Buchformate mit Eskapismus.",
+    "meta_title": "New Adult & Romantasy: Farbpalette für Romance und Book Communities",
+    "meta_description": "Welche Farben passen zu Romance und Romantasy? New Adult & Romantasy kombiniert Blush, Mauve und sanfte Magie für Community- und Buchformate mit Eskapismus.",
     "focus_keyword": "Farbpalette Romance",
     "questions": [
       "Welche Farben passen zu Romance, Romantasy und Bookstagram?",
       "Wie erzeugt man Eskapismus ohne Zuckrigkeit?",
-      "Welche Palette verbindet Intimitaet und Fantasie?"
+      "Welche Palette verbindet Intimität und Fantasie?"
     ]
   },
   "colors": {
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "primary",
     "accent": "accent",
-    "note": "60 Prozent helle Traumflaechen fuer Ruhe, 30 Prozent blushige Naehe fuer Emotionalitaet und 10 Prozent mauvige Magie fuer Fokus, Kapitel und Highlights."
+    "note": "60 Prozent helle Traumflächen für Ruhe, 30 Prozent blushige Nähe für Emotionalität und 10 Prozent mauvige Magie für Fokus, Kapitel und Highlights."
   },
   "accessibility": {
     "text_on_primary": 6.12,
@@ -59,14 +59,14 @@
   "color_psychology": {
     "primary": {
       "name": "Blush Veil",
-      "psychology": "Erzeugt emotionale Naehe, Sanftheit und eine leicht romantische Grundstimmung.",
-      "best_for": "Hero-Flaechen, Buchtitel, Community-Teaser",
+      "psychology": "Erzeugt emotionale Nähe, Sanftheit und eine leicht romantische Grundstimmung.",
+      "best_for": "Hero-Flächen, Buchtitel, Community-Teaser",
       "risk": "Zu viel Blush ohne Struktur kann zu kitschig oder unentschlossen wirken."
     },
     "secondary": {
       "name": "Moon Paper",
-      "psychology": "Schafft Luft fuer Rezensionen, Kapitel und Community-Inhalte, ohne die Traumstimmung zu verlieren.",
-      "best_for": "Listen, Rezensionen, Textbloecke",
+      "psychology": "Schafft Luft für Rezensionen, Kapitel und Community-Inhalte, ohne die Traumstimmung zu verlieren.",
+      "best_for": "Listen, Rezensionen, Textblöcke",
       "risk": "Ein zu weiches Gesamtbild schwacht den Charakter der Marke."
     },
     "accent": {
@@ -79,18 +79,18 @@
   "decision_support": {
     "best_for": [
       "Buchcommunities und Empfehlungsplattformen",
-      "Landingpages fuer Romance- und Romantasy-Reihen",
+      "Landingpages für Romance- und Romantasy-Reihen",
       "Creator-Marken mit intimer, emotionaler Ansprache"
     ],
     "avoid_for": [
-      "Haerte und Sicherheitsversprechen im B2B-Umfeld",
-      "Behoerden- und Klinikportale",
+      "Härte und Sicherheitsversprechen im B2B-Umfeld",
+      "Behörden- und Klinikportale",
       "Roh-digitale Subkulturen mit Anti-Design-Haltung"
     ],
     "argumentation": [
       {
         "claim": "Warum diese Palette Eskapismus statt Zucker transportiert",
-        "reason": "Sie nutzt sanfte, erwachsene Tinten mit klarer Typografie statt bonbonartige Maerchenfarben."
+        "reason": "Sie nutzt sanfte, erwachsene Tinten mit klarer Typografie statt bonbonartige Märchenfarben."
       },
       {
         "claim": "Warum Romantasy Struktur braucht",
@@ -100,13 +100,13 @@
     "faq": [
       {
         "question": "Welche Farben passen zu Romance und Romantasy?",
-        "answer": "Weiche Blush- und Mauvetoene mit sauberem Kontrast funktionieren oft gut, wenn Intimitaet und Fantasie zusammenspielen sollen."
+        "answer": "Weiche Blush- und Mauvetöne mit sauberem Kontrast funktionieren oft gut, wenn Intimität und Fantasie zusammenspielen sollen."
       },
       {
         "question": "Wie erzeugt man Eskapismus ohne Kitsch?",
-        "answer": "Durch sanfte Farbigkeit, kontrollierte Akzente und eine erwachsene typografische Fuehrung."
+        "answer": "Durch sanfte Farbigkeit, kontrollierte Akzente und eine erwachsene typografische Führung."
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Read<\/span><h3>Neue Welt<\/h3><p>Sanfte Magie und emotionale Naehe fuer Reihen, Rezensionen und Community-Momente.<\/p><button class='btn btn-cta' type='button'>Kapitel lesen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Read<\/span><h3>Neue Welt<\/h3><p>Sanfte Magie und emotionale Nähe für Reihen, Rezensionen und Community-Momente.<\/p><button class='btn btn-cta' type='button'>Kapitel lesen<\/button><\/section>"
 }

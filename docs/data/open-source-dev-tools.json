@@ -2,7 +2,7 @@
   "title": "Open Source & Dev-Tools",
   "slug": "open-source-dev-tools",
   "vibe": "Functional Flow",
-  "summary": "Eine nuetzliche, klare Palette fuer Dokumentationen, Entwicklerprodukte und IDE-nahe Interfaces, bei der Funktion, Scannbarkeit und langlebige Lesbarkeit vor Image stehen.",
+  "summary": "Eine nützliche, klare Palette für Dokumentationen, Entwicklerprodukte und IDE-nahe Interfaces, bei der Funktion, Scannbarkeit und langlebige Lesbarkeit vor Image stehen.",
   "keywords": [
     "Farbpalette Dokumentation",
     "Dev Tools Farben",
@@ -10,8 +10,8 @@
     "Tech & Future"
   ],
   "seo": {
-    "meta_title": "Open Source & Dev-Tools: Farbpalette fuer Doku, IDEs und Entwicklerprodukte",
-    "meta_description": "Welche Farben passen zu Dokumentationen und Dev-Tools? Open Source & Dev-Tools priorisiert Funktionalitaet, Scannbarkeit und ruhige Lesbarkeit fuer Entwicklerprodukte.",
+    "meta_title": "Open Source & Dev-Tools: Farbpalette für Doku, IDEs und Entwicklerprodukte",
+    "meta_description": "Welche Farben passen zu Dokumentationen und Dev-Tools? Open Source & Dev-Tools priorisiert Funktionalität, Scannbarkeit und ruhige Lesbarkeit für Entwicklerprodukte.",
     "focus_keyword": "Farbpalette Dokumentation",
     "questions": [
       "Welche Farben passen zu Dokumentationen und Dev-Tools?",
@@ -31,7 +31,7 @@
     "dominant": "bg",
     "supporting": "secondary",
     "accent": "accent",
-    "note": "60 Prozent Papierflaechen fuer lange Lesestrecken, 30 Prozent leichte Systemgruppen fuer Informationsstruktur und 10 Prozent Code-nahes Gruen fuer Navigation und interaktive Elemente."
+    "note": "60 Prozent Papierflächen für lange Lesestrecken, 30 Prozent leichte Systemgruppen für Informationsstruktur und 10 Prozent Code-nahes Grün für Navigation und interaktive Elemente."
   },
   "accessibility": {
     "text_on_primary": 7.35,
@@ -52,35 +52,35 @@
   ],
   "brand_traits": [
     "funktional",
-    "nuechtern",
+    "nüchtern",
     "hilfreich",
     "dauerhaft"
   ],
   "color_psychology": {
     "primary": {
       "name": "Repo Green",
-      "psychology": "Ein leises Gruen verweist auf Build, Status und Entwicklungsumgebungen, ohne den Lesefluss zu belasten.",
+      "psychology": "Ein leises Grün verweist auf Build, Status und Entwicklungsumgebungen, ohne den Lesefluss zu belasten.",
       "best_for": "Navigationsbereiche, Sektionstitel, Statusmodule",
-      "risk": "Zu viel Tool-Gruen kann altbacken oder utilitaristisch wirken."
+      "risk": "Zu viel Tool-Grün kann altbacken oder utilitaristisch wirken."
     },
     "secondary": {
       "name": "Doc Surface",
-      "psychology": "Gibt langen Texten, Tabellen und Beispielcodes eine ordentliche, unaufgeregte Buehne.",
+      "psychology": "Gibt langen Texten, Tabellen und Beispielcodes eine ordentliche, unaufgeregte Bühne.",
       "best_for": "Artikel, API-Referenzen, Dokumentationsseiten",
-      "risk": "Zu wenig visuelle Betonung laesst die Orientierung in grossen Docs leiden."
+      "risk": "Zu wenig visuelle Betonung lässt die Orientierung in grossen Docs leiden."
     },
     "accent": {
       "name": "Commit Mark",
-      "psychology": "Setzt kleine, funktionale Signale, die an Produktivitaet und Tooling erinnern.",
+      "psychology": "Setzt kleine, funktionale Signale, die an Produktivität und Tooling erinnern.",
       "best_for": "Links, aktive States, Hinweise",
-      "risk": "Ein zu schmaler Akzentradius kann die Produktsignatur zu unauffaellig machen."
+      "risk": "Ein zu schmaler Akzentradius kann die Produktsignatur zu unauffällig machen."
     }
   },
   "decision_support": {
     "best_for": [
       "Dokuseiten mit langen Lesestrecken",
       "IDE-nahe Produkte und Plattformen mit vielen Zustandswechseln",
-      "Open-Source-Marken, die Funktion ueber Show priorisieren"
+      "Open-Source-Marken, die Funktion über Show priorisieren"
     ],
     "avoid_for": [
       "Entertainment-Marken mit hoher visueller Dramaturgie",
@@ -90,17 +90,17 @@
     "argumentation": [
       {
         "claim": "Warum diese Palette bei Entwicklerprodukten funktioniert",
-        "reason": "Sie reduziert visuelles Rauschen und unterstuetzt Scannbarkeit. Genau das ist bei Doku, APIs und Tools ein echter Mehrwert."
+        "reason": "Sie reduziert visuelles Rauschen und unterstützt Scannbarkeit. Genau das ist bei Doku, APIs und Tools ein echter Mehrwert."
       },
       {
-        "claim": "Warum Funktionalitaet nicht gleich Lieblosigkeit bedeutet",
-        "reason": "Eine saubere, ruhige Palette kann sehr eigenstaendig sein, wenn sie konsistent und konsequent auf Nutzungslogik abgestimmt ist."
+        "claim": "Warum Funktionalität nicht gleich Lieblosigkeit bedeutet",
+        "reason": "Eine saubere, ruhige Palette kann sehr eigenständig sein, wenn sie konsistent und konsequent auf Nutzungslogik abgestimmt ist."
       }
     ],
     "faq": [
       {
         "question": "Welche Farben passen zu Dokumentationen und Dev-Tools?",
-        "answer": "Helle, ruhige Flaechen mit begrenzten Funktionsakzenten sind oft ideal, weil sie Lesen, Vergleichen und Navigieren erleichtern."
+        "answer": "Helle, ruhige Flächen mit begrenzten Funktionsakzenten sind oft ideal, weil sie Lesen, Vergleichen und Navigieren erleichtern."
       },
       {
         "question": "Wie wirkt ein Entwicklerprodukt funktional statt langweilig?",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Docs<\/span><h3>API Reference<\/h3><p>Ruhige Scannbarkeit fuer lange Lesewege, Beispiele und produktive Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Dokumentation lesen<\/button><\/section>"
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Docs<\/span><h3>API Reference<\/h3><p>Ruhige Scannbarkeit für lange Lesewege, Beispiele und produktive Entscheidungen.<\/p><button class='btn btn-cta' type='button'>Dokumentation lesen<\/button><\/section>"
 }
