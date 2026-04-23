@@ -160,7 +160,7 @@ python3 build.py
 Optional mit sauberer Canonical-URL:
 
 ```bash
-SITE_URL="https://dein-name.github.io/sassy-and-bright/" python3 build.py
+SITE_URL="https://github.com/benjamin-lam/sassy-and-bright/" python3 build.py
 ```
 
 Der Build:

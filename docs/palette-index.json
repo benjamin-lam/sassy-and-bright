@@ -1,0 +1,2552 @@
+[
+  {
+    "title": "Sachlich & Professionell: Architektur-Stil",
+    "slug": "sachlich-professionell-architektur-stil",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Architektur-Stil"
+    },
+    "vibe": "Concrete Precision / Betonige Präzision",
+    "summary": "Betongrau mit einem harten Akzent in Ziegelrot für Architekturbüros, Ingenieurdienstleister und Bauplanungsportale. Die Palette kommuniziert Materialität und strukturellen Anspruch.",
+    "keywords": [
+      "Farbpalette Architekturbüro",
+      "Sachlich & Professionell",
+      "Architektur-Stil",
+      "Business & Institutionen",
+      "Bauplanung",
+      "Ingenieurwesen"
+    ],
+    "industry_match": [
+      "Architekturbüros",
+      "Stadtplanung",
+      "Bauingenieurwesen"
+    ],
+    "audiences": [
+      "Auftraggeber und Investoren",
+      "Projektentwickler",
+      "Planungsbehörden"
+    ],
+    "brand_traits": [
+      "präzise",
+      "materiell",
+      "strukturiert",
+      "handwerklich"
+    ],
+    "focus_keyword": "Farbpalette Architekturbüro",
+    "questions": [
+      "Welche Farben passen für Architekturbüro-Websites?",
+      "Warum verwenden Architekturbüros oft Grau und Erde?",
+      "Wie setze ich Materialität in einem Webdesign um?"
+    ],
+    "colors": {
+      "primary": "#a0a0a0",
+      "secondary": "#e8e8e8",
+      "accent": "#8b3a3a",
+      "bg": "#f5f5f5",
+      "text": "#2c2c2c",
+      "card": "#fafafa"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Behörden-Blau",
+    "slug": "sachlich-professionell-behoerden-blau",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Behörden-Blau"
+    },
+    "vibe": "Civic Trust / Institutionelles Vertrauen",
+    "summary": "Traditionelle Blautöne für öffentliche Institutionen und Behördenwebsites, die Ruhe und Sicherheit vermitteln sollen. Die Palette folgt dem visuellen Erwartungshorizont öffentlicher Dienstleistungen.",
+    "keywords": [
+      "Farbpalette Behörde",
+      "Sachlich & Professionell",
+      "Behörden-Blau",
+      "Business & Institutionen",
+      "öffentliche Verwaltung",
+      "Institutionsdesign"
+    ],
+    "industry_match": [
+      "Öffentliche Verwaltung",
+      "Kommunen und Landkreise",
+      "Bundesbehörden"
+    ],
+    "audiences": [
+      "Bürgerinnen und Bürger",
+      "Antragsteller",
+      "Mitarbeitende öffentlicher Stellen"
+    ],
+    "brand_traits": [
+      "vertrauenswürdig",
+      "ruhig",
+      "zuverlässig",
+      "bürgernah"
+    ],
+    "focus_keyword": "Farbpalette Behörde",
+    "questions": [
+      "Welche Farben passen für Behörden-Websites?",
+      "Warum verwenden öffentliche Institutionen oft Blau?",
+      "Wie gestalte ich ein Verwaltungsportal nutzerfreundlich?"
+    ],
+    "colors": {
+      "primary": "#90afc5",
+      "secondary": "#dce8f0",
+      "accent": "#2e5f8a",
+      "bg": "#f4f7fa",
+      "text": "#1a2e3f",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Büro-Alltag",
+    "slug": "sachlich-professionell-buero-alltag",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Büro-Alltag"
+    },
+    "vibe": "Warm Efficiency / Warme Effizienz",
+    "summary": "Dezentes Beige und gedämpftes Blau für interne Verwaltungssysteme und Büro-Anwendungen. Büro-Alltag schafft eine warme, unaufgeregte Arbeitsatmosphäre für tagesbegleitende Tools.",
+    "keywords": [
+      "Farbpalette Enterprise Tool",
+      "Sachlich & Professionell",
+      "Büro-Alltag",
+      "Business & Institutionen",
+      "Verwaltungssoftware",
+      "Büro-Anwendung"
+    ],
+    "industry_match": [
+      "Buroverwaltung",
+      "HR-Software",
+      "Projektmanagement-Tools"
+    ],
+    "audiences": [
+      "Buromitarbeiter",
+      "Sachbearbeiter",
+      "Team-Leads und Projektmanager"
+    ],
+    "brand_traits": [
+      "warm",
+      "ruhig",
+      "alltagstauglich",
+      "unaufdringlich"
+    ],
+    "focus_keyword": "Farbpalette Enterprise Tool",
+    "questions": [
+      "Welche Farben fördern die Produktivität in Büro-Software?",
+      "Wann ist Beige eine gute Wahl für Unternehmenstools?",
+      "Wie unterscheide ich Enterprise-UI von Consumer-UI farblich?"
+    ],
+    "colors": {
+      "primary": "#c9b99a",
+      "secondary": "#eae4d9",
+      "accent": "#5c7da8",
+      "bg": "#f7f4ef",
+      "text": "#2d2922",
+      "card": "#fffdf9"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Dunkle Marine",
+    "slug": "sachlich-professionell-dunkle-marine",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Dunkle Marine"
+    },
+    "vibe": "Calm Authority / Ruhige Autorität",
+    "summary": "Tiefes Marineblau mit hellem Grau für klassische Firmenseiten, die Stabilität und Professionalität ausstrahlen. Diese Palette eignet sich für Unternehmenswebsites mit hohem Vertrauensbedarf.",
+    "keywords": [
+      "Farbpalette Firmenseite",
+      "Sachlich & Professionell",
+      "Dunkle Marine",
+      "Business & Institutionen",
+      "Corporate Design",
+      "Marineblau"
+    ],
+    "industry_match": [
+      "Unternehmensberatung",
+      "Finanzdienstleistungen",
+      "Industrieunternehmen"
+    ],
+    "audiences": [
+      "Geschäftsführung und Management",
+      "Investor-Relations-Teams",
+      "B2B-Entscheider"
+    ],
+    "brand_traits": [
+      "seriös",
+      "stabil",
+      "klassisch",
+      "vertrauenswürdig"
+    ],
+    "focus_keyword": "Farbpalette Firmenseite",
+    "questions": [
+      "Welche Farben wirken auf Firmenseiten seriös und klassisch?",
+      "Wann passt Marineblau im Corporate Design?",
+      "Wie unterscheidet sich Dunkle Marine von hellerem Businessblau?"
+    ],
+    "colors": {
+      "primary": "#b8c8d8",
+      "secondary": "#dde8f0",
+      "accent": "#1e3a5f",
+      "bg": "#f4f6f8",
+      "text": "#0f1e2b",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Finanz-Grün",
+    "slug": "sachlich-professionell-finanz-gruen",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Finanz-Grün"
+    },
+    "vibe": "Stable Growth / Stabiles Wachstum",
+    "summary": "Dunkles Waldgrün kombiniert mit hellem Papierweiss für vertrauenswürdige Finanzplattformen und Investment-Websites. Finanz-Grün verbindet Stabilität mit einem Wachstumsversprechen.",
+    "keywords": [
+      "Farbpalette Finanzportal",
+      "Sachlich & Professionell",
+      "Finanz-Grün",
+      "Business & Institutionen",
+      "Investmentplattform",
+      "Banking Design"
+    ],
+    "industry_match": [
+      "Vermögensverwaltung",
+      "Banking-Interfaces",
+      "Nachhaltige Investmentfonds"
+    ],
+    "audiences": [
+      "Privatanleger und Investoren",
+      "Finanzberater",
+      "ESG-orientierte Unternehmen"
+    ],
+    "brand_traits": [
+      "stabil",
+      "wachstumsorientiert",
+      "nachhaltig",
+      "vertrauenswürdig"
+    ],
+    "focus_keyword": "Farbpalette Finanzportal",
+    "questions": [
+      "Welche Farben signalisieren Stabilität auf Finanzwebsites?",
+      "Warum eignet sich Grün für Banking- und Investment-Interfaces?",
+      "Wie unterscheidet sich Finanz-Grün von typischem Unternehmensblau?"
+    ],
+    "colors": {
+      "primary": "#2d6a4f",
+      "secondary": "#d8f3dc",
+      "accent": "#1b4332",
+      "bg": "#f9fefb",
+      "text": "#1b3a2d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Graphit & Weiss",
+    "slug": "sachlich-professionell-graphit-weiss",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Graphit & Weiss"
+    },
+    "vibe": "Sharp Precision / Klare Präzision",
+    "summary": "Strenger Kontrast aus Graphitgrau und Reinweiss für technische Dokumentationen und Reports. Die Variante Graphit & Weiss maximiert Lesbarkeit bei hohem Textanteil.",
+    "keywords": [
+      "Farbpalette Dokumentation",
+      "Sachlich & Professionell",
+      "Graphit Weiss",
+      "Business & Institutionen",
+      "technischer Report",
+      "Lesbarkeit"
+    ],
+    "industry_match": [
+      "Technische Dokumentation",
+      "Wissenschaft und Forschung",
+      "Unternehmensberichterstattung"
+    ],
+    "audiences": [
+      "Technische Redakteure",
+      "Compliance-Beauftragte",
+      "Wissenschaftler und Analysten"
+    ],
+    "brand_traits": [
+      "präzise",
+      "sachlich",
+      "klar",
+      "strukturiert"
+    ],
+    "focus_keyword": "Farbpalette Dokumentation",
+    "questions": [
+      "Welche Farben fördern die Lesbarkeit technischer Dokumente?",
+      "Wann ist Graphit besser als Schwarz für Textinterfaces?",
+      "Wie gestalte ich Reports und Handbücher lesbar?"
+    ],
+    "colors": {
+      "primary": "#546e7a",
+      "secondary": "#e0e0e0",
+      "accent": "#37474f",
+      "bg": "#fafafa",
+      "text": "#212121",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Helles Schiefer",
+    "slug": "sachlich-professionell-helles-schiefer",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Helles Schiefer"
+    },
+    "vibe": "Clean Interface / Klares Interface",
+    "summary": "Kühle Grautöne mit einem Petrol-Akzent für Software-Oberflächen und SaaS-Dashboards. Die Variante Helles Schiefer steht für präzise, werkzeughafte Interfaces ohne dekorativen Ballast.",
+    "keywords": [
+      "Farbpalette Software UI",
+      "Sachlich & Professionell",
+      "Helles Schiefer",
+      "Business & Institutionen",
+      "SaaS Design",
+      "Petrol Akzent"
+    ],
+    "industry_match": [
+      "SaaS-Produkte",
+      "Enterprise Software",
+      "Daten-Dashboards"
+    ],
+    "audiences": [
+      "Produktteams und UX-Designer",
+      "Entwickler und technische Nutzer",
+      "Operations-Teams"
+    ],
+    "brand_traits": [
+      "präzise",
+      "werkzeughaft",
+      "zuverlässig",
+      "klar"
+    ],
+    "focus_keyword": "Farbpalette Software UI",
+    "questions": [
+      "Welche Farben eignen sich für professionelle Software-Interfaces?",
+      "Wann passt Petrol als Akzentfarbe in sachlichen Designs?",
+      "Warum sind Grautöne für Dashboards besser als Buntes?"
+    ],
+    "colors": {
+      "primary": "#b0bec5",
+      "secondary": "#eceff1",
+      "accent": "#00695c",
+      "bg": "#f5f7f8",
+      "text": "#263238",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Juristisches Grau",
+    "slug": "sachlich-professionell-juristisches-grau",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Juristisches Grau"
+    },
+    "vibe": "Legal Gravity / Juristische Schwere",
+    "summary": "Dunkle, gedeckte Farben für seriöse Textinhalte in juristischen, compliance-bezogenen und formalen Web-Kontexten. Juristisches Grau kommuniziert Ernsthaftigkeit und Verlässlichkeit.",
+    "keywords": [
+      "Farbpalette Kanzlei",
+      "Sachlich & Professionell",
+      "Juristisches Grau",
+      "Business & Institutionen",
+      "Rechtswebsite",
+      "Compliance Design"
+    ],
+    "industry_match": [
+      "Rechtsanwaltskanzleien",
+      "Steuerberatung",
+      "Compliance-Abteilungen"
+    ],
+    "audiences": [
+      "Mandanten auf Informationssuche",
+      "Unternehmensjuristen",
+      "Compliance-Manager"
+    ],
+    "brand_traits": [
+      "seriös",
+      "zuverlässig",
+      "kompetent",
+      "diskret"
+    ],
+    "focus_keyword": "Farbpalette Kanzlei",
+    "questions": [
+      "Welche Farben wirken bei Kanzleiwebsites seriös?",
+      "Wie gestalte ich eine Rechtswebsite farblich korrekt?",
+      "Warum sind helle Farben auf juristischen Websites riskant?"
+    ],
+    "colors": {
+      "primary": "#7f8c8d",
+      "secondary": "#d5d8dc",
+      "accent": "#5d6d7e",
+      "bg": "#f8f9f9",
+      "text": "#1b2631",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Neutrales Grau",
+    "slug": "sachlich-professionell-neutrales-grau",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Neutrales Grau"
+    },
+    "vibe": "Silent Background / Ruhiger Hintergrund",
+    "summary": "Abgestufte Grautöne ohne Farbstich für neutrale Verwaltungs-Backends und Datenportale. Neutrales Grau tritt visuell zurück und lässt Inhalte und Daten in den Vordergrund.",
+    "keywords": [
+      "Farbpalette Backend",
+      "Sachlich & Professionell",
+      "Neutrales Grau",
+      "Business & Institutionen",
+      "Verwaltungssystem",
+      "Admin UI"
+    ],
+    "industry_match": [
+      "Verwaltungssoftware",
+      "ERP-Systeme",
+      "Interne Unternehmenstools"
+    ],
+    "audiences": [
+      "Verwaltungsmitarbeiter",
+      "Operations-Teams",
+      "Datenerfassungs-Spezialisten"
+    ],
+    "brand_traits": [
+      "neutral",
+      "unaufdringlich",
+      "strukturiert",
+      "funktional"
+    ],
+    "focus_keyword": "Farbpalette Backend",
+    "questions": [
+      "Welche Farben passen für Admin-Interfaces und Verwaltungstools?",
+      "Warum ist Grau für Daten-Backends oft die beste Wahl?",
+      "Wie vermeidet man visuelle Reizüberflutung in Admin-Panels?"
+    ],
+    "colors": {
+      "primary": "#bdbdbd",
+      "secondary": "#eeeeee",
+      "accent": "#757575",
+      "bg": "#fafafa",
+      "text": "#212121",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sachlich & Professionell: Stahlblau",
+    "slug": "sachlich-professionell-stahlblau",
+    "taxonomy": {
+      "sector": "Business & Institutionen",
+      "sector_slug": "business-institutionen",
+      "cluster": "Sachlich & Professionell",
+      "cluster_slug": "sachlich-professionell",
+      "variant": "Stahlblau"
+    },
+    "vibe": "Structured Trust / Strukturiertes Vertrauen",
+    "summary": "Sachliche Blaugrautöne mit Fokus auf Lesbarkeit und klarer Struktur für B2B-Websites und Intranet-Portale. Stahlblau kommuniziert Kompetenz ohne emotionalen Überdruck.",
+    "keywords": [
+      "Farbpalette B2B",
+      "Sachlich & Professionell",
+      "Stahlblau",
+      "Business & Institutionen",
+      "Intranet Design",
+      "Unternehmenskommunikation"
+    ],
+    "industry_match": [
+      "Industrieunternehmen",
+      "Logistik und Supply Chain",
+      "B2B-Dienstleister"
+    ],
+    "audiences": [
+      "Einkaufsabteilungen",
+      "Operations-Manager",
+      "IT-Entscheider in Unternehmen"
+    ],
+    "brand_traits": [
+      "kompetent",
+      "strukturiert",
+      "verlässlich",
+      "sachlich"
+    ],
+    "focus_keyword": "Farbpalette B2B",
+    "questions": [
+      "Welche Farben eignen sich für B2B-Websites?",
+      "Warum wirkt Stahlblau in der Unternehmenskommunikation kompetent?",
+      "Wie unterscheidet sich Stahlblau von Marineblau im Webdesign?"
+    ],
+    "colors": {
+      "primary": "#90a4ae",
+      "secondary": "#e8edf0",
+      "accent": "#455a64",
+      "bg": "#f8f9fa",
+      "text": "#1c2b35",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Aprikose",
+    "slug": "pastel-aprikose",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Aprikose"
+    },
+    "vibe": "Soft Warmth / Sanfte Wärme",
+    "summary": "Weicher Mix aus Orange und Rosa für warme, einladende Beauty- und Food-Auftritte. Aprikose verbindet appetitliche Wärme mit femininer Sanftheit.",
+    "keywords": [
+      "Farbpalette Beauty und Skincare",
+      "Sanft & Pastel",
+      "Aprikose",
+      "Lifestyle & Konsum",
+      "Beauty und Skincare",
+      "Food und Catering"
+    ],
+    "industry_match": [
+      "Beauty und Skincare",
+      "Food und Catering",
+      "Feminine Lifestyle-Marken"
+    ],
+    "audiences": [
+      "Beauty-Konsumentinnen",
+      "Food-Liebhaber",
+      "Feminine Lifestyle-Zielgruppen"
+    ],
+    "brand_traits": [
+      "warm",
+      "sanft",
+      "appetitlich",
+      "feminin"
+    ],
+    "focus_keyword": "Farbpalette Beauty und Skincare",
+    "questions": [
+      "Welche Farben passen für Beauty und Food gleichzeitig?",
+      "Wann passt Aprikose?",
+      "Wann passt Aprikose?"
+    ],
+    "colors": {
+      "primary": "#ffccbc",
+      "secondary": "#fce4ec",
+      "accent": "#ff8a65",
+      "bg": "#fffdf9",
+      "text": "#2d1500",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Babyblau",
+    "slug": "pastel-babyblau",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Babyblau"
+    },
+    "vibe": "Gentle Blue / Sanftes Blau",
+    "summary": "Klassisches Hellblau für sanfte Navigation in Eltern-, Baby- und Pflegeprodukten. Babyblau schafft eine vertraute, sorgsame Atmosphäre für Pflege- und Familienmarken.",
+    "keywords": [
+      "Farbpalette Baby- und Kinderprodukte",
+      "Sanft & Pastel",
+      "Babyblau",
+      "Lifestyle & Konsum",
+      "Baby- und Kinderprodukte",
+      "Pflegeprodukte"
+    ],
+    "industry_match": [
+      "Baby- und Kinderprodukte",
+      "Pflegeprodukte",
+      "Familienmarken"
+    ],
+    "audiences": [
+      "Eltern mit kleinen Kindern",
+      "Pflegebewusste Konsumenten",
+      "Familien-Einkaufsentscheider"
+    ],
+    "brand_traits": [
+      "sanft",
+      "vertraut",
+      "sorgend",
+      "hell"
+    ],
+    "focus_keyword": "Farbpalette Baby- und Kinderprodukte",
+    "questions": [
+      "Welche Farben passen für Baby- und Pflegeprodukte?",
+      "Wann passt Babyblau?",
+      "Wann passt Babyblau?"
+    ],
+    "colors": {
+      "primary": "#bbdefb",
+      "secondary": "#e3f2fd",
+      "accent": "#64b5f6",
+      "bg": "#f8fcff",
+      "text": "#0d2137",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Baumwolle",
+    "slug": "pastel-baumwolle",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Baumwolle"
+    },
+    "vibe": "Cotton Softness / Baumwollweichheit",
+    "summary": "Weiche Graustufen für minimalen Kontrast in ruhigen Content-Plattformen und redaktionellen Designs. Baumwolle schafft einen zurückhaltenden Hintergrund für inhaltsschwere Websites.",
+    "keywords": [
+      "Farbpalette Redaktionelle Plattformen",
+      "Sanft & Pastel",
+      "Baumwolle",
+      "Lifestyle & Konsum",
+      "Redaktionelle Plattformen",
+      "Content-Marketing"
+    ],
+    "industry_match": [
+      "Redaktionelle Plattformen",
+      "Content-Marketing",
+      "Minimalistische Lifestyle-Blogs"
+    ],
+    "audiences": [
+      "Leseaffine Konsumenten",
+      "Redakteure und Content-Creator",
+      "Minimalismus-Fans"
+    ],
+    "brand_traits": [
+      "weich",
+      "zurückhaltend",
+      "ruhig",
+      "lesbar"
+    ],
+    "focus_keyword": "Farbpalette Redaktionelle Plattformen",
+    "questions": [
+      "Welche Farben fördern Lesbarkeit auf Content-Plattformen?",
+      "Wann passt Baumwolle?",
+      "Wann passt Baumwolle?"
+    ],
+    "colors": {
+      "primary": "#f5f5f5",
+      "secondary": "#eeeeee",
+      "accent": "#bdbdbd",
+      "bg": "#fafafa",
+      "text": "#424242",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Eierschale",
+    "slug": "pastel-eierschale",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Eierschale"
+    },
+    "vibe": "Warm Shell / Warme Schale",
+    "summary": "Warme Weisstöne kombiniert mit hellem Holzbraun für naturnahe Lifestyle-Brands. Eierschale schafft eine zeitlose, organische Atmosphäre für nachhaltige Produkte.",
+    "keywords": [
+      "Farbpalette Nachhaltige Lifestyle-Produkte",
+      "Sanft & Pastel",
+      "Eierschale",
+      "Lifestyle & Konsum",
+      "Nachhaltige Lifestyle-Produkte",
+      "Naturmaterialien"
+    ],
+    "industry_match": [
+      "Nachhaltige Lifestyle-Produkte",
+      "Naturmaterialien",
+      "Slow Living"
+    ],
+    "audiences": [
+      "Nachhaltigkeitsbewusste Konsumenten",
+      "Slow-Living-Fans",
+      "Natur-Produkt-Käuferschicht"
+    ],
+    "brand_traits": [
+      "warm",
+      "organisch",
+      "zeitlos",
+      "natürlich"
+    ],
+    "focus_keyword": "Farbpalette Nachhaltige Lifestyle-Produkte",
+    "questions": [
+      "Welche Farben passen für nachhaltige Lifestyle-Marken?",
+      "Wann passt Eierschale?",
+      "Wann passt Eierschale?"
+    ],
+    "colors": {
+      "primary": "#f5f0e8",
+      "secondary": "#ede0c8",
+      "accent": "#c4a882",
+      "bg": "#fdfaf5",
+      "text": "#3d2e1e",
+      "card": "#fffef9"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Gletschereis",
+    "slug": "pastel-gletschereis",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Gletschereis"
+    },
+    "vibe": "Ice Clarity / Eisklarheit",
+    "summary": "Sehr kühles, helles Blau für saubere und präzise Designs in Pharma, Tech und nachhaltigen Premium-Marken. Gletschereis kommuniziert Reinheit und kristallene Präzision.",
+    "keywords": [
+      "Farbpalette Pharma und Medizinprodukte",
+      "Sanft & Pastel",
+      "Gletschereis",
+      "Lifestyle & Konsum",
+      "Pharma und Medizinprodukte",
+      "Nachhaltige Premium-Marken"
+    ],
+    "industry_match": [
+      "Pharma und Medizinprodukte",
+      "Nachhaltige Premium-Marken",
+      "Saubere Tech-Brands"
+    ],
+    "audiences": [
+      "Gesundheitsbewusste Konsumenten",
+      "Premium-Technologie-Käufer",
+      "Nachhaltigkeit-Affine"
+    ],
+    "brand_traits": [
+      "rein",
+      "präzise",
+      "klar",
+      "premium"
+    ],
+    "focus_keyword": "Farbpalette Pharma und Medizinprodukte",
+    "questions": [
+      "Welche Farben passen für Pharma- und Premium-Marken?",
+      "Wann passt Gletschereis?",
+      "Wann passt Gletschereis?"
+    ],
+    "colors": {
+      "primary": "#e1f5fe",
+      "secondary": "#f0f9ff",
+      "accent": "#81d4fa",
+      "bg": "#f8fcff",
+      "text": "#0d2d3d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Lavendel",
+    "slug": "pastel-lavendel",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Lavendel"
+    },
+    "vibe": "Lavender Rest / Lavendel-Ruhe",
+    "summary": "Blasse Violettöne für entspannte Inhalte in Wellness- und Beauty-Kontexten. Lavendel schafft eine beruhigende, duftende Atmosphäre für Schlaf- und Entspannungsmarken.",
+    "keywords": [
+      "Farbpalette Schlaf und Entspannung",
+      "Sanft & Pastel",
+      "Lavendel",
+      "Lifestyle & Konsum",
+      "Schlaf und Entspannung",
+      "Aromatherapie"
+    ],
+    "industry_match": [
+      "Schlaf und Entspannung",
+      "Aromatherapie",
+      "Beruhigende Wellness-Produkte"
+    ],
+    "audiences": [
+      "Stress-Geplagte auf Erholungssuche",
+      "Schlaf-Optimierer",
+      "Aromatherapie-Fans"
+    ],
+    "brand_traits": [
+      "beruhigend",
+      "sanft",
+      "entspannend",
+      "duftend"
+    ],
+    "focus_keyword": "Farbpalette Schlaf und Entspannung",
+    "questions": [
+      "Welche Farben passen für Schlaf- und Entspannungsmarken?",
+      "Wann passt Lavendel?",
+      "Wann passt Lavendel?"
+    ],
+    "colors": {
+      "primary": "#ce93d8",
+      "secondary": "#f3e5f5",
+      "accent": "#ab47bc",
+      "bg": "#fdf8ff",
+      "text": "#2d1a3d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Minz-Eis",
+    "slug": "pastel-minz-eis",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Minz-Eis"
+    },
+    "vibe": "Cool Fresh / Kühle Frische",
+    "summary": "Kühles, helles Grün für moderne und frische Oberflächen im Lifestyle-Segment. Minz-Eis schafft eine saubere, erfrischende Atmosphäre für Wellness- und Beauty-Marken.",
+    "keywords": [
+      "Farbpalette Wellness und Spa",
+      "Sanft & Pastel",
+      "Minz-Eis",
+      "Lifestyle & Konsum",
+      "Wellness und Spa",
+      "Naturkosmetik"
+    ],
+    "industry_match": [
+      "Wellness und Spa",
+      "Naturkosmetik",
+      "Frische Lifestyle-Marken"
+    ],
+    "audiences": [
+      "Wellness-Affine",
+      "Naturkosmetik-Käufer",
+      "Gesundheitsbewusste Konsumenten"
+    ],
+    "brand_traits": [
+      "frisch",
+      "kuuehl",
+      "sauber",
+      "modern"
+    ],
+    "focus_keyword": "Farbpalette Wellness und Spa",
+    "questions": [
+      "Welche Farben eignen sich für Wellness-Marken?",
+      "Wann passt Minz-Eis?",
+      "Wann passt Minz-Eis?"
+    ],
+    "colors": {
+      "primary": "#b2dfdb",
+      "secondary": "#e0f2f1",
+      "accent": "#4db6ac",
+      "bg": "#f5fffe",
+      "text": "#1a3330",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Pudermantel",
+    "slug": "pastel-pudermantel",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Pudermantel"
+    },
+    "vibe": "Soft Feminine / Sanfte Femininität",
+    "summary": "Sehr helle Rosa- und Beigetöne für feminine und sanfte Lifestyle-Designs. Pudermantel schafft eine einladende, gepflegte Atmosphäre für Beauty- und Modenmarken.",
+    "keywords": [
+      "Farbpalette Beauty und Kosmetik",
+      "Sanft & Pastel",
+      "Pudermantel",
+      "Lifestyle & Konsum",
+      "Beauty und Kosmetik",
+      "Mode und Accessoires"
+    ],
+    "industry_match": [
+      "Beauty und Kosmetik",
+      "Mode und Accessoires",
+      "Brautkleidung"
+    ],
+    "audiences": [
+      "Beauty-Konsumentinnen",
+      "Mode-affine Frauen",
+      "Braut-Zielgruppen"
+    ],
+    "brand_traits": [
+      "sanft",
+      "feminin",
+      "gepflegt",
+      "einladend"
+    ],
+    "focus_keyword": "Farbpalette Beauty und Kosmetik",
+    "questions": [
+      "Welche Farben passen für Beauty-Marken?",
+      "Wann passt Pudermantel?",
+      "Wann passt Pudermantel?"
+    ],
+    "colors": {
+      "primary": "#f8d7da",
+      "secondary": "#fae8dc",
+      "accent": "#e8b4b8",
+      "bg": "#fefcfb",
+      "text": "#4a2830",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Sanddorn",
+    "slug": "pastel-sanddorn",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Sanddorn"
+    },
+    "vibe": "Warm Pastel / Warmes Pastell",
+    "summary": "Sanftes Orange mit viel Weissanteil für warme, einladende Lifestyle-Auftritte. Sanddorn schafft eine appetitliche, warmherzige Atmosphäre für Food- und Wellness-Marken.",
+    "keywords": [
+      "Farbpalette Food und Gastro",
+      "Sanft & Pastel",
+      "Sanddorn",
+      "Lifestyle & Konsum",
+      "Food und Gastro",
+      "Wellness und Naturkost"
+    ],
+    "industry_match": [
+      "Food und Gastro",
+      "Wellness und Naturkost",
+      "Saisonale Lifestyle-Marken"
+    ],
+    "audiences": [
+      "Food-Liebhaber",
+      "Wellness-Käuferschicht",
+      "Saisonal aktive Konsumenten"
+    ],
+    "brand_traits": [
+      "warm",
+      "appetitlich",
+      "einladend",
+      "natürlich"
+    ],
+    "focus_keyword": "Farbpalette Food und Gastro",
+    "questions": [
+      "Welche Farben fördern Appetit in Food-Designs?",
+      "Wann passt Sanddorn?",
+      "Wann passt Sanddorn?"
+    ],
+    "colors": {
+      "primary": "#ffcc80",
+      "secondary": "#fff3e0",
+      "accent": "#ffa726",
+      "bg": "#fffdf8",
+      "text": "#2d1900",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sanft & Pastel: Wolkengrau",
+    "slug": "pastel-wolkengrau",
+    "taxonomy": {
+      "sector": "Lifestyle & Konsum",
+      "sector_slug": "lifestyle-konsum",
+      "cluster": "Sanft & Pastel",
+      "cluster_slug": "pastel",
+      "variant": "Wolkengrau"
+    },
+    "vibe": "Cloud Minimal / Wolken-Minimal",
+    "summary": "Fast weisse Töne mit minimalem Blaustich für cleane, zurückhaltende Lifestyle-Designs. Wolkengrau schafft einen luftigen, modernen Hintergrund für minimalistische Marken.",
+    "keywords": [
+      "Farbpalette Minimale Lifestyle-Marken",
+      "Sanft & Pastel",
+      "Wolkengrau",
+      "Lifestyle & Konsum",
+      "Minimale Lifestyle-Marken",
+      "Interior Design"
+    ],
+    "industry_match": [
+      "Minimale Lifestyle-Marken",
+      "Interior Design",
+      "Premium-Slow-Fashion"
+    ],
+    "audiences": [
+      "Minimalismus-affine Konsumenten",
+      "Interior-Design-Liebhaber",
+      "Premium-Modekäuferschicht"
+    ],
+    "brand_traits": [
+      "minimal",
+      "luftig",
+      "modern",
+      "zurückhaltend"
+    ],
+    "focus_keyword": "Farbpalette Minimale Lifestyle-Marken",
+    "questions": [
+      "Welche Farben passen zu minimalen Lifestyle-Marken?",
+      "Wann passt Wolkengrau?",
+      "Wann passt Wolkengrau?"
+    ],
+    "colors": {
+      "primary": "#eceff1",
+      "secondary": "#f5f7f8",
+      "accent": "#90a4ae",
+      "bg": "#fafbfc",
+      "text": "#37474f",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Dark Mode: Anthrazit-Basis",
+    "slug": "dark-mode-anthrazit",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Anthrazit-Basis"
+    },
+    "vibe": "Professional Dark / Professionelles Dunkel",
+    "summary": "Dunkelgrau als Grundton mit hellen Linien-Elementen für professionelle Dark-Mode-Anwendungen. Anthrazit-Basis ist die universellste dunkle Palette für Enterprise- und Profi-Software.",
+    "keywords": [
+      "Dark Mode Enterprise",
+      "Dark Mode",
+      "Anthrazit-Basis",
+      "Tech & Future",
+      "professionelles Dark UI",
+      "Grau Dark Mode"
+    ],
+    "industry_match": [
+      "Enterprise-Software",
+      "Professionelle Tools und IDEs",
+      "Sicherheitsmonitoring"
+    ],
+    "audiences": [
+      "Senior Developer und Architekten",
+      "Operations- und DevOps-Teams",
+      "Analysten mit intensiver Bildschirmarbeit"
+    ],
+    "brand_traits": [
+      "professionell",
+      "ruhig",
+      "neutral",
+      "fokussiert"
+    ],
+    "focus_keyword": "Dark Mode Enterprise",
+    "questions": [
+      "Welche dunkle Palette eignet sich für Enterprise-Software?",
+      "Warum ist Anthrazit besser als Schwarz für professionelle Apps?",
+      "Wie gestalte ich ein zugängliches dunkles Dashboard?"
+    ],
+    "colors": {
+      "primary": "#2d2d2d",
+      "secondary": "#404040",
+      "accent": "#9e9e9e",
+      "bg": "#1a1a1a",
+      "text": "#d4d4d4",
+      "card": "#2d2d2d"
+    }
+  },
+  {
+    "title": "Dark Mode: Code-Editor",
+    "slug": "dark-mode-code-editor",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Code-Editor"
+    },
+    "vibe": "Editor Comfort / Editor-Komfort",
+    "summary": "Klassische dunkle Palette mit Pastellfarben für Text - inspiriert von modernen Code-Editoren und Terminal-Interfaces. Code-Editor schafft optimale Lesbarkeit für Programmierumgebungen.",
+    "keywords": [
+      "Dark Mode Code",
+      "Dark Mode",
+      "Code-Editor",
+      "Tech & Future",
+      "Terminal Design",
+      "Programmierumgebung"
+    ],
+    "industry_match": [
+      "Software-Entwicklung",
+      "DevTools und IDEs",
+      "Terminal-Anwendungen"
+    ],
+    "audiences": [
+      "Software-Entwickler und DevOps",
+      "Frontend- und Backend-Entwickler",
+      "Studierende der Informatik"
+    ],
+    "brand_traits": [
+      "komfortabel",
+      "augenschonend",
+      "strukturiert",
+      "entwicklerorientiert"
+    ],
+    "focus_keyword": "Dark Mode Code",
+    "questions": [
+      "Welches Dark-Mode-Theme eignet sich für Code-Editoren?",
+      "Warum sind Pastellfarben in Code-Editoren so beliebt?",
+      "Wie gestalte ich ein augenschonendes Coding-Interface?"
+    ],
+    "colors": {
+      "primary": "#1e1e2e",
+      "secondary": "#313244",
+      "accent": "#cba6f7",
+      "bg": "#181825",
+      "text": "#cdd6f4",
+      "card": "#1e1e2e"
+    }
+  },
+  {
+    "title": "Dark Mode: Kohle & Kupfer",
+    "slug": "dark-mode-kohle-kupfer",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Kohle & Kupfer"
+    },
+    "vibe": "Warm Dark / Warmes Dunkel",
+    "summary": "Dunkle Flächen mit warmen, kupferfarbenen Details für Premium-Dark-Interfaces. Kohle & Kupfer steht für Exklusivität und Handwerkscharakter in dunklen digitalen Räumen.",
+    "keywords": [
+      "Dark Mode Premium",
+      "Dark Mode",
+      "Kohle Kupfer",
+      "Tech & Future",
+      "warmes Dark UI",
+      "Kupfer Akzent"
+    ],
+    "industry_match": [
+      "Premium-Software und Tools",
+      "Luxus-E-Commerce im Dark Mode",
+      "Audiophile und Profi-Equipment"
+    ],
+    "audiences": [
+      "Premium-Technologie-Nutzer",
+      "Audio- und Hardware-Enthusiasten",
+      "Dark-Mode-affine Power-User"
+    ],
+    "brand_traits": [
+      "exklusiv",
+      "warm",
+      "premium",
+      "handwerklich"
+    ],
+    "focus_keyword": "Dark Mode Premium",
+    "questions": [
+      "Welche Akzentfarbe passt zu einem Premium Dark Mode?",
+      "Wie nutze ich Kupfer im Dark-Mode-Design?",
+      "Wann ist ein warmes Dark-Mode-Theme besser als ein kühles?"
+    ],
+    "colors": {
+      "primary": "#1c1c1c",
+      "secondary": "#2a2a2a",
+      "accent": "#b87333",
+      "bg": "#111111",
+      "text": "#d4c5a9",
+      "card": "#1c1c1c"
+    }
+  },
+  {
+    "title": "Dark Mode: Mitternacht",
+    "slug": "dark-mode-mitternacht",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Mitternacht"
+    },
+    "vibe": "Midnight Depth / Mitternachtstiefe",
+    "summary": "Tiefes Schwarz mit Violett-Akzenten für intensive Dark-Mode-Erfahrungen in kreativen und Tech-Kontexten. Mitternacht schafft einen dramatischen, visuell starken Auftritt.",
+    "keywords": [
+      "Dark Mode Violett",
+      "Dark Mode",
+      "Mitternacht",
+      "Tech & Future",
+      "dramatisches Dark UI",
+      "Schwarz Violett"
+    ],
+    "industry_match": [
+      "Gaming-Plattformen",
+      "Kreativ-Tools",
+      "Cyber-Security-Dashboards"
+    ],
+    "audiences": [
+      "Gamer und Game-Entwickler",
+      "Kreative mit Dark-Mode-Präferenz",
+      "Security-Analysten"
+    ],
+    "brand_traits": [
+      "dramatisch",
+      "intensiv",
+      "kräftig",
+      "modern"
+    ],
+    "focus_keyword": "Dark Mode Violett",
+    "questions": [
+      "Welche Farben passen zu einem dramatischen Dark Mode?",
+      "Wann ist Violett im Dark Mode die richtige Wahl?",
+      "Wie gestalte ich ein intensives dunkles Interface?"
+    ],
+    "colors": {
+      "primary": "#1a1a2e",
+      "secondary": "#16213e",
+      "accent": "#7c4dff",
+      "bg": "#0a0a14",
+      "text": "#e8e8f0",
+      "card": "#1a1a2e"
+    }
+  },
+  {
+    "title": "Dark Mode: Nachtblau",
+    "slug": "dark-mode-nachtblau",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Nachtblau"
+    },
+    "vibe": "Night Interface / Nacht-Interface",
+    "summary": "Fast schwarzer Hintergrund mit hellblauer Schrift für Nacht-Interfaces und Dark-Mode-Layouts. Nachtblau bietet augenschonendes Arbeiten und einen klaren Look für technische Nacht-Apps.",
+    "keywords": [
+      "Dark Mode Farbpalette",
+      "Dark Mode",
+      "Nachtblau",
+      "Tech & Future",
+      "Nacht-Interface",
+      "dunkles UI"
+    ],
+    "industry_match": [
+      "Nacht-Apps und Schlaf-Tools",
+      "Astronomie-Software",
+      "Professionelle Monitoring-Dashboards"
+    ],
+    "audiences": [
+      "Entwickler und Nacht-Coder",
+      "Astronomiefans",
+      "Schichtarbeiter mit Bildschirmarbeit"
+    ],
+    "brand_traits": [
+      "dunkel",
+      "fokussiert",
+      "ruhig",
+      "präzise"
+    ],
+    "focus_keyword": "Dark Mode Farbpalette",
+    "questions": [
+      "Welche Farben eignen sich für Dark-Mode-Interfaces?",
+      "Warum ist Nachtblau augenschonender als reines Schwarz?",
+      "Wie baue ich ein zugängliches Dark-Mode-Design auf?"
+    ],
+    "colors": {
+      "primary": "#1e3a5f",
+      "secondary": "#2d5a8e",
+      "accent": "#4fc3f7",
+      "bg": "#0a1520",
+      "text": "#b3d4f0",
+      "card": "#1e3a5f"
+    }
+  },
+  {
+    "title": "Dark Mode: Schatten",
+    "slug": "dark-mode-schatten",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Schatten"
+    },
+    "vibe": "Layered Depth / Geschichtete Tiefe",
+    "summary": "Verschiedene Ebenen von sehr dunklem Grau für subtile Tiefen-Navigation in Interfaces. Schatten optimiert die Material-Design-Elevation für Dark-Mode-Anwendungen.",
+    "keywords": [
+      "Dark Mode Tiefe",
+      "Dark Mode",
+      "Schatten",
+      "Tech & Future",
+      "Elevation Dark Mode",
+      "Grauabstufungen"
+    ],
+    "industry_match": [
+      "Material Design Apps",
+      "Android-Apps und Cross-Plattform",
+      "UI-Bibliotheken"
+    ],
+    "audiences": [
+      "Android-Entwickler",
+      "UI-System-Architekten",
+      "Design-System-Verantwortliche"
+    ],
+    "brand_traits": [
+      "systematisch",
+      "stufenweise",
+      "nüchtern",
+      "strukturiert"
+    ],
+    "focus_keyword": "Dark Mode Tiefe",
+    "questions": [
+      "Wie baue ich Tiefen-Ebenen im Dark Mode auf?",
+      "Was ist Material Design Elevation im Dark Mode?",
+      "Wie viele Grauabstufungen braucht ein Dark-Mode-Interface?"
+    ],
+    "colors": {
+      "primary": "#141414",
+      "secondary": "#1e1e1e",
+      "accent": "#3a3a3a",
+      "bg": "#0a0a0a",
+      "text": "#b0b0b0",
+      "card": "#141414"
+    }
+  },
+  {
+    "title": "Dark Mode: Schiefer-Nacht",
+    "slug": "dark-mode-schiefer-nacht",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Schiefer-Nacht"
+    },
+    "vibe": "Slate Night / Schiefer-Nacht",
+    "summary": "Klassisches dunkles Interface mit neutralem Weiss-Kontrast für professionelle Anwendungen. Schiefer-Nacht ist der ausgewogene Dark Mode für täglich genutzte Produktivitätstools.",
+    "keywords": [
+      "Dark Mode Produktivität",
+      "Dark Mode",
+      "Schiefer-Nacht",
+      "Tech & Future",
+      "ausgewogenes dunkles UI",
+      "Schiefer Dark Mode"
+    ],
+    "industry_match": [
+      "Produktivitätssoftware",
+      "Text-Editoren und Notiztools",
+      "Projektmanagement-Apps"
+    ],
+    "audiences": [
+      "Wissensarbeiter",
+      "Autoren und Content-Creator",
+      "Produktmanager"
+    ],
+    "brand_traits": [
+      "ausgewogen",
+      "klassisch",
+      "professionell",
+      "nüchtern"
+    ],
+    "focus_keyword": "Dark Mode Produktivität",
+    "questions": [
+      "Welcher Dark Mode eignet sich am besten für Produktivitätstools?",
+      "Wie gestalte ich einen ausgewogenen Dark Mode?",
+      "Was unterscheidet Schiefer-Nacht von reinem Anthrazit?"
+    ],
+    "colors": {
+      "primary": "#263238",
+      "secondary": "#37474f",
+      "accent": "#cfd8dc",
+      "bg": "#1a2327",
+      "text": "#eceff1",
+      "card": "#263238"
+    }
+  },
+  {
+    "title": "Dark Mode: Tiefsee",
+    "slug": "dark-mode-tiefsee",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Tiefsee"
+    },
+    "vibe": "Deep Sea Focus / Tiefsee-Fokus",
+    "summary": "Sehr dunkles Blaugrün für augenschonendes Arbeiten in langen Sitzungen. Tiefsee verbindet Dark-Mode-Komfort mit einer farblich reichen, aber beruhigenden Tiefsee-Atmosphäre.",
+    "keywords": [
+      "Dark Mode Grünblau",
+      "Dark Mode",
+      "Tiefsee",
+      "Tech & Future",
+      "augenschonend",
+      "Blaugrün Dark UI"
+    ],
+    "industry_match": [
+      "Wissenschaftliche Software",
+      "Medizinische Monitoring-Systeme",
+      "Marine-Technologie"
+    ],
+    "audiences": [
+      "Wissenschaftler und Forscher",
+      "Medizinisches Fachpersonal",
+      "Marine-Ingenieure"
+    ],
+    "brand_traits": [
+      "ruhig",
+      "tief",
+      "konzentriert",
+      "wissenschaftlich"
+    ],
+    "focus_keyword": "Dark Mode Grünblau",
+    "questions": [
+      "Wie gestalte ich ein augenschonendes Dark-Mode-Interface?",
+      "Warum ist Blaugrün besser als reines Schwarz für lange Sitzungen?",
+      "Welche Farben reduzieren Bildschirmmüdigkeit im Dark Mode?"
+    ],
+    "colors": {
+      "primary": "#0d2137",
+      "secondary": "#1a3a52",
+      "accent": "#00897b",
+      "bg": "#060f1a",
+      "text": "#90c8d8",
+      "card": "#0d2137"
+    }
+  },
+  {
+    "title": "Dark Mode: Vulkan",
+    "slug": "dark-mode-vulkan",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Vulkan"
+    },
+    "vibe": "Dark Fire / Dunkles Feuer",
+    "summary": "Schwarz-Grau kombiniert mit einem kräftigen Rotton für dramatische Interfaces in Gaming, Security und Action-orientierten Anwendungen. Vulkan kommuniziert Energie und Dringlichkeit auf dunklem Grund.",
+    "keywords": [
+      "Dark Mode Rot",
+      "Dark Mode",
+      "Vulkan",
+      "Tech & Future",
+      "Action Dark UI",
+      "Rot Dunkel"
+    ],
+    "industry_match": [
+      "Gaming und Esports",
+      "Cyber-Security-Tools",
+      "Action-orientiete Apps"
+    ],
+    "audiences": [
+      "Gamer und Esports-Zuschauer",
+      "Security-Analysten",
+      "Action-App-Nutzer"
+    ],
+    "brand_traits": [
+      "dramatisch",
+      "energetisch",
+      "dringend",
+      "intensiv"
+    ],
+    "focus_keyword": "Dark Mode Rot",
+    "questions": [
+      "Welche Farben passen zu einem Action-orientierten Dark Mode?",
+      "Wie nutze ich Rot im Dark-Mode-Design?",
+      "Wann passt ein dramatisches dunkles Interface?"
+    ],
+    "colors": {
+      "primary": "#1e1e1e",
+      "secondary": "#2d2d2d",
+      "accent": "#d32f2f",
+      "bg": "#0d0d0d",
+      "text": "#e0e0e0",
+      "card": "#1e1e1e"
+    }
+  },
+  {
+    "title": "Dark Mode: Weltraum",
+    "slug": "dark-mode-weltraum",
+    "taxonomy": {
+      "sector": "Tech & Future",
+      "sector_slug": "tech-future",
+      "cluster": "Dark Mode",
+      "cluster_slug": "dark-mode",
+      "variant": "Weltraum"
+    },
+    "vibe": "Cosmic Void / Kosmische Leere",
+    "summary": "Schwarz mit minimalen grauen Abstufungen für maximale Reduktion und Fokus. Weltraum ist die extremste Dark-Mode-Variante für Interfaces, die vollständige visuelle Kontrolle erfordern.",
+    "keywords": [
+      "Dark Mode minimal",
+      "Dark Mode",
+      "Weltraum",
+      "Tech & Future",
+      "maximale Reduktion",
+      "Schwarz Interface"
+    ],
+    "industry_match": [
+      "OLED-optimierte Apps",
+      "Astrofotografie-Software",
+      "Professionelle Monitoring-Systeme"
+    ],
+    "audiences": [
+      "Power-User mit OLED-Bildschirmen",
+      "Astronomen und Sterngucker",
+      "Profis mit maximaler Fokusanforderung"
+    ],
+    "brand_traits": [
+      "minimal",
+      "extrem",
+      "fokussiert",
+      "reduziert"
+    ],
+    "focus_keyword": "Dark Mode minimal",
+    "questions": [
+      "Wann ist ein fast schwarzes Interface die richtige Wahl?",
+      "Wie gestalte ich ein minimales Dark-Mode-Design?",
+      "Welche Elemente braucht ein extrem reduziertes Interface?"
+    ],
+    "colors": {
+      "primary": "#0d0d0d",
+      "secondary": "#1a1a1a",
+      "accent": "#2d2d2d",
+      "bg": "#000000",
+      "text": "#c0c0c0",
+      "card": "#0d0d0d"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Flieder-Traum",
+    "slug": "kreativ-bunt-flieder-traum",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Flieder-Traum"
+    },
+    "vibe": "Violet Softness / Violette Sanftheit",
+    "summary": "Verschiedene Violettöne für sanfte Übergänge in kreativen und spiritüllen Kontexten. Flieder-Traum schafft eine traumhafte, feminine Atmosphäre für Beauty- und Wellness-Marken.",
+    "keywords": [
+      "Farbpalette Beauty und Kosmetik",
+      "Kreativ & Bunt",
+      "Flieder-Traum",
+      "Kreativität & Bildung",
+      "Beauty und Kosmetik",
+      "Wellness und Spiritualität"
+    ],
+    "industry_match": [
+      "Beauty und Kosmetik",
+      "Wellness und Spiritualität",
+      "Kreative Frauenmarken"
+    ],
+    "audiences": [
+      "Beauty-Konsumentinnen",
+      "Wellness-Affine",
+      "Kreative Unternehmerinnen"
+    ],
+    "brand_traits": [
+      "traumhaft",
+      "sanft",
+      "kreativ",
+      "feminin"
+    ],
+    "focus_keyword": "Farbpalette Beauty und Kosmetik",
+    "questions": [
+      "Welche Farben passen für Beauty-Websites?",
+      "Wann passt Flieder-Traum?",
+      "Wann passt Flieder-Traum?"
+    ],
+    "colors": {
+      "primary": "#9c27b0",
+      "secondary": "#e1bee7",
+      "accent": "#6a1b9a",
+      "bg": "#f9f4fd",
+      "text": "#1a0028",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Himmel & Erde",
+    "slug": "kreativ-bunt-himmel-erde",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Himmel & Erde"
+    },
+    "vibe": "Sky and Soil / Himmel und Boden",
+    "summary": "Klassische Kombination aus Blau und Braun für ausgewogene kreative Projekte mit natürlichem Charakter. Himmel & Erde verbindet Weite mit Erdung.",
+    "keywords": [
+      "Farbpalette Kreative Büros und Studios",
+      "Kreativ & Bunt",
+      "Himmel & Erde",
+      "Kreativität & Bildung",
+      "Kreative Büros und Studios",
+      "Outdoor-Lifestyle"
+    ],
+    "industry_match": [
+      "Kreative Büros und Studios",
+      "Outdoor-Lifestyle",
+      "Nachhaltige Kreativmarken"
+    ],
+    "audiences": [
+      "Kreative Freelancer",
+      "Nachhaltigkeits-Marken",
+      "Outdoor-Enthusiasten"
+    ],
+    "brand_traits": [
+      "ausgewogen",
+      "geerdet",
+      "kreativ",
+      "natürlich"
+    ],
+    "focus_keyword": "Farbpalette Kreative Büros und Studios",
+    "questions": [
+      "Welche Farben passen für nachhaltige Kreativmarken?",
+      "Wann passt Himmel & Erde?",
+      "Wann passt Himmel & Erde?"
+    ],
+    "colors": {
+      "primary": "#1565c0",
+      "secondary": "#a1887f",
+      "accent": "#0d47a1",
+      "bg": "#f8f4f0",
+      "text": "#1a0f00",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Lehm & Ton",
+    "slug": "kreativ-bunt-lehm-ton",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Lehm & Ton"
+    },
+    "vibe": "Earthy Craft / Handwerkliche Erde",
+    "summary": "Warme Erdfarben mit künstlerischem Charakter für handgemachte und kreative Marken. Lehm & Ton eignet sich für Kunsthandwerk, Keramik und authentische Kreativmarken.",
+    "keywords": [
+      "Farbpalette Kunsthandwerk",
+      "Kreativ & Bunt",
+      "Lehm & Ton",
+      "Kreativität & Bildung",
+      "Kunsthandwerk",
+      "Keramik und Töpferei"
+    ],
+    "industry_match": [
+      "Kunsthandwerk",
+      "Keramik und Töpferei",
+      "Kreative Lifestyle-Marken"
+    ],
+    "audiences": [
+      "Keramik-Fans und Töpfer",
+      "Kreative Marken-Gründer",
+      "Handwerk-affine Konsumenten"
+    ],
+    "brand_traits": [
+      "handwerklich",
+      "authentisch",
+      "warm",
+      "künstlerisch"
+    ],
+    "focus_keyword": "Farbpalette Kunsthandwerk",
+    "questions": [
+      "Welche Farben passen für Kunsthandwerk-Websites?",
+      "Wann passt Lehm & Ton?",
+      "Wann passt Lehm & Ton?"
+    ],
+    "colors": {
+      "primary": "#a0522d",
+      "secondary": "#d4a76a",
+      "accent": "#7a4523",
+      "bg": "#fdf5ec",
+      "text": "#2c1500",
+      "card": "#fffaf4"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Mosaik",
+    "slug": "kreativ-bunt-mosaik",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Mosaik"
+    },
+    "vibe": "Color Celebration / Farbfeier",
+    "summary": "Viele kleine Farbakzente auf hellem Grund für lebhafte und diverse Kreativauftritte. Mosaik eignet sich für Community-Projekte, Festivals und bunte Markenauftritte.",
+    "keywords": [
+      "Farbpalette Festivals und Events",
+      "Kreativ & Bunt",
+      "Mosaik",
+      "Kreativität & Bildung",
+      "Festivals und Events",
+      "Diversity-Marken"
+    ],
+    "industry_match": [
+      "Festivals und Events",
+      "Diversity-Marken",
+      "Kreative Community-Projekte"
+    ],
+    "audiences": [
+      "Diverse Community-Mitglieder",
+      "Festival-Besucher",
+      "Kreative Marken-Teams"
+    ],
+    "brand_traits": [
+      "bunt",
+      "lebendig",
+      "vielfältig",
+      "feierlich"
+    ],
+    "focus_keyword": "Farbpalette Festivals und Events",
+    "questions": [
+      "Welche Farben passen für diverse und inklusive Marken?",
+      "Wann passt Mosaik?",
+      "Wann passt Mosaik?"
+    ],
+    "colors": {
+      "primary": "#e91e63",
+      "secondary": "#03a9f4",
+      "accent": "#4caf50",
+      "bg": "#ffffff",
+      "text": "#212121",
+      "card": "#fafafa"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Ozean-Koralle",
+    "slug": "kreativ-bunt-ozean-koralle",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Ozean-Koralle"
+    },
+    "vibe": "Ocean Warmth / Ozean-Wärme",
+    "summary": "Kräftiges Blau kombiniert mit warmem Pfirsich für maritime Kreativprojekte und Sommer-Marken. Ozean-Koralle verbindet Meeresfrische mit warmem Urlaubsgefühl.",
+    "keywords": [
+      "Farbpalette Sommer-Marken",
+      "Kreativ & Bunt",
+      "Ozean-Koralle",
+      "Kreativität & Bildung",
+      "Sommer-Marken",
+      "Reise und Tourismus"
+    ],
+    "industry_match": [
+      "Sommer-Marken",
+      "Reise und Tourismus",
+      "Maritime Lifestyle-Produkte"
+    ],
+    "audiences": [
+      "Urlaubsreisende",
+      "Sommer-Kampagnen-Zielgruppen",
+      "Maritime Lifestyle-Fans"
+    ],
+    "brand_traits": [
+      "frisch",
+      "warm",
+      "urlaubshaft",
+      "meeresblau"
+    ],
+    "focus_keyword": "Farbpalette Sommer-Marken",
+    "questions": [
+      "Welche Farben passen zu maritimen Kreativprojekten?",
+      "Wann passt Ozean-Koralle?",
+      "Wann passt Ozean-Koralle?"
+    ],
+    "colors": {
+      "primary": "#0277bd",
+      "secondary": "#b3e5fc",
+      "accent": "#ff7043",
+      "bg": "#f0f9ff",
+      "text": "#012d5f",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Sommer-Beere",
+    "slug": "kreativ-bunt-sommer-beere",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Sommer-Beere"
+    },
+    "vibe": "Creative Pop / Kreative Energie",
+    "summary": "Kräftiges Rot und Pink für auffällige Akzente in kreativen Kampagnen und D2C-Marken. Sommer-Beere steht für Energie, Aufmerksamkeit und emotionale Direktheit.",
+    "keywords": [
+      "Farbpalette D2C-Marken",
+      "Kreativ & Bunt",
+      "Sommer-Beere",
+      "Kreativität & Bildung",
+      "D2C-Marken",
+      "Kreativ-Kampagnen"
+    ],
+    "industry_match": [
+      "D2C-Marken",
+      "Kreativ-Kampagnen",
+      "Mode und Beauty"
+    ],
+    "audiences": [
+      "Junge Konsumenten",
+      "Kreative Direktoren",
+      "Social-Media-Marketer"
+    ],
+    "brand_traits": [
+      "kräftig",
+      "auffällig",
+      "emotional",
+      "direkt"
+    ],
+    "focus_keyword": "Farbpalette D2C-Marken",
+    "questions": [
+      "Welche Farben eignen sich für kreative Kampagnen?",
+      "Wann passt Sommer-Beere?",
+      "Wann passt Sommer-Beere?"
+    ],
+    "colors": {
+      "primary": "#c62828",
+      "secondary": "#f8bbd0",
+      "accent": "#e91e63",
+      "bg": "#fff8f9",
+      "text": "#1a0005",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Sonnengelb",
+    "slug": "kreativ-bunt-sonnengelb",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Sonnengelb"
+    },
+    "vibe": "Sunny Welcome / Sonnenenergie",
+    "summary": "Warme Gelbtöne für eine freundliche und einladende Atmosphäre in Kreativprojekten und Community-Portalen. Sonnengelb strahlt Wearme und Optimismus aus.",
+    "keywords": [
+      "Farbpalette Community-Portale",
+      "Kreativ & Bunt",
+      "Sonnengelb",
+      "Kreativität & Bildung",
+      "Community-Portale",
+      "Bildungsplattformen"
+    ],
+    "industry_match": [
+      "Community-Portale",
+      "Bildungsplattformen",
+      "Freundliche Marken"
+    ],
+    "audiences": [
+      "Community-Mitglieder",
+      "Lernende und Kinder",
+      "Positive-Marken-Zielgruppen"
+    ],
+    "brand_traits": [
+      "freundlich",
+      "warm",
+      "einladend",
+      "optimistisch"
+    ],
+    "focus_keyword": "Farbpalette Community-Portale",
+    "questions": [
+      "Welche Farben schaffen eine freundliche Atmosphäre?",
+      "Wann passt Sonnengelb?",
+      "Wann passt Sonnengelb?"
+    ],
+    "colors": {
+      "primary": "#f9a825",
+      "secondary": "#fff9c4",
+      "accent": "#f57f17",
+      "bg": "#fffde7",
+      "text": "#1a1000",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Stadt-Lichter",
+    "slug": "kreativ-bunt-stadt-lichter",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Stadt-Lichter"
+    },
+    "vibe": "Urban Neon / Urbanes Neon",
+    "summary": "Dunkler Hintergrund mit bunten Neon-Elementen für urbane Nacht-Designs und Veranstaltungsportale. Stadt-Lichter transportiert die Energie des Stadtlebens bei Nacht.",
+    "keywords": [
+      "Farbpalette Event-Portale",
+      "Kreativ & Bunt",
+      "Stadt-Lichter",
+      "Kreativität & Bildung",
+      "Event-Portale",
+      "Nachtleben und Gastronomie"
+    ],
+    "industry_match": [
+      "Event-Portale",
+      "Nachtleben und Gastronomie",
+      "Urbane Marken"
+    ],
+    "audiences": [
+      "Nachtleben-Publikum",
+      "Event-Veranstalter",
+      "Urbane Kreative"
+    ],
+    "brand_traits": [
+      "urban",
+      "neon",
+      "nächtlich",
+      "energetisch"
+    ],
+    "focus_keyword": "Farbpalette Event-Portale",
+    "questions": [
+      "Welche Farben passen für Nachtleben-Websites?",
+      "Wann passt Stadt-Lichter?",
+      "Wann passt Stadt-Lichter?"
+    ],
+    "colors": {
+      "primary": "#0f3460",
+      "secondary": "#16213e",
+      "accent": "#e94560",
+      "bg": "#0a0f1e",
+      "text": "#e0e0ff",
+      "card": "#0f3460"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Tuschkasten",
+    "slug": "kreativ-bunt-tuschkasten",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Tuschkasten"
+    },
+    "vibe": "Primary Play / Primärfarbenspiel",
+    "summary": "Primärfarben für einfache, klare Strukturen in Lernumgebungen und Kreativ-Tools. Tuschkasten steht für Spielfreude und visuelle Direktheit.",
+    "keywords": [
+      "Farbpalette Kreativ-Lerntools",
+      "Kreativ & Bunt",
+      "Tuschkasten",
+      "Kreativität & Bildung",
+      "Kreativ-Lerntools",
+      "Kinder- und Jugendbildung"
+    ],
+    "industry_match": [
+      "Kreativ-Lerntools",
+      "Kinder- und Jugendbildung",
+      "Spielerische Marken"
+    ],
+    "audiences": [
+      "Lernende und Studierende",
+      "Kreativitätscoaches",
+      "Bildungsplattform-Teams"
+    ],
+    "brand_traits": [
+      "spielerisch",
+      "klar",
+      "direkt",
+      "lernfördernd"
+    ],
+    "focus_keyword": "Farbpalette Kreativ-Lerntools",
+    "questions": [
+      "Welche Farben fördern das Lernen?",
+      "Wann passt Tuschkasten?",
+      "Wann passt Tuschkasten?"
+    ],
+    "colors": {
+      "primary": "#1565c0",
+      "secondary": "#fff176",
+      "accent": "#c62828",
+      "bg": "#fafafa",
+      "text": "#212121",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Kreativ & Bunt: Zitrus-Mix",
+    "slug": "kreativ-bunt-zitrus-mix",
+    "taxonomy": {
+      "sector": "Kreativität & Bildung",
+      "sector_slug": "kreativ-bildung",
+      "cluster": "Kreativ & Bunt",
+      "cluster_slug": "kreativ-bunt",
+      "variant": "Zitrus-Mix"
+    },
+    "vibe": "Fresh Energy / Frische Energie",
+    "summary": "Gelb und Grün für frische, junge Designs mit Sommerenergie und D2C-Positionierung. Zitrus-Mix richtet sich an jugendliche Zielgruppen mit positiver Grundstimmung.",
+    "keywords": [
+      "Farbpalette Jugend-Marken",
+      "Kreativ & Bunt",
+      "Zitrus-Mix",
+      "Kreativität & Bildung",
+      "Jugend-Marken",
+      "Lebensmittel und Getränke"
+    ],
+    "industry_match": [
+      "Jugend-Marken",
+      "Lebensmittel und Getränke",
+      "Sommer-Kampagnen"
+    ],
+    "audiences": [
+      "Jugendliche Konsumenten",
+      "Food-Marken für junges Publikum",
+      "Festival-Veranstalter"
+    ],
+    "brand_traits": [
+      "frisch",
+      "jugendlich",
+      "positiv",
+      "energetisch"
+    ],
+    "focus_keyword": "Farbpalette Jugend-Marken",
+    "questions": [
+      "Welche Farben passen zu jungen Marken?",
+      "Wann passt Zitrus-Mix?",
+      "Wann passt Zitrus-Mix?"
+    ],
+    "colors": {
+      "primary": "#f9a825",
+      "secondary": "#c5e1a5",
+      "accent": "#33691e",
+      "bg": "#fffde7",
+      "text": "#1a1200",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Abendhimmel",
+    "slug": "natur-umwelt-abendhimmel",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Abendhimmel"
+    },
+    "vibe": "Dusk Atmosphere / Abendstimmung",
+    "summary": "Dunkles Lila und verblasstes Blau für stimmungsvolle Naturdarstellungen in der Dämmerung. Abendhimmel eignet sich für Astro-Fotografie, Natur-Erlebnis-Portale und atmosphärische Naturblogs.",
+    "keywords": [
+      "Farbpalette Abenddämmerung",
+      "Natur & Umwelt",
+      "Abendhimmel",
+      "Mensch & Gesellschaft",
+      "Astrofotografie",
+      "Naturstimmung"
+    ],
+    "industry_match": [
+      "Naturfotografie",
+      "Astrotourismus",
+      "Erlebnistourismus"
+    ],
+    "audiences": [
+      "Naturfotografen",
+      "Sterngucker und Astronomiefans",
+      "Natur-Erlebnis-Reisende"
+    ],
+    "brand_traits": [
+      "stimmungsvoll",
+      "atmosphärisch",
+      "romantisch",
+      "tiefgründig"
+    ],
+    "focus_keyword": "Farbpalette Abenddämmerung",
+    "questions": [
+      "Welche Farben passen zu Dämmerungs- und Abendthemen?",
+      "Wie nutze ich Lila und Blau für Naturwebsites?",
+      "Wann ist eine dunkle Naturfarbpalette sinnvoll?"
+    ],
+    "colors": {
+      "primary": "#4a2c6b",
+      "secondary": "#7b7fa4",
+      "accent": "#8e44ad",
+      "bg": "#f5f0fa",
+      "text": "#1a0f2e",
+      "card": "#faf7fd"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Bergsee",
+    "slug": "natur-umwelt-bergsee",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Bergsee"
+    },
+    "vibe": "Alpine Clarity / Alpine Klarheit",
+    "summary": "Klares Blau kombiniert mit hellem Felsgrau für alpine, Bergwanderungs- und Outdoor-Projekte. Bergsee vermittelt kristallene Klarheit und die unverwechselbare Stimmung alpiner Gewässer.",
+    "keywords": [
+      "Farbpalette Bergwandern",
+      "Natur & Umwelt",
+      "Bergsee",
+      "Mensch & Gesellschaft",
+      "Alpinismus",
+      "Outdoor Tourismus"
+    ],
+    "industry_match": [
+      "Alpintourismus",
+      "Bergwanderanbieter",
+      "Outdoor-Equipment"
+    ],
+    "audiences": [
+      "Bergwanderer und Alpinisten",
+      "Outdoor-Urlauber",
+      "Klettersport-Begeisterte"
+    ],
+    "brand_traits": [
+      "klar",
+      "frisch",
+      "kräftig",
+      "unverstellt"
+    ],
+    "focus_keyword": "Farbpalette Bergwandern",
+    "questions": [
+      "Welche Farben passen zu Bergwandern und Alpinthemen?",
+      "Wie unterscheidet sich alpines Blau von maritimem Blau?",
+      "Warum ist Felsgrau ein guter Begleiter für Blautöne?"
+    ],
+    "colors": {
+      "primary": "#1b7fa4",
+      "secondary": "#c8dde8",
+      "accent": "#005f7a",
+      "bg": "#f0f8fc",
+      "text": "#0d2d3d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Flusskiesel",
+    "slug": "natur-umwelt-flusskiesel",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Flusskiesel"
+    },
+    "vibe": "Smooth Stone / Glatter Stein",
+    "summary": "Matte Grautöne mit glatten Farbübergängen für ruhige Natur-Interfaces und Mineral-Webshops. Flusskiesel schafft eine subtile, materielle Naturreferenz ohne starken Farbkontrast.",
+    "keywords": [
+      "Farbpalette Naturstein",
+      "Natur & Umwelt",
+      "Flusskiesel",
+      "Mensch & Gesellschaft",
+      "Mineralogie",
+      "Steindesign"
+    ],
+    "industry_match": [
+      "Naturstein und Mineralien",
+      "Slow Living und Naturdesign",
+      "Wellnessprodukte mit Steinbezug"
+    ],
+    "audiences": [
+      "Mineral- und Steinsammler",
+      "Spa- und Wellness-Anbieter",
+      "Minimalismus-affine Käuferschichten"
+    ],
+    "brand_traits": [
+      "ruhig",
+      "materiell",
+      "zeitlos",
+      "natürlich"
+    ],
+    "focus_keyword": "Farbpalette Naturstein",
+    "questions": [
+      "Welche Farben passen zu Naturstein und Mineralien im Design?",
+      "Wie setze ich materielle Naturreferenzen ohne Farbe um?",
+      "Wann ist Grau besser als Grün für Naturthemen?"
+    ],
+    "colors": {
+      "primary": "#9e9e9e",
+      "secondary": "#e0e0e0",
+      "accent": "#bdbdbd",
+      "bg": "#f9f9f9",
+      "text": "#2d2d2d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Frühlingswiese",
+    "slug": "natur-umwelt-fruehlingswiese",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Frühlingswiese"
+    },
+    "vibe": "Spring Energy / Frühlingsenergies",
+    "summary": "Helles Grasgrün mit Akzenten in Zitronengelb für frische Frühlingsthemen, saisonale Kampagnen und Outdoor-Marken. Frühlingswiese vermittelt Aufbruch, Energie und Naturfrische.",
+    "keywords": [
+      "Farbpalette Frühling",
+      "Natur & Umwelt",
+      "Frühlingswiese",
+      "Mensch & Gesellschaft",
+      "Outdoor Design",
+      "saisonale Kampagne"
+    ],
+    "industry_match": [
+      "Outdoor und Sport",
+      "Frühjahrs-Saisonkampagnen",
+      "Bio- und Frischemarken"
+    ],
+    "audiences": [
+      "Outdoor-Aktive",
+      "Saisonal shoppende Verbraucher",
+      "Bio-Markt-Kundschaft"
+    ],
+    "brand_traits": [
+      "frisch",
+      "energetisch",
+      "natürlich",
+      "lebendig"
+    ],
+    "focus_keyword": "Farbpalette Frühling",
+    "questions": [
+      "Welche Farben passen zu Frühlingsthemen?",
+      "Wie kombiniert man Grün und Gelb im Webdesign?",
+      "Wann ist eine helle Naturfarbpalette besser als dunklere Varianten?"
+    ],
+    "colors": {
+      "primary": "#7cb518",
+      "secondary": "#e8f5c8",
+      "accent": "#d4e157",
+      "bg": "#f9fdf0",
+      "text": "#1a3300",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Heidesand",
+    "slug": "natur-umwelt-heidesand",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Heidesand"
+    },
+    "vibe": "Moorland Spirit / Heidelandschaft",
+    "summary": "Violettöne kombiniert mit warmem Sandbeige für Naturseitenkonzepte mit heideartiger Atmosphäre. Heidesand eignet sich für Reise-, Tourismus- und Naturerlebnisportale.",
+    "keywords": [
+      "Farbpalette Tourismus Natur",
+      "Natur & Umwelt",
+      "Heidesand",
+      "Mensch & Gesellschaft",
+      "Heide",
+      "Naturerlebnis"
+    ],
+    "industry_match": [
+      "Naturtourismus",
+      "Wanderportale",
+      "Regionale Erlebnisanbieter"
+    ],
+    "audiences": [
+      "Naturliebhaber und Wanderer",
+      "Reisende auf Erholungssuche",
+      "Regional-Tourismus-Planung"
+    ],
+    "brand_traits": [
+      "atmosphärisch",
+      "natürlich",
+      "einladend",
+      "regional"
+    ],
+    "focus_keyword": "Farbpalette Tourismus Natur",
+    "questions": [
+      "Welche Farben passen zu Heidelandschaft und Naturerlebnissen?",
+      "Wie kombiniert man Violett und Beige im Webdesign?",
+      "Wann ist eine erdige Palette besser als reines Naturgrün?"
+    ],
+    "colors": {
+      "primary": "#7b5ea7",
+      "secondary": "#e8d5b7",
+      "accent": "#9b72cf",
+      "bg": "#faf6ef",
+      "text": "#2d1f3d",
+      "card": "#fff9f2"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Herbstlaub",
+    "slug": "natur-umwelt-herbstlaub",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Herbstlaub"
+    },
+    "vibe": "Autumn Warmth / Herbstwärme",
+    "summary": "Warme Orange- und Rosttöne für saisonale Inhalte, Ernte-Themen und Herbst-Kampagnen. Herbstlaub schafft eine einladende, nostalgische Atmosphäre für saisonal geprägtes Content-Marketing.",
+    "keywords": [
+      "Farbpalette Herbst",
+      "Natur & Umwelt",
+      "Herbstlaub",
+      "Mensch & Gesellschaft",
+      "Saisonales Design",
+      "Erntethemen"
+    ],
+    "industry_match": [
+      "Saisonales Content-Marketing",
+      "Lebensmittel und Ernte",
+      "Regio-Tourismus im Herbst"
+    ],
+    "audiences": [
+      "Saisonal aktive Konsumenten",
+      "Food-Blogger und Rezeptseiten",
+      "Regio-Marketing-Teams"
+    ],
+    "brand_traits": [
+      "warm",
+      "nostalgisch",
+      "einladend",
+      "saisonal"
+    ],
+    "focus_keyword": "Farbpalette Herbst",
+    "questions": [
+      "Welche Farben passen zu Herbstthemen im Webdesign?",
+      "Wie setze ich saisonales Design authentisch um?",
+      "Wann ist Orange besser als Grün für Naturthemen?"
+    ],
+    "colors": {
+      "primary": "#e65c00",
+      "secondary": "#ffe0b2",
+      "accent": "#bf360c",
+      "bg": "#fff8f0",
+      "text": "#2d1300",
+      "card": "#fffaf5"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Kalkstein",
+    "slug": "natur-umwelt-kalkstein",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Kalkstein"
+    },
+    "vibe": "Stone Lightness / Steinleichtigkeit",
+    "summary": "Sehr helle Naturtöne in Steinweiss und zartem Sand für luftige, minimalistische Naturthemen. Kalkstein eignet sich für Mineral-, Geologie- und nachhaltige Lifestyle-Projekte.",
+    "keywords": [
+      "Farbpalette Natur minimal",
+      "Natur & Umwelt",
+      "Kalkstein",
+      "Mensch & Gesellschaft",
+      "Geologie",
+      "nachhaltiger Lifestyle"
+    ],
+    "industry_match": [
+      "Nachhaltige Lifestyle-Marken",
+      "Geologie und Mineralogie",
+      "Slow Fashion und Nachhaltigkeit"
+    ],
+    "audiences": [
+      "Minimalismus-affine Verbraucher",
+      "Nachhaltigkeit-Interessierte",
+      "Naturstein-Liebhaber"
+    ],
+    "brand_traits": [
+      "minimal",
+      "luftig",
+      "natürlich",
+      "ruhig"
+    ],
+    "focus_keyword": "Farbpalette Natur minimal",
+    "questions": [
+      "Wie kombiniert man Minimalismus mit Naturthemen im Design?",
+      "Welche Farben passen zu nachhaltigen Lifestyle-Marken?",
+      "Wann ist ein helles Naturdesign besser als sattes Grün?"
+    ],
+    "colors": {
+      "primary": "#e8e0d0",
+      "secondary": "#f5f0e8",
+      "accent": "#c9b99a",
+      "bg": "#fdfcf9",
+      "text": "#4a3f2f",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Meeresbrise",
+    "slug": "natur-umwelt-meeresbrise",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Meeresbrise"
+    },
+    "vibe": "Coastal Calm / Küstenstille",
+    "summary": "Abgestufte Blautöne von Türkeistufe bis Tiefblau für maritime, küstennahe und Umweltschutzprojekte. Meeresbrise vermittelt Weite, Frische und eine klar kommunizierte Nähe zum Wasser.",
+    "keywords": [
+      "Farbpalette Meer",
+      "Natur & Umwelt",
+      "Meeresbrise",
+      "Mensch & Gesellschaft",
+      "Küstenprojekte",
+      "maritim"
+    ],
+    "industry_match": [
+      "Küstentourismus",
+      "Meeresschutz und Umwelt",
+      "Maritime Wirtschaft"
+    ],
+    "audiences": [
+      "Küstenanwohner und Segler",
+      "Meeresschutz-Aktivisten",
+      "Reisende für Strandurlaub"
+    ],
+    "brand_traits": [
+      "frisch",
+      "weit",
+      "beruhigend",
+      "natürlich"
+    ],
+    "focus_keyword": "Farbpalette Meer",
+    "questions": [
+      "Welche Farben eignen sich für maritime und Küstenprojekte?",
+      "Wie unterscheide ich Türkes von Marine im Webdesign?",
+      "Wann passt Blau besser als Grün für Naturthemen?"
+    ],
+    "colors": {
+      "primary": "#0091ad",
+      "secondary": "#b3e5fc",
+      "accent": "#01579b",
+      "bg": "#f0f9ff",
+      "text": "#003459",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Moosgarten",
+    "slug": "natur-umwelt-moosgarten",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Moosgarten"
+    },
+    "vibe": "Garden Peace / Gartenstille",
+    "summary": "Sanfte Grüntöne mit einem Schuss Oliv für Gartenthemen, Pflanzenpflege und naturnahe Lifestylemarken. Moosgarten steht für behutsamen Umgang mit der Natur und einladende Grünflächen.",
+    "keywords": [
+      "Farbpalette Garten",
+      "Natur & Umwelt",
+      "Moosgarten",
+      "Mensch & Gesellschaft",
+      "Pflanzenpflege",
+      "Gartenblog"
+    ],
+    "industry_match": [
+      "Gartenbau und Landschaftspflege",
+      "Pflanzenhandel und Saatgut",
+      "Urban Gardening"
+    ],
+    "audiences": [
+      "Hobbygärtner",
+      "Pflanzenliebhaber",
+      "Urban Gardening Enthusiasten"
+    ],
+    "brand_traits": [
+      "sanft",
+      "einladend",
+      "natürlich",
+      "behutsam"
+    ],
+    "focus_keyword": "Farbpalette Garten",
+    "questions": [
+      "Welche Farben eignen sich für Garten- und Pflanzenwebsites?",
+      "Wie unterscheidet sich sanftes Grün von kräftigem Waldgrün im Design?",
+      "Wann ist Oliv als Akzentfarbe die richtige Wahl?"
+    ],
+    "colors": {
+      "primary": "#8fab7b",
+      "secondary": "#c8d8b8",
+      "accent": "#6b8c52",
+      "bg": "#f6f9f2",
+      "text": "#1e3010",
+      "card": "#f9fdf6"
+    }
+  },
+  {
+    "title": "Natur & Umwelt: Waldgrund",
+    "slug": "natur-umwelt-waldgrund",
+    "taxonomy": {
+      "sector": "Mensch & Gesellschaft",
+      "sector_slug": "mensch-gesellschaft",
+      "cluster": "Natur & Umwelt",
+      "cluster_slug": "natur-umwelt",
+      "variant": "Waldgrund"
+    },
+    "vibe": "Forest Depth / Waldtiefe",
+    "summary": "Dunkle Grüntöne und Erdbraun für biologische, ökologische und naturwissenschaftliche Webprojekte. Waldgrund erzeugt eine organische, erdverbundene Atmosphäre für Umwelt- und Naturthemen.",
+    "keywords": [
+      "Farbpalette Natur",
+      "Natur & Umwelt",
+      "Waldgrund",
+      "Mensch & Gesellschaft",
+      "Ökologie",
+      "Umweltthemen"
+    ],
+    "industry_match": [
+      "Naturschutz und Ökologie",
+      "Biologische Forschung",
+      "Umweltberatung"
+    ],
+    "audiences": [
+      "Naturbegeisterte und Wanderer",
+      "Biologen und Ökologiestudenten",
+      "NGO-Mitarbeiter im Umweltbereich"
+    ],
+    "brand_traits": [
+      "organisch",
+      "geerdet",
+      "authentisch",
+      "nachhaltig"
+    ],
+    "focus_keyword": "Farbpalette Natur",
+    "questions": [
+      "Welche Farben eignen sich für Umwelt- und Naturwebsites?",
+      "Wie wirkt Dunkelgrün in Kombination mit Erdbraun?",
+      "Wann ist eine dunkle Naturfarbpalette sinnvoller als ein helles Grün?"
+    ],
+    "colors": {
+      "primary": "#2d5016",
+      "secondary": "#8b6914",
+      "accent": "#5a7a2d",
+      "bg": "#f4f0e6",
+      "text": "#1a2c0d",
+      "card": "#faf6ec"
+    }
+  }
+]
