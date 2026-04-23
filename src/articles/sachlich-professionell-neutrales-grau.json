@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Neutrales Grau",
+  "slug": "sachlich-professionell-neutrales-grau",
+  "vibe": "Silent Background / Ruhiger Hintergrund",
+  "summary": "Abgestufte Grautöne ohne Farbstich fuer neutrale Verwaltungs-Backends und Datenportale. Neutrales Grau tritt visuell zurueck und laesst Inhalte und Daten in den Vordergrund.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Neutrales Grau"
+  },
+  "keywords": [
+    "Farbpalette Backend",
+    "Sachlich & Professionell",
+    "Neutrales Grau",
+    "Business & Institutionen",
+    "Verwaltungssystem",
+    "Admin UI"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Neutrales Grau | Admin UI",
+    "meta_description": "Abgestufte Grautöne fuer neutrale Verwaltungs-Backends. Neutrales Grau laesst Inhalte in den Vordergrund treten.",
+    "focus_keyword": "Farbpalette Backend",
+    "questions": [
+      "Welche Farben passen fuer Admin-Interfaces und Verwaltungstools?",
+      "Warum ist Grau fuer Daten-Backends oft die beste Wahl?",
+      "Wie vermeidet man visuelle Reizueberflutung in Admin-Panels?"
+    ]
+  },
+  "colors": {
+    "primary": "#bdbdbd",
+    "secondary": "#eeeeee",
+    "accent": "#757575",
+    "bg": "#fafafa",
+    "text": "#212121",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisser Hintergrund, 30 Prozent Hellgrau fuer Strukturierung, 10 Prozent mittleres Grau fuer Akzente und Interaktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 8.57,
+    "text_on_secondary": 13.88,
+    "text_on_bg": 15.43,
+    "text_on_card": 16.1
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Verwaltungssoftware",
+    "ERP-Systeme",
+    "Interne Unternehmenstools"
+  ],
+  "audiences": [
+    "Verwaltungsmitarbeiter",
+    "Operations-Teams",
+    "Datenerfassungs-Spezialisten"
+  ],
+  "brand_traits": [
+    "neutral",
+    "unaufdringlich",
+    "strukturiert",
+    "funktional"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Neutrales Grau Primary",
+      "psychology": "Mittleres Grau laesst sich in keinerlei Richtung deuten und laesst damit den Inhalt vollstaendig sprechen.",
+      "best_for": "Trennelemente, Rahmenlinien und sekundaere Navigationsbereiche",
+      "risk": "Ohne Akzentfarbe verliert das Interface jegliche Orientierung."
+    },
+    "secondary": {
+      "name": "Neutrales Grau Surface",
+      "psychology": "Sehr helles Grau ist der ideale Hintergrund fuer informationsdichte Elemente wie Tabellen und Listen.",
+      "best_for": "Tabellenzeilen, Karten und modale Flaechen",
+      "risk": "Zu wenig Kontrast zwischen secondary und card macht Elemente schwer erkennbar."
+    },
+    "accent": {
+      "name": "Neutrales Grau Accent",
+      "psychology": "Mittleres Dunkelgrau als Accent setzt minimalste Signale und bleibt dabei voellig neutral.",
+      "best_for": "Icons, Beschriftungen, sekundaere Schaltflaechen",
+      "risk": "Bei zu vielen gleichrangigen grauen Elementen verliert der Nutzer die Orientierung."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Admin-Backends mit hochfrequenter Nutzung",
+      "Dateneingabe-Interfaces fuer Sachbearbeiter",
+      "ERP-Module ohne Markenbotschaft"
+    ],
+    "avoid_for": [
+      "Kundenseitige Interfaces mit Markenanspruch",
+      "Landing Pages mit Conversion-Zielen",
+      "Gesundheitsanwendungen, die Vertrauen brauchen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Neutrales Grau in Admin-Systemen funktioniert",
+        "reason": "Grau lenkt nicht ab und reduziert visuelle Ermuedung bei Mitarbeitern, die taeglich viele Stunden im System verbringen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen fuer Admin-Interfaces?",
+        "answer": "Neutrale Grautöne mit klarem Kontrast minimieren Ablenkung und foerdern Konzentration auf die eigentliche Aufgabe."
+      },
+      {
+        "question": "Wann passt Neutrales Grau besser als ein Blau-Schema?",
+        "answer": "Neutrales Grau passt, wenn die Marke keine Rolle spielt und Funktionalitaet absolut im Vordergrund steht."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Neutrales Grau</span><h3>Sachlich &amp; Professionell</h3><p>Abgestufte Grautöne fuer neutrale Verwaltungs-Backends und Datenportale.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

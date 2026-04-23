@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Zitrus-Mix",
+  "slug": "kreativ-bunt-zitrus-mix",
+  "vibe": "Fresh Energy / Frische Energie",
+  "summary": "Gelb und Gruen fuer frische, junge Designs mit Sommerenergie und D2C-Positionierung. Zitrus-Mix richtet sich an jugendliche Zielgruppen mit positiver Grundstimmung.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Zitrus-Mix"
+  },
+  "keywords": [
+    "Farbpalette Jugend-Marken",
+    "Kreativ & Bunt",
+    "Zitrus-Mix",
+    "Kreativitaet & Bildung",
+    "Jugend-Marken",
+    "Lebensmittel und Getraenke"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Zitrus-Mix | Farbpalette Jugend-Marken",
+    "meta_description": "Gelb und Gruen fuer frische, junge Designs mit Sommerenergie und D2C-Positionierung. Zitrus-Mix richtet sich an jugendliche Zielgruppen mit positiver Grund",
+    "focus_keyword": "Farbpalette Jugend-Marken",
+    "questions": [
+      "Welche Farben passen zu jungen Marken?",
+      "Wann passt Zitrus-Mix?",
+      "Wann passt Zitrus-Mix?"
+    ]
+  },
+  "colors": {
+    "primary": "#f9a825",
+    "secondary": "#c5e1a5",
+    "accent": "#33691e",
+    "bg": "#fffde7",
+    "text": "#1a1200",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Zitrusgelbweiss, 30 Prozent zartes Grasgruen fuer Karten, 10 Prozent dunkles Olivgruen fuer Aktionen."
+  },
+  "accessibility": {
+    "text_on_primary": 9.43,
+    "text_on_secondary": 12.99,
+    "text_on_bg": 18.1,
+    "text_on_card": 18.58
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Jugend-Marken",
+    "Lebensmittel und Getraenke",
+    "Sommer-Kampagnen"
+  ],
+  "audiences": [
+    "Jugendliche Konsumenten",
+    "Food-Marken fuer junges Publikum",
+    "Festival-Veranstalter"
+  ],
+  "brand_traits": [
+    "frisch",
+    "jugendlich",
+    "positiv",
+    "energetisch"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Zitrus-Mix Primary",
+      "psychology": "Die Primaerfarbe praesentiert den visuellen Kerncharakter der Palette Zitrus-Mix.",
+      "best_for": "Hero-Flaechen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Zitrus-Mix Surface",
+      "psychology": "Die Sekundaerfarbe schafft Flaechen und Trenner mit passender Tiefe fuer Zitrus-Mix.",
+      "best_for": "Karten, Tabellen und Inhaltsflaechen",
+      "risk": "Ohne typografische Fuehrung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Zitrus-Mix Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstuetzt die Erzaehllogik von Zitrus-Mix.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Uebermaessig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Jugend-Marken",
+      "Projekte mit Zielgruppe Jugendliche Konsumenten",
+      "Marken mit dem Kernmerkmal frisch"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensaetzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Zitrus-Mix Jugend und Frische signalisiert",
+        "reason": "Gelb und Gruen sind kulturell mit Fruehling, Frische und positiver Energie assoziiert."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu jungen Marken?",
+        "answer": "Gelb und Gruen kombinieren Energie und Naturfrische und sprechen jugendliche Zielgruppen an."
+      },
+      {
+        "question": "Wann passt Zitrus-Mix?",
+        "answer": "Fuer Marken, die Frische, Sommer und positive Energie kommunizieren wollen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Zitrus-Mix</span><h3>Kreativ & Bunt</h3><p>Gelb und Gruen fuer frische, junge Designs mit Sommerenergie und D2C-Positionierung. Zitrus-Mix richtet sich an jugendli</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

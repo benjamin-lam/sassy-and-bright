@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Behoerden-Blau",
+  "slug": "sachlich-professionell-behoerden-blau",
+  "vibe": "Civic Trust / Institutionelles Vertrauen",
+  "summary": "Traditionelle Blautöne fuer oeffentliche Institutionen und Behoerdenwebsites, die Ruhe und Sicherheit vermitteln sollen. Die Palette folgt dem visuellen Erwartungshorizont oeffentlicher Dienstleistungen.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Behoerden-Blau"
+  },
+  "keywords": [
+    "Farbpalette Behoerde",
+    "Sachlich & Professionell",
+    "Behoerden-Blau",
+    "Business & Institutionen",
+    "oeffentliche Verwaltung",
+    "Institutionsdesign"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Behoerden-Blau | Verwaltung",
+    "meta_description": "Traditionelle Blautöne fuer Behoerden und oeffentliche Institutionen. Behoerden-Blau schafft Vertrauen und Wiedererkennung.",
+    "focus_keyword": "Farbpalette Behoerde",
+    "questions": [
+      "Welche Farben passen fuer Behoerden-Websites?",
+      "Warum verwenden oeffentliche Institutionen oft Blau?",
+      "Wie gestalte ich ein Verwaltungsportal nutzerfreundlich?"
+    ]
+  },
+  "colors": {
+    "primary": "#90afc5",
+    "secondary": "#dce8f0",
+    "accent": "#2e5f8a",
+    "bg": "#f4f7fa",
+    "text": "#1a2e3f",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helles Blauweiss als staatlich-ruhige Flaeche, 30 Prozent gedaempftes Himmelblau fuer Orientierungsebenen, 10 Prozent kraeftiges Behoerdenblau fuer Aktionen und Hervorhebungen."
+  },
+  "accessibility": {
+    "text_on_primary": 6.06,
+    "text_on_secondary": 11.18,
+    "text_on_bg": 12.96,
+    "text_on_card": 13.94
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Oeffentliche Verwaltung",
+    "Kommunen und Landkreise",
+    "Bundesbehoerden"
+  ],
+  "audiences": [
+    "Buergerinnen und Buerger",
+    "Antragsteller",
+    "Mitarbeitende oeffentlicher Stellen"
+  ],
+  "brand_traits": [
+    "vertrauenswuerdig",
+    "ruhig",
+    "zuverlaessig",
+    "buergernah"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Behoerden-Blau Primary",
+      "psychology": "Mittleres Institutionsblau verkoerpert den visuellen Kontrakt oeffentlicher Stellen mit den Buergern.",
+      "best_for": "Seitenkoepfe, Navigationsbereiche und Orientierungsbalken",
+      "risk": "Zu sattes Blau kann autoritaer statt einladend wirken."
+    },
+    "secondary": {
+      "name": "Behoerden-Blau Surface",
+      "psychology": "Helles Himmelblau-Weiss schafft Offenheit und Transparenz im institutionellen Kontext.",
+      "best_for": "Formularabschnitte, Informationskaesten und Hinweis-Panele",
+      "risk": "Zu weit von Weiss entfernt koennen Textfelder unlesbar wirken."
+    },
+    "accent": {
+      "name": "Behoerden-Blau Accent",
+      "psychology": "Sattes Institutionsblau markiert Pflichtfelder, Einreichungs-Buttons und wichtige Hinweise klar und unmissverstaendlich.",
+      "best_for": "Formularbeschriftungen, Einreichen-Buttons und Pflichtfeldmarkierungen",
+      "risk": "In geschwungenen Layouts wirkt der Accent steif und veraltet."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Buergerdienst-Portale und Online-Antragsformulare",
+      "Kommunale Informationsseiten",
+      "Oeffnungszeiten- und Kontaktportale von Behoerden"
+    ],
+    "avoid_for": [
+      "Startup-Websites mit agiler Positionierung",
+      "Lifestyle-Marken fuer juengere Zielgruppen",
+      "Kreative Plattformen mit experimentellem Anspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Behoerden-Blau den Erwartungshorizont der Buerger erfuellt",
+        "reason": "Buerger assoziieren Institutionsblau mit staatlicher Legitimitaet. Abweichungen davon erhoehen die kognitive Last bei der Einschaetzung der Serioesitaet."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen fuer Behoerden-Websites?",
+        "answer": "Traditionelle Blautöne mit hohem Kontrast und klarer Struktur entsprechen den Erwartungen der Buerger und unterstuetzen die Zugaenglichkeit."
+      },
+      {
+        "question": "Wie gestalte ich ein Verwaltungsportal nutzerfreundlich?",
+        "answer": "Klare Farbhierarchie, ausreichend Kontrast und minimale visuelle Ablenkung sind entscheidend fuer niedrigschwellige Nutzung durch alle Bevoelkerungsgruppen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Behoerden-Blau</span><h3>Sachlich &amp; Professionell</h3><p>Traditionelle Blautöne fuer oeffentliche Institutionen und Verwaltungsportale.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

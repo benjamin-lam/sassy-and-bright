@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Abendhimmel",
+  "slug": "natur-umwelt-abendhimmel",
+  "vibe": "Dusk Atmosphere / Abendstimmung",
+  "summary": "Dunkles Lila und verblasstes Blau fuer stimmungsvolle Naturdarstellungen in der Daemmerung. Abendhimmel eignet sich fuer Astro-Fotografie, Natur-Erlebnis-Portale und atmosphaerische Naturblogs.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Abendhimmel"
+  },
+  "keywords": [
+    "Farbpalette Abenddaemmerung",
+    "Natur & Umwelt",
+    "Abendhimmel",
+    "Mensch & Gesellschaft",
+    "Astrofotografie",
+    "Naturstimmung"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Abendhimmel | Farbpalette Daemmerung",
+    "meta_description": "Dunkles Lila und verblasstes Blau fuer stimmungsvolle Naturdarstellungen. Abendhimmel schafft Daemmerungs-Atmosphaere fuer Naturblogs.",
+    "focus_keyword": "Farbpalette Abenddaemmerung",
+    "questions": [
+      "Welche Farben passen zu Daemmerungs- und Abendthemen?",
+      "Wie nutze ich Lila und Blau fuer Naturwebsites?",
+      "Wann ist eine dunkle Naturfarbpalette sinnvoll?"
+    ]
+  },
+  "colors": {
+    "primary": "#4a2c6b",
+    "secondary": "#7b7fa4",
+    "accent": "#8e44ad",
+    "bg": "#f5f0fa",
+    "text": "#1a0f2e",
+    "card": "#faf7fd"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent zartes Lavender-Weiss als Basis, 30 Prozent helles Lavendel fuer Inhaltskarten, 10 Prozent sattes Dunkelviolett fuer Akzente und Aktion."
+  },
+  "accessibility": {
+    "text_on_primary": 1.62,
+    "text_on_secondary": 4.7,
+    "text_on_bg": 16.26,
+    "text_on_card": 17.18
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Naturfotografie",
+    "Astrotourismus",
+    "Erlebnistourismus"
+  ],
+  "audiences": [
+    "Naturfotografen",
+    "Sterngucker und Astronomiefans",
+    "Natur-Erlebnis-Reisende"
+  ],
+  "brand_traits": [
+    "stimmungsvoll",
+    "atmosphaerisch",
+    "romantisch",
+    "tiefgruendig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Abendhimmel Primary",
+      "psychology": "Tiefes Dunkelviolett evoziert die Farbe des Himmels kurz nach Sonnenuntergang und loest unmittelbar Faessen einer besonderen Tageszeit aus.",
+      "best_for": "Seitenkoepfe, Kategorietitel und thematische Rahmen",
+      "risk": "Zu dominant eingesetzt kann Dunkelviolett bedrohlich oder traurig wirken."
+    },
+    "secondary": {
+      "name": "Abendhimmel Surface",
+      "psychology": "Verblasstes Blaugrau imitiert den Uebergangshimmel zwischen Tag und Nacht.",
+      "best_for": "Bildrahmen, Kartenflaechen und Navigationsstreifen",
+      "risk": "Zu grau wirkend verliert die Palette ihre atmosphaerische Qualitaet."
+    },
+    "accent": {
+      "name": "Abendhimmel Accent",
+      "psychology": "Sattes Violett setzt intensive, fast magische Akzente und unterstuetzt die Daemmerungs-Erzaehlung.",
+      "best_for": "CTA-Elemente, Hervorhebungen und aktive Elemente",
+      "risk": "Zu intensives Violett erinnert an spirituelle oder esoterische Kontexte."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Astrofotografie-Portfolios und Sternenhimmel-Touren",
+      "Naturerlebnis-Blogs mit Nacht- und Daemmerungsthemen",
+      "Slow-Travel-Portale mit stimmungsvollem Naturbezug"
+    ],
+    "avoid_for": [
+      "Sachliche Informationswebsites",
+      "Kinder- und Familienportale",
+      "E-Commerce ohne thematischen Bezug"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Abendhimmel Naturerlebnisse emotional verankert",
+        "reason": "Daemmerungs-Farben aktivieren emotionale Erinnerungen an besondere Momente in der Natur und schaffen eine tiefe Resonanz."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Daemmerungs-Themen?",
+        "answer": "Dunkelviolett und verblasstes Blaugrau bilden die typischen Farben der Daemmerung ab und erzeugen sofortige atmosphaerische Assoziation."
+      },
+      {
+        "question": "Wann ist eine dunkle Naturfarbpalette sinnvoll?",
+        "answer": "Wenn Abendstimmung, Nacht und emotionale Naturerlebnisse im Mittelpunkt stehen, sind dunkle Paletten glaubwuerdiger als helles Tageslicht-Gruen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Abendhimmel</span><h3>Natur &amp; Umwelt</h3><p>Dunkles Lila und verblasstes Blau fuer stimmungsvolle Naturdarstellungen.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

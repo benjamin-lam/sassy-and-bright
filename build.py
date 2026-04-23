@@ -76,6 +76,11 @@ CLUSTER_ORDER = {
     "non-profit-activism": 26,
     "mindfulness-spiritual": 27,
     "diversity-community": 28,
+    "sachlich-professionell": 29,
+    "natur-umwelt": 30,
+    "dark-mode": 31,
+    "kreativ-bunt": 32,
+    "pastel": 33,
 }
 
 

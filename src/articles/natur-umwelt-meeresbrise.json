@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Meeresbrise",
+  "slug": "natur-umwelt-meeresbrise",
+  "vibe": "Coastal Calm / Kuestenstille",
+  "summary": "Abgestufte Blautöne von Tuerkeistufe bis Tiefblau fuer maritime, kuestennahe und Umweltschutzprojekte. Meeresbrise vermittelt Weite, Frische und eine klar kommunizierte Naehe zum Wasser.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Meeresbrise"
+  },
+  "keywords": [
+    "Farbpalette Meer",
+    "Natur & Umwelt",
+    "Meeresbrise",
+    "Mensch & Gesellschaft",
+    "Kuestenprojekte",
+    "maritim"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Meeresbrise | Farbpalette Meer",
+    "meta_description": "Abgestufte Blautöne fuer maritime Webprojekte. Meeresbrise schafft Weite und Frische fuer Kuestentourismus und Meeresschutz.",
+    "focus_keyword": "Farbpalette Meer",
+    "questions": [
+      "Welche Farben eignen sich fuer maritime und Kuestenprojekte?",
+      "Wie unterscheide ich Tuerkes von Marine im Webdesign?",
+      "Wann passt Blau besser als Gruen fuer Naturthemen?"
+    ]
+  },
+  "colors": {
+    "primary": "#0091ad",
+    "secondary": "#b3e5fc",
+    "accent": "#01579b",
+    "bg": "#f0f9ff",
+    "text": "#003459",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent helles Meeresblau-Weiss als Atem-Hintergrund, 30 Prozent zartes Tuerkes fuer Karten und Inhaltsflaechen, 10 Prozent tiefes Marineblau fuer Navigations- und Aktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 3.46,
+    "text_on_secondary": 9.5,
+    "text_on_bg": 12.05,
+    "text_on_card": 12.84
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kuestentourismus",
+    "Meeresschutz und Umwelt",
+    "Maritime Wirtschaft"
+  ],
+  "audiences": [
+    "Kuestenanwohner und Segler",
+    "Meeresschutz-Aktivisten",
+    "Reisende fuer Strandurlaub"
+  ],
+  "brand_traits": [
+    "frisch",
+    "weit",
+    "beruhigend",
+    "natuerlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Meeresbrise Primary",
+      "psychology": "Kraeftiges Tuerkes verkoerpert das flache Kuestenwasser und erzeugt sofortige Assoziation mit Frische und Weite.",
+      "best_for": "Hauptnavigation, Hero-Abschnitte und Aktivitaets-Kategorien",
+      "risk": "Zu intensives Tuerkes kann klinisch wirken wenn es nicht durch weissraeumige Hintergruende aufgelockert wird."
+    },
+    "secondary": {
+      "name": "Meeresbrise Surface",
+      "psychology": "Zartes Hellblau imitiert die Farbe von Schaum und Horizontlicht und schafft eine atmosphaerisch reiche Flaeche.",
+      "best_for": "Angebotskarten, Bildunterschriften und Infoboxen",
+      "risk": "Zu viel Hellblau ohne dunklere Akzente laesst das Layout flach und unstrukturiert wirken."
+    },
+    "accent": {
+      "name": "Meeresbrise Accent",
+      "psychology": "Tiefes Marineblau verankert die Palette und gibt Buttons und Links visuelle Stabilitaet.",
+      "best_for": "CTA-Elemente, Links und Pfeilindikatoren",
+      "risk": "Zu dunkles Marine auf hellem Hintergrund kann abrupt und harsch wirken."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Kuestentourismus-Portale und Segeltripbuchungen",
+      "Meeresschutz-NGO-Websites",
+      "Wassersport- und Tauchsport-Anbieter"
+    ],
+    "avoid_for": [
+      "Inland-Tourismus-Projekte ohne Wasserbezug",
+      "Gesundheitsportale mit Blau-Sattigung",
+      "Tech-Brands, die Blau bereits als Unternehmensfarbe nutzen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Meeresbrise Fernweh und Frische aktiviert",
+        "reason": "Blautöne assoziieren Weite und Luft. Die spezifische Tuerkes-Kombination ist kulturell mit Strand und Meer kodiert."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich fuer maritime Webprojekte?",
+        "answer": "Abgestufte Blautöne von Tuerkes bis Marineblau bilden das natuerliche Farbspektrum des Meeres ab und erzeugen starke thematische Glaubwuerdigkeit."
+      },
+      {
+        "question": "Wann passt Meeresbrise besser als ein Gruenkonzept?",
+        "answer": "Wenn das Meer und die Kuestenlinie im Mittelpunkt stehen, ist Blau die stimmigere Wahl als Gruen, das eher Wald und Wiese assoziiert."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Meeresbrise</span><h3>Natur &amp; Umwelt</h3><p>Abgestufte Blautöne fuer maritime und Kuestenprojekte.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

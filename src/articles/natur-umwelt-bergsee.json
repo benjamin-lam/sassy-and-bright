@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Bergsee",
+  "slug": "natur-umwelt-bergsee",
+  "vibe": "Alpine Clarity / Alpine Klarheit",
+  "summary": "Klares Blau kombiniert mit hellem Felsgrau fuer alpine, Bergwanderungs- und Outdoor-Projekte. Bergsee vermittelt kristallene Klarheit und die unverwechselbare Stimmung alpiner Gewässer.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Bergsee"
+  },
+  "keywords": [
+    "Farbpalette Bergwandern",
+    "Natur & Umwelt",
+    "Bergsee",
+    "Mensch & Gesellschaft",
+    "Alpinismus",
+    "Outdoor Tourismus"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Bergsee | Farbpalette Bergwandern",
+    "meta_description": "Klares Blau und Felsgrau fuer alpine Webprojekte. Bergsee schafft kristallene Klarheit fuer Bergwanderungs- und Outdoor-Portale.",
+    "focus_keyword": "Farbpalette Bergwandern",
+    "questions": [
+      "Welche Farben passen zu Bergwandern und Alpinthemen?",
+      "Wie unterscheidet sich alpines Blau von maritimem Blau?",
+      "Warum ist Felsgrau ein guter Begleiter fuer Blautöne?"
+    ]
+  },
+  "colors": {
+    "primary": "#1b7fa4",
+    "secondary": "#c8dde8",
+    "accent": "#005f7a",
+    "bg": "#f0f8fc",
+    "text": "#0d2d3d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent klares Eisblau-Weiss als Bergluft-Hintergrund, 30 Prozent helles Seeblau fuer Karten und Abschnitte, 10 Prozent tiefes Alpinblau fuer Aktionselemente."
+  },
+  "accessibility": {
+    "text_on_primary": 3.16,
+    "text_on_secondary": 10.25,
+    "text_on_bg": 13.38,
+    "text_on_card": 14.39
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Alpintourismus",
+    "Bergwanderanbieter",
+    "Outdoor-Equipment"
+  ],
+  "audiences": [
+    "Bergwanderer und Alpinisten",
+    "Outdoor-Urlauber",
+    "Klettersport-Begeisterte"
+  ],
+  "brand_traits": [
+    "klar",
+    "frisch",
+    "kraeftig",
+    "unverstellt"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Bergsee Primary",
+      "psychology": "Kraeftiges Alpinblau assoziiert klare Bergseen und Gletscherwasser und schafft sofortige alpine Glaubwuerdigkeit.",
+      "best_for": "Navigationsbereiche, Tour-Kategorien und Karten-Hervorhebungen",
+      "risk": "Zu intensives Blau ohne Weissraum wirkt erdrückend statt befreiend."
+    },
+    "secondary": {
+      "name": "Bergsee Surface",
+      "psychology": "Helles Eisblau imitiert Morgenlicht auf Bergseen und schafft eine einladende, frische Inhaltsflaeche.",
+      "best_for": "Tourkarten, Buchungswidgets und Aktivitaets-Kacheln",
+      "risk": "Zu helles Blau kann auf schlechten Bildschirmen gelbstichig erscheinen."
+    },
+    "accent": {
+      "name": "Bergsee Accent",
+      "psychology": "Tiefes Alpinblau setzt praezise Signale und gibt Buttons und Hervorhebungen Gewicht und Klarheit.",
+      "best_for": "Buchungs-Buttons, Anmeldeaktionen und Wichtig-Hinweise",
+      "risk": "Accent zu aehnlich wie Primary macht die Hierarchie unlesbar."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Bergwanderungs- und Alpintourismusportale",
+      "Outdoor-Equipment-Webshops",
+      "Klettersport- und Alpinverein-Websites"
+    ],
+    "avoid_for": [
+      "Stadtmarketing und urbane Brands",
+      "Warme Wuesten- oder Tropentouristik",
+      "Sachliche Unternehmensseiten"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Bergsee alpine Authentizitaet digital transportiert",
+        "reason": "Die spezifische Blaukombination spiegelt das reale Erscheinungsbild alpiner Gewässer wider und schafft sofortige visuelle Glaubwuerdigkeit."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Bergwanderungs-Websites?",
+        "answer": "Klares Alpinblau kombiniert mit Weissraumflaechen schafft die Weitraeumigkeit und Frische, die Bergthemen ausmachen."
+      },
+      {
+        "question": "Wie unterscheidet sich alpines Blau von maritimem Blau?",
+        "answer": "Alpines Blau ist kuehl, klar und intensiv - ohne die Tuerkis-Toene des Meeres. Es wirkt haerter und praeziser als Kuestenblau."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Bergsee</span><h3>Natur &amp; Umwelt</h3><p>Klares Blau und Felsgrau fuer alpine und Bergwanderungsprojekte.</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}

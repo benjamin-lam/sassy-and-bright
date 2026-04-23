@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Mosaik",
+  "slug": "kreativ-bunt-mosaik",
+  "vibe": "Color Celebration / Farbfeier",
+  "summary": "Viele kleine Farbakzente auf hellem Grund fuer lebhafte und diverse Kreativauftritte. Mosaik eignet sich fuer Community-Projekte, Festivals und bunte Markenauftritte.",
+  "taxonomy": {
+    "sector": "Kreativitaet & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Mosaik"
+  },
+  "keywords": [
+    "Farbpalette Festivals und Events",
+    "Kreativ & Bunt",
+    "Mosaik",
+    "Kreativitaet & Bildung",
+    "Festivals und Events",
+    "Diversity-Marken"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Mosaik | Farbpalette Festivals und Events",
+    "meta_description": "Viele kleine Farbakzente auf hellem Grund fuer lebhafte und diverse Kreativauftritte. Mosaik eignet sich fuer Community-Projekte, Festivals und bunte Marke",
+    "focus_keyword": "Farbpalette Festivals und Events",
+    "questions": [
+      "Welche Farben passen fuer diverse und inklusive Marken?",
+      "Wann passt Mosaik?",
+      "Wann passt Mosaik?"
+    ]
+  },
+  "colors": {
+    "primary": "#e91e63",
+    "secondary": "#03a9f4",
+    "accent": "#4caf50",
+    "bg": "#ffffff",
+    "text": "#212121",
+    "card": "#fafafa"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "primary",
+    "note": "60 Prozent reines Weiss als frische Basis, 30 Prozent fast weisses Grau fuer Karten, 10 Prozent kraeftiges Pink als Leit-Akzent."
+  },
+  "accessibility": {
+    "text_on_primary": 3.7,
+    "text_on_secondary": 6.12,
+    "text_on_bg": 16.1,
+    "text_on_card": 15.43
+  },
+  "cognitive_load": 5,
+  "industry_match": [
+    "Festivals und Events",
+    "Diversity-Marken",
+    "Kreative Community-Projekte"
+  ],
+  "audiences": [
+    "Diverse Community-Mitglieder",
+    "Festival-Besucher",
+    "Kreative Marken-Teams"
+  ],
+  "brand_traits": [
+    "bunt",
+    "lebendig",
+    "vielfaeltig",
+    "feierlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Mosaik Primary",
+      "psychology": "Die Primaerfarbe praesentiert den visuellen Kerncharakter der Palette Mosaik.",
+      "best_for": "Hero-Flaechen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Mosaik Surface",
+      "psychology": "Die Sekundaerfarbe schafft Flaechen und Trenner mit passender Tiefe fuer Mosaik.",
+      "best_for": "Karten, Tabellen und Inhaltsflaechen",
+      "risk": "Ohne typografische Fuehrung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Mosaik Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstuetzt die Erzaehllogik von Mosaik.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Uebermaessig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites fuer Festivals und Events",
+      "Projekte mit Zielgruppe Diverse Community-Mitglieder",
+      "Marken mit dem Kernmerkmal bunt"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensaetzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Mosaik Vielfalt und Feierlichkeit kommuniziert",
+        "reason": "Viele gleichwertige Farben auf hellem Grund signalisieren Inklusion und die Freude an Unterschiedlichkeit."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide uebergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt fuer den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen fuer diverse und inklusive Marken?",
+        "answer": "Mehrere gleichwertige Farbakzente auf hellem Grund signalisieren Offenheit und Vielfalt."
+      },
+      {
+        "question": "Wann passt Mosaik?",
+        "answer": "Fuer Community-Projekte, Festivals und Marken, die Buntheit und Vielfalt als Kernidentitaet haben."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Mosaik</span><h3>Kreativ & Bunt</h3><p>Viele kleine Farbakzente auf hellem Grund fuer lebhafte und diverse Kreativauftritte. Mosaik eignet sich fuer Community-</p><button class='btn btn-cta' type='button'>Palette ansehen</button></section>"
+}
