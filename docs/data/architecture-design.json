@@ -1,0 +1,112 @@
+{
+  "title": "Architecture & Design",
+  "slug": "architecture-design",
+  "vibe": "Material Calm",
+  "summary": "Eine materialnahe Designpalette fuer Architekturbueros und Interior-Studios, die Oberflaeche, Licht und raeumliche Disziplin sichtbar machen will.",
+  "keywords": [
+    "Farbpalette Architekturburo",
+    "Interior Design Farben",
+    "Material Aesthetik Webdesign",
+    "Kreativ & Bildung"
+  ],
+  "seo": {
+    "meta_title": "Architecture & Design: Farbpalette fuer Architekturbueros und Interior Studios",
+    "meta_description": "Welche Farben passen zu Architekturbueros? Architecture & Design verbindet Kalk, Stein und Materialwaerme fuer raeumliche Ruhe und hochwertige Projektpraesentation.",
+    "focus_keyword": "Farbpalette Architekturburo",
+    "questions": [
+      "Welche Farben passen zu Architekturbueros und Interior-Studios?",
+      "Wie zeigt man Materialaesthetik im Web?",
+      "Welche Palette wirkt reduziert, aber nicht seelenlos?"
+    ]
+  },
+  "colors": {
+    "primary": "#d5c8bc",
+    "secondary": "#eee7df",
+    "accent": "#8f7a67",
+    "bg": "#faf7f3",
+    "text": "#2d2823",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent kalkige Flaechen fuer Raum, 30 Prozent Materialtoene fuer Volumen und 10 Prozent tiefere Steinsignale fuer Orientierung und Beschriftung."
+  },
+  "accessibility": {
+    "text_on_primary": 6.42,
+    "text_on_secondary": 10.87,
+    "text_on_bg": 14.63,
+    "text_on_card": 15.17
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Architektur",
+    "Interior Design",
+    "Material Brands"
+  ],
+  "audiences": [
+    "Bauherrschaften",
+    "Designaffine Kundschaft",
+    "Projektleitende Teams"
+  ],
+  "brand_traits": [
+    "reduziert",
+    "materialnah",
+    "ruhig",
+    "praezise"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Limestone",
+      "psychology": "Ein weicher Steinton erzeugt Raumgefuehl, Erdung und architektonische Disziplin.",
+      "best_for": "Projektteaser, Hero-Flaechen, Materialstories",
+      "risk": "Zu viel monotone Waerme ohne Spannung kann den Auftritt stumpf machen."
+    },
+    "secondary": {
+      "name": "Plaster Light",
+      "psychology": "Gibt Bildern und Plangrafiken Luft und erinnert an modellhafte, ruhige Oberflaechen.",
+      "best_for": "Case Studies, Bildmodule, Textflaechen",
+      "risk": "Ohne harte Kontrastkanten verlieren sich Details."
+    },
+    "accent": {
+      "name": "Walnut Edge",
+      "psychology": "Setzt diskrete Linien und Markierungen, die an Materialkanten und handwerkliche Tiefe erinnern.",
+      "best_for": "Links, Labels, Navigation, Detailinfos",
+      "risk": "Zu viel Dunkelholz drueckt die Leichtigkeit des Systems."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Architekturseiten mit Bild- und Materialfokus",
+      "Interior-Studios mit hochwertiger Projektpraesentation",
+      "Marken, die Raum und Oberflaeche statt Show inszenieren"
+    ],
+    "avoid_for": [
+      "Junge Pop- und D2C-Marken mit starker Energie",
+      "Security- oder Trading-Produkte mit hoher Signaldichte",
+      "Brutalistische Projekte mit bewusster digitaler Rohheit"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette architektonisch wirkt",
+        "reason": "Sie orientiert sich an Kalk, Putz und Holz statt an abstrakten Farbtrends. Das erzeugt raeumliche Glaubwuerdigkeit."
+      },
+      {
+        "claim": "Warum Reduktion hier Charakter hat",
+        "reason": "Gute Architekturkommunikation lebt von Material und Licht. Eine ruhige Palette macht diese Qualitaeten sichtbar statt sie zu verdecken."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Architekturbueros?",
+        "answer": "Materialnahe, ruhige Tinten mit klarer dunkler Typografie und wenigen tiefen Signalen sind oft ideal fuer hochwertige Projektpraesentation."
+      },
+      {
+        "question": "Wie zeigt man Materialaesthetik im Web?",
+        "answer": "Durch reduzierte Flaechen, luftige Layouts und Farben, die an reale Oberflaechen erinnern statt nach generischem Corporate Design auszusehen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Material<\/span><h3>Residential Case<\/h3><p>Raeumliche Ruhe und feine Kantenfuehrung fuer Bilder, Plaene und Projektstories.<\/p><button class='btn btn-cta' type='button'>Projekt ansehen<\/button><\/section>"
+}

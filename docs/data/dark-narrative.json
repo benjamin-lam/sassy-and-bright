@@ -1,0 +1,112 @@
+{
+  "title": "Dark Narrative",
+  "slug": "dark-narrative",
+  "vibe": "Slow Suspense",
+  "summary": "Eine dichte Erzaehlpalette fuer Horror, Mystery und True-Crime-Formate, die Spannung, Unsicherheit und fokussierte Leseatmosphaere aufbaut.",
+  "keywords": [
+    "Farbpalette Mystery",
+    "True Crime Farben",
+    "Horror Website Palette",
+    "Popkultur & Subkultur"
+  ],
+  "seo": {
+    "meta_title": "Dark Narrative: Farbpalette fuer Horror, Mystery und True Crime",
+    "meta_description": "Welche Farben passen zu Mystery und True Crime? Dark Narrative verbindet Rauchlila, matte Grautiefen und kontrollierte Suspense fuer spannungsvolle digitale Formate.",
+    "focus_keyword": "Farbpalette Mystery",
+    "questions": [
+      "Welche Farben passen zu Mystery, Horror und True Crime?",
+      "Wie baut Farbe Spannung auf, ohne kitschig zu werden?",
+      "Welche Palette schafft Dunkelheit in hellen Weblayouts?"
+    ]
+  },
+  "colors": {
+    "primary": "#cfc4cf",
+    "secondary": "#ebe4ea",
+    "accent": "#7f5f74",
+    "bg": "#f8f5f8",
+    "text": "#241f25",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent neblige Flaechen fuer stille Spannung, 30 Prozent Rauchlila fuer Atmosphaere und 10 Prozent dunkle Mauve-Signale fuer Fokus, Kapitel und CTA-Momente."
+  },
+  "accessibility": {
+    "text_on_primary": 7.03,
+    "text_on_secondary": 11.87,
+    "text_on_bg": 15.04,
+    "text_on_card": 15.58
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "True Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "audiences": [
+    "Story-getriebene Communities",
+    "Podcast- und Streaming-Publikum",
+    "Atmosphaere suchende Leserinnen und Leser"
+  ],
+  "brand_traits": [
+    "spannend",
+    "dicht",
+    "dunkel",
+    "kontrolliert"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Smoke Violet",
+      "psychology": "Das rauchige Lila erzeugt Unsicherheit und emotionale Tiefe ohne billigen Halloween-Effekt.",
+      "best_for": "Hero-Flaechen, Kapitelteiler, Story-Module",
+      "risk": "Zu viel Dunkelromantik kann das Thema unfreiwillig melodramatisch machen."
+    },
+    "secondary": {
+      "name": "Fog Paper",
+      "psychology": "Schafft Raum fuer Text und Hinweise, waehrend die Stimmung unterschwellig angespannt bleibt.",
+      "best_for": "Artikel, Episodenlisten, Beweisboards",
+      "risk": "Ohne starke Typografie wird das System zu weich und spannungsarm."
+    },
+    "accent": {
+      "name": "Suspense Mauve",
+      "psychology": "Setzt feine Dringlichkeit und narrative Marker, ohne die Stimmung mit Alarmrot zu zerstoeren.",
+      "best_for": "Links, Kapitelmarker, Highlights",
+      "risk": "Ein zu heller Accent nimmt dem Thema die Schwere."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Podcast- und Magazinformate mit Story-Fokus",
+      "Mystery- und True-Crime-Landingpages mit Lesetiefe",
+      "Dunkle Narrative, die eher Spannung als Schock suchen"
+    ],
+    "avoid_for": [
+      "Health- oder Public-Sector Portale mit klarem Vertrauensanspruch",
+      "Kinderprodukte und Bildungsangebote",
+      "Food- und Genussmarken mit warmer Ansprache"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette Spannung statt Kitsch erzeugt",
+        "reason": "Sie arbeitet mit Nebel, Dichte und subtilen Dunkelwerten statt mit Blutrot und Schocksymbolik."
+      },
+      {
+        "claim": "Warum Suspense im Web Lesbarkeit braucht",
+        "reason": "Auch dunkle Narrative leben von langem Lesen. Atmosphaere darf den Content nicht verschlucken."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Mystery und True Crime?",
+        "answer": "Gedimmte, rauchige Toene mit guter Typografie funktionieren oft besser als plakative Horrorfarben."
+      },
+      {
+        "question": "Wie baut Farbe Spannung auf ohne Kitsch?",
+        "answer": "Durch Unterton, Kontrast und rhythmische Akzente statt durch offensichtliche Schocksignale."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Case<\/span><h3>Neue Spur<\/h3><p>Dichte Atmosphaere fuer Kapitel, Hinweise und spannungsvolle Storyfuehrung.<\/p><button class='btn btn-cta' type='button'>Episode starten<\/button><\/section>"
+}

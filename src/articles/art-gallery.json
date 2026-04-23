@@ -1,0 +1,112 @@
+{
+  "title": "Art & Gallery",
+  "slug": "art-gallery",
+  "vibe": "Neutral Stage",
+  "summary": "Eine stille Galeriepalette fuer Museen und Ausstellungen, die Kunstwerken, Exponaten und kuratorischen Inhalten eine neutrale, respektvolle Buehne gibt.",
+  "keywords": [
+    "Farbpalette Museum",
+    "Ausstellungsdesign Farben",
+    "Gallery Website Palette",
+    "Kreativ & Bildung"
+  ],
+  "seo": {
+    "meta_title": "Art & Gallery: Farbpalette fuer Museen und Ausstellungen",
+    "meta_description": "Welche Farben passen zu Museen und Ausstellungen? Art & Gallery setzt auf neutrale Buehnen, klare Typografie und stille Akzente fuer kuratierte Inhalte.",
+    "focus_keyword": "Farbpalette Museum",
+    "questions": [
+      "Welche Farben passen zu Museen und Ausstellungen?",
+      "Wie schafft man eine neutrale Buehne fuer Kunst im Web?",
+      "Welche Palette unterstuetzt kuratorische Zurueckhaltung?"
+    ]
+  },
+  "colors": {
+    "primary": "#ded8cf",
+    "secondary": "#f3f1ed",
+    "accent": "#8c8378",
+    "bg": "#fcfbf9",
+    "text": "#272421",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent nahezu neutrale Galerie-Flaechen fuer Werke und Bilder, 30 Prozent leichte Wandtoene fuer Gliederung und 10 Prozent gedeckte Akzente fuer Orientierung."
+  },
+  "accessibility": {
+    "text_on_primary": 7.31,
+    "text_on_secondary": 12.41,
+    "text_on_bg": 15.38,
+    "text_on_card": 15.94
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Museen",
+    "Ausstellungen",
+    "Kulturinstitutionen"
+  ],
+  "audiences": [
+    "Kuratorische Teams",
+    "Kulturinteressierte Besucherinnen und Besucher",
+    "Institutionelle Partner"
+  ],
+  "brand_traits": [
+    "zurueckhaltend",
+    "kuratorisch",
+    "respektvoll",
+    "klar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Gallery Wall",
+      "psychology": "Schafft eine physische Ausstellungsassoziation und laesst Inhalte geerdet, aber nicht aufdringlich erscheinen.",
+      "best_for": "Werkbuehnen, Objektseiten, Intro-Flaechen",
+      "risk": "Zu viel Wandton ohne Rhythmus kann altmodisch wirken."
+    },
+    "secondary": {
+      "name": "Archive White",
+      "psychology": "Gibt Texten, Captions und Ausstellungshinweisen Luft und kuratorische Ruhe.",
+      "best_for": "Texte, Legenden, Programmdetails",
+      "risk": "Ein komplett neutrales System kann austauschbar und institutionell stumpf werden."
+    },
+    "accent": {
+      "name": "Frame Taupe",
+      "psychology": "Setzt leise Markierungen, die eher rahmen als rufen.",
+      "best_for": "Navigation, kleine Labels, Datumsmarker",
+      "risk": "Zu wenige Akzente koennen die Orientierung schwaechen."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Ausstellungsseiten mit starkem Bild- und Objektfokus",
+      "Museumsportale mit viel kuratorischem Text",
+      "Kulturinstitutionen, die Inhalte ueber den Look stellen"
+    ],
+    "avoid_for": [
+      "D2C-Shops mit aktivem Kaufimpuls",
+      "Jugend- und Entertainment-Marken mit hoher Energie",
+      "Tech-Produkte mit starkem Innovationssignal"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Neutralitaet hier kein Nachteil ist",
+        "reason": "Die Aufgabe der Palette ist nicht Selbstinszenierung, sondern die Inhalte sichtbar zu machen. Eine gute Museumsfarbe tritt bewusst zurueck."
+      },
+      {
+        "claim": "Warum kuratorische Ruhe trotzdem Gestaltung ist",
+        "reason": "Zurueckhaltung ist eine aktive Entscheidung. Sie schafft Fokus, Respekt und eine hochwertige Wahrnehmung von Werken und Texten."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Museen und Ausstellungen?",
+        "answer": "Neutrale, warme Weiss- und Wandtoene mit klarer Typografie sind oft ideal, wenn Exponate und kuratorische Inhalte die Hauptrolle spielen."
+      },
+      {
+        "question": "Wie schafft man eine neutrale Buehne fuer Kunst?",
+        "answer": "Durch bewusste Zurueckhaltung, feine Materialassoziationen und genug Kontrast, damit Kunst und Text sauber getragen werden."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Exhibit</span><h3>Current Show</h3><p>Eine stille Buehne fuer Werke, Captions und kuratorische Orientierung.</p><button class='btn btn-cta' type='button'>Ausstellung ansehen</button></section>"
+}

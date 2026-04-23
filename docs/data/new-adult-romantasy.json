@@ -1,0 +1,112 @@
+{
+  "title": "New Adult & Romantasy",
+  "slug": "new-adult-romantasy",
+  "vibe": "Soft Escape",
+  "summary": "Eine eskapistische Buch- und Community-Palette fuer Romance, Romantasy und Bookstagram-nahe Formate, die Sehnsucht, Intimitaet und leichte Magie tragen soll.",
+  "keywords": [
+    "Farbpalette Romance",
+    "Bookstagram Farben",
+    "Romantasy Webdesign",
+    "Popkultur & Subkultur"
+  ],
+  "seo": {
+    "meta_title": "New Adult & Romantasy: Farbpalette fuer Romance und Book Communities",
+    "meta_description": "Welche Farben passen zu Romance und Romantasy? New Adult & Romantasy kombiniert Blush, Mauve und sanfte Magie fuer Community- und Buchformate mit Eskapismus.",
+    "focus_keyword": "Farbpalette Romance",
+    "questions": [
+      "Welche Farben passen zu Romance, Romantasy und Bookstagram?",
+      "Wie erzeugt man Eskapismus ohne Zuckrigkeit?",
+      "Welche Palette verbindet Intimitaet und Fantasie?"
+    ]
+  },
+  "colors": {
+    "primary": "#e7cbdb",
+    "secondary": "#f4e9f0",
+    "accent": "#a07aa2",
+    "bg": "#fff9fc",
+    "text": "#302434",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent helle Traumflaechen fuer Ruhe, 30 Prozent blushige Naehe fuer Emotionalitaet und 10 Prozent mauvige Magie fuer Fokus, Kapitel und Highlights."
+  },
+  "accessibility": {
+    "text_on_primary": 6.12,
+    "text_on_secondary": 10.73,
+    "text_on_bg": 14.42,
+    "text_on_card": 14.97
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Bookstagram",
+    "Romance",
+    "Fiction Communities"
+  ],
+  "audiences": [
+    "Leserinnen und Leser mit Eskapismusfokus",
+    "Buchcommunities",
+    "Creatorinnen im Romance-Umfeld"
+  ],
+  "brand_traits": [
+    "sehnsuchtsvoll",
+    "weich",
+    "magisch",
+    "nah"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Blush Veil",
+      "psychology": "Erzeugt emotionale Naehe, Sanftheit und eine leicht romantische Grundstimmung.",
+      "best_for": "Hero-Flaechen, Buchtitel, Community-Teaser",
+      "risk": "Zu viel Blush ohne Struktur kann zu kitschig oder unentschlossen wirken."
+    },
+    "secondary": {
+      "name": "Moon Paper",
+      "psychology": "Schafft Luft fuer Rezensionen, Kapitel und Community-Inhalte, ohne die Traumstimmung zu verlieren.",
+      "best_for": "Listen, Rezensionen, Textbloecke",
+      "risk": "Ein zu weiches Gesamtbild schwacht den Charakter der Marke."
+    },
+    "accent": {
+      "name": "Spell Mauve",
+      "psychology": "Setzt Fantasie- und Fokusmomente, die leicht magisch statt laut wirken.",
+      "best_for": "Badges, Links, CTA-Highlights",
+      "risk": "Zu viel Accent macht die Palette schwer und zu fantasy-lastig."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Buchcommunities und Empfehlungsplattformen",
+      "Landingpages fuer Romance- und Romantasy-Reihen",
+      "Creator-Marken mit intimer, emotionaler Ansprache"
+    ],
+    "avoid_for": [
+      "Haerte und Sicherheitsversprechen im B2B-Umfeld",
+      "Behoerden- und Klinikportale",
+      "Roh-digitale Subkulturen mit Anti-Design-Haltung"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette Eskapismus statt Zucker transportiert",
+        "reason": "Sie nutzt sanfte, erwachsene Tinten mit klarer Typografie statt bonbonartige Maerchenfarben."
+      },
+      {
+        "claim": "Warum Romantasy Struktur braucht",
+        "reason": "Auch emotionale Welten brauchen klare Lesepfade. Sonst kippt die Stimmung in Unentschlossenheit statt in Tiefe."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Romance und Romantasy?",
+        "answer": "Weiche Blush- und Mauvetoene mit sauberem Kontrast funktionieren oft gut, wenn Intimitaet und Fantasie zusammenspielen sollen."
+      },
+      {
+        "question": "Wie erzeugt man Eskapismus ohne Kitsch?",
+        "answer": "Durch sanfte Farbigkeit, kontrollierte Akzente und eine erwachsene typografische Fuehrung."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Read<\/span><h3>Neue Welt<\/h3><p>Sanfte Magie und emotionale Naehe fuer Reihen, Rezensionen und Community-Momente.<\/p><button class='btn btn-cta' type='button'>Kapitel lesen<\/button><\/section>"
+}

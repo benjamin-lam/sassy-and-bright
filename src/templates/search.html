@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{meta_title}}</title>
+  <meta name="description" content="{{meta_description}}">
+  <meta name="theme-color" content="{{theme_color}}">
+  <link rel="canonical" href="{{canonical_url}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{meta_title}}">
+  <meta property="og:description" content="{{meta_description}}">
+  <meta property="og:url" content="{{canonical_url}}">
+  <meta property="og:site_name" content="VibeVault">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <script type="application/ld+json">{{json_ld}}</script>
+  <script defer src="../assets/js/search.js"></script>
+</head>
+<body class="theme-shell">
+  <a class="skip-link" href="#content">Zum Inhalt</a>
+  <header class="site-header shell">
+    <a class="brand-mark" href="{{home_href}}">VibeVault</a>
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <a href="{{home_href}}">Uebersicht</a>
+    </nav>
+  </header>
+
+  <main id="content" class="shell stack-xl">
+    <section class="hero-panel bg-60 reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Suche</p>
+        <h1 class="display-title">Passende Farbpalette nach Projektlogik filtern</h1>
+        <p class="lead">Suche nicht nach Huebschigkeit, sondern nach Wirkung, Branche, Zielgruppe und Begruendbarkeit.</p>
+      </div>
+      <div class="control-card bg-30">
+        <p class="eyebrow">Ergebnis</p>
+        <h2><span id="result-count">0</span> von <span id="total-count">0</span> Paletten sichtbar</h2>
+        <p>Die Filter arbeiten nur clientseitig und bleiben damit schnell und ohne externe Abhaengigkeiten.</p>
+      </div>
+    </section>
+
+    <section class="panel reveal">
+      <div class="search-controls">
+        <label class="field">
+          <span>Freitext</span>
+          <input id="search-input" type="search" placeholder="z. B. E-Commerce, Vertrauen, Grau, D2C">
+        </label>
+        <label class="field">
+          <span>Vibe</span>
+          <select id="vibe-filter">
+            <option value="">Alle</option>
+            {{vibe_options}}
+          </select>
+        </label>
+        <label class="field">
+          <span>Branche</span>
+          <select id="industry-filter">
+            <option value="">Alle</option>
+            {{industry_options}}
+          </select>
+        </label>
+        <button id="reset-search" class="btn btn-ghost" type="button">Filter zuruecksetzen</button>
+      </div>
+    </section>
+
+    <section class="reveal">
+      <div id="search-results" class="card-grid">
+        {{search_cards}}
+      </div>
+      <div id="empty-state" class="panel empty-state" hidden>
+        <h2>Keine Palette passt auf diese Kombination.</h2>
+        <p>Versuche breitere Suchbegriffe oder setze Vibe und Branche zurueck.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <p>VibeVault Archiv fuer Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+  </footer>
+
+  <script id="search-data" type="application/json">{{palette_index_json}}</script>
+</body>
+</html>

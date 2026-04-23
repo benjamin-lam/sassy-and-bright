@@ -1,0 +1,112 @@
+{
+  "title": "Corporate Trust",
+  "slug": "corporate-trust",
+  "vibe": "Measured Confidence",
+  "summary": "Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muessen.",
+  "keywords": [
+    "Farbpalette Banken",
+    "Corporate Design Vertrauen",
+    "Business Farben Seriositaet",
+    "Business & Institutionen"
+  ],
+  "seo": {
+    "meta_title": "Corporate Trust: Farbpalette fuer Banken und Blue-Chip Marken",
+    "meta_description": "Welche Farbpalette wirkt serioes? Corporate Trust verbindet ruhige Blautoene, saubere Flaechen und klare Kontraste fuer Banken, Versicherungen und Corporate Portale.",
+    "focus_keyword": "Farbpalette Banken",
+    "questions": [
+      "Welche Farben wirken bei Banken und Versicherungen serioes?",
+      "Welche Farbpalette passt zu einer konservativen Corporate Website?",
+      "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
+    ]
+  },
+  "colors": {
+    "primary": "#b6d1e8",
+    "secondary": "#dfeaf3",
+    "accent": "#4c8fbe",
+    "bg": "#f7fafc",
+    "text": "#1e2b36",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisse Flaechen fuer Ruhe, 30 Prozent Soft Blue fuer Vertrauensanker und 10 Prozent Stahlblau fuer Navigation, Links und Signalpunkte."
+  },
+  "accessibility": {
+    "text_on_primary": 7.42,
+    "text_on_secondary": 12.81,
+    "text_on_bg": 15.18,
+    "text_on_card": 15.74
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Banken",
+    "Versicherungen",
+    "Blue-Chip"
+  ],
+  "audiences": [
+    "Investor Relations Teams",
+    "Corporate Kommunikationsabteilungen",
+    "Risikobewusste Kundschaft"
+  ],
+  "brand_traits": [
+    "serioes",
+    "stabil",
+    "klar",
+    "vertrauenswuerdig"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Boardroom Blue",
+      "psychology": "Ruhiges Blau signalisiert Ordnung, Verlaesslichkeit und kontrollierte Kompetenz.",
+      "best_for": "Hero-Flaechen, Leistungsbloecke, Vertrauensmodule",
+      "risk": "Zu viel Blau ohne Waerme kann unnahbar und austauschbar wirken."
+    },
+    "secondary": {
+      "name": "Paper Blue",
+      "psychology": "Erzeugt den Eindruck sauberer, geordneter Dokumentenlogik und reduziert visuelle Nervositaet.",
+      "best_for": "Tabellen, Karten, Formularflaechen",
+      "risk": "Zu flache Flaechen lassen das Layout schnell nach Standardtemplate aussehen."
+    },
+    "accent": {
+      "name": "Steel Signal",
+      "psychology": "Setzt praezise Navigationssignale, ohne die Ernsthaftigkeit des Auftritts zu unterlaufen.",
+      "best_for": "Links, aktive Navigation, Key Stats",
+      "risk": "Ein zu dominanter Accent verschiebt den Fokus von Stabilitaet zu Verkaufsdruck."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Corporate Homepages mit hohem Vertrauensbedarf",
+      "Versicherungsportale mit langer Formularstrecke",
+      "Investor-Relations Seiten mit vielen Kennzahlen"
+    ],
+    "avoid_for": [
+      "Jugendmarken mit bewusst popkultureller Energie",
+      "Event-Landingpages mit starker Promo-Dramaturgie",
+      "Luxury-Brands, die eher Exklusivitaet als Nuchternheit zeigen wollen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette Vertrauen erzeugt",
+        "reason": "Sie arbeitet mit bekannten Business-Farbcodes, aber in einer hellen, lesbaren und digitalen Auspraegung statt in schwerem Corporate-Navy."
+      },
+      {
+        "claim": "Warum Zurueckhaltung hier ein Vorteil ist",
+        "reason": "In stark regulierten und risikoaversen Kontexten ist Klarheit wichtiger als visuelle Lautstaerke. Die Palette priorisiert Glaubwuerdigkeit vor Effekthascherei."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken bei Banken serioes?",
+        "answer": "Kuehle Blautoene, helle Flaechen und dunkle Typografie sind ein etablierter Rahmen fuer Stabilitaet, solange sie nicht steril oder altmodisch werden."
+      },
+      {
+        "question": "Warum sind bunte Corporate Farben oft riskant?",
+        "answer": "Weil sie in konservativen Finanzkontexten schnell Unsicherheit, Werblichkeit oder mangelnde Risikokontrolle signalisieren koennen."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Trust<\/span><h3>Investor Briefing<\/h3><p>Ruhige Zahlenfuehrung und sachliche Navigation fuer anspruchsvolle Corporate Nutzer.<\/p><button class='btn btn-cta' type='button'>Bericht lesen<\/button><\/section>"
+}

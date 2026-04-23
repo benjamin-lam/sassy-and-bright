@@ -1,0 +1,112 @@
+{
+  "title": "Health & Clinical",
+  "slug": "health-clinical",
+  "vibe": "Clean Precision",
+  "summary": "Eine hygienische, klinisch praezise Palette fuer Kliniken, MedTech und Pharma, die Sauberkeit, Orientierung und Vertrauen ohne Wellness-Weichheit vermitteln soll.",
+  "keywords": [
+    "Farbpalette Klinik",
+    "MedTech Farben",
+    "klinisches Webdesign",
+    "Business & Institutionen"
+  ],
+  "seo": {
+    "meta_title": "Health & Clinical: Farbpalette fuer Kliniken, Pharma und MedTech",
+    "meta_description": "Welche Farben wirken klinisch und vertrauensvoll? Health & Clinical verbindet saubere Aqua- und Weisswerte mit klarer Typografie fuer Kliniken, Pharma und MedTech.",
+    "focus_keyword": "Farbpalette Klinik",
+    "questions": [
+      "Welche Farben wirken hygienisch und praezise?",
+      "Welche Farbpalette passt zu MedTech und Kliniken?",
+      "Wie vermeidet man Wellness-Look bei medizinischen Portalen?"
+    ]
+  },
+  "colors": {
+    "primary": "#c4e4e0",
+    "secondary": "#e5f2f1",
+    "accent": "#4c9ea3",
+    "bg": "#f7fbfb",
+    "text": "#1f2d31",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent klare Weissflaechen fuer Hygiene, 30 Prozent cooles Aqua fuer Orientierung und 10 Prozent praezise Akzente fuer Actions, Status und Fokuszustande."
+  },
+  "accessibility": {
+    "text_on_primary": 8.12,
+    "text_on_secondary": 12.95,
+    "text_on_bg": 15.47,
+    "text_on_card": 15.98
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Kliniken",
+    "MedTech",
+    "Pharma"
+  ],
+  "audiences": [
+    "Patientinnen und Patienten",
+    "AErztliche Fachgruppen",
+    "Produkt- und Compliance Teams"
+  ],
+  "brand_traits": [
+    "hygienisch",
+    "praezise",
+    "vertrauensvoll",
+    "klar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Clinical Aqua",
+      "psychology": "Verbindet Sauberkeit, Ordnung und technische Praezision ohne kalt-metallisch zu werden.",
+      "best_for": "Leistungsbloecke, Prozessdarstellungen, Hero-Sektionen",
+      "risk": "Zu viel Aqua kann in Wellness oder Spaanmutung kippen."
+    },
+    "secondary": {
+      "name": "Sterile Mist",
+      "psychology": "Gibt Formularen, Tabellen und medizinischen Informationen eine ruhige, saubere Buehne.",
+      "best_for": "Patienteninformationen, Datenmodule, FAQs",
+      "risk": "Wenn alles zu hell bleibt, fehlen klare Handlungspunkte."
+    },
+    "accent": {
+      "name": "Precision Teal",
+      "psychology": "Signalisiert kontrollierte Aktivitaet und moderne MedTech-Kompetenz.",
+      "best_for": "Buttons, Stepper, Interaktionshinweise",
+      "risk": "Ein zu dominanter Accent macht das Interface hektischer, als es in medizinischen Kontexten sein sollte."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Klinikwebsites mit viel Aufklaerungsinhalt",
+      "MedTech-Produkte mit Erklaerungsbedarf",
+      "Pharma-Portale mit Fokus auf Vertrauen und Ordnung"
+    ],
+    "avoid_for": [
+      "Bio- und Naturmarken mit starker Erdigkeit",
+      "Luxury-Auftritte, die ueber Materialprestige arbeiten",
+      "Subkulturelle Brands mit bewusst roher Gestaltung"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette medizinisch statt wellnessig wirkt",
+        "reason": "Sie setzt auf klare Kontraste, kuehle Ordnung und gezielte Signale statt auf diffuse Pastellruhe und Spa-Klischees."
+      },
+      {
+        "claim": "Warum Hygiene im Interface sichtbar sein muss",
+        "reason": "Medizinische Marken werden ueber Praezision und Reduktion gelesen. Eine saubere visuelle Sprache erhoeht Vertrauen in Prozesse und Inhalte."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben wirken hygienisch?",
+        "answer": "Kuehle Weisswerte, kontrollierte Aqua-Toene und dunkle, lesbare Typografie sind fuer viele medizinische Interfaces ein guter Ausgangspunkt."
+      },
+      {
+        "question": "Wie vermeidet man Wellness-Look bei Kliniken?",
+        "answer": "Durch praezise Kontraste, technische Ordnung und den Verzicht auf zu romantische Natur- oder Spa-Farbcodes."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Care</span><h3>Termin und Aufklaerung</h3><p>Klar strukturierte Information fuer medizinische Entscheidungen mit hohem Vertrauensbedarf.</p><button class='btn btn-cta' type='button'>Sprechstunde finden</button></section>"
+}

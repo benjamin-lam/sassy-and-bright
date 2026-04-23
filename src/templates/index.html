@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{meta_title}}</title>
+  <meta name="description" content="{{meta_description}}">
+  <meta name="theme-color" content="{{theme_color}}">
+  <link rel="canonical" href="{{canonical_url}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{meta_title}}">
+  <meta property="og:description" content="{{meta_description}}">
+  <meta property="og:url" content="{{canonical_url}}">
+  <meta property="og:site_name" content="VibeVault">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script type="application/ld+json">{{json_ld}}</script>
+</head>
+<body class="theme-shell">
+  <a class="skip-link" href="#content">Zum Inhalt</a>
+  <header class="site-header shell">
+    <a class="brand-mark" href="./">VibeVault</a>
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <a href="{{search_href}}">Suche</a>
+    </nav>
+  </header>
+
+  <main id="content" class="shell stack-xl">
+    <section class="hero-panel bg-60 reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Farbpaletten, Farbpsychologie, SEO</p>
+        <h1 class="display-title">Ein Archiv fuer argumentierbare Farbentscheidungen im Web</h1>
+        <p class="lead">Jede Palette wird als Set-Card mit Wirkung, Zielgruppenfit, Accessibility und Download der CSS Variablen dargestellt. So wird aus Geschmack eine belastbare Entscheidung.</p>
+        <ul class="meta-strip">
+          <li><strong>{{palette_count}}</strong> Palette(n) im Archiv</li>
+          <li><strong>Mobile first</strong> fuer schnelle Referenz</li>
+          <li><strong>SEO-Fokus</strong> auf Fragen rund um Farbpalette und Farbpsychologie</li>
+        </ul>
+      </div>
+      <div class="control-card bg-30">
+        <p class="eyebrow">Suchseite</p>
+        <h2>Filtere nach Branche, Vibe und Argumentation</h2>
+        <p>Die Suche ist absichtlich separat, damit Startseite und Detailseiten fokussiert bleiben.</p>
+        <a class="btn" href="{{search_href}}">Zur Suchseite</a>
+      </div>
+    </section>
+
+    <section class="grid-two reveal">
+      <article class="panel">
+        <div class="section-head compact">
+          <p class="eyebrow">Fragen</p>
+          <h2>Wofuer das Archiv Antworten liefert</h2>
+        </div>
+        <ol class="question-list">
+          {{featured_questions}}
+        </ol>
+      </article>
+      <article class="panel">
+        <div class="section-head compact">
+          <p class="eyebrow">Nutzen</p>
+          <h2>Was eine gute Set-Card leisten muss</h2>
+        </div>
+        <ul class="bullet-list">
+          <li>Farben fachlich begruenden statt nur subjektiv zu bewerten.</li>
+          <li>Palette, Zielgruppe, Branche und Risiken auf einen Blick lesen.</li>
+          <li>CSS Variablen direkt uebernehmen oder an eine KI weiterreichen.</li>
+          <li>SEO-Fragen und FAQ mit den Daten der Palette verbinden.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="reveal">
+      <div class="section-head">
+        <p class="eyebrow">Archiv</p>
+        <h2>Aktuelle Set-Cards</h2>
+      </div>
+      <div class="card-grid">
+        {{palette_cards}}
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <p>VibeVault Archiv fuer Farbpaletten, Farbpsychologie und argumentierbare Designentscheidungen. {{year}}</p>
+  </footer>
+</body>
+</html>

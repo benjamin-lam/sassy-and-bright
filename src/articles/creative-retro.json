@@ -1,0 +1,112 @@
+{
+  "title": "Creative & Retro",
+  "slug": "creative-retro",
+  "vibe": "Constructed Play",
+  "summary": "Eine expressive Agenturpalette mit Bauhaus- und Retro-Anklang fuer Design-Studios, kreative Plattformen und Marken mit bewusst gestalteter Eigenstaendigkeit.",
+  "keywords": [
+    "Farbpalette Agentur",
+    "Bauhaus Farben Webdesign",
+    "Creative Studio Palette",
+    "Kreativ & Bildung"
+  ],
+  "seo": {
+    "meta_title": "Creative & Retro: Farbpalette fuer Agenturen und Design-Studios",
+    "meta_description": "Welche Farben passen zu Agenturen und Design-Studios? Creative & Retro kombiniert Bauhaus-nahe Tinten, klare Kontraste und nostalgische Energie fuer kreative Marken.",
+    "focus_keyword": "Farbpalette Agentur",
+    "questions": [
+      "Welche Farben passen zu Agenturen und Design-Studios?",
+      "Wie wirkt Retro kreativ statt museal?",
+      "Welche Palette transportiert Bauhaus-Energie im Web?"
+    ]
+  },
+  "colors": {
+    "primary": "#e8c1a9",
+    "secondary": "#f4e7cf",
+    "accent": "#4e8ac9",
+    "bg": "#fffaf4",
+    "text": "#312720",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent warme Galerie-Flaechen fuer Raum, 30 Prozent Retro-Sand fuer Komposition und 10 Prozent klares Studio-Blau fuer Form, Richtung und Spannung."
+  },
+  "accessibility": {
+    "text_on_primary": 5.91,
+    "text_on_secondary": 10.77,
+    "text_on_bg": 14.58,
+    "text_on_card": 15.12
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Agenturen",
+    "Design-Studios",
+    "Kulturmarken"
+  ],
+  "audiences": [
+    "Kreativdirektionen",
+    "Marken mit Stilanspruch",
+    "Kulturell affine Kundschaft"
+  ],
+  "brand_traits": [
+    "expressiv",
+    "kuratiert",
+    "gestaltet",
+    "charakterstark"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Studio Clay",
+      "psychology": "Verbindet Materialwaerme mit einem kuenstlerischen, menschlichen Grundton.",
+      "best_for": "Hero-Flaechen, Work-Highlights, Intro-Sektionen",
+      "risk": "Zu viel Waerme ohne Gegenpol wirkt dekorativ statt konzeptuell."
+    },
+    "secondary": {
+      "name": "Archive Paper",
+      "psychology": "Erzeugt einen editorischen Raum, der Arbeiten und Texte wie kuratierte Exponate wirken laesst.",
+      "best_for": "Projektseiten, Textbloecke, Journalformate",
+      "risk": "Ein zu papierhafter Gesamteindruck kann nach Nostalgie statt nach Gegenwart aussehen."
+    },
+    "accent": {
+      "name": "Bauhaus Blue",
+      "psychology": "Setzt klare Form- und Richtungsimpulse, die der Palette Haltung und grafische Strenge geben.",
+      "best_for": "CTAs, Labels, Navigationspunkte",
+      "risk": "Zu viel Akzentblau nimmt dem Retro-Warmton die Fuehrung."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Agenturseiten mit starker Projektpraesentation",
+      "Design-Studios mit editorischer Haltung",
+      "Kultur- und Kreativmarken mit kuratiertem Look"
+    ],
+    "avoid_for": [
+      "Public-Sector Portale mit Neutralitaetsanspruch",
+      "Rein technische Security- oder MedTech-Angebote",
+      "Sehr konservative Corporate-Auftritte"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette kreativ statt chaotisch wirkt",
+        "reason": "Sie mischt warme, menschliche Tinten mit einer klaren, konstruktiven Blauachse. So bleibt die Energie gestaltet und nicht beliebig."
+      },
+      {
+        "claim": "Warum Retro im Web Struktur braucht",
+        "reason": "Nostalgie allein traegt keine Usability. Die Palette funktioniert erst ueber klare Hierarchie und saubere Kontraste."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Agenturen und Design-Studios?",
+        "answer": "Paletten mit Haltung, Materialwaerme und einer klaren grafischen Gegenstimme sind oft staerker als neutrale Corporate-Systeme."
+      },
+      {
+        "question": "Wie wirkt Retro kreativ statt museal?",
+        "answer": "Indem nostalgische Toene mit moderner Typografie, klaren Grid-Entscheidungen und funktionalen Interaktionsfarben kombiniert werden."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Studio</span><h3>Selected Work</h3><p>Ein kuratierter Auftritt mit editorischer Ruhe und bewusst gesetzter Formenergie.</p><button class='btn btn-cta' type='button'>Cases ansehen</button></section>"
+}

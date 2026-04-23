@@ -1,0 +1,1178 @@
+[
+  {
+    "title": "Anime & Gaming Culture",
+    "slug": "anime-gaming-culture",
+    "vibe": "Dynamic Fandom",
+    "summary": "Eine bewegte Fandom-Palette fuer Streaming, Gaming und Anime-Communities, die Dynamik, Community-Waerme und klare Highlight-Momente verbindet.",
+    "keywords": [
+      "Farbpalette Gaming",
+      "Anime Community Farben",
+      "Streaming Brand Palette",
+      "Popkultur & Subkultur"
+    ],
+    "industry_match": [
+      "Streaming",
+      "Gaming",
+      "Fandom"
+    ],
+    "audiences": [
+      "Community-orientierte Nutzerinnen und Nutzer",
+      "Stream-affine Zielgruppen",
+      "Popkultur-Stan Communities"
+    ],
+    "brand_traits": [
+      "dynamisch",
+      "sozial",
+      "lebendig",
+      "reaktionsstark"
+    ],
+    "focus_keyword": "Farbpalette Gaming",
+    "questions": [
+      "Welche Farben passen zu Gaming, Anime und Streaming-Communities?",
+      "Wie wirkt eine Fandom-Marke dynamisch statt chaotisch?",
+      "Welche Palette verbindet Energie und Community-Waerme?"
+    ],
+    "colors": {
+      "primary": "#d3d6ff",
+      "secondary": "#edf0ff",
+      "accent": "#ff9e62",
+      "bg": "#f8f9ff",
+      "text": "#222538",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Architecture & Design",
+    "slug": "architecture-design",
+    "vibe": "Material Calm",
+    "summary": "Eine materialnahe Designpalette fuer Architekturbueros und Interior-Studios, die Oberflaeche, Licht und raeumliche Disziplin sichtbar machen will.",
+    "keywords": [
+      "Farbpalette Architekturburo",
+      "Interior Design Farben",
+      "Material Aesthetik Webdesign",
+      "Kreativ & Bildung"
+    ],
+    "industry_match": [
+      "Architektur",
+      "Interior Design",
+      "Material Brands"
+    ],
+    "audiences": [
+      "Bauherrschaften",
+      "Designaffine Kundschaft",
+      "Projektleitende Teams"
+    ],
+    "brand_traits": [
+      "reduziert",
+      "materialnah",
+      "ruhig",
+      "praezise"
+    ],
+    "focus_keyword": "Farbpalette Architekturburo",
+    "questions": [
+      "Welche Farben passen zu Architekturbueros und Interior-Studios?",
+      "Wie zeigt man Materialaesthetik im Web?",
+      "Welche Palette wirkt reduziert, aber nicht seelenlos?"
+    ],
+    "colors": {
+      "primary": "#d5c8bc",
+      "secondary": "#eee7df",
+      "accent": "#8f7a67",
+      "bg": "#faf7f3",
+      "text": "#2d2823",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Art & Gallery",
+    "slug": "art-gallery",
+    "vibe": "Neutral Stage",
+    "summary": "Eine stille Galeriepalette fuer Museen und Ausstellungen, die Kunstwerken, Exponaten und kuratorischen Inhalten eine neutrale, respektvolle Buehne gibt.",
+    "keywords": [
+      "Farbpalette Museum",
+      "Ausstellungsdesign Farben",
+      "Gallery Website Palette",
+      "Kreativ & Bildung"
+    ],
+    "industry_match": [
+      "Museen",
+      "Ausstellungen",
+      "Kulturinstitutionen"
+    ],
+    "audiences": [
+      "Kuratorische Teams",
+      "Kulturinteressierte Besucherinnen und Besucher",
+      "Institutionelle Partner"
+    ],
+    "brand_traits": [
+      "zurueckhaltend",
+      "kuratorisch",
+      "respektvoll",
+      "klar"
+    ],
+    "focus_keyword": "Farbpalette Museum",
+    "questions": [
+      "Welche Farben passen zu Museen und Ausstellungen?",
+      "Wie schafft man eine neutrale Buehne fuer Kunst im Web?",
+      "Welche Palette unterstuetzt kuratorische Zurueckhaltung?"
+    ],
+    "colors": {
+      "primary": "#ded8cf",
+      "secondary": "#f3f1ed",
+      "accent": "#8c8378",
+      "bg": "#fcfbf9",
+      "text": "#272421",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Bio-Logic & Eco",
+    "slug": "bio-logic-eco",
+    "vibe": "Grounded Optimism",
+    "summary": "Eine geerdete Gruenpalette fuer Bio-Food, Nachhaltigkeitsmarken und Impact-Angebote, die Ethik, Transparenz und Naturbezug digital glaubwuerdig machen will.",
+    "keywords": [
+      "Farbpalette Nachhaltigkeit",
+      "Bio Food Farben",
+      "Eco Brand Webdesign",
+      "Lifestyle & Konsum"
+    ],
+    "industry_match": [
+      "Bio-Food",
+      "Nachhaltigkeit",
+      "Impact Brands"
+    ],
+    "audiences": [
+      "Bewusste Konsumentinnen und Konsumenten",
+      "Marken mit Lieferkettenfokus",
+      "Teams mit Transparenzanspruch"
+    ],
+    "brand_traits": [
+      "ethisch",
+      "erdig",
+      "ehrlich",
+      "transparent"
+    ],
+    "focus_keyword": "Farbpalette Nachhaltigkeit",
+    "questions": [
+      "Welche Farben passen zu nachhaltigen Marken und Bio-Food?",
+      "Wie wirkt ein Eco-Auftritt glaubwuerdig statt klischeehaft?",
+      "Warum reichen einfach nur gruene Buttons fuer Nachhaltigkeit nicht aus?"
+    ],
+    "colors": {
+      "primary": "#b8c99c",
+      "secondary": "#e4ecd7",
+      "accent": "#7a9961",
+      "bg": "#f6f7f1",
+      "text": "#283128",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Brutalist Digital",
+    "slug": "brutalist-digital",
+    "vibe": "Raw Contrast",
+    "summary": "Eine harte, rohe Webpalette fuer Anti-Design, experimentelle Kunst und digitale Underground-Projekte, die absichtlich Reibung und direkte Lesbarkeit erzeugt.",
+    "keywords": [
+      "Brutalist Webdesign Farben",
+      "Anti Design Palette",
+      "Rohes HTML Farben",
+      "Kreativ & Bildung"
+    ],
+    "industry_match": [
+      "Underground Web",
+      "Web3 Art",
+      "Experimentelle Portale"
+    ],
+    "audiences": [
+      "Digital Artists",
+      "Szene-affine Communities",
+      "Nutzerinnen und Nutzer mit Gestaltungsbewusstsein"
+    ],
+    "brand_traits": [
+      "roh",
+      "direkt",
+      "stoerend",
+      "ungefaellig"
+    ],
+    "focus_keyword": "Brutalist Webdesign Farben",
+    "questions": [
+      "Welche Farben passen zu brutalistischem Webdesign?",
+      "Wie wirkt Anti-Design absichtlich roh statt einfach kaputt?",
+      "Welche Palette traegt rohes HTML im Netz glaubwuerdig?"
+    ],
+    "colors": {
+      "primary": "#dadada",
+      "secondary": "#f0f0f0",
+      "accent": "#d4ff47",
+      "bg": "#fafafa",
+      "text": "#111111",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Civic & Public",
+    "slug": "civic-public",
+    "vibe": "Neutral Clarity",
+    "summary": "Eine barrierearme Palette fuer staatliche Portale und kommunale Services, bei der Neutralitaet, Orientierung und hohe Lesbarkeit ueber Stilgesten stehen.",
+    "keywords": [
+      "Farbpalette Behoerden",
+      "WCAG AAA Farben",
+      "staatliche Portale Design",
+      "Business & Institutionen"
+    ],
+    "industry_match": [
+      "Behoerden",
+      "Staatliche Portale",
+      "Kommunale Services"
+    ],
+    "audiences": [
+      "Buergerinnen und Buerger",
+      "Servicecenter Teams",
+      "Barrierefreiheits-Verantwortliche"
+    ],
+    "brand_traits": [
+      "neutral",
+      "ordentlich",
+      "zugaenglich",
+      "verlaesslich"
+    ],
+    "focus_keyword": "Farbpalette Behoerden",
+    "questions": [
+      "Welche Farben funktionieren fuer staatliche Portale und Behoerden?",
+      "Wie wirkt ein Buergerportal neutral statt kalt?",
+      "Welche Palette unterstuetzt hohe Accessibility im Public Sector?"
+    ],
+    "colors": {
+      "primary": "#c4d5e6",
+      "secondary": "#e7eef5",
+      "accent": "#2f6f96",
+      "bg": "#fbfcfd",
+      "text": "#1c2833",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Corporate Trust",
+    "slug": "corporate-trust",
+    "vibe": "Measured Confidence",
+    "summary": "Eine kontrollierte Business-Palette fuer Banken, Versicherungen und Blue-Chip-Marken, die Stabilitaet, Seriositaet und glaubwuerdige Ruhe ausstrahlen muessen.",
+    "keywords": [
+      "Farbpalette Banken",
+      "Corporate Design Vertrauen",
+      "Business Farben Seriositaet",
+      "Business & Institutionen"
+    ],
+    "industry_match": [
+      "Banken",
+      "Versicherungen",
+      "Blue-Chip"
+    ],
+    "audiences": [
+      "Investor Relations Teams",
+      "Corporate Kommunikationsabteilungen",
+      "Risikobewusste Kundschaft"
+    ],
+    "brand_traits": [
+      "serioes",
+      "stabil",
+      "klar",
+      "vertrauenswuerdig"
+    ],
+    "focus_keyword": "Farbpalette Banken",
+    "questions": [
+      "Welche Farben wirken bei Banken und Versicherungen serioes?",
+      "Welche Farbpalette passt zu einer konservativen Corporate Website?",
+      "Warum sind zu verspielte Farben im Blue-Chip Umfeld riskant?"
+    ],
+    "colors": {
+      "primary": "#b6d1e8",
+      "secondary": "#dfeaf3",
+      "accent": "#4c8fbe",
+      "bg": "#f7fafc",
+      "text": "#1e2b36",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Creative & Retro",
+    "slug": "creative-retro",
+    "vibe": "Constructed Play",
+    "summary": "Eine expressive Agenturpalette mit Bauhaus- und Retro-Anklang fuer Design-Studios, kreative Plattformen und Marken mit bewusst gestalteter Eigenstaendigkeit.",
+    "keywords": [
+      "Farbpalette Agentur",
+      "Bauhaus Farben Webdesign",
+      "Creative Studio Palette",
+      "Kreativ & Bildung"
+    ],
+    "industry_match": [
+      "Agenturen",
+      "Design-Studios",
+      "Kulturmarken"
+    ],
+    "audiences": [
+      "Kreativdirektionen",
+      "Marken mit Stilanspruch",
+      "Kulturell affine Kundschaft"
+    ],
+    "brand_traits": [
+      "expressiv",
+      "kuratiert",
+      "gestaltet",
+      "charakterstark"
+    ],
+    "focus_keyword": "Farbpalette Agentur",
+    "questions": [
+      "Welche Farben passen zu Agenturen und Design-Studios?",
+      "Wie wirkt Retro kreativ statt museal?",
+      "Welche Palette transportiert Bauhaus-Energie im Web?"
+    ],
+    "colors": {
+      "primary": "#e8c1a9",
+      "secondary": "#f4e7cf",
+      "accent": "#4e8ac9",
+      "bg": "#fffaf4",
+      "text": "#312720",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Crypto & Fintech 2.0",
+    "slug": "crypto-fintech-2-0",
+    "vibe": "Cold Control",
+    "summary": "Eine kuehle Fintech-Palette fuer Trading, Web3 und neue Finanzprodukte, die Dominanz, Datenklarheit und digitale Ernsthaftigkeit zeigen soll.",
+    "keywords": [
+      "Farbpalette Fintech",
+      "Web3 Farben",
+      "Trading Plattform Farben",
+      "Tech & Future"
+    ],
+    "industry_match": [
+      "Web3",
+      "Trading",
+      "Fintech"
+    ],
+    "audiences": [
+      "Power User",
+      "Quant-orientierte Teams",
+      "Risikobewusste Traderinnen und Trader"
+    ],
+    "brand_traits": [
+      "kuehl",
+      "dominant",
+      "technisch",
+      "praezise"
+    ],
+    "focus_keyword": "Farbpalette Fintech",
+    "questions": [
+      "Welche Farben passen zu Fintech, Trading und Web3?",
+      "Wie wirkt ein Fintech-Produkt dominant statt aggressiv?",
+      "Warum ist zu viel Neon bei Finanzprodukten riskant?"
+    ],
+    "colors": {
+      "primary": "#c7d8df",
+      "secondary": "#e5edf0",
+      "accent": "#4d8f8f",
+      "bg": "#f6f9fa",
+      "text": "#1c252b",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Cyber Security",
+    "slug": "cyber-security",
+    "vibe": "Guarded Signal",
+    "summary": "Eine kontrollierte Security-Palette fuer Datenschutz, Cyber Defense und IT-Sicherheit, die Schutz, Wachsamkeit und professionelle Signalwirkung digital transportiert.",
+    "keywords": [
+      "Farbpalette Cyber Security",
+      "IT Sicherheit Farben",
+      "Datenschutz Design",
+      "Tech & Future"
+    ],
+    "industry_match": [
+      "IT-Sicherheit",
+      "Datenschutz",
+      "Security SaaS"
+    ],
+    "audiences": [
+      "CISOs",
+      "IT-Abteilungen",
+      "Compliance-orientierte Einkaufsteams"
+    ],
+    "brand_traits": [
+      "schuetzend",
+      "wachsam",
+      "kontrolliert",
+      "glaubwuerdig"
+    ],
+    "focus_keyword": "Farbpalette Cyber Security",
+    "questions": [
+      "Welche Farben passen zu Datenschutz und IT-Sicherheit?",
+      "Wie zeigt man Schutz, ohne das Interface panisch wirken zu lassen?",
+      "Welche Farbpalette funktioniert fuer Security SaaS glaubwuerdig?"
+    ],
+    "colors": {
+      "primary": "#cadbe3",
+      "secondary": "#eaf1f5",
+      "accent": "#d16e57",
+      "bg": "#f7fafc",
+      "text": "#1c252e",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Dark Narrative",
+    "slug": "dark-narrative",
+    "vibe": "Slow Suspense",
+    "summary": "Eine dichte Erzaehlpalette fuer Horror, Mystery und True-Crime-Formate, die Spannung, Unsicherheit und fokussierte Leseatmosphaere aufbaut.",
+    "keywords": [
+      "Farbpalette Mystery",
+      "True Crime Farben",
+      "Horror Website Palette",
+      "Popkultur & Subkultur"
+    ],
+    "industry_match": [
+      "True Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "audiences": [
+      "Story-getriebene Communities",
+      "Podcast- und Streaming-Publikum",
+      "Atmosphaere suchende Leserinnen und Leser"
+    ],
+    "brand_traits": [
+      "spannend",
+      "dicht",
+      "dunkel",
+      "kontrolliert"
+    ],
+    "focus_keyword": "Farbpalette Mystery",
+    "questions": [
+      "Welche Farben passen zu Mystery, Horror und True Crime?",
+      "Wie baut Farbe Spannung auf, ohne kitschig zu werden?",
+      "Welche Palette schafft Dunkelheit in hellen Weblayouts?"
+    ],
+    "colors": {
+      "primary": "#cfc4cf",
+      "secondary": "#ebe4ea",
+      "accent": "#7f5f74",
+      "bg": "#f8f5f8",
+      "text": "#241f25",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Diversity & Community",
+    "slug": "diversity-community",
+    "vibe": "Warm Belonging",
+    "summary": "Eine inklusive Community-Palette fuer Inklusionsprojekte, LGBTQ+ Initiativen und soziale Plattformen, die Offenheit, Sicherheit und gelebte Zugehoerigkeit sichtbar machen will.",
+    "keywords": [
+      "Farbpalette Inklusion",
+      "LGBTQ+ Farben Webdesign",
+      "Community Plattform Farben",
+      "Mensch & Gesellschaft"
+    ],
+    "industry_match": [
+      "Inklusion",
+      "LGBTQ+",
+      "Community Projekte"
+    ],
+    "audiences": [
+      "Community-orientierte Gruppen",
+      "Nicht-kommerzielle Netzwerke",
+      "Teams mit Fokus auf Zugehoerigkeit"
+    ],
+    "brand_traits": [
+      "integrativ",
+      "warm",
+      "offen",
+      "sicher"
+    ],
+    "focus_keyword": "Farbpalette Inklusion",
+    "questions": [
+      "Welche Farben passen zu Inklusion, LGBTQ+ und Community-Projekten?",
+      "Wie wirkt ein Community-Auftritt warm statt beliebig?",
+      "Welche Palette zeigt Zugehoerigkeit ohne Symbolueberladung?"
+    ],
+    "colors": {
+      "primary": "#f1c7b6",
+      "secondary": "#f9e6da",
+      "accent": "#7e9dd2",
+      "bg": "#fff8f5",
+      "text": "#302524",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sassy & Bright",
+    "slug": "sassy-bright",
+    "vibe": "Optimistic Spark",
+    "summary": "Eine aktivierende D2C-Palette fuer Beauty-, Creator- und Gen-Z-Marken, die Energie, Nahbarkeit und klare Kaufimpulse verbinden wollen.",
+    "keywords": [
+      "Farbpalette Beauty Brand",
+      "D2C Farben",
+      "Girly Pop Webdesign",
+      "Lifestyle & Konsum"
+    ],
+    "industry_match": [
+      "D2C",
+      "Beauty",
+      "Gen-Z Brands"
+    ],
+    "audiences": [
+      "Trendaffine Kaeuferinnen und Kaeufer",
+      "Creator-getriebene Marken",
+      "Launch-orientierte E-Commerce Teams"
+    ],
+    "brand_traits": [
+      "optimistisch",
+      "nahbar",
+      "kuratiert",
+      "verkaufsstark"
+    ],
+    "focus_keyword": "Farbpalette Beauty Brand",
+    "questions": [
+      "Welche Farben funktionieren fuer Beauty und D2C zugleich?",
+      "Welche Farbpalette passt zu einer Gen-Z Marke mit Energie?",
+      "Warum ist zu viel neutrales Grau fuer junge Lifestyle-Brands oft zu brav?"
+    ],
+    "colors": {
+      "primary": "#e68298",
+      "secondary": "#f9d9e6",
+      "accent": "#36b7a7",
+      "bg": "#fff7fa",
+      "text": "#2b2230",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Health & Clinical",
+    "slug": "health-clinical",
+    "vibe": "Clean Precision",
+    "summary": "Eine hygienische, klinisch praezise Palette fuer Kliniken, MedTech und Pharma, die Sauberkeit, Orientierung und Vertrauen ohne Wellness-Weichheit vermitteln soll.",
+    "keywords": [
+      "Farbpalette Klinik",
+      "MedTech Farben",
+      "klinisches Webdesign",
+      "Business & Institutionen"
+    ],
+    "industry_match": [
+      "Kliniken",
+      "MedTech",
+      "Pharma"
+    ],
+    "audiences": [
+      "Patientinnen und Patienten",
+      "AErztliche Fachgruppen",
+      "Produkt- und Compliance Teams"
+    ],
+    "brand_traits": [
+      "hygienisch",
+      "praezise",
+      "vertrauensvoll",
+      "klar"
+    ],
+    "focus_keyword": "Farbpalette Klinik",
+    "questions": [
+      "Welche Farben wirken hygienisch und praezise?",
+      "Welche Farbpalette passt zu MedTech und Kliniken?",
+      "Wie vermeidet man Wellness-Look bei medizinischen Portalen?"
+    ],
+    "colors": {
+      "primary": "#c4e4e0",
+      "secondary": "#e5f2f1",
+      "accent": "#4c9ea3",
+      "bg": "#f7fbfb",
+      "text": "#1f2d31",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "High-Octane Tech",
+    "slug": "high-octane-tech",
+    "vibe": "Accelerated Clarity",
+    "summary": "Eine schnelle Tech-Palette fuer KI-Startups, Big-Data-Produkte und neue B2B-Software, die Innovation, Momentum und digitale Souveraenitaet zeigen soll.",
+    "keywords": [
+      "Farbpalette KI Startup",
+      "Tech Farben Innovation",
+      "B2B SaaS Farbpalette",
+      "Tech & Future"
+    ],
+    "industry_match": [
+      "KI-Startups",
+      "Big Data",
+      "B2B SaaS"
+    ],
+    "audiences": [
+      "Produktteams",
+      "Technische Entscheider",
+      "Innovationsorientierte Investorinnen und Investoren"
+    ],
+    "brand_traits": [
+      "innovativ",
+      "klar",
+      "schnell",
+      "zukunftsorientiert"
+    ],
+    "focus_keyword": "Farbpalette KI Startup",
+    "questions": [
+      "Welche Farben passen zu KI-Startups und Big-Data-Produkten?",
+      "Wie wirkt eine Tech-Marke innovativ statt austauschbar?",
+      "Warum reicht neutrales SaaS-Blau fuer neue Tech-Marken oft nicht mehr?"
+    ],
+    "colors": {
+      "primary": "#c5d8ff",
+      "secondary": "#e3ebff",
+      "accent": "#4d7cf3",
+      "bg": "#f6f8ff",
+      "text": "#1b2136",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Industrial Strength",
+    "slug": "industrial-strength",
+    "vibe": "Safety Forward",
+    "summary": "Eine robuste Palette fuer Handwerk, Logistik und Bauwesen, die Sicherheitslogik, Orientierung und physische Verlaesslichkeit sichtbar machen soll.",
+    "keywords": [
+      "Farbpalette Bauunternehmen",
+      "Farben Logistik",
+      "Sicherheitsfarben Webdesign",
+      "Business & Institutionen"
+    ],
+    "industry_match": [
+      "Handwerk",
+      "Logistik",
+      "Bauwesen"
+    ],
+    "audiences": [
+      "Einkauf und Beschaffung",
+      "Projektleitungen",
+      "Sicherheitsbewusste B2B-Kundschaft"
+    ],
+    "brand_traits": [
+      "robust",
+      "verlaesslich",
+      "praktisch",
+      "sicherheitsorientiert"
+    ],
+    "focus_keyword": "Farbpalette Bauunternehmen",
+    "questions": [
+      "Welche Farben passen zu Bauunternehmen und Logistik?",
+      "Wie nutzt man Sicherheitsfarben im Web, ohne Warnchaos zu erzeugen?",
+      "Warum braucht Handwerk andere Farben als reine Lifestyle-Brands?"
+    ],
+    "colors": {
+      "primary": "#d7c8aa",
+      "secondary": "#ede5d6",
+      "accent": "#cf8a3c",
+      "bg": "#fbf8f2",
+      "text": "#2c2824",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Legal & Consulting",
+    "slug": "legal-consulting",
+    "vibe": "Quiet Authority",
+    "summary": "Eine diskrete Premium-Palette fuer Kanzleien, Notariate und Beratungen, die Souveraenitaet, Vertrauen und leise Exklusivitaet zeigen wollen.",
+    "keywords": [
+      "Farbpalette Kanzlei",
+      "Farben Notar Website",
+      "Consulting Farben Prestige",
+      "Business & Institutionen"
+    ],
+    "industry_match": [
+      "Kanzleien",
+      "Notariate",
+      "Strategieberatung"
+    ],
+    "audiences": [
+      "Vermoegende Privatkundschaft",
+      "Unternehmensmandate",
+      "Vertrauenssuchende Entscheidungstraeger"
+    ],
+    "brand_traits": [
+      "diskret",
+      "prestigebewusst",
+      "souveraen",
+      "geordnet"
+    ],
+    "focus_keyword": "Farbpalette Kanzlei",
+    "questions": [
+      "Welche Farben passen zu einer Kanzlei oder einem Notariat?",
+      "Wie wirkt eine Beratungswebsite diskret statt langweilig?",
+      "Welche Palette vermittelt Prestige ohne Luxus-Kitsch?"
+    ],
+    "colors": {
+      "primary": "#d4c6b6",
+      "secondary": "#ece5dc",
+      "accent": "#8f6e52",
+      "bg": "#faf7f2",
+      "text": "#2f2724",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Luxury Heritage",
+    "slug": "luxury-heritage",
+    "vibe": "Quiet Prestige",
+    "summary": "Eine elegante Heritage-Palette fuer High-End Immobilien, Uhren und diskrete Luxusmarken, die Exklusivitaet ueber Materialanmutung statt Lautstaerke kommuniziert.",
+    "keywords": [
+      "Farbpalette Luxusmarke",
+      "Farben Luxusimmobilien",
+      "Premium Brand Farben",
+      "Lifestyle & Konsum"
+    ],
+    "industry_match": [
+      "Luxusimmobilien",
+      "Uhren",
+      "Private Wealth"
+    ],
+    "audiences": [
+      "Vermoegende Privatkundschaft",
+      "Designaffine Kaeuferschaft",
+      "Concierge-orientierte Vertriebsteams"
+    ],
+    "brand_traits": [
+      "exklusiv",
+      "diskret",
+      "wertig",
+      "zeitlos"
+    ],
+    "focus_keyword": "Farbpalette Luxusmarke",
+    "questions": [
+      "Welche Farben passen zu einer Luxusmarke oder Premium Immobilie?",
+      "Wie wirkt Luxus hochwertig statt kitschig?",
+      "Warum ist zu viel Schwarz-Gold im Web oft ein Problem?"
+    ],
+    "colors": {
+      "primary": "#d7c4a1",
+      "secondary": "#eee4d3",
+      "accent": "#8b6b45",
+      "bg": "#fbf8f2",
+      "text": "#2d241d",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Mindfulness & Spiritual",
+    "slug": "mindfulness-spiritual",
+    "vibe": "Soft Stillness",
+    "summary": "Eine leise Achtsamkeitspalette fuer Meditation, Coaching und Retreat-Angebote, die Ruhe, Offenheit und innere Sammlung statt Wellness-Kitsch transportiert.",
+    "keywords": [
+      "Farbpalette Meditation",
+      "Mindfulness Farben",
+      "Spiritual Brand Design",
+      "Mensch & Gesellschaft"
+    ],
+    "industry_match": [
+      "Meditation",
+      "Coaching",
+      "Retreats"
+    ],
+    "audiences": [
+      "Achtsamkeitsorientierte Menschen",
+      "Coachingsuchende",
+      "Retreat- und Kursinteressierte"
+    ],
+    "brand_traits": [
+      "ruhig",
+      "offen",
+      "sanft",
+      "zentriert"
+    ],
+    "focus_keyword": "Farbpalette Meditation",
+    "questions": [
+      "Welche Farben passen zu Meditation und Achtsamkeit?",
+      "Wie wirkt Spiritualitaet ruhig statt kitschig?",
+      "Welche Palette schafft Stille in digitalen Produkten?"
+    ],
+    "colors": {
+      "primary": "#d7ddcf",
+      "secondary": "#eff2ea",
+      "accent": "#8d97b5",
+      "bg": "#fafbf7",
+      "text": "#262d29",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "New Adult & Romantasy",
+    "slug": "new-adult-romantasy",
+    "vibe": "Soft Escape",
+    "summary": "Eine eskapistische Buch- und Community-Palette fuer Romance, Romantasy und Bookstagram-nahe Formate, die Sehnsucht, Intimitaet und leichte Magie tragen soll.",
+    "keywords": [
+      "Farbpalette Romance",
+      "Bookstagram Farben",
+      "Romantasy Webdesign",
+      "Popkultur & Subkultur"
+    ],
+    "industry_match": [
+      "Bookstagram",
+      "Romance",
+      "Fiction Communities"
+    ],
+    "audiences": [
+      "Leserinnen und Leser mit Eskapismusfokus",
+      "Buchcommunities",
+      "Creatorinnen im Romance-Umfeld"
+    ],
+    "brand_traits": [
+      "sehnsuchtsvoll",
+      "weich",
+      "magisch",
+      "nah"
+    ],
+    "focus_keyword": "Farbpalette Romance",
+    "questions": [
+      "Welche Farben passen zu Romance, Romantasy und Bookstagram?",
+      "Wie erzeugt man Eskapismus ohne Zuckrigkeit?",
+      "Welche Palette verbindet Intimitaet und Fantasie?"
+    ],
+    "colors": {
+      "primary": "#e7cbdb",
+      "secondary": "#f4e9f0",
+      "accent": "#a07aa2",
+      "bg": "#fff9fc",
+      "text": "#302434",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Non-Profit & Activism",
+    "slug": "non-profit-activism",
+    "vibe": "Urgent Hope",
+    "summary": "Eine aktivierende Kampagnenpalette fuer NGOs, Klima-Initiativen und Fundraising-Seiten, die Dringlichkeit und Beteiligung sichtbar machen soll, ohne die Glaubwuerdigkeit zu verlieren.",
+    "keywords": [
+      "Farbpalette NGO",
+      "Klima Kampagne Farben",
+      "Non Profit Design",
+      "Mensch & Gesellschaft"
+    ],
+    "industry_match": [
+      "NGOs",
+      "Klima-Kampagnen",
+      "Fundraising"
+    ],
+    "audiences": [
+      "Engagierte Communities",
+      "Spenderinnen und Spender",
+      "Kampagnenteams"
+    ],
+    "brand_traits": [
+      "dringlich",
+      "menschlich",
+      "mobilisierend",
+      "glaubwuerdig"
+    ],
+    "focus_keyword": "Farbpalette NGO",
+    "questions": [
+      "Welche Farben passen zu NGOs und Klima-Kampagnen?",
+      "Wie wirkt Aktivismus dringlich ohne Alarmmuedigkeit?",
+      "Welche Palette unterstuetzt Beteiligung und Vertrauen zugleich?"
+    ],
+    "colors": {
+      "primary": "#f2c0b6",
+      "secondary": "#fae1da",
+      "accent": "#5d8e67",
+      "bg": "#fff8f6",
+      "text": "#312522",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Open Source & Dev-Tools",
+    "slug": "open-source-dev-tools",
+    "vibe": "Functional Flow",
+    "summary": "Eine nuetzliche, klare Palette fuer Dokumentationen, Entwicklerprodukte und IDE-nahe Interfaces, bei der Funktion, Scannbarkeit und langlebige Lesbarkeit vor Image stehen.",
+    "keywords": [
+      "Farbpalette Dokumentation",
+      "Dev Tools Farben",
+      "Open Source Design",
+      "Tech & Future"
+    ],
+    "industry_match": [
+      "Open Source",
+      "Dev Tools",
+      "Dokumentation"
+    ],
+    "audiences": [
+      "Entwicklerinnen und Entwickler",
+      "Technische Redaktionen",
+      "Produktteams mit Doku-Fokus"
+    ],
+    "brand_traits": [
+      "funktional",
+      "nuechtern",
+      "hilfreich",
+      "dauerhaft"
+    ],
+    "focus_keyword": "Farbpalette Dokumentation",
+    "questions": [
+      "Welche Farben passen zu Dokumentationen und Dev-Tools?",
+      "Wie gestaltet man Entwicklerprodukte funktional statt langweilig?",
+      "Welche Palette bleibt bei langen Lese- und Codephasen angenehm?"
+    ],
+    "colors": {
+      "primary": "#c9d7cc",
+      "secondary": "#e7ece8",
+      "accent": "#5c8b6e",
+      "bg": "#f7f8f7",
+      "text": "#202724",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Playful Education",
+    "slug": "playful-education",
+    "vibe": "Motivated Joy",
+    "summary": "Eine freundliche Lernpalette fuer EdTech, Kinder-Apps und motivierende Wissensprodukte, die Aktivierung und Sicherheit zugleich braucht.",
+    "keywords": [
+      "Farbpalette EdTech",
+      "Kinder App Farben",
+      "Lernplattform Design",
+      "Kreativ & Bildung"
+    ],
+    "industry_match": [
+      "EdTech",
+      "Kinder-Apps",
+      "Lernplattformen"
+    ],
+    "audiences": [
+      "Lernende Kinder",
+      "Eltern und Lehrkraefte",
+      "Produktteams mit Motivationsfokus"
+    ],
+    "brand_traits": [
+      "motivierend",
+      "freundlich",
+      "klar",
+      "zutraulich"
+    ],
+    "focus_keyword": "Farbpalette EdTech",
+    "questions": [
+      "Welche Farben passen zu EdTech und Kinder-Apps?",
+      "Wie motiviert Farbe beim Lernen ohne zu ueberdrehen?",
+      "Welche Palette wirkt freundlich und trotzdem organisiert?"
+    ],
+    "colors": {
+      "primary": "#ffd7a8",
+      "secondary": "#fff0d8",
+      "accent": "#5bb3d9",
+      "bg": "#fffaf2",
+      "text": "#2f2a23",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Retro-Futurism / Synthwave",
+    "slug": "retro-futurism-synthwave",
+    "vibe": "Neon Memory",
+    "summary": "Eine digitale Nostalgie-Palette fuer Arcade, 80s, Synthwave und Entertainment-Marken, die Rueckblick und futuristische Energie in einem hellen Interface verbinden will.",
+    "keywords": [
+      "Farbpalette Synthwave",
+      "Retro Futurism Farben",
+      "Arcade Webdesign",
+      "Popkultur & Subkultur"
+    ],
+    "industry_match": [
+      "Arcade",
+      "Synthwave",
+      "Entertainment"
+    ],
+    "audiences": [
+      "Nostalgie-affine Communities",
+      "Event- und Streaming-Publikum",
+      "Designbewusste Popkultur-Fans"
+    ],
+    "brand_traits": [
+      "nostalgisch",
+      "elektrisch",
+      "spielerisch",
+      "ikonisch"
+    ],
+    "focus_keyword": "Farbpalette Synthwave",
+    "questions": [
+      "Welche Farben passen zu Synthwave und Retro-Futurism?",
+      "Wie zeigt man digitale Nostalgie im Web ohne Neon-Overkill?",
+      "Welche Palette verbindet 80s Energie und heutige Lesbarkeit?"
+    ],
+    "colors": {
+      "primary": "#f2c3d6",
+      "secondary": "#fde5ef",
+      "accent": "#5d86d8",
+      "bg": "#fff8fb",
+      "text": "#2b2234",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Space & Aerospace",
+    "slug": "space-aerospace",
+    "vibe": "Expansive Precision",
+    "summary": "Eine luftige Deep-Tech-Palette fuer Luftfahrt, Astronomie und Aerospace, die Weite, technische Exaktheit und kontrollierte Zukunftsenergie zeigen will.",
+    "keywords": [
+      "Farbpalette Luftfahrt",
+      "Aerospace Webdesign",
+      "Deep Tech Farben",
+      "Tech & Future"
+    ],
+    "industry_match": [
+      "Luftfahrt",
+      "Astronomie",
+      "Deep Tech"
+    ],
+    "audiences": [
+      "Forschungsnahe Teams",
+      "Ingenieurinnen und Ingenieure",
+      "Technologie-affine Investorinnen und Investoren"
+    ],
+    "brand_traits": [
+      "praezise",
+      "weit",
+      "technisch",
+      "zukunftsorientiert"
+    ],
+    "focus_keyword": "Farbpalette Luftfahrt",
+    "questions": [
+      "Welche Farben passen zu Luftfahrt und Aerospace?",
+      "Wie wirkt High-Tech weit statt kalt?",
+      "Welche Palette verbindet Forschung, Praezision und Zukunft?"
+    ],
+    "colors": {
+      "primary": "#c9d8ea",
+      "secondary": "#e6edf7",
+      "accent": "#5a7fb2",
+      "bg": "#f7f9fc",
+      "text": "#1b2330",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Sweet Confectionery",
+    "slug": "sweet-confectionery",
+    "vibe": "Warm Delight",
+    "summary": "Eine appetitliche, freundliche Palette fuer Baeckereien, Patisserien und Geschenkmarken, die Genuss, Nahbarkeit und einladende Waerme zeigen will.",
+    "keywords": [
+      "Farbpalette Baeckerei",
+      "Patisserie Farben",
+      "Geschenkshop Webdesign",
+      "Lifestyle & Konsum"
+    ],
+    "industry_match": [
+      "Baeckereien",
+      "Geschenke",
+      "Patisserie"
+    ],
+    "audiences": [
+      "Genussorientierte Kundschaft",
+      "Familien und Geschenkkaeufer",
+      "Lokale Marken mit Warmherzigkeit"
+    ],
+    "brand_traits": [
+      "nahbar",
+      "genussvoll",
+      "freundlich",
+      "einladend"
+    ],
+    "focus_keyword": "Farbpalette Baeckerei",
+    "questions": [
+      "Welche Farben passen zu Baeckereien und Patisserie?",
+      "Wie wirkt ein Geschenkshop warm statt kitschig?",
+      "Welche Palette steigert Genuss ohne kindlich zu werden?"
+    ],
+    "colors": {
+      "primary": "#f3c6ae",
+      "secondary": "#fde8db",
+      "accent": "#e48672",
+      "bg": "#fff8f4",
+      "text": "#342825",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Underground & Rebellion",
+    "slug": "underground-rebellion",
+    "vibe": "Rough Defiance",
+    "summary": "Eine stoerende Gegenkultur-Palette fuer Punk, Skater und DIY-Marken, die Widerstand, Unsauberkeit und visuelle Reibung bewusst als Haltung einsetzt.",
+    "keywords": [
+      "Farbpalette Punk",
+      "Skater Brand Farben",
+      "DIY Webdesign Palette",
+      "Popkultur & Subkultur"
+    ],
+    "industry_match": [
+      "Punk",
+      "Skater",
+      "DIY Labels"
+    ],
+    "audiences": [
+      "Szenenahe Communities",
+      "Independent Brands",
+      "Subkulturell gepraegte Kundschaft"
+    ],
+    "brand_traits": [
+      "rebellisch",
+      "ungepoliert",
+      "laut",
+      "eigenwillig"
+    ],
+    "focus_keyword": "Farbpalette Punk",
+    "questions": [
+      "Welche Farben passen zu Punk, Skater und DIY-Marken?",
+      "Wie erzeugt man visuelle Stoerung ohne chaotische Unlesbarkeit?",
+      "Welche Palette wirkt rebellisch statt nur schlampig?"
+    ],
+    "colors": {
+      "primary": "#d6cbc3",
+      "secondary": "#efe7e1",
+      "accent": "#d45a4f",
+      "bg": "#faf7f4",
+      "text": "#231c1b",
+      "card": "#ffffff"
+    }
+  },
+  {
+    "title": "Urban Lifestyle",
+    "slug": "urban-lifestyle",
+    "vibe": "Contemporary Motion",
+    "summary": "Eine moderne City-Palette fuer Coworking, Mobility und Coffee Brands, die Offenheit, Tempo und einen erwachsenen Lifestyle-Charakter zeigen soll.",
+    "keywords": [
+      "Farbpalette Coworking",
+      "Urban Brand Farben",
+      "Mobility Webdesign",
+      "Lifestyle & Konsum"
+    ],
+    "industry_match": [
+      "Coworking",
+      "Mobility",
+      "Coffee Brands"
+    ],
+    "audiences": [
+      "Urbane Professionals",
+      "Gruenderinnen und Gruender",
+      "Community-orientierte Marken"
+    ],
+    "brand_traits": [
+      "modern",
+      "offen",
+      "beweglich",
+      "erwachsen"
+    ],
+    "focus_keyword": "Farbpalette Coworking",
+    "questions": [
+      "Welche Farben passen zu Coworking und urbanen Lifestyle-Marken?",
+      "Wie wirkt ein City-Brand modern statt steril?",
+      "Welche Palette verbindet Offenheit und Professionalitaet?"
+    ],
+    "colors": {
+      "primary": "#c9d3d7",
+      "secondary": "#e7ebed",
+      "accent": "#4b7a7b",
+      "bg": "#f8f9f9",
+      "text": "#232a2d",
+      "card": "#ffffff"
+    }
+  }
+]

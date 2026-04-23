@@ -1,0 +1,112 @@
+{
+  "title": "Luxury Heritage",
+  "slug": "luxury-heritage",
+  "vibe": "Quiet Prestige",
+  "summary": "Eine elegante Heritage-Palette fuer High-End Immobilien, Uhren und diskrete Luxusmarken, die Exklusivitaet ueber Materialanmutung statt Lautstaerke kommuniziert.",
+  "keywords": [
+    "Farbpalette Luxusmarke",
+    "Farben Luxusimmobilien",
+    "Premium Brand Farben",
+    "Lifestyle & Konsum"
+  ],
+  "seo": {
+    "meta_title": "Luxury Heritage: Farbpalette fuer Luxusimmobilien und Premium Marken",
+    "meta_description": "Welche Farben passen zu einer Luxusmarke? Luxury Heritage kombiniert Champagner, Pergament und Bronze fuer ruhige Exklusivitaet bei Immobilien, Uhren und Premium Services.",
+    "focus_keyword": "Farbpalette Luxusmarke",
+    "questions": [
+      "Welche Farben passen zu einer Luxusmarke oder Premium Immobilie?",
+      "Wie wirkt Luxus hochwertig statt kitschig?",
+      "Warum ist zu viel Schwarz-Gold im Web oft ein Problem?"
+    ]
+  },
+  "colors": {
+    "primary": "#d7c4a1",
+    "secondary": "#eee4d3",
+    "accent": "#8b6b45",
+    "bg": "#fbf8f2",
+    "text": "#2d241d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "primary",
+    "accent": "accent",
+    "note": "60 Prozent Pergament und Luft fuer Raum, 30 Prozent Champagner fuer Wertigkeit und 10 Prozent Bronze fuer gezielte Signaturmomente."
+  },
+  "accessibility": {
+    "text_on_primary": 6.11,
+    "text_on_secondary": 10.56,
+    "text_on_bg": 14.71,
+    "text_on_card": 15.28
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Luxusimmobilien",
+    "Uhren",
+    "Private Wealth"
+  ],
+  "audiences": [
+    "Vermoegende Privatkundschaft",
+    "Designaffine Kaeuferschaft",
+    "Concierge-orientierte Vertriebsteams"
+  ],
+  "brand_traits": [
+    "exklusiv",
+    "diskret",
+    "wertig",
+    "zeitlos"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Champagne Stone",
+      "psychology": "Vermittelt Materialqualitaet, Licht und kultivierte Zurueckhaltung.",
+      "best_for": "Hero-Flaechen, Objekt- oder Produktbuehnen, Introsektionen",
+      "risk": "Zu viel Champagner ohne Tiefe kann nach Mainstream-Luxus aussehen."
+    },
+    "secondary": {
+      "name": "Gallery Linen",
+      "psychology": "Schafft Raum, Laenge und stille Exklusivitaet fuer grosse Bilder und Details.",
+      "best_for": "Exposes, Storytelling, Data Sheets",
+      "risk": "Wenn alles zu beige bleibt, fehlt dem Auftritt die praegnante Identitaet."
+    },
+    "accent": {
+      "name": "Reserve Bronze",
+      "psychology": "Setzt ein leises Signal fuer Wert und Handwerk ohne plakative Goldinszenierung.",
+      "best_for": "Links, Preisanker, ikonische Details",
+      "risk": "Ein zu intensiver Bronzeeinsatz kippt schnell in Dekoration statt Substanz."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Premium-Exposes mit Bildfokus",
+      "Heritage-Marken mit Handwerksnarrativ",
+      "Digitale Verkaufspunkte fuer exklusive Services"
+    ],
+    "avoid_for": [
+      "Discount- oder Massmarket-Shops",
+      "Tech-Produkte mit starkem Innovationsanspruch",
+      "Behoerden- und Public-Sector Interfaces"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum diese Palette Luxus leise statt laut inszeniert",
+        "reason": "Sie arbeitet mit Materialassoziation, Raum und Licht. Dadurch entsteht Wertigkeit ueber Haltung statt ueber plakative Metallic-Klischees."
+      },
+      {
+        "claim": "Warum Schwarz-Gold allein oft nicht reicht",
+        "reason": "Im Web wirkt diese Kombination schnell generisch und schwer. Helle, fein abgestufte Luxuspaletten sind meist glaubwuerdiger und lesbarer."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu einer Luxusmarke?",
+        "answer": "Materialnahe, helle Premium-Toene mit klarer Typografie und wenigen, praezisen Akzenten sind oft staerker als laute Gold-Schwarz-Kombinationen."
+      },
+      {
+        "question": "Wie wirkt Luxus hochwertig statt kitschig?",
+        "answer": "Durch Zurueckhaltung, Raum, gute Kontraste und eine Farbpalette, die Wert ueber Feingefuehl statt ueber Effekte kommuniziert."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Heritage</span><h3>Private Viewing</h3><p>Viel Luft, feine Materialwerte und leise Signale fuer hochwertige Entscheidungen.</p><button class='btn btn-cta' type='button'>Expose anfragen</button></section>"
+}
