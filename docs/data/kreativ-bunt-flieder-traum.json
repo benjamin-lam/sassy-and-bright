@@ -1,0 +1,121 @@
+{
+  "title": "Kreativ & Bunt: Flieder-Traum",
+  "slug": "kreativ-bunt-flieder-traum",
+  "vibe": "Violet Softness / Violette Sanftheit",
+  "summary": "Verschiedene Violettöne für sanfte Übergänge in kreativen und spiritüllen Kontexten. Flieder-Traum schafft eine traumhafte, feminine Atmosphäre für Beauty- und Wellness-Marken.",
+  "taxonomy": {
+    "sector": "Kreativität & Bildung",
+    "sector_slug": "kreativ-bildung",
+    "cluster": "Kreativ & Bunt",
+    "cluster_slug": "kreativ-bunt",
+    "variant": "Flieder-Traum"
+  },
+  "keywords": [
+    "Farbpalette Beauty und Kosmetik",
+    "Kreativ & Bunt",
+    "Flieder-Traum",
+    "Kreativität & Bildung",
+    "Beauty und Kosmetik",
+    "Wellness und Spiritualität"
+  ],
+  "seo": {
+    "meta_title": "Kreativ & Bunt: Flieder-Traum | Farbpalette Beauty und Kosme",
+    "meta_description": "Verschiedene Violettöne für sanfte Übergänge in kreativen und spiritüllen Kontexten. Flieder-Traum schafft eine traumhafte, feminine Atmosphäre für",
+    "focus_keyword": "Farbpalette Beauty und Kosmetik",
+    "questions": [
+      "Welche Farben passen für Beauty-Websites?",
+      "Wann passt Flieder-Traum?",
+      "Wann passt Flieder-Traum?"
+    ]
+  },
+  "colors": {
+    "primary": "#9c27b0",
+    "secondary": "#e1bee7",
+    "accent": "#6a1b9a",
+    "bg": "#f9f4fd",
+    "text": "#1a0028",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent zartes Lavendel-Weiss, 30 Prozent helles Flieder für Karten, 10 Prozent sattes Violett für Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 3.1,
+    "text_on_secondary": 11.84,
+    "text_on_bg": 18.04,
+    "text_on_card": 19.54
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Beauty und Kosmetik",
+    "Wellness und Spiritualität",
+    "Kreative Frauenmarken"
+  ],
+  "audiences": [
+    "Beauty-Konsumentinnen",
+    "Wellness-Affine",
+    "Kreative Unternehmerinnen"
+  ],
+  "brand_traits": [
+    "traumhaft",
+    "sanft",
+    "kreativ",
+    "feminin"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Flieder-Traum Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Flieder-Traum.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Flieder-Traum Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Flieder-Traum.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Flieder-Traum Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Flieder-Traum.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Beauty und Kosmetik",
+      "Projekte mit Zielgruppe Beauty-Konsumentinnen",
+      "Marken mit dem Kernmerkmal traumhaft"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Flieder-Traum kreative Weiblichkeit ausdrückt",
+        "reason": "Violettöne verbinden Kreativität und Spiritualität und sprechen spezifische Lifestyle-Zielgruppen an."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Beauty-Websites?",
+        "answer": "Violettöne von Lavendel bis Flieder schaffen eine sanfte, feminine Atmosphäre die Beauty-Produkte elegant präsentiert."
+      },
+      {
+        "question": "Wann passt Flieder-Traum?",
+        "answer": "Für Beauty, Wellness und kreative Marken mit weiblicher Kernzielgruppe."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Flieder-Traum<\/span><h3>Kreativ & Bunt<\/h3><p>Verschiedene Violettöne für sanfte Übergänge in kreativen und spiritüllen Kontexten. Flieder-Traum schafft eine tra<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

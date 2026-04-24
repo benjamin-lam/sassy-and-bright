@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Architektur-Stil",
+  "slug": "sachlich-professionell-architektur-stil",
+  "vibe": "Concrete Precision / Betonige Präzision",
+  "summary": "Betongrau mit einem harten Akzent in Ziegelrot für Architekturbüros, Ingenieurdienstleister und Bauplanungsportale. Die Palette kommuniziert Materialität und strukturellen Anspruch.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Architektur-Stil"
+  },
+  "keywords": [
+    "Farbpalette Architekturbüro",
+    "Sachlich & Professionell",
+    "Architektur-Stil",
+    "Business & Institutionen",
+    "Bauplanung",
+    "Ingenieurwesen"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Architektur-Stil | Bauplanung",
+    "meta_description": "Betongrau mit Ziegelrot für Architekturbüros und Bauplanungsportale. Materialität und struktureller Anspruch im Webdesign.",
+    "focus_keyword": "Farbpalette Architekturbüro",
+    "questions": [
+      "Welche Farben passen für Architekturbüro-Websites?",
+      "Warum verwenden Architekturbüros oft Grau und Erde?",
+      "Wie setze ich Materialität in einem Webdesign um?"
+    ]
+  },
+  "colors": {
+    "primary": "#a0a0a0",
+    "secondary": "#e8e8e8",
+    "accent": "#8b3a3a",
+    "bg": "#f5f5f5",
+    "text": "#2c2c2c",
+    "card": "#fafafa"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent Betongrau-Weiss als Materialfläche, 30 Prozent helles Grau für Strukturraster, 10 Prozent Ziegelrot für Akzentpunkte und Highlights."
+  },
+  "accessibility": {
+    "text_on_primary": 5.34,
+    "text_on_secondary": 11.4,
+    "text_on_bg": 12.81,
+    "text_on_card": 13.38
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Architekturbüros",
+    "Stadtplanung",
+    "Bauingenieurwesen"
+  ],
+  "audiences": [
+    "Auftraggeber und Investoren",
+    "Projektentwickler",
+    "Planungsbehörden"
+  ],
+  "brand_traits": [
+    "präzise",
+    "materiell",
+    "strukturiert",
+    "handwerklich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Architektur-Stil Primary",
+      "psychology": "Betongrau verweist direkt auf das Kernmaterial der Architektur und schafft eine authentische Verbindung zum Handwerk.",
+      "best_for": "Porfolio-Hintergründe, Projektraster und Detailseiten",
+      "risk": "Zu viel Grau ohne Kontrast lässt Projektfotos verblassen."
+    },
+    "secondary": {
+      "name": "Architektur-Stil Surface",
+      "psychology": "Helles Grau als Raster- und Kartenfläche stützt die visuelle Ordnung ohne den Materialcharakter zu verdrängen.",
+      "best_for": "Planungsraster, Leistungsverzeichnisse und Projektkarten",
+      "risk": "Ohne Bildmaterial wirkt die Palette leer und kalt."
+    },
+    "accent": {
+      "name": "Architektur-Stil Accent",
+      "psychology": "Ziegelrot bringt Wärme und materielle Tiefe und verwandelt die Palette von kalt-grau in räumlich-präsent.",
+      "best_for": "Hervorhebungen, Projektmarkierungen, Kontaktcalls",
+      "risk": "Zu grossflächig eingesetzt dominiert Ziegelrot und untergäbt die sachliche Grundstimmung."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Portfolios von Architektur- und Planungsbüros",
+      "Projekt-Präsentation für Investoren und Bauträger",
+      "Büro-Websites mit Bildmaterial als zentralem Inhalt"
+    ],
+    "avoid_for": [
+      "Software-Interfaces mit vielen Interaktionselementen",
+      "E-Commerce mit Farbkategorie-Navigation",
+      "Gesundheits- oder Bildungsportale"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Architektur-Stil Materialität digital transportiert",
+        "reason": "Betongrau und Ziegelrot assoziieren reale Baumaterialien und schaffen eine Verbindung zwischen digitalem Auftritt und physischer Arbeit des Büros."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Architekturbüro-Websites?",
+        "answer": "Materialnahe Farben wie Beton, Stein und Erde kombiniert mit klarer Struktur unterstützen die Portfoliopräsentation und schaffen Authentizität."
+      },
+      {
+        "question": "Warum verwenden Architekturbüros oft Grau und Erdtöne?",
+        "answer": "Diese Farben spiegeln die Materialien der physischen Arbeit wider und vermitteln handwerkliche Präzision sowie architektonischen Anspruch."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Architektur-Stil<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Betongrau mit Ziegelrot für Architekturbüros und Bauplanungsportale.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

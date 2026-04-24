@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Eierschale",
+  "slug": "pastel-eierschale",
+  "vibe": "Warm Shell / Warme Schale",
+  "summary": "Warme Weisstöne kombiniert mit hellem Holzbraun für naturnahe Lifestyle-Brands. Eierschale schafft eine zeitlose, organische Atmosphäre für nachhaltige Produkte.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Eierschale"
+  },
+  "keywords": [
+    "Farbpalette Nachhaltige Lifestyle-Produkte",
+    "Sanft & Pastel",
+    "Eierschale",
+    "Lifestyle & Konsum",
+    "Nachhaltige Lifestyle-Produkte",
+    "Naturmaterialien"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Eierschale | Farbpalette Nachhaltige Lifesty",
+    "meta_description": "Warme Weisstöne kombiniert mit hellem Holzbraun für naturnahe Lifestyle-Brands. Eierschale schafft eine zeitlose, organische Atmosphäre für nachhaltige",
+    "focus_keyword": "Farbpalette Nachhaltige Lifestyle-Produkte",
+    "questions": [
+      "Welche Farben passen für nachhaltige Lifestyle-Marken?",
+      "Wann passt Eierschale?",
+      "Wann passt Eierschale?"
+    ]
+  },
+  "colors": {
+    "primary": "#f5f0e8",
+    "secondary": "#ede0c8",
+    "accent": "#c4a882",
+    "bg": "#fdfaf5",
+    "text": "#3d2e1e",
+    "card": "#fffef9"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent sehr helles Eierschalenweiss, 30 Prozent zartes Naturbeige für Karten, 10 Prozent helles Holzbraun für Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 11.51,
+    "text_on_secondary": 10.01,
+    "text_on_bg": 12.54,
+    "text_on_card": 12.93
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Nachhaltige Lifestyle-Produkte",
+    "Naturmaterialien",
+    "Slow Living"
+  ],
+  "audiences": [
+    "Nachhaltigkeitsbewusste Konsumenten",
+    "Slow-Living-Fans",
+    "Natur-Produkt-Käuferschicht"
+  ],
+  "brand_traits": [
+    "warm",
+    "organisch",
+    "zeitlos",
+    "natürlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Eierschale Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Eierschale.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Eierschale Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Eierschale.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Eierschale Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Eierschale.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Nachhaltige Lifestyle-Produkte",
+      "Projekte mit Zielgruppe Nachhaltigkeitsbewusste Konsumenten",
+      "Marken mit dem Kernmerkmal warm"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Eierschale Natürlichkeit und Zeitlosigkeit kommuniziert",
+        "reason": "Warme Weisstöne assoziieren Natürlichkeit, unbehandelte Materialien und handwerkliche Sorgfalt."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für nachhaltige Lifestyle-Marken?",
+        "answer": "Warme Weiss- und Beigetöne kommunizieren Natürlichkeit und Nachhaltigkeit ohne grelle Signalfarben."
+      },
+      {
+        "question": "Wann passt Eierschale?",
+        "answer": "Für Slow-Living- und Nachhaltigkeitsmarken, die Zeitlosigkeit und organische Werte kommunizieren."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Eierschale<\/span><h3>Sanft & Pastel<\/h3><p>Warme Weisstöne kombiniert mit hellem Holzbraun für naturnahe Lifestyle-Brands. Eierschale schafft eine zeitlose, orga<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Natur & Umwelt: Heidesand",
+  "slug": "natur-umwelt-heidesand",
+  "vibe": "Moorland Spirit / Heidelandschaft",
+  "summary": "Violettöne kombiniert mit warmem Sandbeige für Naturseitenkonzepte mit heideartiger Atmosphäre. Heidesand eignet sich für Reise-, Tourismus- und Naturerlebnisportale.",
+  "taxonomy": {
+    "sector": "Mensch & Gesellschaft",
+    "sector_slug": "mensch-gesellschaft",
+    "cluster": "Natur & Umwelt",
+    "cluster_slug": "natur-umwelt",
+    "variant": "Heidesand"
+  },
+  "keywords": [
+    "Farbpalette Tourismus Natur",
+    "Natur & Umwelt",
+    "Heidesand",
+    "Mensch & Gesellschaft",
+    "Heide",
+    "Naturerlebnis"
+  ],
+  "seo": {
+    "meta_title": "Natur & Umwelt: Heidesand | Farbpalette Tourismus",
+    "meta_description": "Violett und warmes Sandbeige für Naturerlebnis-Portale. Heidesand schafft heideartigen Charakter für Reise- und Tourismuswebsites.",
+    "focus_keyword": "Farbpalette Tourismus Natur",
+    "questions": [
+      "Welche Farben passen zu Heidelandschaft und Naturerlebnissen?",
+      "Wie kombiniert man Violett und Beige im Webdesign?",
+      "Wann ist eine erdige Palette besser als reines Naturgrün?"
+    ]
+  },
+  "colors": {
+    "primary": "#7b5ea7",
+    "secondary": "#e8d5b7",
+    "accent": "#9b72cf",
+    "bg": "#faf6ef",
+    "text": "#2d1f3d",
+    "card": "#fff9f2"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "primary",
+    "note": "60 Prozent warmes Creme als Basis, 30 Prozent sandiges Beige für Karten und Abschnitte, 10 Prozent Heidekraut-Violett für Navigation und Hervorhebungen."
+  },
+  "accessibility": {
+    "text_on_primary": 2.91,
+    "text_on_secondary": 10.64,
+    "text_on_bg": 14.18,
+    "text_on_card": 14.61
+  },
+  "cognitive_load": 3,
+  "industry_match": [
+    "Naturtourismus",
+    "Wanderportale",
+    "Regionale Erlebnisanbieter"
+  ],
+  "audiences": [
+    "Naturliebhaber und Wanderer",
+    "Reisende auf Erholungssuche",
+    "Regional-Tourismus-Planung"
+  ],
+  "brand_traits": [
+    "atmosphärisch",
+    "natürlich",
+    "einladend",
+    "regional"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Heidesand Primary",
+      "psychology": "Heidekraut-Violett evoziert direkt das Bild der blühenden Heide und schafft eine sofortige atmosphärische Verbindung.",
+      "best_for": "Navigationsbereiche, Hauptüberschriften und Themenmarkierungen",
+      "risk": "Zu sattes Violett kann unbeabsichtigt spiritüll oder mystisch wirken."
+    },
+    "secondary": {
+      "name": "Heidesand Surface",
+      "psychology": "Sandbeige bringt die warme, staubige Qualität von Heidewegen und Sandboden in das Design.",
+      "best_for": "Inhaltskarten, Tourbeschreibungen und Bildunterschriften",
+      "risk": "Zu viel Beige ohne Violett-Akzent wirkt farblos und uninspiriert."
+    },
+    "accent": {
+      "name": "Heidesand Accent",
+      "psychology": "Helles Lavendel setzt sanfte Highlights und verstärkt die heideblumige Gesamtanmutung.",
+      "best_for": "Hover-States, Tags und dekorative Elemente",
+      "risk": "Accent zu nah an Primary macht die Palette einseitig und monoton."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Tourismus-Websites für Heidelandschaften und Moor-Regionen",
+      "Wanderportale mit romantischer Atmosphäre",
+      "Natururlaub-Buchungsseiten für Norddeutschland"
+    ],
+    "avoid_for": [
+      "Technologie-Produkte ohne Naturbezug",
+      "Medizinische oder rechtliche Websites",
+      "Urbane Marken mit City-Appeal"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Heidesand Sehnsucht nach Natur weckt",
+        "reason": "Die Kombination aus Violett und Beige spiegelt die Stimmung der Heideblüte wider und löst bei Betrachtern eine emotionale Resonanz aus."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu Heidelandschaft im Webdesign?",
+        "answer": "Heidekraut-Violett kombiniert mit Sandbeige erzeugt die spezifische Stimmung der Heide und schafft regionale Identität."
+      },
+      {
+        "question": "Wann ist Heidesand besser als ein reines Grünkonzept?",
+        "answer": "Für Regionen, die durch Heide und Sand geprägt sind statt durch Wald, ist die Palette glaubwürdiger als ein allgemeines Naturgrün."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Heidesand<\/span><h3>Natur &amp; Umwelt<\/h3><p>Violettöne und Sandbeige für Naturtourismus und Heidelandschaft.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

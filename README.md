@@ -157,10 +157,10 @@ Die Referenzdatei liegt in [src/articles/example-palette.json](/home/benjamin/Ph
 python3 build.py
 ```
 
-Optional mit sauberer Canonical-URL:
+Optional explizit mit GitHub-Pages-URL:
 
 ```bash
-SITE_URL="https://github.com/benjamin-lam/sassy-and-bright/" python3 build.py
+SITE_URL="https://benjamin-lam.github.io/sassy-and-bright/" python3 build.py
 ```
 
 Der Build:

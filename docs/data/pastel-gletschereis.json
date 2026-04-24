@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Gletschereis",
+  "slug": "pastel-gletschereis",
+  "vibe": "Ice Clarity / Eisklarheit",
+  "summary": "Sehr kühles, helles Blau für saubere und präzise Designs in Pharma, Tech und nachhaltigen Premium-Marken. Gletschereis kommuniziert Reinheit und kristallene Präzision.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Gletschereis"
+  },
+  "keywords": [
+    "Farbpalette Pharma und Medizinprodukte",
+    "Sanft & Pastel",
+    "Gletschereis",
+    "Lifestyle & Konsum",
+    "Pharma und Medizinprodukte",
+    "Nachhaltige Premium-Marken"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Gletschereis | Farbpalette Pharma und Medizi",
+    "meta_description": "Sehr kühles, helles Blau für saubere und präzise Designs in Pharma, Tech und nachhaltigen Premium-Marken. Gletschereis kommuniziert Reinheit und kristal",
+    "focus_keyword": "Farbpalette Pharma und Medizinprodukte",
+    "questions": [
+      "Welche Farben passen für Pharma- und Premium-Marken?",
+      "Wann passt Gletschereis?",
+      "Wann passt Gletschereis?"
+    ]
+  },
+  "colors": {
+    "primary": "#e1f5fe",
+    "secondary": "#f0f9ff",
+    "accent": "#81d4fa",
+    "bg": "#f8fcff",
+    "text": "#0d2d3d",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Eisblau, 30 Prozent zartes Hellblau für Karten, 10 Prozent mittleres Hellblau als Akzent."
+  },
+  "accessibility": {
+    "text_on_primary": 12.81,
+    "text_on_secondary": 13.49,
+    "text_on_bg": 13.95,
+    "text_on_card": 14.39
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Pharma und Medizinprodukte",
+    "Nachhaltige Premium-Marken",
+    "Saubere Tech-Brands"
+  ],
+  "audiences": [
+    "Gesundheitsbewusste Konsumenten",
+    "Premium-Technologie-Käufer",
+    "Nachhaltigkeit-Affine"
+  ],
+  "brand_traits": [
+    "rein",
+    "präzise",
+    "klar",
+    "premium"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Gletschereis Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Gletschereis.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Gletschereis Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Gletschereis.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Gletschereis Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Gletschereis.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Pharma und Medizinprodukte",
+      "Projekte mit Zielgruppe Gesundheitsbewusste Konsumenten",
+      "Marken mit dem Kernmerkmal rein"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Gletschereis Reinheit und Präzision kommuniziert",
+        "reason": "Sehr helle Blautöne assoziieren Eis, Reinheit und laborähnliche Präzision."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen für Pharma- und Premium-Marken?",
+        "answer": "Sehr helle Blautöne kommunizieren Reinheit, Präzision und wissenschaftliche Kompetenz."
+      },
+      {
+        "question": "Wann passt Gletschereis?",
+        "answer": "Für Marken, die Reinheit, Sauberkeit und präzise Qualität als Kernversprechen haben."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Gletschereis<\/span><h3>Sanft & Pastel<\/h3><p>Sehr kühles, helles Blau für saubere und präzise Designs in Pharma, Tech und nachhaltigen Premium-Marken. Gletscherei<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

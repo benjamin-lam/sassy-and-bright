@@ -1,0 +1,121 @@
+{
+  "title": "Dark Mode: Vulkan",
+  "slug": "dark-mode-vulkan",
+  "vibe": "Dark Fire / Dunkles Feuer",
+  "summary": "Schwarz-Grau kombiniert mit einem kräftigen Rotton für dramatische Interfaces in Gaming, Security und Action-orientierten Anwendungen. Vulkan kommuniziert Energie und Dringlichkeit auf dunklem Grund.",
+  "taxonomy": {
+    "sector": "Tech & Future",
+    "sector_slug": "tech-future",
+    "cluster": "Dark Mode",
+    "cluster_slug": "dark-mode",
+    "variant": "Vulkan"
+  },
+  "keywords": [
+    "Dark Mode Rot",
+    "Dark Mode",
+    "Vulkan",
+    "Tech & Future",
+    "Action Dark UI",
+    "Rot Dunkel"
+  ],
+  "seo": {
+    "meta_title": "Dark Mode: Vulkan | Action Dark UI mit Rot",
+    "meta_description": "Schwarz-Grau mit kräftigem Rot für dramatische Interfaces. Vulkan kommuniziert Energie und Dringlichkeit auf dunklem Grund.",
+    "focus_keyword": "Dark Mode Rot",
+    "questions": [
+      "Welche Farben passen zu einem Action-orientierten Dark Mode?",
+      "Wie nutze ich Rot im Dark-Mode-Design?",
+      "Wann passt ein dramatisches dunkles Interface?"
+    ]
+  },
+  "colors": {
+    "primary": "#1e1e1e",
+    "secondary": "#2d2d2d",
+    "accent": "#d32f2f",
+    "bg": "#0d0d0d",
+    "text": "#e0e0e0",
+    "card": "#1e1e1e"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "card",
+    "accent": "accent",
+    "note": "60 Prozent fast schwarze Grundfläche, 30 Prozent Dunkelgrau für Karten und Panel-Abgrenzungen, 10 Prozent kräftiges Vulkanrot für Energie und Dringlichkeit."
+  },
+  "accessibility": {
+    "text_on_primary": 12.63,
+    "text_on_secondary": 10.43,
+    "text_on_bg": 14.72,
+    "text_on_card": 12.63
+  },
+  "cognitive_load": 4,
+  "industry_match": [
+    "Gaming und Esports",
+    "Cyber-Security-Tools",
+    "Action-orientiete Apps"
+  ],
+  "audiences": [
+    "Gamer und Esports-Zuschauer",
+    "Security-Analysten",
+    "Action-App-Nutzer"
+  ],
+  "brand_traits": [
+    "dramatisch",
+    "energetisch",
+    "dringend",
+    "intensiv"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Vulkan Primary",
+      "psychology": "Fast schwarzes Dunkelgrau schafft eine dramatische Bühne für Rot-Akzente und maximiert die visuelle Wirkung.",
+      "best_for": "Hintergrundflächen, Navigationsleisten und Panel-Grundflächen",
+      "risk": "Zu ähnliches Primary und bg macht Strukturgrenzen unsichtbar."
+    },
+    "secondary": {
+      "name": "Vulkan Surface",
+      "psychology": "Etwas helleres Dunkelgrau gibt Karten sichtbare Abgrenzungen und verhindert ein flaches Interface.",
+      "best_for": "Karten, Bedienfelder und Aktionspanele",
+      "risk": "Zu wenig Kontrast macht Tiefen-Ebenen unsichtbar."
+    },
+    "accent": {
+      "name": "Vulkan Accent",
+      "psychology": "Kräftiges Rot setzt intense, dringende Signale auf schwarzem Grund und aktiviert Aufmerksamkeit sofort.",
+      "best_for": "Alert-Elemente, CTA-Buttons, Schadens-Anzeigen und kritische Status",
+      "risk": "Rot assoziiert Fehler und Gefahr - bei zu breitem Einsatz erzeugt es permanente Alarmstimmung."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Gaming-Interfaces mit Action-Fokus",
+      "Security-Dashboards für Threat-Detection",
+      "Echtzeit-Monitoring mit Alarm-Funktion"
+    ],
+    "avoid_for": [
+      "Sachliche Unternehmensanwendungen",
+      "Gesundheits- und Wellness-Interfaces",
+      "Kindgerechte Anwendungen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Vulkan Dringlichkeit und Energie auf dunklem Grund kommuniziert",
+        "reason": "Rot auf schwarzem Hintergrund hat den höchsten emotionalen Aktivierungseffekt aller Farbkombinationen und ist daher für Alarm und Action optimal."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu einem Action-orientierten Dark Mode?",
+        "answer": "Kräftiges Rot auf fast schwarzem Grund erzeugt maximale Aktivierung und eignet sich für Action-Gaming und Alert-Dashboards."
+      },
+      {
+        "question": "Wann passt ein dramatisches dunkles Interface?",
+        "answer": "Wenn Energie, Dringlichkeit und hohe Aktivierung das Ziel sind - besonders im Gaming, Esports und Security-Monitoring."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Vulkan<\/span><h3>Dark Mode<\/h3><p>Schwarz-Grau mit Vulkanrot für dramatische Action-Interfaces.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

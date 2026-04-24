@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Helles Schiefer",
+  "slug": "sachlich-professionell-helles-schiefer",
+  "vibe": "Clean Interface / Klares Interface",
+  "summary": "Kühle Grautöne mit einem Petrol-Akzent für Software-Oberflächen und SaaS-Dashboards. Die Variante Helles Schiefer steht für präzise, werkzeughafte Interfaces ohne dekorativen Ballast.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Helles Schiefer"
+  },
+  "keywords": [
+    "Farbpalette Software UI",
+    "Sachlich & Professionell",
+    "Helles Schiefer",
+    "Business & Institutionen",
+    "SaaS Design",
+    "Petrol Akzent"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Helles Schiefer | Software UI",
+    "meta_description": "Kühle Grautöne mit Petrol-Akzent für Software-Oberflächen. Helles Schiefer liefert präzise Interface-Logik für SaaS und Dashboards.",
+    "focus_keyword": "Farbpalette Software UI",
+    "questions": [
+      "Welche Farben eignen sich für professionelle Software-Interfaces?",
+      "Wann passt Petrol als Akzentfarbe in sachlichen Designs?",
+      "Warum sind Grautöne für Dashboards besser als Buntes?"
+    ]
+  },
+  "colors": {
+    "primary": "#b0bec5",
+    "secondary": "#eceff1",
+    "accent": "#00695c",
+    "bg": "#f5f7f8",
+    "text": "#263238",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisses Grau als ruhige Grundfläche, 30 Prozent Schiefer für Trenner und Strukturelemente, 10 Prozent Petrol für interaktive Elemente und Status."
+  },
+  "accessibility": {
+    "text_on_primary": 6.9,
+    "text_on_secondary": 11.39,
+    "text_on_bg": 12.25,
+    "text_on_card": 13.16
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "SaaS-Produkte",
+    "Enterprise Software",
+    "Daten-Dashboards"
+  ],
+  "audiences": [
+    "Produktteams und UX-Designer",
+    "Entwickler und technische Nutzer",
+    "Operations-Teams"
+  ],
+  "brand_traits": [
+    "präzise",
+    "werkzeughaft",
+    "zuverlässig",
+    "klar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Helles Schiefer Primary",
+      "psychology": "Gedämpftes Grau-Blau reduziert kognitive Last und schafft Raum für informationsdichte Interfaces.",
+      "best_for": "Sidebar-Hintergründe, Tabellenköpfe und sekundäre Navigationsbereiche",
+      "risk": "Zu sattes Grau kann deprimierend wirken und Nutzer demotivieren."
+    },
+    "secondary": {
+      "name": "Helles Schiefer Surface",
+      "psychology": "Fast weisses Hellgrau ermöglicht klare Hierarchien zwischen Inhaltsblöcken.",
+      "best_for": "Kartenflächen, Formularfelder und Modal-Hintergründe",
+      "risk": "Ohne ausreichend Kontrast zwischen Elementen verliert das Interface Tiefe."
+    },
+    "accent": {
+      "name": "Helles Schiefer Accent",
+      "psychology": "Petrol setzt vertrauensvolle, fokussierte Signale ohne Ablenkungs-Charakter.",
+      "best_for": "Aktive Zustände, Links, Progress-Indikatoren und Erfolgsmeldungen",
+      "risk": "In zu vielen Elementen eingesetzt verliert Petrol seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "SaaS-Dashboards mit vielen Datenpunkten",
+      "Enterprise-Tools mit langen Arbeitssitzungen",
+      "Technische Dokumentationsportale"
+    ],
+    "avoid_for": [
+      "Konsumgut-Marken mit emotionaler Ansprache",
+      "Jugendliche Zielgruppen",
+      "Kreative Portfolios mit starker Persönlichkeit"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Schiefer für Software-Interfaces besser funktioniert als Weiss",
+        "reason": "Reines Weiss erzeugt Blendung bei langen Arbeitssitzungen. Gedämpftes Grau reduziert Ermüdung nachweislich."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben eignen sich für professionelle Software-Interfaces?",
+        "answer": "Gedämpfte Grautöne als Basis mit einem gezielten Funktionsakzent schaffen Interfaces, die Konzentration fördern statt ablenken."
+      },
+      {
+        "question": "Wann passt Helles Schiefer für SaaS-Produkte?",
+        "answer": "Helles Schiefer passt, wenn Nutzer lange Sitzungen vor dem Interface verbringen und kognitive Last minimiert werden soll."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Helles Schiefer<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Kühle Grautöne mit Petrol-Akzent für Software-Oberflächen und SaaS-Dashboards.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

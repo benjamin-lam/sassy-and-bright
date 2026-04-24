@@ -1,0 +1,121 @@
+{
+  "title": "Sachlich & Professionell: Büro-Alltag",
+  "slug": "sachlich-professionell-buero-alltag",
+  "vibe": "Warm Efficiency / Warme Effizienz",
+  "summary": "Dezentes Beige und gedämpftes Blau für interne Verwaltungssysteme und Büro-Anwendungen. Büro-Alltag schafft eine warme, unaufgeregte Arbeitsatmosphäre für tagesbegleitende Tools.",
+  "taxonomy": {
+    "sector": "Business & Institutionen",
+    "sector_slug": "business-institutionen",
+    "cluster": "Sachlich & Professionell",
+    "cluster_slug": "sachlich-professionell",
+    "variant": "Büro-Alltag"
+  },
+  "keywords": [
+    "Farbpalette Enterprise Tool",
+    "Sachlich & Professionell",
+    "Büro-Alltag",
+    "Business & Institutionen",
+    "Verwaltungssoftware",
+    "Büro-Anwendung"
+  ],
+  "seo": {
+    "meta_title": "Sachlich & Professionell: Büro-Alltag | Enterprise Tool",
+    "meta_description": "Dezentes Beige und Blau für interne Verwaltungssysteme. Büro-Alltag schafft warme Effizienz für tagesbegleitende Tools.",
+    "focus_keyword": "Farbpalette Enterprise Tool",
+    "questions": [
+      "Welche Farben fördern die Produktivität in Büro-Software?",
+      "Wann ist Beige eine gute Wahl für Unternehmenstools?",
+      "Wie unterscheide ich Enterprise-UI von Consumer-UI farblich?"
+    ]
+  },
+  "colors": {
+    "primary": "#c9b99a",
+    "secondary": "#eae4d9",
+    "accent": "#5c7da8",
+    "bg": "#f7f4ef",
+    "text": "#2d2922",
+    "card": "#fffdf9"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent warmes Beige-Weiss als angenehme Arbeitsoberfläche, 30 Prozent sanftes Sand für Strukturelemente, 10 Prozent gedämpftes Businessblau für Aktionen und Links."
+  },
+  "accessibility": {
+    "text_on_primary": 7.5,
+    "text_on_secondary": 11.43,
+    "text_on_bg": 13.18,
+    "text_on_card": 14.24
+  },
+  "cognitive_load": 2,
+  "industry_match": [
+    "Buroverwaltung",
+    "HR-Software",
+    "Projektmanagement-Tools"
+  ],
+  "audiences": [
+    "Buromitarbeiter",
+    "Sachbearbeiter",
+    "Team-Leads und Projektmanager"
+  ],
+  "brand_traits": [
+    "warm",
+    "ruhig",
+    "alltagstauglich",
+    "unaufdringlich"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Büro-Alltag Primary",
+      "psychology": "Warmes Beige-Braun reduziert den klinischen Charakter vieler Büro-Tools und schafft eine einladende Arbeitsoberfläche.",
+      "best_for": "Seitenleisten, Navigationsflächen und Inhaltsrahmen",
+      "risk": "Zu sattes Beige kann an alte Software erinnern und modern wirkende Teams abschrecken."
+    },
+    "secondary": {
+      "name": "Büro-Alltag Surface",
+      "psychology": "Sanftes Sand schafft subtile Abgrenzung zwischen Inhaltsblöcken ohne visuelle Härte.",
+      "best_for": "Karten, Formularabschnitte und Listengruppen",
+      "risk": "Zu wenig Kontrast zwischen secondary und bg macht das Layout schwer lesbar."
+    },
+    "accent": {
+      "name": "Büro-Alltag Accent",
+      "psychology": "Gedämpftes Businessblau setzt verlässliche Handlungssignale und ergänzt die warme Basis ohne zu dominieren.",
+      "best_for": "Links, Schaltflächen, Filter und Statusanzeigen",
+      "risk": "Zu kräftiges Blau bricht den warmen Grundton und erzeugt Dissonanz."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Interne HR- und Verwaltungstools mit täglich aktiven Nutzern",
+      "Projektmanagement-Interfaces für nicht-technische Teams",
+      "Büro-Intranets mit Dokumentenmanagement"
+    ],
+    "avoid_for": [
+      "Technologie-Produkte mit modernem Tech-Brand",
+      "Kundenseitige Anwendungen mit Markenanspruch",
+      "Sicherheitskritische Systeme, die Alert-Farben brauchen"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Büro-Alltag die Ermüdung bei Buromitarbeitern reduziert",
+        "reason": "Warme Neutraltöne erzeugen keine Anspannung und reduzieren die Bildschirmmüdigkeit bei langen Arbeitstagen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben fördern die Produktivität in Büro-Software?",
+        "answer": "Warme Neutraltöne erzeugen weniger visuelle Ermüdung als kühle Grautöne und unterstützen konzentriertes Arbeiten."
+      },
+      {
+        "question": "Wann ist Büro-Alltag die richtige Wahl?",
+        "answer": "Wenn Mitarbeiter täglich viele Stunden mit dem Tool arbeiten und eine angenehme, entspannte Atmosphäre wichtig ist."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Büro-Alltag<\/span><h3>Sachlich &amp; Professionell<\/h3><p>Dezentes Beige und Blau für interne Verwaltungssysteme.<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

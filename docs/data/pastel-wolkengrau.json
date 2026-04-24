@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Wolkengrau",
+  "slug": "pastel-wolkengrau",
+  "vibe": "Cloud Minimal / Wolken-Minimal",
+  "summary": "Fast weisse Töne mit minimalem Blaustich für cleane, zurückhaltende Lifestyle-Designs. Wolkengrau schafft einen luftigen, modernen Hintergrund für minimalistische Marken.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Wolkengrau"
+  },
+  "keywords": [
+    "Farbpalette Minimale Lifestyle-Marken",
+    "Sanft & Pastel",
+    "Wolkengrau",
+    "Lifestyle & Konsum",
+    "Minimale Lifestyle-Marken",
+    "Interior Design"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Wolkengrau | Farbpalette Minimale Lifestyle-",
+    "meta_description": "Fast weisse Töne mit minimalem Blaustich für cleane, zurückhaltende Lifestyle-Designs. Wolkengrau schafft einen luftigen, modernen Hintergrund für mini",
+    "focus_keyword": "Farbpalette Minimale Lifestyle-Marken",
+    "questions": [
+      "Welche Farben passen zu minimalen Lifestyle-Marken?",
+      "Wann passt Wolkengrau?",
+      "Wann passt Wolkengrau?"
+    ]
+  },
+  "colors": {
+    "primary": "#eceff1",
+    "secondary": "#f5f7f8",
+    "accent": "#90a4ae",
+    "bg": "#fafbfc",
+    "text": "#37474f",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisser Hintergrund, 30 Prozent zartes Hellgrau für Karten, 10 Prozent Blaugrau für Navigations-Akzente."
+  },
+  "accessibility": {
+    "text_on_primary": 8.35,
+    "text_on_secondary": 8.98,
+    "text_on_bg": 9.31,
+    "text_on_card": 9.65
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Minimale Lifestyle-Marken",
+    "Interior Design",
+    "Premium-Slow-Fashion"
+  ],
+  "audiences": [
+    "Minimalismus-affine Konsumenten",
+    "Interior-Design-Liebhaber",
+    "Premium-Modekäuferschicht"
+  ],
+  "brand_traits": [
+    "minimal",
+    "luftig",
+    "modern",
+    "zurückhaltend"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Wolkengrau Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Wolkengrau.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Wolkengrau Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Wolkengrau.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Wolkengrau Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Wolkengrau.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Minimale Lifestyle-Marken",
+      "Projekte mit Zielgruppe Minimalismus-affine Konsumenten",
+      "Marken mit dem Kernmerkmal minimal"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Wolkengrau Minimalismus und Premium kommuniziert",
+        "reason": "Sehr helle Grautöne mit leichtem Blaustich signalisieren Qualität und Zurückhaltung."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben passen zu minimalen Lifestyle-Marken?",
+        "answer": "Fast weisse Grautöne mit leichtem Blaustich schaffen Luftigkeit und Premium-Anmutung ohne visuelle Lautstärke."
+      },
+      {
+        "question": "Wann passt Wolkengrau?",
+        "answer": "Für minimale Premium-Marken bei denen das Produkt sprechen soll und der Hintergrund zurücktritt."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Wolkengrau<\/span><h3>Sanft & Pastel<\/h3><p>Fast weisse Töne mit minimalem Blaustich für cleane, zurückhaltende Lifestyle-Designs. Wolkengrau schafft einen lufti<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Sanft & Pastel: Baumwolle",
+  "slug": "pastel-baumwolle",
+  "vibe": "Cotton Softness / Baumwollweichheit",
+  "summary": "Weiche Graustufen für minimalen Kontrast in ruhigen Content-Plattformen und redaktionellen Designs. Baumwolle schafft einen zurückhaltenden Hintergrund für inhaltsschwere Websites.",
+  "taxonomy": {
+    "sector": "Lifestyle & Konsum",
+    "sector_slug": "lifestyle-konsum",
+    "cluster": "Sanft & Pastel",
+    "cluster_slug": "pastel",
+    "variant": "Baumwolle"
+  },
+  "keywords": [
+    "Farbpalette Redaktionelle Plattformen",
+    "Sanft & Pastel",
+    "Baumwolle",
+    "Lifestyle & Konsum",
+    "Redaktionelle Plattformen",
+    "Content-Marketing"
+  ],
+  "seo": {
+    "meta_title": "Sanft & Pastel: Baumwolle | Farbpalette Redaktionelle Plattf",
+    "meta_description": "Weiche Graustufen für minimalen Kontrast in ruhigen Content-Plattformen und redaktionellen Designs. Baumwolle schafft einen zurückhaltenden Hintergrund f",
+    "focus_keyword": "Farbpalette Redaktionelle Plattformen",
+    "questions": [
+      "Welche Farben fördern Lesbarkeit auf Content-Plattformen?",
+      "Wann passt Baumwolle?",
+      "Wann passt Baumwolle?"
+    ]
+  },
+  "colors": {
+    "primary": "#f5f5f5",
+    "secondary": "#eeeeee",
+    "accent": "#bdbdbd",
+    "bg": "#fafafa",
+    "text": "#424242",
+    "card": "#ffffff"
+  },
+  "usage_ratio": {
+    "dominant": "bg",
+    "supporting": "secondary",
+    "accent": "accent",
+    "note": "60 Prozent fast weisser Hintergrund, 30 Prozent sehr helles Grau für Karten, 10 Prozent mittleres Grau für dezente Strukturelemente."
+  },
+  "accessibility": {
+    "text_on_primary": 9.22,
+    "text_on_secondary": 8.66,
+    "text_on_bg": 9.63,
+    "text_on_card": 10.05
+  },
+  "cognitive_load": 1,
+  "industry_match": [
+    "Redaktionelle Plattformen",
+    "Content-Marketing",
+    "Minimalistische Lifestyle-Blogs"
+  ],
+  "audiences": [
+    "Leseaffine Konsumenten",
+    "Redakteure und Content-Creator",
+    "Minimalismus-Fans"
+  ],
+  "brand_traits": [
+    "weich",
+    "zurückhaltend",
+    "ruhig",
+    "lesbar"
+  ],
+  "color_psychology": {
+    "primary": {
+      "name": "Baumwolle Primary",
+      "psychology": "Die Primärfarbe präsentiert den visuellen Kerncharakter der Palette Baumwolle.",
+      "best_for": "Hero-Flächen, Navigationsbereiche und strukturierende Sektionen",
+      "risk": "Zu dominant eingesetzt verliert der Auftritt die Ausgewogenheit."
+    },
+    "secondary": {
+      "name": "Baumwolle Surface",
+      "psychology": "Die Sekundärfarbe schafft Flächen und Trenner mit passender Tiefe für Baumwolle.",
+      "best_for": "Karten, Tabellen und Inhaltsflächen",
+      "risk": "Ohne typografische Führung entsteht schnell ein monotoner Eindruck."
+    },
+    "accent": {
+      "name": "Baumwolle Accent",
+      "psychology": "Der Accent setzt gezielte Interaktionssignale und unterstützt die Erzähllogik von Baumwolle.",
+      "best_for": "CTA, aktive States, Badges und fokussierte Highlights",
+      "risk": "Übermässig eingesetzt verliert der Accent seine Signalfunktion."
+    }
+  },
+  "decision_support": {
+    "best_for": [
+      "Websites für Redaktionelle Plattformen",
+      "Projekte mit Zielgruppe Leseaffine Konsumenten",
+      "Marken mit dem Kernmerkmal weich"
+    ],
+    "avoid_for": [
+      "Zielgruppen mit gegensätzlichen Erwartungen",
+      "Sachliche Unternehmensauftritte ohne Kreativbezug",
+      "Interfaces mit hohem Informationsdichteanspruch"
+    ],
+    "argumentation": [
+      {
+        "claim": "Warum Baumwolle Content in den Vordergrund stellt",
+        "reason": "Sehr helle, farblose Töne treten vollständig in den Hintergrund und lassen Inhalt und Typografie sprechen."
+      },
+      {
+        "claim": "Wie die Palette in einen Style Guide übergeht",
+        "reason": "Die Set-Card liefert Tokens, 60-30-10-Verteilung, Kontrastwerte und Branchenlogik direkt für den Transfer in ein Design-System."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Welche Farben fördern Lesbarkeit auf Content-Plattformen?",
+        "answer": "Weiche Grautöne mit hohem Textkontrast maximieren Lesbarkeit und reduzieren visuelle Ermüdung."
+      },
+      {
+        "question": "Wann passt Baumwolle?",
+        "answer": "Für redaktionelle Plattformen und Content-Blogs, bei denen Inhalt und Lesbarkeit absoluten Vorrang haben."
+      }
+    ]
+  },
+  "html_preview": "<section class='preview-demo'><span class='badge bg-10'>Baumwolle<\/span><h3>Sanft & Pastel<\/h3><p>Weiche Graustufen für minimalen Kontrast in ruhigen Content-Plattformen und redaktionellen Designs. Baumwolle schafft e<\/p><button class='btn btn-cta' type='button'>Palette ansehen<\/button><\/section>"
+}

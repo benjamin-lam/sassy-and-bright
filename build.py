@@ -7,6 +7,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 from copy import deepcopy
 from datetime import date
 from pathlib import Path
@@ -88,7 +89,46 @@ def ensure_trailing_slash(value: str) -> str:
     return value if value.endswith("/") else f"{value}/"
 
 
-SITE_URL = ensure_trailing_slash(os.environ.get("SITE_URL", DEFAULT_SITE_URL))
+def parse_github_repo(remote_url: str) -> tuple[str, str] | None:
+    normalized = remote_url.strip()
+    match = re.search(r"github[^:/]*[:/]([^/]+)/([^/]+?)(?:\.git)?$", normalized)
+    if not match:
+        return None
+    return match.group(1), match.group(2)
+
+
+def infer_site_url() -> str:
+    configured = os.environ.get("SITE_URL")
+    if configured:
+        return ensure_trailing_slash(configured)
+
+    github_repo = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    if github_repo and "/" in github_repo:
+        owner, repo = github_repo.split("/", 1)
+        return f"https://{owner}.github.io/{repo}/"
+
+    try:
+        result = subprocess.run(
+            ["git", "config", "--get", "remote.origin.url"],
+            cwd=ROOT,
+            check=False,
+            capture_output=True,
+            text=True,
+            timeout=2,
+        )
+    except (OSError, subprocess.SubprocessError):
+        result = None
+
+    if result and result.returncode == 0 and result.stdout.strip():
+        parsed = parse_github_repo(result.stdout)
+        if parsed:
+            owner, repo = parsed
+            return f"https://{owner}.github.io/{repo}/"
+
+    return ensure_trailing_slash(DEFAULT_SITE_URL)
+
+
+SITE_URL = infer_site_url()
 BUILD_DATE = date.today().isoformat()
 UMLAUT_PROTECTIONS = {
     "Blue-Chip": "__P0__",
