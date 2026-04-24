@@ -8,6 +8,7 @@
     text: "t",
     card: "c"
   };
+  var themeVarKeys = ["primary", "secondary", "accent", "bg", "text", "card"];
 
   function escapeHtml(value) {
     return String(value)
@@ -75,6 +76,57 @@
     var themeMeta = document.querySelector('meta[name="theme-color"]');
     if (themeMeta && colors.primary) {
       themeMeta.setAttribute("content", colors.primary);
+    }
+  }
+
+  function captureDefaultTheme() {
+    var computed = window.getComputedStyle(document.documentElement);
+    var snapshot = {
+      themeColor: null
+    };
+
+    themeVarKeys.forEach(function (key) {
+      snapshot["--color-" + key] = computed.getPropertyValue("--color-" + key).trim();
+    });
+
+    Object.keys(aliasMap).forEach(function (key) {
+      snapshot["--" + aliasMap[key]] = computed.getPropertyValue("--" + aliasMap[key]).trim();
+    });
+
+    snapshot["--cta-fg"] = computed.getPropertyValue("--cta-fg").trim();
+
+    var themeMeta = document.querySelector('meta[name="theme-color"]');
+    if (themeMeta) {
+      snapshot.themeColor = themeMeta.getAttribute("content") || "";
+    }
+
+    return snapshot;
+  }
+
+  function restoreTheme(snapshot) {
+    if (!snapshot) {
+      return;
+    }
+
+    Object.keys(snapshot).forEach(function (key) {
+      if (key === "themeColor") {
+        return;
+      }
+
+      if (snapshot[key]) {
+        document.documentElement.style.setProperty(key, snapshot[key]);
+      } else {
+        document.documentElement.style.removeProperty(key);
+      }
+    });
+
+    var themeMeta = document.querySelector('meta[name="theme-color"]');
+    if (themeMeta) {
+      if (snapshot.themeColor) {
+        themeMeta.setAttribute("content", snapshot.themeColor);
+      } else {
+        themeMeta.removeAttribute("content");
+      }
     }
   }
 
@@ -190,7 +242,7 @@
     }
   }
 
-  function setMode(mode, toggle, description) {
+  function setMode(mode, toggle, description, colors, defaultTheme) {
     document.body.setAttribute("data-mode", mode);
 
     if (toggle) {
@@ -202,17 +254,23 @@
         mode === "lab" ? description.dataset.labCopy : description.dataset.readingCopy;
     }
 
+    if (mode === "lab") {
+      injectTheme(colors);
+    } else {
+      restoreTheme(defaultTheme);
+    }
+
     storeMode(mode);
   }
 
-  function bindModeToggle(toggle, description) {
+  function bindModeToggle(toggle, description, colors, defaultTheme) {
     if (!toggle) {
       return;
     }
 
-    setMode(readStoredMode(), toggle, description);
+    setMode(readStoredMode(), toggle, description, colors, defaultTheme);
     toggle.addEventListener("change", function () {
-      setMode(toggle.checked ? "lab" : "reading", toggle, description);
+      setMode(toggle.checked ? "lab" : "reading", toggle, description, colors, defaultTheme);
     });
   }
 
@@ -239,9 +297,11 @@
   var modeDescription = document.getElementById("mode-description");
   var copyButton = document.querySelector("[data-copy-css]");
   var copyStatus = document.getElementById("copy-status");
+  var defaultTheme = captureDefaultTheme();
 
-  applyPaletteFromJSON(data);
-  bindModeToggle(modeToggle, modeDescription);
+  updateCssPreview(data.colors);
+  updateContrastHint(data.colors);
+  bindModeToggle(modeToggle, modeDescription, data.colors, defaultTheme);
 
   if (copyButton) {
     copyButton.addEventListener("click", function () {
